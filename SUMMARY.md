@@ -6,4 +6,6 @@
 * Design
 * Music
 * Player
+* Coding
+* Editor
 
