@@ -7,5 +7,6 @@
 * Music
 * Player
 * Coding
-* Editor
+* [Editor](editor.md)
+* [Browser](browser.md)
 
