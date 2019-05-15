@@ -11,6 +11,6 @@
 * [Editor - 编辑器](editor.md)
 * [Productivity - 生产力工具](productivity-sheng-chan-li-gong-ju.md)
 * [Systems - 系统工具](systems-xi-tong-gong-ju.md)
-* Life - 生活助手
+* [Life - 生活助手](life-sheng-huo-zhu-shou.md)
 * [ScreenCapture - 图形图像](screencapture-tu-xing-tu-xiang.md)
 

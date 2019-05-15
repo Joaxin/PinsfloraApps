@@ -20,7 +20,7 @@
 
 ### Clipboard {#Clipboard}
 
-* COPYQ :
+* COPYQ![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) ![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)![](/assets/github_16px_1157868_easyicon.net.png)
   [https://sourceforge.net/projects/copyq/](https://sourceforge.net/projects/copyq/)
 * ClipX:Very Tiny
 

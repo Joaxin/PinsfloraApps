@@ -26,11 +26,29 @@
 
 * Make easy to kill process: [http://www.wox.one/plugin/21](http://www.wox.one/plugin/21)
 
-
-
 ### 系统增强
 
+### Clover {#Clover}
 
+### FileMenuTools {#FileMenuTools}
+
+### Xyplore {#Xyplore}
+
+### FileLocatorPro {#FileLocatorPro}
+
+### Quicklook {#Quicklook}
+
+[https://github.com/QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
+
+[https://github.com/QL-Win/QuickLook/releases](https://github.com/QL-Win/QuickLook/releases)
+
+### FastCopy {#FastCopy}
+
+### BandZIP {#BandZIP}
+
+### WindowsTabs {#WindowsTabs}
+
+### Wintop {#Wintop}
 
 ## Keys
 
