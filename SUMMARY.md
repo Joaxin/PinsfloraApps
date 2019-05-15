@@ -10,7 +10,7 @@
 * [Browser - 浏览器](browser.md)
 * [Editor - 编辑器](editor.md)
 * [Productivity - 生产力工具](productivity-sheng-chan-li-gong-ju.md)
-* Systems - 系统工具
+* [Systems - 系统工具](systems-xi-tong-gong-ju.md)
 * Life - 生活助手
-* ScreenCapture - 图形图像
+* [ScreenCapture - 图形图像](screencapture-tu-xing-tu-xiang.md)
 
