@@ -20,6 +20,8 @@
 
 10 ![](/assets/foreign_language_16.041504539559px_1230978_easyicon.net.png) 多语言支持
 
+11 ![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) 自己使用的，傻笑
+
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
 
 除非特别声明，否则组织中所有项目协议均为：
