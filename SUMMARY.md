@@ -1,12 +1,15 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* Study
-* Design
-* Music
-* Player
-* Coding
-* [Editor](editor.md)
-* [Browser](browser.md)
+* [Games -游戏娱乐](chapter1.md)
+* Study - 学习
+* Design - 设计
+* [Music - 音乐](music.md)
+* Player - 播放器
+* [Coding - 编程开发](coding-bian-cheng-kai-fa.md)
+* [Browser - 浏览器](browser.md)
+* [Editor - 编辑器](editor.md)
+* Productivity - 生产力工具
+* Systems - 系统工具
+* Life - 生活助手
 
