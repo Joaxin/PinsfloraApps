@@ -4,6 +4,8 @@
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[https://www.listary.com/download](https://www.listary.com/download)
 
+![](/assets/download_16px_1230169_easyicon.net.png) 便携版：[https://www.listary.com/download/ListaryPortable.zip?version=5.00.2843](https://www.listary.com/download/ListaryPortable.zip?version=5.00.2843)
+
 ### Everything![](/assets/leaves_15.8208px_1219185_easyicon.net.png)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) {#Everything}
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[http://www.voidtools.com](http://www.voidtools.com/)

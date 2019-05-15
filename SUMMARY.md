@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Games -游戏娱乐](chapter1.md)
-* Study - 学习
+* [Study - 学习](study-xue-xi.md)
 * [Design - 设计](design-she-ji.md)
 * [Music - 音乐](music.md)
 * [Player - 播放器](player-bo-fang-qi.md)
@@ -13,4 +13,6 @@
 * [Systems - 系统工具](systems-xi-tong-gong-ju.md)
 * [Life - 生活助手](life-sheng-huo-zhu-shou.md)
 * [ScreenCapture - 图形图像](screencapture-tu-xing-tu-xiang.md)
+* [硬件相关](ying-jian-xiang-guan.md)
+* TestTools - 测试工具
 
