@@ -26,6 +26,8 @@
 
 
 
+![](/assets/law_14.528735632184px_1233351_easyicon.net.png) 因当地法律不允许的，暂不收录
+
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
 
 除非特别声明，否则组织中所有项目协议均为：
