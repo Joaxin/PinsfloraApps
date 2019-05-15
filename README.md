@@ -24,7 +24,9 @@
 
 12 ![](/assets/golf_hole_13.176470588235px_1224973_easyicon.net.png) 安装遇到坑
 
-13 ![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) 自己使用的![](/assets/face_with_tears_of_joy_19.297709923664px_1214121_easyicon.net.png)
+13 ![](/assets/plugins_16.054607508532px_1192849_easyicon.net.png) 插件推荐
+
+14 ![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) 自己使用的![](/assets/face_with_tears_of_joy_19.297709923664px_1214121_easyicon.net.png)
 
 ![](/assets/law_14.528735632184px_1233351_easyicon.net.png) 因当地法律不允许的，暂不收录
 
