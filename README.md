@@ -1,8 +1,8 @@
 # My Awesome Book
 
-1 ![](/assets/cat_face_with_tears_of_joy_17.641025641026px_1214216_easyicon.net.png) ~~some~~ 已经停更 Picasa
+1 ![](/assets/stop_sign_8.4393358876117px_1226991_easyicon.net %281%29.png)  ~~some~~ 已经停更 Picasa
 
-2 ![](/assets/face_with_tears_of_joy_19.297709923664px_1214121_easyicon.net.png)长期不更新，1年
+2 ![](/assets/time_16px_1217707_easyicon.net.png)长期不更新，&gt;2年
 
 3 ![](/assets/leaves_15.8208px_1219185_easyicon.net.png) 推荐的
 
@@ -22,9 +22,9 @@
 
 11 ![](/assets/website_18px_1230659_easyicon.net.png) 官网
 
-12 ![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) 自己使用的，傻笑
+12 ![](/assets/golf_hole_13.176470588235px_1224973_easyicon.net.png) 安装遇到坑
 
-
+13 ![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) 自己使用的![](/assets/face_with_tears_of_joy_19.297709923664px_1214121_easyicon.net.png)
 
 ![](/assets/law_14.528735632184px_1233351_easyicon.net.png) 因当地法律不允许的，暂不收录
 

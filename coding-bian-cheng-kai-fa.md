@@ -32,7 +32,7 @@ Install from[https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
 Encounter 2503/2502 error on win10,
 
-|  | msiexec /package node-v10.11.0-x64.msi  |
+|  | msiexec /package node-v10.11.0-x64.msi |
 | :--- | :--- |
 
 
@@ -63,4 +63,20 @@ Encounter 2503/2502 error on win10,
 > Author : Joaxin
 
 
+
+**A graphics editor**
+
+, like
+
+[GIMP](http://www.gimp.org/)
+
+,
+
+[Paint.NET](http://www.getpaint.net/)
+
+, or
+
+[Photoshop](https://www.adobe.com/products/photoshop.html)
+
+, to make images for your web pages.
 
