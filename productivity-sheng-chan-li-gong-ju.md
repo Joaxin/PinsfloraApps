@@ -1,8 +1,8 @@
-### Listary {#Listary}
+### Listary![](/assets/leaves_15.8208px_1219185_easyicon.net.png) {#Listary}
 
 [https://www.listary.com/download](https://www.listary.com/download)
 
-### Everything {#Everything}
+### Everything![](/assets/leaves_15.8208px_1219185_easyicon.net.png)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png) {#Everything}
 
 [http://www.voidtools.com](http://www.voidtools.com/)
 
