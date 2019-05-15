@@ -6,19 +6,23 @@
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[http://www.voidtools.com](http://www.voidtools.com/)
 
+![](/assets/download_16px_1230169_easyicon.net.png) 安装版X64: [https://www.voidtools.com/Everything-1.4.1.935.x64-Setup.exe](https://www.voidtools.com/Everything-1.4.1.935.x64-Setup.exe)
+
+![](/assets/download_16px_1230169_easyicon.net.png) 便携版X64: [https://www.voidtools.com/Everything-1.4.1.935.x64.zip](https://www.voidtools.com/Everything-1.4.1.935.x64.zip)
+
 ### Wox![](/assets/leaves_15.8208px_1219185_easyicon.net.png)[![](/assets/github_16px_1157868_easyicon.net.png)](https://github.com/Wox-launcher/Wox)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png) {#Wox}
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[http://www.wox.one](http://www.wox.one/)
 
 ---
 
-**Docs**:[http://doc.wox.one/en/](http://doc.wox.one/en/)
+**Docs**: [http://doc.wox.one/en/](http://doc.wox.one/en/)
 
-**Plugins**:[http://www.wox.one/plugin](http://www.wox.one/plugin)
+**Plugins**: [http://www.wox.one/plugin](http://www.wox.one/plugin)
 
 * The humble incremental-search task switcher for Wox: [http://www.wox.one/plugin/52](http://www.wox.one/plugin/52)
 
-* Make easy to kill process:[http://www.wox.one/plugin/21](http://www.wox.one/plugin/21)
+* Make easy to kill process: [http://www.wox.one/plugin/21](http://www.wox.one/plugin/21)
 
 
 
