@@ -50,6 +50,8 @@
 
 ### Wintop {#Wintop}
 
+SRename
+
 ## Keys
 
 ### AutoHotkey {#Autohotkey}

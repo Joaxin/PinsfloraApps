@@ -3,9 +3,9 @@
 * [Introduction](README.md)
 * [Games -游戏娱乐](chapter1.md)
 * Study - 学习
-* Design - 设计
+* [Design - 设计](design-she-ji.md)
 * [Music - 音乐](music.md)
-* Player - 播放器
+* [Player - 播放器](player-bo-fang-qi.md)
 * [Coding - 编程开发](coding-bian-cheng-kai-fa.md)
 * [Browser - 浏览器](browser.md)
 * [Editor - 编辑器](editor.md)
