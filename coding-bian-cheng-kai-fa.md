@@ -4,6 +4,8 @@
 
 #### DevCpp {#DevCpp}
 
+## Jetbeans
+
 ### Pycharm {#Pycharm}
 
 PyCharm LicenseServer：
@@ -14,23 +16,41 @@ PyCharm LicenseServer：
 
 #### [http://blog.lanyus.com/archives/174.html](http://blog.lanyus.com/archives/174.html) {#http-blog-lanyus-com-archives-174-html}
 
-### Rstudio {#Rstudio}
-
-### Vscode {#Vscode}
-
 ### Webstorm {#Webstorm}
+
+### Datagrip
+
+## Rstudio
+
+## Vscode
+
+###  {#Webstorm}
 
 # Environment {#Environment}
 
 ### R {#R}
 
+$3.6
+
+[https://www.r-project.org/](https://www.r-project.org/)
+
 ### Anaconda {#Anaconda}
+
+* [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
 
 ### Python {#Python}
 
+$3.7.3
+
+[https://www.python.org/](https://www.python.org/)
+
+
+
+[https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
+
 ### Node.js {#Node-js}
 
-Install from[https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+Install from [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
 Encounter 2503/2502 error on win10,
 
@@ -41,6 +61,8 @@ Encounter 2503/2502 error on win10,
 #  {#Browser}
 
 # Git {#Git}
+
+* [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 # Terminal {#Terminal}
 
@@ -54,21 +76,45 @@ Encounter 2503/2502 error on win10,
 
 ### Unity Studio {#Unity-Studio}
 
-> Author : Joaxin
+[https://www.unity-studios.com/](https://www.unity-studios.com/)
+
+[https://github.com/Perfare/AssetStudio](https://github.com/Perfare/AssetStudio)
 
 **A graphics editor**
 
-, like
-
 [GIMP](http://www.gimp.org/)
-
-,
 
 [Paint.NET](http://www.getpaint.net/)
 
-, or
+[Photoshop](https://www.adobe.com/products/photoshop.html)  to make images for your web pages.
 
-[Photoshop](https://www.adobe.com/products/photoshop.html)
+### Picgo
 
-, to make images for your web pages.
+* [https://github.com/Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
+
+🚀A simple & beautiful tool for pictures uploading built by electron-vue [https://molunerfinn.com/PicGo/](https://molunerfinn.com/PicGo/)
+
+
+
+### Network
+
+Fluxay5
+
+FTPPasswordSniffer
+
+Showpass
+
+SniffPass
+
+URLSnooper2
+
+Winshark
+
+FTPPasswordSniffer.zip
+
+Win10Pcap-v10.2-5002.msi
+
+### 
+
+
 

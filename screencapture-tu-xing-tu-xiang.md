@@ -8,17 +8,17 @@
 
 [https://picpick.app/](https://picpick.app/)
 
-### FSCapture {#FSCapture}
+### Screen Capture
 
-### FastStone Capture {#FastStone-Capture}
+FSCapture
 
-### LICEcap {#LICEcap}
+FastStone Capture
 
-### Bandicam {#Bandicam}
+Bandicam
 
-### CamRecorder {#CamRecorder}
+CamRecorder
 
-### CamtasiaStudio\_ {#CamtasiaStudio}
+CamtasiaStudio
 
 ### Clipboard {#Clipboard}
 
@@ -30,6 +30,16 @@
 
 * ScreenToGif
 * GifCam
+
+## Tiny
+
+Licecap
+
+fraps
+
+clipx
+
+
 
 
 
