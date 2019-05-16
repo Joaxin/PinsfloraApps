@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Games -游戏娱乐](chapter1.md)
 * [Study - 学习](study-xue-xi.md)
 * [Design - 设计](design-she-ji.md)
 * [Music - 音乐](music.md)
@@ -15,4 +14,5 @@
 * [ScreenCapture - 图形图像](screencapture-tu-xing-tu-xiang.md)
 * [硬件相关](ying-jian-xiang-guan.md)
 * TestTools - 测试工具
+* [操作系统](cao-zuo-xi-tong.md)
 

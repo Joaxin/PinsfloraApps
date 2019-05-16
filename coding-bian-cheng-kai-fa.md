@@ -1,4 +1,6 @@
-# IDE {#IDE}
+# Mathematica {#IDE}
+
+![](/assets/website_18px_1230659_easyicon.net.png)[http://www.wolfram.com/mathematica/](http://www.wolfram.com/mathematica/)
 
 #### DevCpp {#DevCpp}
 
@@ -36,15 +38,7 @@ Encounter 2503/2502 error on win10,
 | :--- | :--- |
 
 
-# Browser {#Browser}
-
-### Yandex {#Yandex}
-
-### Chrome {#Chrome}
-
-### Firefox {#Firefox}
-
-### Valvidi {#Valvidi}
+#  {#Browser}
 
 # Git {#Git}
 
@@ -61,8 +55,6 @@ Encounter 2503/2502 error on win10,
 ### Unity Studio {#Unity-Studio}
 
 > Author : Joaxin
-
-
 
 **A graphics editor**
 
