@@ -14,10 +14,6 @@ Tools
 
 ### Adobe\(PS LR AI PR AE\) {#Adobe-PS-LR-AI-PR-AE}
 
-### Picasa {#Picasa}
-
-### GoldWave {#GoldWave}
-
 ### C4D {#C4D}
 
 ### AutoCAD {#AutoCAD}

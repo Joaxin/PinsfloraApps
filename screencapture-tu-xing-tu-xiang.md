@@ -1,3 +1,5 @@
+### Picasa {#Picasa}
+
 ### Snipaste {#Snipaste}
 
 [https://www.snipaste.com](https://www.snipaste.com/)
@@ -38,8 +40,4 @@ Licecap
 fraps
 
 clipx
-
-
-
-
 
