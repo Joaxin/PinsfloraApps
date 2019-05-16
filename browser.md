@@ -10,6 +10,8 @@ Install [extension-source-viewer](https://addons.opera.com/zh-cn/extensions/deta
 
 ### Yandex {#Yandex}
 
+[https://browser.yandex.com/](https://browser.yandex.com/)
+
 ### Chrome {#Chrome}
 
 [https://www.google.cn/intl/zh-CN/chrome/](https://www.google.cn/intl/zh-CN/chrome/)
