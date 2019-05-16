@@ -12,6 +12,8 @@ Install [extension-source-viewer](https://addons.opera.com/zh-cn/extensions/deta
 
 ### Chrome {#Chrome}
 
+[https://www.google.cn/intl/zh-CN/chrome/](https://www.google.cn/intl/zh-CN/chrome/)
+
 ### Firefox {#Firefox}
 
 [http://www.firefox.com/](http://www.firefox.com/)
@@ -19,6 +21,4 @@ Install [extension-source-viewer](https://addons.opera.com/zh-cn/extensions/deta
 ### Valvidi {#Valvidi}
 
 [https://vivaldi.com/](https://vivaldi.com/)
-
-
 
