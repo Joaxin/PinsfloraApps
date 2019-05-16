@@ -24,3 +24,7 @@ Install [extension-source-viewer](https://addons.opera.com/zh-cn/extensions/deta
 
 [https://vivaldi.com/](https://vivaldi.com/)
 
+## Tor
+
+[https://www.torproject.org/download/](https://www.torproject.org/download/)
+
