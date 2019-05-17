@@ -1,5 +1,15 @@
 # My Awesome Book
 
+![](https://img.shields.io/badge/build-passing-green.svg)
+
+![](https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-308-blue.svg)
+
+![](https://img.shields.io/badge/%E2%98%8E%EF%B8%8F%E8%81%94%E7%B3%BB-telegram-ff69b4.svg)
+
+![](https://img.shields.io/github/issues/AmazingApps/Amazing-Windows-Apps.svg)
+
+​
+
 1 ![](/assets/stop_sign_8.4393358876117px_1226991_easyicon.net %281%29.png)  ~~some~~ 已经停更 Picasa
 
 2 ![](/assets/time_16px_1217707_easyicon.net.png)长期不更新，&gt;2年
