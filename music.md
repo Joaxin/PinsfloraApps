@@ -18,7 +18,7 @@
 
 ### Autolyric
 
-歌词下载展示插件，支持 [**Windows Media Player**](http://www.microsoft.com/windows/windowsmedia/default.mspx)  [**Windows Media Player  \(X64\)**](http://www.microsoft.com/windows/windowsmedia/default.mspx) [**Foobar2000**](http://www.foobar2000.org/) [**AIMP**](http://aimp.ru/)  [**iTunes**](http://www.apple.com/cn/itunes/download/)  [**Winamp**](http://www.winamp.com/)
+歌词下载展示插件，支持 [**Windows Media Player**](http://www.microsoft.com/windows/windowsmedia/default.mspx)  [**Windows Media Player  \(X64\)**](http://www.microsoft.com/windows/windowsmedia/default.mspx) [**Foobar2000**](http://www.foobar2000.org/) [**AIMP**](http://aimp.ru/)  [**iTunes**](http://www.apple.com/cn/itunes/download/)  [**Winamp**](http://www.winamp.com/)
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[http://www.autolyric.com/zh-hans](http://www.autolyric.com/zh-hans)
 
@@ -39,4 +39,12 @@
 ### Goldwave![](/assets/money_24.632411067194px_1218498_easyicon.net.png)
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[http://www.goldwave.com/](http://www.goldwave.com/)
+
+## 编曲相关
+
+Melodyne
+
+
+
+
 
