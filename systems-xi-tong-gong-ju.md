@@ -2,9 +2,12 @@
 
 * Huorong
 
+[https://www.huorong.cn/](https://www.huorong.cn/)
+
 * Duplicate Cleaner Pro
 
 * Pure 360SoftMgr
+
 * PC Master
 * SmartDefrag
 * Wisecare 365
@@ -18,6 +21,9 @@
 
 * ProcessLasso
 * PCHunter
+
+[http://www.xuetr.com/](http://www.xuetr.com/)
+
 * PowerTool
 * WTool
 * procexp
