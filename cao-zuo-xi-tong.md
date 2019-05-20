@@ -2,8 +2,6 @@
 
 [https://www.ubuntu.com/download/desktop](https://www.ubuntu.com/download/desktop)
 
-
-
 ## 论坛
 
 #### Windows
