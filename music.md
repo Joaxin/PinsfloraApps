@@ -26,6 +26,24 @@
 
 [http://www.foobar2000.org/](http://www.foobar2000.org/)
 
+---
+
+### 网易云音乐
+
+![](/assets/download_16px_1230169_easyicon.net.png)[https://music.163.com/\#/download](https://music.163.com/#/download)
+
+### 虾米音乐
+
+![](/assets/download_16px_1230169_easyicon.net.png)[https://emumo.xiami.com/apps/mobile](https://emumo.xiami.com/apps/mobile?spm=a2oj1.12028025.topnav.5.54771372qB0saC)
+
+### 酷狗音乐
+
+![](/assets/download_16px_1230169_easyicon.net.png)[http://download.kugou.com/](http://download.kugou.com/)
+
+### QQ音乐
+
+![](/assets/download_16px_1230169_easyicon.net.png)[https://y.qq.com/download/download.html](https://y.qq.com/download/download.html)
+
 ## 歌词
 
 ### Autolyric
@@ -66,13 +84,13 @@ CD 音轨抓取工具
 
 [http://www.cdex.fr/](http://www.cdex.fr/)
 
-- CD Ripper \(French site, English program\).
+* CD Ripper \(French site, English program\).
 
-### Exact Audio Copy 
+### Exact Audio Copy
 
 CD文件转换
 
- Transfer files from your CDs to your PC in almost every format.Comes with some pretty nifty features too.
+Transfer files from your CDs to your PC in almost every format.Comes with some pretty nifty features too.
 
 [http://www.exactaudiocopy.de/](http://www.exactaudiocopy.de/)
 
