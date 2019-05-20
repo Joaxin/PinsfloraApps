@@ -18,11 +18,13 @@
 
 通过文件大小或许多其他图像属性压缩图像。 !
 
-### [WinRAR](http://www.rarlab.com/)
+### [WinRAR](http://www.rarlab.com/)![](/assets/money_24.632411067194px_1218498_easyicon.net.png)
 
 这个太经典啦
 
 ### Manager {#Manager}
+
+### 火绒安全软件
 
 * Huorong
 
@@ -37,6 +39,7 @@
 * SmartDefrag
 
 * Wisecare 365
+
 * CCcleaner
 * Uninstall Tool
 * Rapid Environment Editor
