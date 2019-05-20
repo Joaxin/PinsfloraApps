@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Study - 学习阅读](study-xue-xi.md)
 * [Design - 设计](design-she-ji.md)
-* [Music - 音乐](music.md)
+* [Music & Audio - 音乐](music.md)
 * [Player - 播放器](player-bo-fang-qi.md)
 * [Coding - 编程开发](coding-bian-cheng-kai-fa.md)
 * [Browser - 浏览器](browser.md)

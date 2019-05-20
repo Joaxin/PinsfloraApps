@@ -2,9 +2,9 @@
 
 ![](https://img.shields.io/badge/build-passing-green.svg)
 
-![](https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-308-blue.svg)
+![](https://img.shields.io/badge/应用总数-308-blue.svg)
 
-![](https://img.shields.io/badge/%E2%98%8E%EF%B8%8F%E8%81%94%E7%B3%BB-telegram-ff69b4.svg)
+![](https://img.shields.io/badge/☎️联系-telegram-ff69b4.svg)
 
 ![](https://img.shields.io/github/issues/AmazingApps/Amazing-Windows-Apps.svg)
 
@@ -20,7 +20,7 @@
 
 5 ![](/assets/CMD_16px_1104392_easyicon.net.png) 命令行
 
-6 ![](/assets/money_24.632411067194px_1218498_easyicon.net.png) 需要购买的
+6 ![](/assets/money_24.632411067194px_1218498_easyicon.net.png) 推荐付费
 
 7 ![](/assets/windows_16.638109305761px_1210167_easyicon.net.png) 仅支持windows
 
@@ -39,6 +39,10 @@
 14 ![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) 自己使用的![](/assets/face_with_tears_of_joy_19.297709923664px_1214121_easyicon.net.png)
 
 ![](/assets/law_14.528735632184px_1233351_easyicon.net.png) 因当地法律不允许的，暂不收录
+
+
+
+[https://github.com/Awesome-Windows](https://github.com/Awesome-Windows)
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
 
