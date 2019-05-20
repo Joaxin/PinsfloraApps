@@ -78,6 +78,52 @@ GitHub的官方客户端。
 
 ### [Zsh](http://www.zsh.org/)- 一个强大的命令行shell。
 
+## 编辑器
+
+[Atom](https://atom.io/)- 面向21世纪的极客文本编辑器。
+
+[Brackets](http://brackets.io/)- 一款擅长网页设计的现代，开源文本编辑器。
+
+[GVim](http://www.vim.org/download.php#pc)- （G）Vim是一款高度可配置的文本编辑器，用于高效的文本编辑。
+
+[Light Table](http://lighttable.com/)- 具有即时反馈和显示代码中数据值的可定制的编辑器。
+
+[Neovim](https://neovim.io/)- vim真正的继任者。
+
+[Notepad++](https://notepad-plus-plus.org/)- 一款支持多种编程语言的源码编辑器。
+
+[Notepad2](http://www.flos-freeware.ch/notepad2.html)- 用于替代默认文本编辑器的轻量快速的编辑器，拥有众多有用的功能。
+
+[Sublime Text 3](http://www.sublimetext.com/3)- 高级文本编辑器。
+
+[Visual Studio Code](https://code.visualstudio.com/)- 用于构建和调试现代Web和云应用程序。
+
+### IDE
+
+[Android Studio](https://developer.android.com/studio/index.html)- Android 的官方 IDE , 基于 IntelliJ 的 IDEA。
+
+[AppCode](https://www.jetbrains.com/objc/)- JetBrain出品的IDE，用于iOS/macOS开发，支持Objective-C, Swift, C and C++，类似Xcode。
+
+[CLion](https://www.jetbrains.com/clion/)- JetBrain出品的跨平台的IDE，支持C/C++开发，使用CMake构建。
+
+[Eclipse](https://eclipse.org/downloads/)- 一款功能强大的 IDE。
+
+[IntelliJ IDEA](https://www.jetbrains.com/idea/)- JetBrain出品的跨平台的IDE，现代化的 Java IDE。
+
+[NetBeans IDE](https://netbeans.org/)- 免费开源的 IDE
+
+[PhpStorm](https://www.jetbrains.com/phpstorm/)- JetBrain出品的跨平台的PHP开发平台。
+
+[PyCharm](https://www.jetbrains.com/pycharm)- JetBrain出品的跨平台的Python开发平台，有社区版本（免费）
+
+[Rider](https://www.jetbrains.com/rider/)- JetBrain出品的跨平台的用于.NET/Mono开发的IDE.
+
+[RubyMine](https://www.jetbrains.com/ruby/)- JetBrain出品的跨平台的Ruby开发平台，支持多种框架。
+
+[Visual Studio](https://www.visualstudio.com/vs/)- 微软官方的 IDE，通过插件可支持大量编程语言。
+
+[WebStorm](https://www.jetbrains.com/webstorm/)- JetBrain出品的JavaScipt开发平台。
+
 ### Mathematica
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[http://www.wolfram.com/mathematica/](http://www.wolfram.com/mathematica/)
@@ -149,6 +195,30 @@ Encounter 2503/2502 error on win10,
 [https://mobaxterm.mobatek.net](https://mobaxterm.mobatek.net/)
 
 ### Xshell {#Xshell}
+
+[Babun](http://babun.github.io/)- 基于 Cygwin，用于替代 Windows shell。
+
+[Cmder](https://github.com/cmderdev/cmder)- 控制台模拟器包。
+
+[ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool)- 设置Widows终端支持iTerm的颜色模式。
+
+[ConEmu](https://github.com/Maximus5/ConEmu)- 标签，分布，闪烁及其他各项均可定制的终端。
+
+[ConsoleZ](https://github.com/cbucher/console)- Console 2 的修改版本，更好的体验和更好的视觉呈现。
+
+[Hyper](https://hyper.is/)- 基于 Web 技术的终端。
+
+[MobaXterm](http://mobaxterm.mobatek.net/)- Xserver 和标签式 SSH 客户端。
+
+[mRemoteNG](https://mremoteng.org/)- 下一代 mRemote，开源，多标签，多协议，远程连接管理器。
+
+[MTPuTTY](http://ttyplus.com/multi-tabbed-putty/)- 多标签 PuTTY。
+
+[Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)- SSH 和 telnet 客户端。
+
+[Terminus](https://eugeny.github.io/terminus/)- 基于Web技术的现代高度可配置的终端应用程序。
+
+[Alacritty](https://github.com/jwilm/alacritty)- 跨平台，使用GPU加速的终端模拟器。
 
 # Tools {#Tools}
 

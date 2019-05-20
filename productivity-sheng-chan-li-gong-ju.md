@@ -1,4 +1,47 @@
-## Launcher & Search
+## [AutoHotkey](https://autohotkey.com/)- Windows平台的终极自动化脚本语言。
+
+[Chocolatey](https://chocolatey.org/)- Windows的包管理器。
+
+[Cold Turkey](https://getcoldturkey.com/)- 屏蔽能分散你注意力的网站。（屏蔽期间你甚至无法卸载它。）
+
+[CommandTrayHost](https://github.com/rexdf/CommandTrayHost)- Windows命令行程序运行监控系统托盘管理工具。
+
+[Ditto](http://ditto-cp.sourceforge.net/)- 剪贴板管理器。
+
+[Easy Window Switcher](https://neosmart.net/EasySwitch/)- 应用实际之间快速切换。
+
+[Everything](http://www.voidtools.com/)- 最快的文件/文件夹搜索工具， 通过名称搜索。
+
+[f.lux](http://stereopsis.com/flux/)- 自动调整您的计算机屏幕亮度以适应当前环境亮度。
+
+[Inkdrop](https://www.inkdrop.info/)- Markdown爱好者的笔记应用程序。
+
+[KatMouse](http://www.ehiti.de/katmouse/)- 用于在 Windows 上提供全局滚动效果：滚动时不需要先激活/点击窗口（类似 macOS 和 Linux 上的效果）。
+
+[Keypirinha](http://keypirinha.com/)- 一个提供给Windows键盘党的快速启动器。你可以把它当成_Launchy_的替代品和_Alfred_的表兄弟。
+
+[Launchy](http://www.launchy.net/)- 开源快捷键启动器。
+
+[Listary](http://www.listary.com/)- 让你的文件不离指尖。 独特的搜索实用程序。
+
+[MultiCommander](http://multicommander.com/)- 为专业用户提供的文件管理器。
+
+[Ninite](https://ninite.com/)- 最简单，最快速的更新或安装软件的方式。
+
+[One Commander](http://onecommander.com/)- 多面板的文件管理器。
+
+[Scoop](https://github.com/lukesampson/scoop)- Windows 的命令行安装程序。
+
+[Simplenote](https://simplenote.com/)- 基于云同步的简单跨平台笔记应用程序。
+
+[Total Commander](https://www.ghisler.com/)- Windows 上最佳的文件管理器。
+
+[WordWeb](http://wordweb.info/)- Windows 上很好的英文词典。
+
+[Wox](http://www.getwox.com/)- Windows 上效果优异的快捷启动应用。[xoring](https://www.xoring.com/)一款基于番茄工作法的时间管理工具
+
+  
+Launcher & Search
 
 ### Listary![](/assets/leaves_15.8208px_1219185_easyicon.net.png)![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) {#Listary}
 
