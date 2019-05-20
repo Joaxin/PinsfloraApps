@@ -1,3 +1,9 @@
+###  {#Manager}
+
+### 压缩工具 {#Manager}
+
+###  {#Manager}
+
 ### Manager {#Manager}
 
 * Huorong
@@ -9,6 +15,7 @@
 * Pure 360SoftMgr
 
 * PC Master
+
 * SmartDefrag
 * Wisecare 365
 * CCcleaner

@@ -15,5 +15,5 @@
 * [硬件相关](ying-jian-xiang-guan.md)
 * [TestTools - 测试工具](testtools-ce-shi-gong-ju.md)
 * [操作系统](cao-zuo-xi-tong.md)
-* [沟通](gou-tong.md)
+* [聊天沟通 - Chat](gou-tong.md)
 

@@ -26,17 +26,23 @@
 
 [http://www.foobar2000.org/](http://www.foobar2000.org/)
 
+### Musicbee 
+
+类似iTunes，但比iTunes更好用。
+
+[https://getmusicbee.com/](https://getmusicbee.com/)![](https://s2.ax1x.com/2019/05/20/ExVMZR.jpg)
+
 ---
 
-### 网易云音乐
+### Netease - 网易云音乐
 
 ![](/assets/download_16px_1230169_easyicon.net.png)[https://music.163.com/\#/download](https://music.163.com/#/download)
 
-### 虾米音乐
+### Xiami - 虾米音乐
 
 ![](/assets/download_16px_1230169_easyicon.net.png)[https://emumo.xiami.com/apps/mobile](https://emumo.xiami.com/apps/mobile?spm=a2oj1.12028025.topnav.5.54771372qB0saC)
 
-### 酷狗音乐
+### Kugou - 酷狗音乐
 
 ![](/assets/download_16px_1230169_easyicon.net.png)[http://download.kugou.com/](http://download.kugou.com/)
 
@@ -44,7 +50,7 @@
 
 ![](/assets/download_16px_1230169_easyicon.net.png)[https://y.qq.com/download/download.html](https://y.qq.com/download/download.html)
 
-## Lyric - 歌词
+## Lyric - 歌词小工具
 
 ### Autolyric
 
@@ -53,6 +59,14 @@
 ![](/assets/website_18px_1230659_easyicon.net.png)[http://www.autolyric.com/zh-hans](http://www.autolyric.com/zh-hans)
 
 ![](/assets/download_16px_1230169_easyicon.net.png)[http://www.autolyric.com/zh-hans/download](http://www.autolyric.com/zh-hans/download)
+
+### MusicBrainz Picard
+
+Picard is a cross-platform music tagger written in Python.
+
+![](/assets/website_18px_1230659_easyicon.net.png)[https://picard.musicbrainz.org/](https://picard.musicbrainz.org/)
+
+- Picard 是一款跨平台的音乐标签器，用于查看和改写元数据标签。
 
 ## 音频编辑处理
 
@@ -76,6 +90,16 @@ Edit & mix audio, compose original music\(such as midi\), and more
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[http://www.goldwave.com/](http://www.goldwave.com/)
 
+###  Qtractor![](/assets/github_16px_1157868_easyicon.net.png)
+
+多轨音序编辑器
+
+-音频/MIDI多轨音序器。
+
+![](/assets/website_18px_1230659_easyicon.net.png)[https://qtractor.sourceforge.io](https://qtractor.sourceforge.io/qtractor-screenshots.html)
+
+
+
 ## CD
 
 ### CDex
@@ -94,7 +118,19 @@ Transfer files from your CDs to your PC in almost every format.Comes with some p
 
 [http://www.exactaudiocopy.de/](http://www.exactaudiocopy.de/)
 
+## 影院![](/assets/github_16px_1157868_easyicon.net.png)
+
+Open Source Home Theater Software
+
+家庭影院软件
+
 ## 编曲相关
+
+### Mixxx![](/assets/github_16px_1157868_easyicon.net.png)
+
+[http://mixxx.org/](http://mixxx.org/)
+
+DJ混音
 
 ### Flstudio![](/assets/money_24.632411067194px_1218498_easyicon.net.png)
 
