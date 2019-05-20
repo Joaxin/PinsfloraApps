@@ -44,7 +44,7 @@
 
 ![](/assets/download_16px_1230169_easyicon.net.png)[https://y.qq.com/download/download.html](https://y.qq.com/download/download.html)
 
-## 歌词
+## Lyric - 歌词
 
 ### Autolyric
 
