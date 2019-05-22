@@ -2,8 +2,6 @@
 
 ### Eudic {#Eudic}
 
-#### Yomail {#Yomail}
-
 #### NutStore {#NutStore}
 
 ### ABOBOO {#ABOBOO}
@@ -38,21 +36,47 @@ Solid Converter v8.rar
 
 ## 在线存储
 
-* _百度网盘_，其他类似还有腾讯微云，坚果云等。
+[百度网盘](https://legacy.gitbook.com/book/joaxin/windows-apps-garden/edit#)
 
-* [Box](https://app.box.com/services/browse/43/box_sync_for_windows)- 能够同步超过100,000个文件，并支持含有特殊字符的文件名和长度超过256个字符的路径。
+中国垄断在线存储
 
-* [Dropbox](https://www.dropbox.com/install)-简单，优雅和多功能（PC，Mac，Android ...）云存储解决方案。
+### 微云
 
-* [Google Drive](https://www.google.com/drive/download/)- 深深融入Google生态系统的云存储解决方案。
+### 坚果云
 
-* [Hubic](https://hubic.com/en/)- 为 Windows, Linux, MacOsx, iOs & Android 平台设计的云存储。
+### [Box](https://app.box.com/services/browse/43/box_sync_for_windows)
 
-* [Mozy](https://mozy.com/product/download)
+能够同步超过100,000个文件，并支持含有特殊字符的文件名和长度超过256个字符的路径。
 
-* [OneDrive](https://onedrive.live.com/about/en-us/download/)- 为Windows用户提供最佳云存储解决方案，原先叫SkyDrive。
+[Dropbox](https://www.dropbox.com/install)
 
-* [百度网盘](https://pan.baidu.com/)- 中国垄断在线存储
+简单，优雅和多功能（PC，Mac，Android ...）云存储解决方案。
+
+[Google Drive](https://www.google.com/drive/download/)
+
+深深融入Google生态系统的云存储解决方案。
+
+[Hubic](https://hubic.com/en/)
+
+ 为 Windows, Linux, MacOsx, iOs & Android 平台设计的云存储。
+
+[Mozy](https://mozy.com/product/download)
+
+Mega
+
+Mediafire
+
+[OneDrive](https://onedrive.live.com/about/en-us/download/)
+
+为Windows用户提供最佳云存储解决方案
+
+Yandex Drive
+
+### 360
+
+自360云盘关闭事件后，仅提供企业版
+
+![](/assets/website_18px_1230659_easyicon.net.png)[https://yunpan.360.cn/](https://yunpan.360.cn/)
 
 ### 备份
 
@@ -76,19 +100,37 @@ Solid Converter v8.rar
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[https://www.getmailbird.com/](https://www.getmailbird.com/)
 
-### Mailspring[![](/assets/github_16px_1157868_easyicon.net.png)](https://github.com/Foundry376/Mailspring)![](/assets/foreign_language_16.041504539559px_1230978_easyicon.net.png)
+### Mailspring![](/assets/leaves_15.8208px_1219185_easyicon.net.png)[![](/assets/github_16px_1157868_easyicon.net.png)](https://github.com/Foundry376/Mailspring)![](/assets/foreign_language_16.041504539559px_1230978_easyicon.net.png)
+
+Mailspring是Nylas N1的分支版本，有付费版本，界面简洁美观，原来的Nylas已经停止维护。
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[https://getmailspring.com/](https://getmailspring.com/)
 
-Mailspring是Nylas N1的分支版本，有付费版本，原来的Nylas已经停止维护。
+### Newton![](/assets/money_24.632411067194px_1218498_easyicon.net.png)
 
-[Postbox](https://postbox-inc.com/)
+跨平台，界面漂亮
 
-功能强大的电子邮件应用。
+Email app with space-age features for modern-day business communication.
 
-[Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
+![](/assets/website_18px_1230659_easyicon.net.png)[https://newtonhq.com/](https://legacy.gitbook.com/book/joaxin/windows-apps-garden/edit#)
 
-设计简约的电子邮件客户端。
+### Postbox![](/assets/money_24.632411067194px_1218498_easyicon.net.png)
+
+Simple, Clear and Powerful With Beautiful UI
+
+![](/assets/website_18px_1230659_easyicon.net.png) [https://www.postbox-inc.com/](https://www.postbox-inc.com/)
+
+### Thunderbird
+
+![](/assets/website_18px_1230659_easyicon.net.png)[https://www.thunderbird.net](https://www.thunderbird.net/zh-CN/)
+
+一款免费的电子邮件应用程序，配置简单，定制自由，界面一般
+
+### Yomail![](/assets/time_16px_1217707_easyicon.net.png)
+
+优雅简洁高效的邮箱客户端，疑似公司跑路，停止维护
+
+![](/assets/website_18px_1230659_easyicon.net.png)[http://www.nextechat.com/](http://www.nextechat.com/)
 
 ---
 
@@ -98,19 +140,41 @@ Mailspring是Nylas N1的分支版本，有付费版本，原来的Nylas已经停
 
 ## Office
 
-[FreeOffice](http://www.freeoffice.com/en/)- FreeOffice 提供一套完整的办公套件，拥有文字编辑器，电子表格程序和演示程序 - 均与 office 对应程序相兼容。
+### [Microsoft Office](http://www.office.com/)
 
-[LibreOffice](https://www.libreoffice.org/)- 开源办公套件。
+微软自己的生产力套件。
 
-[Microsoft Office](http://www.office.com/)- 微软自己的生产力套件。
+### WPS Office![](/assets/leaves_15.8208px_1219185_easyicon.net.png)
 
-[NitroPDF](https://www.gonitro.com/pdf-reader)- 你会得到最好的PDF阅读器。
+![](/assets/website_18px_1230659_easyicon.net.png)[https://www.wps.cn/](https://www.wps.cn/)
 
-[OnlyOffice](https://www.onlyoffice.com/)- 最完整，功能齐全的办公和生产力套件。
+国内最著名的免费办公软件，跨平台。
 
-[OpenOffice](https://www.openoffice.org/)- 软件套件，用于文字处理，电子表格，演示文稿，图形，数据库等。
+### [FreeOffice](http://www.freeoffice.com/en/)
 
-[Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)- PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR阅读器。 !
+FreeOffice 提供一套完整的办公套件，拥有文字编辑器，电子表格程序和演示程序 - 均与 office 对应程序相兼容。
 
-[WPS Office](https://www.wps.com/office-free)- 完美的免费办公软件。
+### [LibreOffice](https://www.libreoffice.org/)
+
+开源办公套件。
+
+[NitroPDF](https://www.gonitro.com/pdf-reader)
+
+你会得到最好的PDF阅读器。
+
+### [OnlyOffice](https://www.onlyoffice.com/)
+
+最完整，功能齐全的办公和生产力套件。
+
+### [OpenOffice](https://www.openoffice.org/)
+
+软件套件，用于文字处理，电子表格，演示文稿，图形，数据库等。
+
+### [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)
+
+PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR阅读器。 !
+
+
+
+
 

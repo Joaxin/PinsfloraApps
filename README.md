@@ -10,9 +10,9 @@
 
 ​
 
-1 ![](/assets/stop_sign_8.4393358876117px_1226991_easyicon.net %281%29.png)  ~~some~~ 已经停更的
+1 ![](/assets/stop_sign_8.4393358876117px_1226991_easyicon.net %281%29.png)  已经停更的
 
-2 ![](/assets/time_16px_1217707_easyicon.net.png)长期不更新，&gt;=2年
+2 ![](/assets/time_16px_1217707_easyicon.net.png)疑似停止维护，长期不更新
 
 3 ![](/assets/leaves_15.8208px_1219185_easyicon.net.png) 推荐的
 
