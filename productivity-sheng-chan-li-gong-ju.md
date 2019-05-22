@@ -80,19 +80,17 @@ case:wholeword:Trees !flowers "D:\cocofiles\"
 
 ### Wox![](/assets/leaves_15.8208px_1219185_easyicon.net.png)[![](/assets/github_16px_1157868_easyicon.net.png)](https://github.com/Wox-launcher/Wox)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png) {#Wox}
 
+**WoX **is a launcher for Windows that simply works. It's an alternative to [Alfred](https://www.alfredapp.com/) and [Launchy](http://www.launchy.net/).
+
 Wox 是一款国人开发的免费开源快捷启动器，类似于 macOS 上的效率神器 Alfred（还没听说过 Alfred？欢迎
-
-[点此](https://sspai.com/search/article?q=Alfred)
-
-了解
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[http://www.wox.one](http://www.wox.one/)
 
----
+![](/assets/download_16px_1230169_easyicon.net.png) [https://github.com/Wox-launcher/Wox/releases](https://github.com/Wox-launcher/Wox/releases)
 
-**Docs**: [http://doc.wox.one/en/](http://doc.wox.one/en/)
+![](/assets/documents_15.965442764579px_1197228_easyicon.net.png)  [http://doc.wox.one/en/](http://doc.wox.one/en/)
 
-**Plugins**: [http://www.wox.one/plugin](http://www.wox.one/plugin)
+![](/assets/plugins_16.054607508532px_1192849_easyicon.net.png) [http://www.wox.one/plugin](http://www.wox.one/plugin)
 
 * The humble incremental-search task switcher for Wox: [http://www.wox.one/plugin/52](http://www.wox.one/plugin/52)
 
