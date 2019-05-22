@@ -1,3 +1,7 @@
+> ## Productivity is being able to do things that you were never able to do before." - Franz Kafka
+>
+> 工欲善其事，必先利其器。
+
 ## [AutoHotkey](https://autohotkey.com/)- Windows平台的终极自动化脚本语言。
 
 [Chocolatey](https://chocolatey.org/)- Windows的包管理器。
@@ -40,7 +44,6 @@
 
 [Wox](http://www.getwox.com/)- Windows 上效果优异的快捷启动应用。[xoring](https://www.xoring.com/)一款基于番茄工作法的时间管理工具
 
-  
 Launcher & Search
 
 ### Listary![](/assets/leaves_15.8208px_1219185_easyicon.net.png)![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) {#Listary}
@@ -49,13 +52,31 @@ Launcher & Search
 
 ![](/assets/download_16px_1230169_easyicon.net.png) 便携版：[https://www.listary.com/download/ListaryPortable.zip?version=5.00.2843](https://www.listary.com/download/ListaryPortable.zip?version=5.00.2843)
 
-### Everything![](/assets/leaves_15.8208px_1219185_easyicon.net.png)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) {#Everything}
+### Everything![](/assets/leaves_15.8208px_1219185_easyicon.net.png)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png) {#Everything}
+
+windows搜索神器，极速建立文件索引\(ps:第一次使用，请稍作等待\)，并实时监测文件变化，支持正则搜索，预览，书签，还能建立ETP服务器。
+
+便携式版本，可以装在U盘里，这样谁家文件找不到啦, 可以帮忙。
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[http://www.voidtools.com](http://www.voidtools.com/)
+
+![](/assets/documents_15.965442764579px_1197228_easyicon.net.png)[http://www.voidtools.com/support/everything/](http://www.voidtools.com/support/everything/)
 
 ![](/assets/download_16px_1230169_easyicon.net.png) 安装版X64: [https://www.voidtools.com/Everything-1.4.1.935.x64-Setup.exe](https://www.voidtools.com/Everything-1.4.1.935.x64-Setup.exe)
 
 ![](/assets/download_16px_1230169_easyicon.net.png) 便携版X64: [https://www.voidtools.com/Everything-1.4.1.935.x64.zip](https://www.voidtools.com/Everything-1.4.1.935.x64.zip)
+
+![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) 比如我们要搜索D盘cocofiles文件夹下，包含单词：Trees的文件\(精确搜索、大小写敏感\) 不含单词flowers的文件,就可以敲下
+
+```
+case:wholeword:Trees !flowers "D:\cocofiles\"
+```
+
+可以将自己经常搜索的路径保存到筛选器中，比如上述的`"D:\cocofiles\"`
+
+也可以把搜索结果,保存在书签中，以被下次使用
+
+如果没带移动硬盘 也可以把之前的移动硬盘索引保存到efu索引文件中，随时取用
 
 ### Wox![](/assets/leaves_15.8208px_1219185_easyicon.net.png)[![](/assets/github_16px_1157868_easyicon.net.png)](https://github.com/Wox-launcher/Wox)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png) {#Wox}
 
@@ -72,6 +93,10 @@ Launcher & Search
 * Make easy to kill process: [http://www.wox.one/plugin/21](http://www.wox.one/plugin/21)
 
 ## Enhancement - 系统增强
+
+WGestures
+
+[http://www.yingdev.com/projects/wgestures](http://www.yingdev.com/projects/wgestures)
 
 ### [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)
 

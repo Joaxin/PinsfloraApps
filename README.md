@@ -36,11 +36,11 @@
 
 13 ![](/assets/plugins_16.054607508532px_1192849_easyicon.net.png) 插件推荐
 
-14 ![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) 自己使用的![](/assets/face_with_tears_of_joy_19.297709923664px_1214121_easyicon.net.png)
+14 ![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) 简单用法![](/assets/face_with_tears_of_joy_19.297709923664px_1214121_easyicon.net.png)
+
+15 ![](/assets/documents_15.965442764579px_1197228_easyicon.net.png) 帮助文档
 
 ![](/assets/law_14.528735632184px_1233351_easyicon.net.png) 因当地法律不允许的，暂不收录
-
-
 
 [https://github.com/Awesome-Windows](https://github.com/Awesome-Windows)
 

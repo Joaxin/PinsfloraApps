@@ -32,8 +32,6 @@ Tools
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[https://www.autodesk.com/products/maya/overview](https://www.autodesk.com/products/maya/overview)
 
-
-
 ## 图形
 
 [Blender](https://www.blender.org/)- 功能齐全的可扩展跨平台3D内容套件。
@@ -48,6 +46,7 @@ Tools
 
 [Snipaste](https://zh.snipaste.com/)一款高效率功能全面的截图软件
 
-  
+图片工厂
 
+http://www.picosmos.net
 
