@@ -80,6 +80,12 @@ case:wholeword:Trees !flowers "D:\cocofiles\"
 
 ### Wox![](/assets/leaves_15.8208px_1219185_easyicon.net.png)[![](/assets/github_16px_1157868_easyicon.net.png)](https://github.com/Wox-launcher/Wox)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png) {#Wox}
 
+Wox 是一款国人开发的免费开源快捷启动器，类似于 macOS 上的效率神器 Alfred（还没听说过 Alfred？欢迎
+
+[点此](https://sspai.com/search/article?q=Alfred)
+
+了解
+
 ![](/assets/website_18px_1230659_easyicon.net.png)[http://www.wox.one](http://www.wox.one/)
 
 ---
