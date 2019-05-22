@@ -46,7 +46,7 @@
 
 Launcher & Search
 
-### Listary![](/assets/leaves_15.8208px_1219185_easyicon.net.png)![](/assets/leaves_17.256198347107px_1218419_easyicon.net.png) {#Listary}
+### Listary![](/assets/leaves_15.8208px_1219185_easyicon.net.png)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png) {#Listary}
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[https://www.listary.com/download](https://www.listary.com/download)
 
@@ -76,13 +76,11 @@ case:wholeword:Trees !flowers "D:\cocofiles\"
 
 也可以把搜索结果,保存在书签中，以被下次使用
 
-如果没带移动硬盘 也可以把之前的移动硬盘索引保存到efu索引文件中，随时取用
+如果没带移动硬盘 也可以把之前的移动硬盘索引保存到\`efu\`索引文件中，随时取用
 
 ### Wox![](/assets/leaves_15.8208px_1219185_easyicon.net.png)[![](/assets/github_16px_1157868_easyicon.net.png)](https://github.com/Wox-launcher/Wox)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png) {#Wox}
 
-**WoX **is a launcher for Windows that simply works. It's an alternative to [Alfred](https://www.alfredapp.com/) and [Launchy](http://www.launchy.net/).
-
-Wox 是一款国人开发的免费开源快捷启动器，类似于 macOS 上的效率神器 Alfred（还没听说过 Alfred？欢迎
+Wox 是windows平台下，由国人开发的启动器，类似于 `macOS` 上的效率神器 [Alfred](https://legacy.gitbook.com/book/joaxin/windows-apps-garden/edit#) 与 `windows`的另一款 [Launchy](https://legacy.gitbook.com/book/joaxin/windows-apps-garden/edit#).
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[http://www.wox.one](http://www.wox.one/)
 
@@ -92,9 +90,15 @@ Wox 是一款国人开发的免费开源快捷启动器，类似于 macOS 上的
 
 ![](/assets/plugins_16.054607508532px_1192849_easyicon.net.png) [http://www.wox.one/plugin](http://www.wox.one/plugin)
 
-* The humble incremental-search task switcher for Wox: [http://www.wox.one/plugin/52](http://www.wox.one/plugin/52)
+自带 计算器 颜色 控制面板 everything 程序 命令行 URL 网页搜索 等插件
 
-* Make easy to kill process: [http://www.wox.one/plugin/21](http://www.wox.one/plugin/21)
+推荐插件：
+
+* Make easy to kill the process : `wpm install Wox.Plugin.ProcessKiller`
+
+* Remove USB : `wpm install Remove USB`
+
+* The humble incremental-search task switcher： `wpm install Switcheroo for Wox`
 
 ## Enhancement - 系统增强
 
