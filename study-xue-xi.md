@@ -1,20 +1,40 @@
-### GoogleEarth {#GoogleEarth}
 
-### Eudic {#Eudic}
 
-#### NutStore {#NutStore}
+## 语言学习
 
-### ABOBOO {#ABOBOO}
+### ABOBOO![](/assets/time_16px_1217707_easyicon.net.png)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)
+
+学外语必备神器，功能丰富，资源开放，社区活跃，目前版本仅是2017.3.11的V2.9.5版本。
+
+![](/assets/website_18px_1230659_easyicon.net.png) [http://www.aboboo.com](http://www.aboboo.com/g/#/)
+
+### 欧陆词典Eudic
+
+权威的英语词典软件, 支持词典库的扩展，支持win，mac，Phone
+
+![](/assets/website_18px_1230659_easyicon.net.png) [https://www.eudic.net/v4/en/app/eudic](https://www.eudic.net/v4/en/app/eudic)
+
+另附ta家的小语种词典，推荐付费：
+
+法语： ![](/assets/website_18px_1230659_easyicon.net.png)[https://www.eudic.net/v4/fr/app/frhelper](https://www.eudic.net/v4/fr/app/frhelper)
+
+德语： ![](/assets/website_18px_1230659_easyicon.net.png)[https://www.eudic.net/v4/de/app/dehelper](https://www.eudic.net/v4/de/app/dehelper)
+
+西语： ![](/assets/website_18px_1230659_easyicon.net.png)[https://www.eudic.net/v4/es/app/eshelper](https://www.eudic.net/v4/es/app/eshelper)
 
 ### BOOK
 
 [Bookviser](http://apps.microsoft.com/windows/en-us/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f)
 
-* * 为 Windows 8 设备提供简易方式阅读电子书的优质应用。
-* [Calibre](http://calibre-ebook.com/)
-  * 用于电子书管理和转换的强大软件。
-* [kobo](https://www.kobo.com/desktop)
-  * 界面简陋但功能强大的电子书管理和转换软件。
+为 Windows 8 设备提供简易方式阅读电子书的优质应用。
+
+[Calibre](http://calibre-ebook.com/)
+
+用于电子书管理和转换的强大软件。
+
+[kobo](https://www.kobo.com/desktop)
+
+界面简陋但功能强大的电子书管理和转换软件。
 
 ## PDF
 
@@ -34,43 +54,53 @@ pdffactorypro.zip
 
 Solid Converter v8.rar
 
+### GoogleEarth {#GoogleEarth}
+
 ## 在线存储
 
-[百度网盘](https://legacy.gitbook.com/book/joaxin/windows-apps-garden/edit#)
+### 百度网盘
+
+![](/assets/website_18px_1230659_easyicon.net.png)[https://pan.baidu.com](https://pan.baidu.com/)
 
 中国垄断在线存储
 
 ### 微云
 
+![](/assets/website_18px_1230659_easyicon.net.png) [https://www.weiyun.com/](https://www.weiyun.com/)
+
 ### 坚果云
 
-### [Box](https://app.box.com/services/browse/43/box_sync_for_windows)
+![](/assets/website_18px_1230659_easyicon.net.png) [https://www.jianguoyun.com/](https://www.jianguoyun.com/)
+
+NutStore
+
+### Box
 
 能够同步超过100,000个文件，并支持含有特殊字符的文件名和长度超过256个字符的路径。
 
-[Dropbox](https://www.dropbox.com/install)
+### [Dropbox](https://www.dropbox.com/install)
 
 简单，优雅和多功能（PC，Mac，Android ...）云存储解决方案。
 
-[Google Drive](https://www.google.com/drive/download/)
+### [Google Drive](https://www.google.com/drive/download/)
 
 深深融入Google生态系统的云存储解决方案。
 
-[Hubic](https://hubic.com/en/)
+### [Hubic](https://hubic.com/en/)
 
- 为 Windows, Linux, MacOsx, iOs & Android 平台设计的云存储。
+为 Windows, Linux, MacOsx, iOs & Android 平台设计的云存储。
 
-[Mozy](https://mozy.com/product/download)
+### [Mozy](https://mozy.com/product/download)
 
-Mega
+### Mega
 
-Mediafire
+### Mediafire
 
-[OneDrive](https://onedrive.live.com/about/en-us/download/)
+### [OneDrive](https://onedrive.live.com/about/en-us/download/)
 
 为Windows用户提供最佳云存储解决方案
 
-Yandex Drive
+### Yandex Drive
 
 ### 360
 
@@ -173,8 +203,4 @@ FreeOffice 提供一套完整的办公套件，拥有文字编辑器，电子表
 ### [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)
 
 PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR阅读器。 !
-
-
-
-
 
