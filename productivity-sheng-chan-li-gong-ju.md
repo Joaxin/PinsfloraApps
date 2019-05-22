@@ -46,13 +46,13 @@
 
 Launcher & Search
 
-### Listary![](/assets/leaves_15.8208px_1219185_easyicon.net.png)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png) {#Listary}
+### Listary![](/assets/leaves_15.8208px_1219185_easyicon.net.png)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)![](/assets/foreign_language_16.041504539559px_1230978_easyicon.net.png) {#Listary}
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[https://www.listary.com/download](https://www.listary.com/download)
 
 ![](/assets/download_16px_1230169_easyicon.net.png) 便携版：[https://www.listary.com/download/ListaryPortable.zip?version=5.00.2843](https://www.listary.com/download/ListaryPortable.zip?version=5.00.2843)
 
-### Everything![](/assets/leaves_15.8208px_1219185_easyicon.net.png)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png) {#Everything}
+### Everything![](/assets/leaves_15.8208px_1219185_easyicon.net.png)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)![](/assets/foreign_language_16.041504539559px_1230978_easyicon.net.png) {#Everything}
 
 windows搜索神器，极速建立文件索引\(ps:第一次使用，请稍作等待\)，并实时监测文件变化，支持正则搜索，预览，书签，还能建立ETP服务器。
 
@@ -78,7 +78,7 @@ case:wholeword:Trees !flowers "D:\cocofiles\"
 
 如果没带移动硬盘 也可以把之前的移动硬盘索引保存到\`efu\`索引文件中，随时取用
 
-### Wox![](/assets/leaves_15.8208px_1219185_easyicon.net.png)[![](/assets/github_16px_1157868_easyicon.net.png)](https://github.com/Wox-launcher/Wox)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png) {#Wox}
+### Wox![](/assets/leaves_15.8208px_1219185_easyicon.net.png)[![](/assets/github_16px_1157868_easyicon.net.png)](https://github.com/Wox-launcher/Wox)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)![](/assets/foreign_language_16.041504539559px_1230978_easyicon.net.png) {#Wox}
 
 Wox 是windows平台下，由国人开发的启动器，类似于 `macOS` 上的效率神器 [Alfred](https://legacy.gitbook.com/book/joaxin/windows-apps-garden/edit#) 与 `windows`的另一款 [Launchy](https://legacy.gitbook.com/book/joaxin/windows-apps-garden/edit#).
 

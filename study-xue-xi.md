@@ -28,8 +28,6 @@ PDFtoPowerPointPortable
 
 Simpo PDF Merge Split
 
-Acrobat Pro DC 2015.023.20070.zip
-
 formatfactory.rar
 
 pdf636std.rar
@@ -38,7 +36,7 @@ pdffactorypro.zip
 
 Solid Converter v8.rar
 
-### 在线存储
+## 在线存储
 
 * _百度网盘_，其他类似还有腾讯微云，坚果云等。
 
@@ -66,17 +64,37 @@ Solid Converter v8.rar
 
 ## Email - 电子邮件
 
-_Foxmail_- 腾讯出品的中文邮件管理器。
+### _Foxmail_
 
-[http://www.foxmail.com/](http://www.foxmail.com/)
+腾讯的中文邮件客户端,界面比较简洁，支持win和Mac，与qq, gmail邮箱相容性不错。
 
-[MailBird](https://www.mailbird.com/)- IMAP和POP3电子邮件客户端，可定制，完整支持触摸，并提供多语言支持。
+![](/assets/website_18px_1230659_easyicon.net.png)[http://www.foxmail.com/](http://www.foxmail.com/)
 
-[Mailspring](https://getmailspring.com/)- Nylas N1的分支版本.
+### Mailbird![](/assets/leaves_15.8208px_1219185_easyicon.net.png)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)![](/assets/foreign_language_16.041504539559px_1230978_easyicon.net.png)
 
-[Postbox](https://postbox-inc.com/)- 功能强大的电子邮件应用。
+界面简洁漂亮，支持whatsapp，wechat，facebook等插件，支持触摸，免费版只能用一个邮箱地址
 
-[Thunderbird](https://www.mozilla.org/en-US/thunderbird/)- 设计简约的电子邮件客户端。
+![](/assets/website_18px_1230659_easyicon.net.png)[https://www.getmailbird.com/](https://www.getmailbird.com/)
+
+### Mailspring[![](/assets/github_16px_1157868_easyicon.net.png)](https://github.com/Foundry376/Mailspring)![](/assets/foreign_language_16.041504539559px_1230978_easyicon.net.png)
+
+![](/assets/website_18px_1230659_easyicon.net.png)[https://getmailspring.com/](https://getmailspring.com/)
+
+Mailspring是Nylas N1的分支版本，有付费版本，原来的Nylas已经停止维护。
+
+[Postbox](https://postbox-inc.com/)
+
+功能强大的电子邮件应用。
+
+[Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
+
+设计简约的电子邮件客户端。
+
+---
+
+> 如果用第三方邮箱客户端绑定流氓的网易邮箱，会提醒这个，"网易邮箱提醒：一次被阻止的收信行为"，如果这样的话，记得更改这个：
+>
+> [http://config.mail.163.com/settings/imap/login.jsp?uid=yourusername@126.com](http://config.mail.163.com/settings/imap/login.jsp?uid=sunnysky123@126.com)
 
 ## Office
 
