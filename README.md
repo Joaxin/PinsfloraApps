@@ -10,9 +10,9 @@
 
 ​
 
-1 ![](/assets/stop_sign_8.4393358876117px_1226991_easyicon.net %281%29.png)  已经停更的
+1 ![](/assets/stop_sign_8.4393358876117px_1226991_easyicon.net %281%29.png)  已经停更的，此文收录的，意味着暂时没有替代品，如果你有更好的推荐，欢迎
 
-2 ![](/assets/time_16px_1217707_easyicon.net.png)疑似停止维护，长期不更新
+2 ![](/assets/time_16px_1217707_easyicon.net.png)疑似停止维护，长期不更
 
 3 ![](/assets/leaves_15.8208px_1219185_easyicon.net.png) 推荐的
 
@@ -20,7 +20,7 @@
 
 5 ![](/assets/CMD_16px_1104392_easyicon.net.png) 命令行
 
-6 ![](/assets/money_24.632411067194px_1218498_easyicon.net.png) 推荐付费
+6 ![](/assets/money_24.632411067194px_1218498_easyicon.net.png) 可能付费
 
 7 ![](/assets/windows_16.638109305761px_1210167_easyicon.net.png) 仅支持windows
 

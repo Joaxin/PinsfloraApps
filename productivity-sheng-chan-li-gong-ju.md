@@ -2,7 +2,7 @@
 >
 > 工欲善其事，必先利其器。
 
-## [AutoHotkey](https://autohotkey.com/)- Windows平台的终极自动化脚本语言。
+
 
 [Chocolatey](https://chocolatey.org/)- Windows的包管理器。
 
@@ -44,7 +44,7 @@
 
 [Wox](http://www.getwox.com/)- Windows 上效果优异的快捷启动应用。[xoring](https://www.xoring.com/)一款基于番茄工作法的时间管理工具
 
-Launcher & Search
+## Launcher & Search
 
 ### Listary![](/assets/leaves_15.8208px_1219185_easyicon.net.png)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)![](/assets/foreign_language_16.041504539559px_1230978_easyicon.net.png) {#Listary}
 
@@ -100,6 +100,46 @@ Wox 是windows平台下，由国人开发的启动器，类似于 `macOS` 上的
 
 * The humble incremental-search task switcher： `wpm install Switcheroo for Wox`
 
+### RunZ![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)[![](/assets/github_16px_1157868_easyicon.net.png)](https://github.com/goreliu/runz)
+
+简单朴素的基于AHK的快速启动小工具，好久没更新啦
+
+![](/assets/download_16px_1230169_easyicon.net.png)[https://github.com/goreliu/runz/releases](https://github.com/goreliu/runz/releases)
+
+## 文件管理
+
+### Clover![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)![](/assets/foreign_language_16.041504539559px_1230978_easyicon.net.png)![](/assets/leaves_15.8208px_1219185_easyicon.net.png)
+
+win下类似chrome的多标签页管理工具，推荐便携版
+
+![](/assets/golf_hole_13.176470588235px_1224973_easyicon.net.png) win10下可能不稳定，容易崩溃
+
+![](/assets/website_18px_1230659_easyicon.net.png) [http://cn.ejie.me/](http://cn.ejie.me/)
+
+### Directory Opus![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)![](/assets/leaves_15.8208px_1219185_easyicon.net.png)
+
+来自澳大利亚GP公司的高效替代windwos资源管理器的资源管理器
+
+![](/assets/website_18px_1230659_easyicon.net.png)[https://www.就是.com.au/](https://www.gpsoft.com.au/)
+
+### Xyplore![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)![](/assets/leaves_15.8208px_1219185_easyicon.net.png) {#Xyplore}
+
+来自俄罗斯的高效替代windwos资源管理器的资源管理器
+
+![](/assets/website_18px_1230659_easyicon.net.png)[https://www.xyplorer.com/](https://www.xyplorer.com/)
+
+### Total commander![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)
+
+仰其大名，家喻户晓，就是 上上个世纪的GUI
+
+![](/assets/website_18px_1230659_easyicon.net.png)[https://www.ghisler.com/](https://www.ghisler.com/)
+
+### Q-Dir![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)
+
+多目录切换的文件资源管理器
+
+![](/assets/website_18px_1230659_easyicon.net.png)[https://www.softwareok.com/?seite=Freeware/Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir)
+
 ## Enhancement - 系统增强
 
 WGestures
@@ -136,8 +176,6 @@ WGestures
 
 ### FileMenuTools {#FileMenuTools}
 
-### Xyplore {#Xyplore}
-
 ### FileLocatorPro {#FileLocatorPro}
 
 ### Quicklook {#Quicklook}
@@ -156,9 +194,11 @@ SRename
 
 ## Keys
 
-### AutoHotkey {#Autohotkey}
+### AutoHotkey![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)![](/assets/foreign_language_16.041504539559px_1230978_easyicon.net.png)![](/assets/github_16px_1157868_easyicon.net.png) {#Autohotkey}
 
-## 
+快速启动 各种脚本 资源丰富
+
+![](/assets/website_18px_1230659_easyicon.net.png)[https://autohotkey.com/](https://autohotkey.com/)
 
 
 

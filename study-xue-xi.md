@@ -1,5 +1,3 @@
-
-
 ## 语言学习
 
 ### ABOBOO![](/assets/time_16px_1217707_easyicon.net.png)![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)
@@ -55,58 +53,6 @@ pdffactorypro.zip
 Solid Converter v8.rar
 
 ### GoogleEarth {#GoogleEarth}
-
-## 在线存储
-
-### 百度网盘
-
-![](/assets/website_18px_1230659_easyicon.net.png)[https://pan.baidu.com](https://pan.baidu.com/)
-
-中国垄断在线存储
-
-### 微云
-
-![](/assets/website_18px_1230659_easyicon.net.png) [https://www.weiyun.com/](https://www.weiyun.com/)
-
-### 坚果云
-
-![](/assets/website_18px_1230659_easyicon.net.png) [https://www.jianguoyun.com/](https://www.jianguoyun.com/)
-
-NutStore
-
-### Box
-
-能够同步超过100,000个文件，并支持含有特殊字符的文件名和长度超过256个字符的路径。
-
-### [Dropbox](https://www.dropbox.com/install)
-
-简单，优雅和多功能（PC，Mac，Android ...）云存储解决方案。
-
-### [Google Drive](https://www.google.com/drive/download/)
-
-深深融入Google生态系统的云存储解决方案。
-
-### [Hubic](https://hubic.com/en/)
-
-为 Windows, Linux, MacOsx, iOs & Android 平台设计的云存储。
-
-### [Mozy](https://mozy.com/product/download)
-
-### Mega
-
-### Mediafire
-
-### [OneDrive](https://onedrive.live.com/about/en-us/download/)
-
-为Windows用户提供最佳云存储解决方案
-
-### Yandex Drive
-
-### 360
-
-自360云盘关闭事件后，仅提供企业版
-
-![](/assets/website_18px_1230659_easyicon.net.png)[https://yunpan.360.cn/](https://yunpan.360.cn/)
 
 ### 备份
 
