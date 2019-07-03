@@ -150,11 +150,9 @@ PyCharm LicenseServer：
 
 ## Vscode
 
-
-
 ## Database
 
-#### Sqlitebrowser
+#### DB Browser for SQLite
 
 ![](/assets/website_18px_1230659_easyicon.net.png)[http://www.sqlitebrowser.org](http://www.sqlitebrowser.org/dl/)
 
