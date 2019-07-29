@@ -6,6 +6,10 @@
 * [Music & Audio - 音乐](music.md)
 * [Player - 播放器](player-bo-fang-qi.md)
 * [Coding - 编程开发](coding-bian-cheng-kai-fa.md)
+  * [R](coding-bian-cheng-kai-fa/r.md)
+  * Python
+  * [Node.js](coding-bian-cheng-kai-fa/nodejs.md)
+  * [C/C++](coding-bian-cheng-kai-fa/cc++.md)
 * [Browser - 浏览器](browser.md)
 * [Editor - 编辑器](editor.md)
 * [Productivity - 生产力工具](productivity-sheng-chan-li-gong-ju.md)
