@@ -182,13 +182,18 @@ $3.7.3
 
 Install from [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
-Encounter 2503/2502 error on win10,
+![](/assets/website_18px_1230659_easyicon.net.png) Encounter 2503/2502 error on win10, 
 
-|  | msiexec /package node-v10.11.0-x64.msi |
-| :--- | :--- |
+msiexec /package node-v10.16.0-x64.msi
 
 
-#  {#Browser}
+
+To install the most recent LTS version of Node 10.x on e.g. ubantu 18.04 , you need to use the [package manager](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions) to get it from the Ubuntu _binary distributions _repository.
+
+```
+curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash - 
+sudo apt-get install -y nodejs
+```
 
 # Git {#Git}
 
