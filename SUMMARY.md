@@ -60,5 +60,5 @@
 * [硬件数据](ying-jian-xiang-guan.md)
   * [硬件测试](ying-jian-xiang-guan/ying-jian-ce-shi.md)
   * [数据恢复](ying-jian-xiang-guan/shu-ju-hui-fu.md)
-* [CD工具](ying-jian-xiang-guan/cdgong-ju.md)
+* [Suggestions](ying-jian-xiang-guan/cdgong-ju.md)
 
