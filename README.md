@@ -1,10 +1,8 @@
 # Windows Apps Garden
 
-![](https://img.shields.io/badge/应用总数-308-blue.svg)
+![](https://img.shields.io/badge/总数-410-blue.svg)
 
 ![](https://img.shields.io/badge/☎️联系-telegram-ff69b4.svg)
-
-
 
 1 ![](/assets/stop_sign_continue_Q.png)  已经停更的，此文收录的，意味着暂时没有替代品，如果你有更好的推荐，欢迎
 
@@ -37,6 +35,10 @@
 15 ![](/assets/documents.png) 帮助文档
 
 ![](/assets/zlaw.png) 因当地法律不允许的，暂不收录
+
+
+
+
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
 
