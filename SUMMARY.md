@@ -23,7 +23,7 @@
   * [音乐创作](music/yin-le-gong-ju.md)
   * [Video - 视频播放器](music/video-shi-pin-bo-fang-qi.md)
 * [Coding - 编程开发](coding-bian-cheng-kai-fa.md)
-  * [IDE](coding-bian-cheng-kai-fa/ide.md)
+  * [开发环境 - IDE](coding-bian-cheng-kai-fa/ide.md)
   * [图片工具](design-she-ji/tu-pian.md)
   * [Python](coding-bian-cheng-kai-fa/python.md)
   * [R](coding-bian-cheng-kai-fa/r.md)
@@ -41,6 +41,7 @@
   * 系统安全
   * 压缩工具
   * 系统监控
+  * [进程管理](systems-xi-tong-gong-ju/jin-cheng-guan-li.md)
 * [Life - 生活助手](life-sheng-huo-zhu-shou.md)
 * [ScreenCapture - 图形图像](screencapture-tu-xing-tu-xiang.md)
 * [硬件相关](ying-jian-xiang-guan.md)

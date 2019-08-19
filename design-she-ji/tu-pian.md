@@ -13,6 +13,10 @@ For Image Storage Service
 🚀A simple & beautiful tool for pictures uploading built by electron-vue [https://molunerfinn.com/PicGo/](https://molunerfinn.com/PicGo/)
 
 
+### [pngquant](https://pngquant.org/)
+对具有或不具有透明度的PNG文件应用有损压缩以获得更高效的文件。
+
+
 
 
 
