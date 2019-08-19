@@ -38,7 +38,7 @@
   * [Math](coding-bian-cheng-kai-fa/math.md)
 * [Productivity - 生产力工具](productivity-sheng-chan-li-gong-ju.md)
   * [Backup - 备份](productivity-sheng-chan-li-gong-ju/backup-bei-fen.md)
-  * [Capture - 截图](productivity-sheng-chan-li-gong-ju/capture-jie-tu.md)
+  * [Capture - 截图工具](productivity-sheng-chan-li-gong-ju/capture-jie-tu.md)
   * [格式转换](productivity-sheng-chan-li-gong-ju/ge-shi-zhuan-huan.md)
   * [下载](xia-zai.md)
   * [ScreenCapture - 图形图像](screencapture-tu-xing-tu-xiang.md)
