@@ -1,6 +1,8 @@
-### Picasa {#Picasa}
+
 
 ### Snipaste {#Snipaste}
+
+一款高效率功能全面的截图软件
 
 [https://www.snipaste.com](https://www.snipaste.com/)
 
@@ -10,29 +12,5 @@
 
 [https://picpick.app/](https://picpick.app/)
 
-### Screen Capture
 
-FSCapture
-
-FastStone Capture
-
-Bandicam
-
-CamRecorder
-
-CamtasiaStudio
-
-
-### Gif {#Gif}
-
-* ScreenToGif
-* GifCam
-
-## Tiny
-
-Licecap
-
-fraps
-
-clipx
 
