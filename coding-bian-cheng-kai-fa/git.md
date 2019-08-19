@@ -73,3 +73,8 @@ SSH 和 telnet 客户端。
 ### [Alacritty](https://github.com/jwilm/alacritty)
 跨平台，使用GPU加速的终端模拟器。
  一个强大的命令行shell。
+ 
+### [Chocolatey](https://chocolatey.org/)
+
+Windows的包管理器。
+ 

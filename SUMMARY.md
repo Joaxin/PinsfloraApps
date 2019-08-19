@@ -38,14 +38,18 @@
   * [Math](coding-bian-cheng-kai-fa/math.md)
 * [Productivity - 生产力工具](productivity-sheng-chan-li-gong-ju.md)
   * [Backup - 备份](productivity-sheng-chan-li-gong-ju/backup-bei-fen.md)
-  * [Capture - 截图工具](productivity-sheng-chan-li-gong-ju/capture-jie-tu.md)
   * [格式转换](productivity-sheng-chan-li-gong-ju/ge-shi-zhuan-huan.md)
+  * 系统美化
   * [下载](xia-zai.md)
-  * [ScreenCapture - 图形图像](screencapture-tu-xing-tu-xiang.md)
+  * [剪切板 - Clipboard](productivity-sheng-chan-li-gong-ju/jian-qie-ban.md)
+  * [Capture - 截图工具](screencapture-tu-xing-tu-xiang.md)
+  * [Capture - 录制工具](productivity-sheng-chan-li-gong-ju/capture-jie-tu.md)
+  * [资源管理器增强](productivity-sheng-chan-li-gong-ju/zi-yuan-guan-li-qi-zeng-qiang.md)
+  * [专注 ](productivity-sheng-chan-li-gong-ju/zhuan-zhu.md)
 * [Systems - 系统工具](systems-xi-tong-gong-ju.md)
   * 系统安全
   * 压缩工具
-  * 系统监控
+  * [系统监控](systems-xi-tong-gong-ju/xi-tong-jian-kong.md)
   * [进程管理](systems-xi-tong-gong-ju/jin-cheng-guan-li.md)
 * [硬件数据](ying-jian-xiang-guan.md)
 * [Suggestions](suggestions.md)
