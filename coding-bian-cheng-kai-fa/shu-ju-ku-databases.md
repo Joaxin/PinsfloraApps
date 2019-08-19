@@ -2,9 +2,15 @@
 
 ## 数据查看工具
 
+### Datagrip
+
 ### [DB Browser for SQLite](http://sqlitebrowser.org/)
 
 高质量, 可视化, 开源的数据库工具, 用于创建, 设计, 编辑 SQLite 的数据库文件。
+
+![](/assets/website_18px_1230659_easyicon.net.png)[http://www.sqlitebrowser.org](http://www.sqlitebrowser.org/dl/)
+
+[http://www.sqlitebrowser.org/dl/](http://www.sqlitebrowser.org/dl/)
 
 ### [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools)
 

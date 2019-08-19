@@ -11,7 +11,14 @@ To install the most recent LTS version of Node 10.x on e.g. ubuntu 18.04 , you n
 ```bash
 curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash - 
 sudo apt-get install -y nodejs
+
 ```
+
+### [WebStorm](https://www.jetbrains.com/webstorm/)
+
+JetBrain出品的JavaScipt开发平台。
+
+
 
 
 
