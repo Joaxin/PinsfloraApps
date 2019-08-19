@@ -26,8 +26,6 @@ A graphics editor
 
 开源图像编辑器。
 
-
-
 [Paint.NET](http://www.getpaint.net/)
 
 
