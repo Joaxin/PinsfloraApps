@@ -39,13 +39,15 @@
 * [Productivity - 生产力工具](productivity-sheng-chan-li-gong-ju.md)
   * [Backup - 备份](productivity-sheng-chan-li-gong-ju/backup-bei-fen.md)
   * [格式转换](productivity-sheng-chan-li-gong-ju/ge-shi-zhuan-huan.md)
-  * 系统美化
+  * [系统美化](productivity-sheng-chan-li-gong-ju/xi-tong-mei-hua.md)
   * [下载](xia-zai.md)
   * [剪切板 - Clipboard](productivity-sheng-chan-li-gong-ju/jian-qie-ban.md)
   * [Capture - 截图工具](screencapture-tu-xing-tu-xiang.md)
   * [Capture - 录制工具](productivity-sheng-chan-li-gong-ju/capture-jie-tu.md)
   * [资源管理器增强](productivity-sheng-chan-li-gong-ju/zi-yuan-guan-li-qi-zeng-qiang.md)
   * [专注 ](productivity-sheng-chan-li-gong-ju/zhuan-zhu.md)
+  * [文件管理](productivity-sheng-chan-li-gong-ju/wen-jian-guan-li.md)
+  * [快速启动](productivity-sheng-chan-li-gong-ju/kuai-su-qi-dong.md)
 * [Systems - 系统工具](systems-xi-tong-gong-ju.md)
   * 系统安全
   * 压缩工具
