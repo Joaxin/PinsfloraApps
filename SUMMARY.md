@@ -5,7 +5,8 @@
   * [Reading - 阅读](study-xue-xi/reading-yue-du.md)
   * [Study - 学习](study-xue-xi/study-xue-xi.md)
   * [Email - 电子邮件 ](study-xue-xi/email-dian-zi-you-jian.md)
-  * PDF
+  * [PDF](study-xue-xi/pdf.md)
+  * [GIS - 地理](study-xue-xi/gis-di-li.md)
 * [Design - 设计](design-she-ji.md)
 * [Music & Audio - 音乐](music.md)
 * [Player - 播放器](player-bo-fang-qi.md)
@@ -17,6 +18,7 @@
 * [Browser - 浏览器](browser.md)
 * [Editor - 编辑器](editor.md)
 * [Productivity - 生产力工具](productivity-sheng-chan-li-gong-ju.md)
+  * [Backup - 备份](productivity-sheng-chan-li-gong-ju/backup-bei-fen.md)
 * [Systems - 系统工具](systems-xi-tong-gong-ju.md)
 * [Life - 生活助手](life-sheng-huo-zhu-shou.md)
 * [ScreenCapture - 图形图像](screencapture-tu-xing-tu-xiang.md)
