@@ -1,8 +1,4 @@
-[Blender](https://www.blender.org/)- 功能齐全的可扩展跨平台3D内容套件。
 
-[Gimp](http://www.gimp.org/)- 开源图像编辑器。
-
-[Inkscape](https://inkscape.org/en/)- 免费的矢量图形设计软件。
 
 [Krita](https://krita.org/)- 有一堆很酷的功能的免费绘图软件。
 
@@ -18,9 +14,19 @@ http://www.picosmos.net
 ### [Photoshop](https://www.adobe.com/products/photoshop.html)
  make images for your web pages.
  
-### [GIMP](http://www.gimp.org/)
+ 
+### [Inkscape](https://inkscape.org/en/)
+
+免费的矢量图形设计软件。
+
+
+### [GIMP](http://www.gimp.org/)![](/assets/website_official.png) ![](/assets/github_open.png)
 
 A graphics editor
+
+开源图像编辑器。
+
+
 
 [Paint.NET](http://www.getpaint.net/)
 
