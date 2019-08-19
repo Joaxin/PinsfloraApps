@@ -63,7 +63,7 @@
 * [硬件数据](ying-jian-xiang-guan.md)
   * [硬件测试](ying-jian-xiang-guan/ying-jian-ce-shi.md)
   * [数据恢复](ying-jian-xiang-guan/shu-ju-hui-fu.md)
-  * [硬件监控](ying-jian-xiang-guan/ying-jian-jian-kong.md)
+  * [硬件信息](ying-jian-xiang-guan/ying-jian-jian-kong.md)
   * [硬件维护 - Maintenance](ying-jian-xiang-guan/maintenance.md)
 * [Suggestions](ying-jian-xiang-guan/cdgong-ju.md)
 
