@@ -7,6 +7,7 @@
   * [Email - 电子邮件 ](study-xue-xi/email-dian-zi-you-jian.md)
   * [PDF](study-xue-xi/pdf.md)
   * [GIS - 地理](study-xue-xi/gis-di-li.md)
+  * [Office - 办公](study-xue-xi/office-ban-gong.md)
 * [Design - 设计](design-she-ji.md)
 * [Music & Audio - 音乐](music.md)
 * [Player - 播放器](player-bo-fang-qi.md)
