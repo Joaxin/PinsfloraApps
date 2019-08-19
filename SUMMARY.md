@@ -34,6 +34,8 @@
   * [Shell](coding-bian-cheng-kai-fa/git.md)
   * [服务器](coding-bian-cheng-kai-fa/fu-wu-qi.md)
   * [开发环境](coding-bian-cheng-kai-fa/kai-fa-huan-jing.md)
+  * [游戏开发](coding-bian-cheng-kai-fa/you-xi-kai-fa.md)
+  * [Math](coding-bian-cheng-kai-fa/math.md)
 * [Productivity - 生产力工具](productivity-sheng-chan-li-gong-ju.md)
   * [Backup - 备份](productivity-sheng-chan-li-gong-ju/backup-bei-fen.md)
   * [Capture - 截图](productivity-sheng-chan-li-gong-ju/capture-jie-tu.md)
