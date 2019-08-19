@@ -26,5 +26,7 @@ Install [extension-source-viewer](https://addons.opera.com/zh-cn/extensions/deta
 
 ## Tor ![](/assets/zlaw.png)
 
+启用匿名通信
+
 [https://www.torproject.org/download/](https://www.torproject.org/download/)
 
