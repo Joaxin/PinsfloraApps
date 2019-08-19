@@ -49,6 +49,7 @@
   * [专注 ](productivity-sheng-chan-li-gong-ju/zhuan-zhu.md)
   * [文件管理](productivity-sheng-chan-li-gong-ju/wen-jian-guan-li.md)
   * [图片管理](productivity-sheng-chan-li-gong-ju/tu-pian-guan-li.md)
+  * [文件传输](productivity-sheng-chan-li-gong-ju/wen-jian-chuan-shu.md)
 * [Systems - 系统工具](systems-xi-tong-gong-ju.md)
   * [系统安全](systems-xi-tong-gong-ju/xi-tong-an-quan.md)
   * [系统清理](systems-xi-tong-gong-ju/xi-tong-qing-li.md)
@@ -58,9 +59,11 @@
   * [进程管理](systems-xi-tong-gong-ju/jin-cheng-guan-li.md)
   * [压缩工具](systems-xi-tong-gong-ju/ya-suo-gong-ju.md)
   * [CD工具](ying-jian-xiang-guan/cdgong-ju.md)
+  * [启动盘](systems-xi-tong-gong-ju/qi-dong-pan.md)
 * [硬件数据](ying-jian-xiang-guan.md)
   * [硬件测试](ying-jian-xiang-guan/ying-jian-ce-shi.md)
   * [数据恢复](ying-jian-xiang-guan/shu-ju-hui-fu.md)
-  * Maintenance
+  * [硬件监控](ying-jian-xiang-guan/ying-jian-jian-kong.md)
+  * [硬件维护 - Maintenance](ying-jian-xiang-guan/maintenance.md)
 * [Suggestions](ying-jian-xiang-guan/cdgong-ju.md)
 

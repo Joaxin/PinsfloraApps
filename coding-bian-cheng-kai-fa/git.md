@@ -82,3 +82,4 @@ Windows 的命令行安装程序。
 
 Windows的包管理器。
  
+ ### [Windows终端命令的A-Z](http://ss64.com/nt/)

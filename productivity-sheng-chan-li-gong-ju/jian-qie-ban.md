@@ -6,10 +6,5 @@
 ### [Ditto](http://ditto-cp.sourceforge.net/)
  剪贴板管理器。
  
- 
- Licecap
 
-fraps
-
-clipx
 

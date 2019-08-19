@@ -24,3 +24,6 @@
 ### [ZBar](http://www.zhornsoftware.co.uk/zbar/)
 
 如果你使用多个显示器，它可以让你在每个显示器上单独显示任务栏。
+
+###[PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3)
+ Windows 10上快速切换电源计划。

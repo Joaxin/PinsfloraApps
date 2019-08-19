@@ -19,8 +19,13 @@
 ### [Fraps](http://www.fraps.com/)
  视频游戏屏幕录制机，可用于所有使用 DirectX 或 OpenGL 技术的游戏。
  
-### Gif {#Gif}
+## Gif {#Gif}
 
 * ScreenToGif
 * GifCam
+
+### [LICEcap](http://www.cockos.com/licecap/)
+ 捕获屏幕动画并直接保存到.GIF。
+
+
 

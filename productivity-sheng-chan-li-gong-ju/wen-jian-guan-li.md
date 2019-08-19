@@ -49,6 +49,10 @@ win下类似chrome的多标签页管理工具，推荐便携版
 
 [https://github.com/QL-Win/QuickLook/releases](https://github.com/QL-Win/QuickLook/releases)
 
+### [SpaceMonger](https://spacemonger.en.softonic.com/download)
+
+一款图形化程序，可根据文件和目录的大小将其显示为不同大小的块。
+
 ### [Ext2Fsd](http://www.ext2fsd.com/)
 
 轻松在Windows系统下挂载EXT3/4文件系统。
@@ -59,6 +63,10 @@ win下类似chrome的多标签页管理工具，推荐便携版
 
  ### [FreeFileSync](http://www.freefilesync.org/)
   文件和文件夹的简单备份解决方案，它支持源和目标之间的镜像/双向同步/更新。
+  
+  
+ ###[Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html)
+ 为资源管理器建立符号链接。
 
 
 
