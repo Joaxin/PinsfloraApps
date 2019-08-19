@@ -19,3 +19,6 @@ Git图形客户端，集成Shell工具包.
 ### [TortoiseSVN](https://tortoisesvn.net/)
 
 Subversion\(SVN\)的图形客户端
+
+ ### [Zsh](http://www.zsh.org/)
+ 一个强大的命令行shell。
