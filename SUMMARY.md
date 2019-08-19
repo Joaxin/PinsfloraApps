@@ -36,7 +36,7 @@
   * [开发环境](coding-bian-cheng-kai-fa/kai-fa-huan-jing.md)
   * [游戏开发](coding-bian-cheng-kai-fa/you-xi-kai-fa.md)
   * [Math](coding-bian-cheng-kai-fa/math.md)
-  * 破解相关
+  * [破解相关](coding-bian-cheng-kai-fa/po-jie-xiang-guan.md)
 * [Productivity - 生产力工具](productivity-sheng-chan-li-gong-ju.md)
   * [Backup - 备份](productivity-sheng-chan-li-gong-ju/backup-bei-fen.md)
   * [格式转换](productivity-sheng-chan-li-gong-ju/ge-shi-zhuan-huan.md)
@@ -61,5 +61,6 @@
 * [硬件数据](ying-jian-xiang-guan.md)
   * [硬件测试](ying-jian-xiang-guan/ying-jian-ce-shi.md)
   * [数据恢复](ying-jian-xiang-guan/shu-ju-hui-fu.md)
+  * Maintenance
 * [Suggestions](ying-jian-xiang-guan/cdgong-ju.md)
 

@@ -49,6 +49,19 @@ win下类似chrome的多标签页管理工具，推荐便携版
 
 [https://github.com/QL-Win/QuickLook/releases](https://github.com/QL-Win/QuickLook/releases)
 
+### [Ext2Fsd](http://www.ext2fsd.com/)
+
+轻松在Windows系统下挂载EXT3/4文件系统。
+
+
+### [Far](http://www.farmanager.com/index.php?l=en)
+文件和归档管理器。克隆自诺顿指挥官。
+
+ ### [FreeFileSync](http://www.freefilesync.org/)
+  文件和文件夹的简单备份解决方案，它支持源和目标之间的镜像/双向同步/更新。
+
+
+
 
 
 
