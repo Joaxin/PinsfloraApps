@@ -13,3 +13,26 @@
 图片工厂
 
 http://www.picosmos.net
+
+
+### [Photoshop](https://www.adobe.com/products/photoshop.html)
+ make images for your web pages.
+ 
+### [GIMP](http://www.gimp.org/)
+
+A graphics editor
+
+[Paint.NET](http://www.getpaint.net/)
+
+
+
+
+
+
+
+
+
+
+
+
+

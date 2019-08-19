@@ -15,3 +15,23 @@
 ### [NitroPDF](https://www.gonitro.com/pdf-reader) 
 
 你会得到最好的PDF阅读器。
+
+* SolidConverterPDF
+* PDFXVwer
+
+### OCR {#OCR}
+
+* ABBYY FineReader
+
+### Acrobat Pro {#Acrobat-Pro}
+
+
+
+
+
+
+
+
+
+
+
