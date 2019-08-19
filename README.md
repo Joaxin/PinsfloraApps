@@ -1,14 +1,10 @@
-# My Awesome Book
-
-![](https://img.shields.io/badge/build-passing-green.svg)
+# Windows Apps Garden
 
 ![](https://img.shields.io/badge/应用总数-308-blue.svg)
 
 ![](https://img.shields.io/badge/☎️联系-telegram-ff69b4.svg)
 
-![](https://img.shields.io/github/issues/AmazingApps/Amazing-Windows-Apps.svg)
 
-​
 
 1 ![](/assets/stop_sign_continue_Q.png)  已经停更的，此文收录的，意味着暂时没有替代品，如果你有更好的推荐，欢迎
 
