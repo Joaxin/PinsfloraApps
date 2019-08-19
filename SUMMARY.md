@@ -30,6 +30,8 @@
   * [Node.js](coding-bian-cheng-kai-fa/nodejs.md)
   * [C/C++](coding-bian-cheng-kai-fa/cc++.md)
   * [网络开发](coding-bian-cheng-kai-fa/wang-luo-kai-fa.md)
+  * [数据库 - Databases](coding-bian-cheng-kai-fa/shu-ju-ku-databases.md)
+  * [Git](coding-bian-cheng-kai-fa/git.md)
 * [Productivity - 生产力工具](productivity-sheng-chan-li-gong-ju.md)
   * [Backup - 备份](productivity-sheng-chan-li-gong-ju/backup-bei-fen.md)
   * [Capture - 截图](productivity-sheng-chan-li-gong-ju/capture-jie-tu.md)
