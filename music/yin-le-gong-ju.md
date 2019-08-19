@@ -8,7 +8,7 @@
 
 ![](/assets/website_open.png) [https://www.audacityteam.org/](https://www.audacityteam.org/)
 
-![](/assets/download_16px_1230169_easyicon.net.png) [https://www.audacityteam.org/download/windows/](https://www.audacityteam.org/download/windows/)
+![](/assets/download.png) [https://www.audacityteam.org/download/windows/](https://www.audacityteam.org/download/windows/)
 
 ### AudioNodes
 

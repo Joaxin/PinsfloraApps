@@ -1,3 +1,12 @@
 ### C4D {#C4D}
 
 ![](/assets/website_official.png)[https://www.maxon.net/en/](https://www.maxon.net/en/)
+
+
+## 解码相关
+
+### K-Lite Codecs
+
+[http://www.codecguide.com/download\_kl.htm](http://www.codecguide.com/download_kl.htm)
+
+Collection of DirectShow filters, VFW/ACM codecs, and tools.

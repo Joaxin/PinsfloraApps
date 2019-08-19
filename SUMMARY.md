@@ -14,11 +14,10 @@
   * [工程绘图](design-she-ji/gong-cheng-hui-tu.md)
   * [影视工程](design-she-ji/ying-shi-gong-cheng.md)
   * [插件 - Plugins](design-she-ji/xiao-gong-ju.md)
-* [Music & Audio - 音乐](music.md)
+* [Music & Video - 音乐视频](music.md)
   * [Music - 音乐播放器](music/music-yin-le-bo-fang-qi.md)
   * [音乐创作](music/yin-le-gong-ju.md)
   * [Video - 视频播放器](music/video-shi-pin-bo-fang-qi.md)
-* [Player - 播放器](player-bo-fang-qi.md)
 * [Coding - 编程开发](coding-bian-cheng-kai-fa.md)
   * [R](coding-bian-cheng-kai-fa/r.md)
   * Python
