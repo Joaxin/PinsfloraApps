@@ -34,10 +34,10 @@
 
 15 ![](/assets/documents.png) 帮助文档
 
-![](/assets/zlaw.png) 因当地法律不允许的，暂不收录
+16 ![](/assets/zlaw.png) 使用时请遵循当地法律
 
 
-
+暂不收录网络工具
 
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")

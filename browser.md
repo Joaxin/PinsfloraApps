@@ -2,6 +2,10 @@
 
 [https://repo.fdzh.org/chrome/exe/?C=M&O=D](https://repo.fdzh.org/chrome/exe/?C=M&O=D)
 
+[https://www.google.cn/intl/zh-CN/chrome/](https://www.google.cn/intl/zh-CN/chrome/)
+
+
+
 ## Opera
 
 [https://www.opera.com](https://www.opera.com/)
@@ -12,9 +16,6 @@ Install [extension-source-viewer](https://addons.opera.com/zh-cn/extensions/deta
 
 [https://browser.yandex.com/](https://browser.yandex.com/)
 
-### Chrome {#Chrome}
-
-[https://www.google.cn/intl/zh-CN/chrome/](https://www.google.cn/intl/zh-CN/chrome/)
 
 ### Firefox {#Firefox}
 
@@ -24,7 +25,7 @@ Install [extension-source-viewer](https://addons.opera.com/zh-cn/extensions/deta
 
 [https://vivaldi.com/](https://vivaldi.com/)
 
-## Tor
+## Tor ![](/assets/zlaw.png)
 
 [https://www.torproject.org/download/](https://www.torproject.org/download/)
 

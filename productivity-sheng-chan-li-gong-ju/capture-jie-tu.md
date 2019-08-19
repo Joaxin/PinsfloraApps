@@ -1,0 +1,1 @@
+[Snipaste](https://zh.snipaste.com/)一款高效率功能全面的截图软件
