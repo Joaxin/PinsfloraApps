@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 * [Study - 学习阅读](study-xue-xi.md)
+  * [Reading - 阅读](study-xue-xi/reading-yue-du.md)
+  * [Study - 学习](study-xue-xi/study-xue-xi.md)
+  * [Email - 电子邮件 ](study-xue-xi/email-dian-zi-you-jian.md)
+  * PDF
 * [Design - 设计](design-she-ji.md)
 * [Music & Audio - 音乐](music.md)
 * [Player - 播放器](player-bo-fang-qi.md)
