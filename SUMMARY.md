@@ -40,16 +40,13 @@
   * [Backup - 备份](productivity-sheng-chan-li-gong-ju/backup-bei-fen.md)
   * [Capture - 截图](productivity-sheng-chan-li-gong-ju/capture-jie-tu.md)
   * [格式转换](productivity-sheng-chan-li-gong-ju/ge-shi-zhuan-huan.md)
+  * [下载](xia-zai.md)
+  * [ScreenCapture - 图形图像](screencapture-tu-xing-tu-xiang.md)
 * [Systems - 系统工具](systems-xi-tong-gong-ju.md)
   * 系统安全
   * 压缩工具
   * 系统监控
   * [进程管理](systems-xi-tong-gong-ju/jin-cheng-guan-li.md)
-* [Life - 生活助手](life-sheng-huo-zhu-shou.md)
-* [ScreenCapture - 图形图像](screencapture-tu-xing-tu-xiang.md)
-* [硬件相关](ying-jian-xiang-guan.md)
-* [TestTools - 测试工具](testtools-ce-shi-gong-ju.md)
-* [聊天沟通 - Chat](gou-tong.md)
-* [下载](xia-zai.md)
+* [硬件数据](ying-jian-xiang-guan.md)
 * [Suggestions](suggestions.md)
 
