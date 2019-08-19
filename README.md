@@ -20,7 +20,7 @@
 
 5 ![](/assets/CMD_16px_1104392_easyicon.net.png) 命令行
 
-6 ![](/assets/money_24.632411067194px_1218498_easyicon.net.png) 可能付费
+6 ![](/assets/money_24.632411067194px_1218498_easyicon.net.png) 需付费
 
 7 ![](/assets/windows_16.638109305761px_1210167_easyicon.net.png) 仅支持windows
 
