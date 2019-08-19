@@ -36,6 +36,7 @@
   * [开发环境](coding-bian-cheng-kai-fa/kai-fa-huan-jing.md)
   * [游戏开发](coding-bian-cheng-kai-fa/you-xi-kai-fa.md)
   * [Math](coding-bian-cheng-kai-fa/math.md)
+  * 破解相关
 * [Productivity - 生产力工具](productivity-sheng-chan-li-gong-ju.md)
   * [Backup - 备份](productivity-sheng-chan-li-gong-ju/backup-bei-fen.md)
   * [格式转换](productivity-sheng-chan-li-gong-ju/ge-shi-zhuan-huan.md)
@@ -44,15 +45,20 @@
   * [剪切板 - Clipboard](productivity-sheng-chan-li-gong-ju/jian-qie-ban.md)
   * [Capture - 截图工具](screencapture-tu-xing-tu-xiang.md)
   * [Capture - 录制工具](productivity-sheng-chan-li-gong-ju/capture-jie-tu.md)
-  * [资源管理器增强](productivity-sheng-chan-li-gong-ju/zi-yuan-guan-li-qi-zeng-qiang.md)
   * [专注 ](productivity-sheng-chan-li-gong-ju/zhuan-zhu.md)
   * [文件管理](productivity-sheng-chan-li-gong-ju/wen-jian-guan-li.md)
   * [快速启动](productivity-sheng-chan-li-gong-ju/kuai-su-qi-dong.md)
 * [Systems - 系统工具](systems-xi-tong-gong-ju.md)
-  * 系统安全
-  * 压缩工具
+  * [系统安全](systems-xi-tong-gong-ju/xi-tong-an-quan.md)
+  * [系统清理](systems-xi-tong-gong-ju/xi-tong-qing-li.md)
+  * [系统工具](systems-xi-tong-gong-ju/xi-tong-gong-ju.md)
   * [系统监控](systems-xi-tong-gong-ju/xi-tong-jian-kong.md)
+  * [软件管理](systems-xi-tong-gong-ju/ruan-jian-guan-li.md)
   * [进程管理](systems-xi-tong-gong-ju/jin-cheng-guan-li.md)
+  * [压缩工具](systems-xi-tong-gong-ju/ya-suo-gong-ju.md)
+  * [CD工具](ying-jian-xiang-guan/cdgong-ju.md)
 * [硬件数据](ying-jian-xiang-guan.md)
-* [Suggestions](suggestions.md)
+  * [硬件测试](ying-jian-xiang-guan/ying-jian-ce-shi.md)
+  * [数据恢复](ying-jian-xiang-guan/shu-ju-hui-fu.md)
+* [CD工具](ying-jian-xiang-guan/cdgong-ju.md)
 

@@ -74,6 +74,10 @@ SSH 和 telnet 客户端。
 跨平台，使用GPU加速的终端模拟器。
  一个强大的命令行shell。
  
+### [Scoop](https://github.com/lukesampson/scoop)
+
+Windows 的命令行安装程序。
+ 
 ### [Chocolatey](https://chocolatey.org/)
 
 Windows的包管理器。

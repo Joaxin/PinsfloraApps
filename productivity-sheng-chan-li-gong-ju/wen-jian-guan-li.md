@@ -34,6 +34,22 @@ win下类似chrome的多标签页管理工具，推荐便携版
 
 
 
+### [MultiCommander](http://multicommander.com/)
+
+为专业用户提供的文件管理器。
+
+### [One Commander](http://onecommander.com/)
+ 多面板的文件管理器。
+
+### FileLocatorPro {#FileLocatorPro}
+
+### Quicklook {#Quicklook}
+
+[https://github.com/QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
+
+[https://github.com/QL-Win/QuickLook/releases](https://github.com/QL-Win/QuickLook/releases)
+
+
 
 
 

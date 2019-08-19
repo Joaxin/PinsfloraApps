@@ -20,3 +20,7 @@
 
 西语： ![](/assets/website_official.png)[https://www.eudic.net/v4/es/app/eshelper](https://www.eudic.net/v4/es/app/eshelper)
 
+### [WordWeb](http://wordweb.info/)
+
+Windows 上很好的英文词典。
+
