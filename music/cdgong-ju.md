@@ -1,12 +1,12 @@
-## CD抓轨
-
 ### CDex
 
 CD 音轨抓取工具
 
 [http://www.cdex.fr/](http://www.cdex.fr/)
 
-* CD Ripper \(French site, English program\).
+### CD Ripper 
+
+French site, English program.
 
 ### Exact Audio Copy
 

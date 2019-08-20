@@ -16,4 +16,7 @@
 
 ![](/assets/download.png)[https://y.qq.com/download/download.html](https://y.qq.com/download/download.html)
 
+### Spotify ![](/assets/network_17.351800554017px_1234859_easyicon.net.png)
+
+![](/assets/website_official.png) https://www.spotify.com
 
