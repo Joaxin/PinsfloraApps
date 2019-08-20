@@ -32,7 +32,13 @@ vim真正的继任者。
 
 ### [Visual Studio Code](https://code.visualstudio.com/)
 
+![](/assets/plugins.png) https://marketplace.visualstudio.com/
+
 用于构建和调试现代Web和云应用程序。
+
+![](/assets/plugins.png) 
+
+
 
 
 

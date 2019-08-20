@@ -1,6 +1,6 @@
 ### [Fiddler](http://www.telerik.com/fiddler)
 
-web调试代理工具。
+HTTP，SSL调试代理工具。
 
 
 ### [Postman](https://www.getpostman.com/postman)

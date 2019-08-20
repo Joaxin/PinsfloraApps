@@ -30,6 +30,9 @@ JetBrain出品的跨平台的PHP开发平台。
 
 JetBrain出品的跨平台的用于.NET/Mono开发的IDE.
 
+![](/assets/plugins.png) Resharper：http://www.jetbrains.com/resharper/
+Nuget：https://www.nuget.org/
+
 ### [RubyMine](https://www.jetbrains.com/ruby/)
 
 JetBrain出品的跨平台的Ruby开发平台，支持多种框架。
@@ -40,5 +43,4 @@ JetBrain出品的跨平台的Ruby开发平台，支持多种框架。
 ![](/assets/plugins.png) http://vswebessentials.com/
 Coderush: https://www.devexpress.com/Products/CodeRush/
 
-
-一个用于创建和管理虚拟机的工具。
+VB&C#：http://converter.telerik.com/
