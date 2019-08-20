@@ -6,6 +6,10 @@
 
 ![](/assets/website_official.png)[https://pc.weixin.qq.com/](https://pc.weixin.qq.com/)
 
+### [Skype](http://skype.gmw.cn/) ![](/assets/website_official.png)
+
+> 无论您身在何处，无论他们身在何处 － Skype让天涯变咫尺。
+
 ### Telegram![](/assets/github_16px_1157868_easyicon.net.png)
 
 ![](/assets/website_official.png)[https://telegram.org/](https://telegram.org/)
