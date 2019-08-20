@@ -40,7 +40,7 @@ NutStore
 
 深深融入Google生态系统的云存储解决方案。
 
-![](/assets/golf_hole_13.176470588235px_1224973_easyicon.net.png)你需要工具
+![](/assets/golf_hole_13.176470588235px_1224973_easyicon.net.png) 你需要工具
 
 ![](/assets/website_official.png)[https://www.google.com/drive/](https://www.google.com/drive/)
 
