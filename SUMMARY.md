@@ -59,6 +59,7 @@
   * [压缩工具](systems-xi-tong-gong-ju/ya-suo-gong-ju.md)
   * [快速启动 ](productivity-sheng-chan-li-gong-ju/kuai-su-qi-dong.md)
   * [文件管理](productivity-sheng-chan-li-gong-ju/wen-jian-guan-li.md)
+  * [浏览器插件](productivity-sheng-chan-li-gong-ju/liu-lan-qi-cha-jian.md)
 * [Systems - 系统工具](systems-xi-tong-gong-ju.md)
   * [系统安全](systems-xi-tong-gong-ju/xi-tong-an-quan.md)
   * [系统清理](systems-xi-tong-gong-ju/xi-tong-qing-li.md)

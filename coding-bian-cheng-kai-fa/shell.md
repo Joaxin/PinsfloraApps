@@ -16,7 +16,7 @@
 
 基于 Cygwin，用于替代 Windows shell。
 
-### [Cmder](https://github.com/cmderdev/cmder)
+### [Cmder](https://github.com/cmderdev/cmder) ![](/assets/github_open.png)
 
 控制台模拟器包。
 
@@ -24,7 +24,7 @@
 
 设置Widows终端支持iTerm的颜色模式。
 
-### [ConEmu](https://github.com/Maximus5/ConEmu)
+### [ConEmu](https://github.com/Maximus5/ConEmu) ![](/assets/github_open.png)
 
 标签，分布，闪烁及其他各项均可定制的终端。
 
@@ -36,7 +36,7 @@ Console 2 的修改版本，更好的体验和更好的视觉呈现。
 
 基于 Web 技术的终端。
 
-### [MobaXterm](http://mobaxterm.mobatek.net/)
+### [MobaXterm](http://mobaxterm.mobatek.net/) ![](/assets/website_official.png) ![](/assets/leaves_rec.png)
 
 Xserver 和标签式 SSH 客户端。
 
@@ -59,5 +59,3 @@ SSH 和 telnet 客户端。
 ### [Alacritty](https://github.com/jwilm/alacritty)
 
 跨平台，使用GPU加速的终端模拟器。 一个强大的命令行shell。
-
-### [Windows终端命令的A-Z](http://ss64.com/nt/)

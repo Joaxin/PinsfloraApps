@@ -3,8 +3,13 @@
   
 ### ClipX:Very Tiny
 
+![](/assets/website_official.png)http://bluemars.org/clipx/
+
+>  ClipX is a tiny clipboard history manager. It is sweet, it is free, use it.
+
+
 ### [Ditto](http://ditto-cp.sourceforge.net/)
- 剪贴板管理器。
- 
+
+ Windows 剪贴板的增强神器。
 
 
