@@ -17,6 +17,10 @@ Unlike built-in auto update features, SUMo tells you if updates are available be
 
 一款简单的软件更新工具，有免费与Pro版本。
 
+![](/assets/keng.png) 软件版本检测好像有点问题
+
+![mGipwT.png](https://s2.ax1x.com/2019/08/20/mGipwT.png)
+
 ### Pure 360SoftMgr
 
 ### PC Master
