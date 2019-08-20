@@ -12,6 +12,7 @@
   * [Browser - 浏览器](browser.md)
   * [大纲笔记，思维导图](study-xue-xi/da-gang-bi-ji-ff0c-si-wei-dao-tu.md)
   * [聊天工具 - Chat](gou-tong.md)
+  * [Pan - 网盘 ](study-xue-xi/pan-wang-pan.md)
 * [Design - 设计](design-she-ji.md)
   * [平面设计 - Graphic Design](design-she-ji/ping-mian-she-ji.md)
   * [3D动画](design-she-ji/3ddong-hua.md)
@@ -49,6 +50,7 @@
   * [Focus - 专注 ](productivity-sheng-chan-li-gong-ju/zhuan-zhu.md)
   * [Transfer - 文件传输](productivity-sheng-chan-li-gong-ju/wen-jian-chuan-shu.md)
   * [Automation - 自动化](productivity-sheng-chan-li-gong-ju/automation-zi-dong-hua.md)
+  * [压缩工具](systems-xi-tong-gong-ju/ya-suo-gong-ju.md)
 * [Systems - 系统工具](systems-xi-tong-gong-ju.md)
   * [系统安全](systems-xi-tong-gong-ju/xi-tong-an-quan.md)
   * [系统清理](systems-xi-tong-gong-ju/xi-tong-qing-li.md)
@@ -57,7 +59,6 @@
   * [软件管理](systems-xi-tong-gong-ju/ruan-jian-guan-li.md)
   * [进程管理](systems-xi-tong-gong-ju/jin-cheng-guan-li.md)
   * 键盘鼠标
-  * [压缩工具](systems-xi-tong-gong-ju/ya-suo-gong-ju.md)
   * [CD工具](ying-jian-xiang-guan/cdgong-ju.md)
   * [启动盘](systems-xi-tong-gong-ju/qi-dong-pan.md)
   * 键盘鼠标

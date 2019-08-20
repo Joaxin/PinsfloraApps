@@ -26,9 +26,13 @@ A graphics editor
 
 开源图像编辑器。
 
-[Paint.NET](http://www.getpaint.net/)
+### [Paint.NET](http://www.getpaint.net/) ![](/assets/website_official.png) ![](/assets/windows.png) ![](https://img.shields.io/badge/Version-4.3.1-ff55bb.svg)
 
+> Paint.NET is image and photo editing software for PCs that run Windows. 
 
+Windows内置的画图程序
+
+![](/assets/download.png) https://www.dotpdn.com/downloads/pdn.html
 
 
 

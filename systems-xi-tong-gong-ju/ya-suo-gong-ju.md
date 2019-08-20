@@ -1,8 +1,8 @@
 ### 压缩工具 {#Manager}
 
-### [7-Zip](http://www.7-zip.org/)![](/assets/github_open.png)
+### [7-Zip](http://www.7-zip.org/) ![](/assets/website_official.png) ![](/assets/github_open.png)
 
-支持 7z，ZIP，GZIP，BZIP2和TAR 速度快
+支持 7z，ZIP，GZIP，BZIP2和TAR 以及 TAR、ISO、RAR 和 CAB ，速度快，压缩比高
 
 ### [Bandizip](https://www.bandisoft.com/bandizip/)
 
