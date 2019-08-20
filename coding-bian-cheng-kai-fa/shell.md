@@ -18,7 +18,7 @@
 
 ### [Cmder](https://github.com/cmderdev/cmder) ![](/assets/github_open.png)
 
-控制台模拟器包。
+好用又好看的终端控制台。
 
 ### [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool)
 

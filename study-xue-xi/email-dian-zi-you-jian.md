@@ -1,6 +1,6 @@
 ### _Foxmail_
 
-腾讯的中文邮件客户端,界面比较简洁，支持win和Mac，与qq, gmail邮箱相容性不错。
+从 1997 年就有的邮件客户端， 现属于腾讯的中文邮件客户端,界面比较简洁，支持win和Mac，与qq, gmail邮箱相容性不错。
 
 ![](/assets/website_official.png)[http://www.foxmail.com/](http://www.foxmail.com/)
 
@@ -30,11 +30,22 @@ Simple, Clear and Powerful With Beautiful UI
 
 ![](/assets/website_official.png) [https://www.postbox-inc.com/](https://www.postbox-inc.com/)
 
-### Thunderbird
+### Thunderbird ![](/assets/github_open.png)
 
 ![](/assets/website_official.png)[https://www.thunderbird.net](https://www.thunderbird.net/zh-CN/)
 
-一款免费的电子邮件应用程序，配置简单，定制自由，界面一般
+一款免费的电子邮件应用程序，配置简单，定制自由，界面一般，开源，与 Firefox 出自同门 Mozilla
+
+### [Outlook](http://office.microsoft.com/zh-cn/outlook/)
+
+大名鼎鼎的 Microsoft Office 组件之一，除了电子邮件，还包含了日历、任务管理、联系人、记事本等功能。
+
+### [网易邮箱大师](http://mail.163.com/dashi/)
+
+> 心无旁骛，专注办公
+网易邮箱大师   专业的全平台邮箱客户端
+
+以前叫网易闪电邮
 
 ### Yomail ![](/assets/time_whathappened.png)
 

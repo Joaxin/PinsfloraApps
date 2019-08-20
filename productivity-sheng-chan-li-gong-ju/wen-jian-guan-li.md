@@ -1,34 +1,34 @@
-### Clover![](/assets/windows.png)![](/assets/translation.png)![](/assets/leaves_rec.png)
+### [Clover](http://en.ejie.me/) ![](/assets/windows.png)![](/assets/translation.png)![](/assets/leaves_rec.png) ![](https://img.shields.io/badge/Version-3.5.2-ff55bb.svg)
 
- [Clover](http://en.ejie.me/)
+> 为您的 Windows Explorer 插上翅膀！
 
-win下类似chrome的多标签页管理工具，推荐便携版
+win下类似chrome的多标签页管理工具，推荐便携去广告版
 
 ![](/assets/keng.png) win10下可能不稳定，容易崩溃
 
 ![](/assets/website_official.png) [http://cn.ejie.me/](http://cn.ejie.me/)
 
-### Directory Opus![](/assets/windows.png)![](/assets/leaves_rec.png)
+### Directory Opus ![](/assets/windows.png)![](/assets/leaves_rec.png)
 
-来自澳大利亚GP公司的高效替代windwos资源管理器的资源管理器
+DO 是一款更现代、更适合鼠标操作的文件管理器，功能强大，提高工作效率是其目标。,来自澳大利亚GP公司的高效替代windwos资源管理器的资源管理器
 
-![](/assets/website_official.png)[https://www.就是.com.au/](https://www.gpsoft.com.au/)
+![](/assets/website_official.png)[https://www.gpsoft.com.au/](https://www.gpsoft.com.au/)
 
-### Xyplore![](/assets/windows.png)![](/assets/leaves_rec.png) {#Xyplore}
+### Xyplore ![](/assets/windows.png)![](/assets/leaves_rec.png) {#Xyplore}
 
 来自俄罗斯的高效替代windwos资源管理器的资源管理器
 
 ![](/assets/website_official.png)[https://www.xyplorer.com/](https://www.xyplorer.com/)
 
-### Total commander![](/assets/windows.png)
+### Total commander ![](/assets/windows.png)
 
-仰其大名，家喻户晓，就是 上上个世纪的GUI
+几乎无所不能的文件管理器，对非正版用户极其宽容，入门不易，需要认真学习使用的一款佳软，仰其大名，家喻户晓，就是 上上个世纪的GUI，
 
 ![](/assets/website_official.png)[https://www.ghisler.com/](https://www.ghisler.com/)
 
-### Q-Dir![](/assets/windows.png)
+### Q-Dir ![](/assets/windows.png) ![](https://img.shields.io/badge/Version-7.7.4-ff55bb.svg)
 
-多目录切换的文件资源管理器
+轻量级的文件管理器，各种布局视图切换灵活，默认四个小窗口组成一个大窗口，操作快捷，多目录切换的文件资源管理器
 
 ![](/assets/website_official.png)[https://www.softwareok.com/?seite=Freeware/Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir)
 
