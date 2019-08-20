@@ -30,7 +30,9 @@ A graphics editor
 
 > Paint.NET is image and photo editing software for PCs that run Windows. 
 
-Windows内置的画图程序
+![mGjC4I.png](https://s2.ax1x.com/2019/08/20/mGjC4I.png)
+
+一款小巧的PS替代工具
 
 ![](/assets/download.png) https://www.dotpdn.com/downloads/pdn.html
 
