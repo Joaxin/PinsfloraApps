@@ -6,3 +6,10 @@
 
 ![](/assets/download.png) https://www.getautoma.com/download
 ![](/assets/documents.png) https://www.getautoma.com/docs
+
+
+### AutoHotKey ![](/assets/github_open.png)
+
+自动化 Windows 操作，堪称 Windows 平台的 Applescript。
+
+![](/assets/plugins.png) AuftoCorrect for English
