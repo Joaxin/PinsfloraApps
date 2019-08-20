@@ -14,7 +14,7 @@
 
 5 ![](/assets/CMD.png) 命令行
 
-6 ![](/assets/money_pay.png) 需付费，但值得试用，和购买
+6 ![](/assets/money_pay.png) 可能需付费，免费版够用的暂不标记
 
 7 ![](/assets/windows.png) 仅支持windows
 
@@ -32,9 +32,11 @@
 
 14 ![](/assets/leaves_use.png) 简单用法
 
-15 ![](/assets/documents.png) 帮助文档
+15 ![](/assets/documents.png) 帮助文档或者参考链接
 
-16 ![](/assets/zlaw.png) 使用时请遵循当地法律
+16 ![](/assets/network.png) 需网络工具
+
+17 ![](/assets/zlaw.png) 使用时请遵循当地法律
 
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
