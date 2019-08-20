@@ -19,8 +19,6 @@
 
 ### [ShareX](https://getsharex.com/) ![](/assets/leaves_rec.png) ![](/assets/windows.png)![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/ShareX/ShareX) ![](https://img.shields.io/badge/Version-12.4.1-ff69b4.svg)
 
-12.4.1
-
 ![gif from official website](https://getsharex.com/img/ShareX_Animation.gif)
 
 > Screen capture, file sharing and productivity tool
