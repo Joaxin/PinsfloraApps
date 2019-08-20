@@ -1,4 +1,4 @@
-### [Automa](https://www.getautoma.com/) ![](/assets/website_official.png) ![](/assets/money_pay.png)
+### [Automa](https://www.getautoma.com/) ![](/assets/website_official.png) ![](/assets/money_pay.png) ![](/assets/CMD.png)
 
 > Automa is a tool for Windows that lets you automate repetitive tasks in the graphical user interface (GUI) of your computer. 
 

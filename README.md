@@ -14,7 +14,7 @@
 
 5 ![](/assets/CMD.png) 命令行
 
-6 ![](/assets/money_pay.png) 需付费
+6 ![](/assets/money_pay.png) 需付费，但值得试用，和购买
 
 7 ![](/assets/windows.png) 仅支持windows
 
@@ -26,7 +26,7 @@
 
 11 ![](/assets/website_official.png) 官网
 
-12 ![](/assets/keng.png) 安装遇到坑
+12 ![](/assets/keng.png) 安装或使用过程中遇到的坑
 
 13 ![](/assets/plugins.png) 插件推荐
 
