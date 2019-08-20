@@ -1,8 +1,4 @@
-
-
 ### Python {#Python}
-
-$3.7.3
 
 [https://www.python.org/](https://www.python.org/)
 
@@ -11,8 +7,6 @@ $3.7.3
 ### Anaconda {#Anaconda}
 
 * [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
-
-
 
 
 ### [PyCharm](https://www.jetbrains.com/pycharm){#Pycharm}
