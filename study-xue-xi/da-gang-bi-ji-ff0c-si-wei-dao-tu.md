@@ -1,5 +1,8 @@
 ## 笔记
 
+> 好记性不如烂笔头
+The palest ink is better than the best memory.
+
 ### [Simplenote](https://simplenote.com/)
 
 基于云同步的简单跨平台笔记应用程序。
