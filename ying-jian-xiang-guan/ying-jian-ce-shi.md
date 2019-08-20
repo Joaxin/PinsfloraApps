@@ -9,6 +9,5 @@
 免费且功能齐全的 GPU 监控工具。
 
 ###  Super Pi
-###  AIDA64
 ###  HD Tune
 ###  内存条检测MEMTEST

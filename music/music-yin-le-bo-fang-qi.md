@@ -1,10 +1,10 @@
 ## 音乐播放器
 
-### AIMP![](/assets/windows.png)![](/assets/translation.png)
+### AIMP![](/assets/windows.png)![](/assets/translation.png) ![](https://img.shields.io/badge/Version-4.6.0-ff55bb.svg)
 
-跨平台，支持`windows` `android`
+来自俄罗斯的跨平台，支持`windows` `android`
 
-一个小巧的本地播放器，可以切换皮肤，界面友好，管理方便
+小巧的本地播放器，可以切换皮肤，界面友好，管理方便的音乐播放器。
 
 ![](/assets/website_official.png) [http://www.aimp.ru/](http://www.aimp.ru/)
 

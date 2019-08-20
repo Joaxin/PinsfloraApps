@@ -1,3 +1,7 @@
+### [EasyRecovery](http://www.krollontrack.com/data-recovery/recovery-software/)
+
+价格不菲的数据恢复软件，但俗话说数据无价
+
 ### [Data Rescue](https://www.prosofteng.com/datarescuepc3/)
 
 综合和专业的硬盘恢复软件，可以恢复你的照片，视频，文件。
@@ -10,9 +14,11 @@
 
 数据恢复及分区恢复功能。
 
-### [Recuva](https://www.piriform.com/recuva)
+### [Recuva](https://www.piriform.com/recuva) ![](/assets/website_official.png)
 
-快速，轻松地恢复已删除的文件。
+> Recover your deleted files quickly and easily.
+
+来自 piriform 梨子公司产品，免费的数据恢复工具，快速，轻松地恢复已删除的文件。
 
 ### [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php)
 

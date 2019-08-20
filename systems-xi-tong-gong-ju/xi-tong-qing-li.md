@@ -1,10 +1,12 @@
-### [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml)
-
-解除无法删除文件的锁定。
 
 ### [WinDirStat](https://windirstat.info/)
 
 磁盘使用情况查看器和清洁器。
+
+### [CleanMyPC](http://macpaw.com/cleanmypc)
+
+快速的电脑清洁软件。
+
 
 ### CCcleaner
 
@@ -14,11 +16,14 @@
 
 ### Duplicate Cleaner Pro
 
+
+### [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml)
+
+解除无法删除文件的锁定。
+
+
+
 ### SmartDefrag
-
-### [CleanMyPC](http://macpaw.com/cleanmypc)
-
-快速的电脑清洁软件。
 
 ### [rimraf](https://www.npmjs.com/package/rimraf)
 node中的深度删除模块。 用于删除具有很长路径的文件和文件夹。

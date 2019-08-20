@@ -13,6 +13,7 @@
   * [大纲笔记，思维导图](study-xue-xi/da-gang-bi-ji-ff0c-si-wei-dao-tu.md)
   * [聊天工具 - Chat](gou-tong.md)
   * [Pan - 网盘 ](study-xue-xi/pan-wang-pan.md)
+  * 输入法 - IME
 * [Design - 设计](design-she-ji.md)
   * [平面设计 - Graphic Design](design-she-ji/ping-mian-she-ji.md)
   * [3D动画](design-she-ji/3ddong-hua.md)
@@ -75,4 +76,5 @@
   * [硬件信息](ying-jian-xiang-guan/ying-jian-jian-kong.md)
   * [硬件维护 - Maintenance](ying-jian-xiang-guan/maintenance.md)
 * [Suggestions](ying-jian-xiang-guan/cdgong-ju.md)
+* [Acknowledgements](acknowledgements.md)
 
