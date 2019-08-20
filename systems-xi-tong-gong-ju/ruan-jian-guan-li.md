@@ -31,3 +31,14 @@ Unlike built-in auto update features, SUMo tells you if updates are available be
 
 软件卸载工具，有收费的Pro版本。 类似软件：Iobit Uninstaller, Crystalidea uninstall-tool, Revo Uninstaller Pro。
 
+### [Scoop](https://github.com/lukesampson/scoop)
+
+Windows 的命令行安装程序。
+ 
+### [Chocolatey](https://chocolatey.org/) ![](/assets/website_official.png) ![](/assets/CMD.png)
+
+![mGAscd.png](https://s2.ax1x.com/2019/08/20/mGAscd.png)
+
+Windows的包管理器, 类似于`yum/apt-get`。
+
+
