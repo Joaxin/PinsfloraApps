@@ -17,7 +17,7 @@
 
 屏幕快照拍摄和裁剪.
 
-### [ShareX](https://getsharex.com/) ![](/assets/leaves_rec.png) ![](/assets/windows.png)![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/ShareX/ShareX) ![](https://img.shields.io/badge/Version-12.4.1-ff69b4.svg)
+### [ShareX](https://getsharex.com/) ![](/assets/leaves_rec.png) ![](/assets/windows.png)![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/ShareX/ShareX) ![](https://img.shields.io/badge/Version-12.4.1-ff55bb.svg)
 
 ![gif from official website](https://getsharex.com/img/ShareX_Animation.gif)
 
