@@ -54,6 +54,7 @@
   * [Transfer - 文件传输](productivity-sheng-chan-li-gong-ju/wen-jian-chuan-shu.md)
   * [Automation - 自动化](productivity-sheng-chan-li-gong-ju/automation-zi-dong-hua.md)
   * [压缩工具](systems-xi-tong-gong-ju/ya-suo-gong-ju.md)
+  * [快速启动 ](productivity-sheng-chan-li-gong-ju/kuai-su-qi-dong.md)
 * [Systems - 系统工具](systems-xi-tong-gong-ju.md)
   * [系统安全](systems-xi-tong-gong-ju/xi-tong-an-quan.md)
   * [系统清理](systems-xi-tong-gong-ju/xi-tong-qing-li.md)
