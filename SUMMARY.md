@@ -48,7 +48,7 @@
   * [Clipboard - 剪切板](productivity-sheng-chan-li-gong-ju/jian-qie-ban.md)
   * [Focus - 专注 ](productivity-sheng-chan-li-gong-ju/zhuan-zhu.md)
   * [Transfer - 文件传输](productivity-sheng-chan-li-gong-ju/wen-jian-chuan-shu.md)
-  * Automation - 自动化
+  * [Automation - 自动化](productivity-sheng-chan-li-gong-ju/automation-zi-dong-hua.md)
 * [Systems - 系统工具](systems-xi-tong-gong-ju.md)
   * [系统安全](systems-xi-tong-gong-ju/xi-tong-an-quan.md)
   * [系统清理](systems-xi-tong-gong-ju/xi-tong-qing-li.md)

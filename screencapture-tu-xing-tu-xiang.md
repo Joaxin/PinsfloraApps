@@ -1,6 +1,6 @@
 
 
-### Snipaste {#Snipaste}
+### Snipaste {#Snipaste} ![](/assets/translation.png)
 
 一款高效率功能全面的截图软件
 
@@ -8,7 +8,7 @@
 
 [https://dl.snipaste.com/win-x64](https://dl.snipaste.com/win-x64)
 
-### Pickpick {#Pickpick}
+### Pickpick {#Pickpick} ![](/assets/translation.png)
 
 [https://picpick.app/](https://picpick.app/)
 
@@ -17,7 +17,7 @@
 
 屏幕快照拍摄和裁剪.
 
-### [ShareX](https://getsharex.com/) ![](/assets/leaves_rec.png) ![](/assets/windows.png)![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/ShareX/ShareX) ![](https://img.shields.io/badge/Version-12.4.1-ff55bb.svg)
+### [ShareX](https://getsharex.com/) ![](/assets/leaves_rec.png) ![](/assets/translation.png)![](/assets/windows.png)![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/ShareX/ShareX) ![](https://img.shields.io/badge/Version-12.4.1-ff55bb.svg)
 
 ![gif from official website](https://getsharex.com/img/ShareX_Animation.gif)
 
