@@ -1,3 +1,5 @@
+> Win+R：最原生、最不消耗资源，但也可能是最难看的快速启动方式。
+
 ### [Easy Window Switcher](https://neosmart.net/EasySwitch/)
 
 应用实际之间快速切换。
