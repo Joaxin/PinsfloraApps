@@ -78,8 +78,10 @@ SSH 和 telnet 客户端。
 
 Windows 的命令行安装程序。
  
-### [Chocolatey](https://chocolatey.org/)
+### [Chocolatey](https://chocolatey.org/) ![](/assets/website_official.png) ![](/assets/CMD.png)
 
-Windows的包管理器。
+![mGAscd.png](https://s2.ax1x.com/2019/08/20/mGAscd.png)
+
+Windows的包管理器, 类似于`yum/apt-get`。
  
  ### [Windows终端命令的A-Z](http://ss64.com/nt/)
