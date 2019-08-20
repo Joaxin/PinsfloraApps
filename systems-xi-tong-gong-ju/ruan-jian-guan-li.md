@@ -8,7 +8,7 @@ Install and Update All Your Programs at Once.
 
 一款简洁的自动化更新或安装的快速装机软件, 也提供Ninite Pro付费版（免费版资源较少）。
 
-### [SUMo](http://www.kcsoftwares.com/?sumo) ![](/assets/windows.png) ![](/assets/website_official.png)
+### [SUMo](http://www.kcsoftwares.com/?sumo) ![](/assets/windows.png) ![](/assets/website_official.png) ![](https://img.shields.io/badge/Version-5.9.6-ff55bb.svg)
 
 >SUMo (Software Update Monitor) keeps your PC up-to-date & safe by using the most recent version of your favorite software !
 Unlike built-in auto update features, SUMo tells you if updates are available before you need to use your software.
