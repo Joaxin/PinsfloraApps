@@ -17,8 +17,13 @@
 
 屏幕快照拍摄和裁剪.
 
-### [ShareX](https://getsharex.com/)
-让您使用单个键获取任何选定区域的截图或屏幕录像。
+### [ShareX](https://getsharex.com/) ![](/assets/leaves_rec.png)![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/ShareX/ShareX)
+
+![gif from official website](https://getsharex.com/img/ShareX_Animation.gif)
+
+> Screen capture, file sharing and productivity tool
+
+一款功能十分强大的截图，录像，文字分享工具, 支持自定义与自动化分享，软件开源，开发活跃。
 
 
 ### [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx)

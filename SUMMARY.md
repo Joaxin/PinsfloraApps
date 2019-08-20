@@ -55,10 +55,11 @@
   * [系统监控](systems-xi-tong-gong-ju/xi-tong-jian-kong.md)
   * [软件管理](systems-xi-tong-gong-ju/ruan-jian-guan-li.md)
   * [进程管理](systems-xi-tong-gong-ju/jin-cheng-guan-li.md)
+  * 键盘鼠标
   * [压缩工具](systems-xi-tong-gong-ju/ya-suo-gong-ju.md)
   * [CD工具](ying-jian-xiang-guan/cdgong-ju.md)
   * [启动盘](systems-xi-tong-gong-ju/qi-dong-pan.md)
-  * [网络工具](systems-xi-tong-gong-ju/wang-luo-gong-ju.md)
+  * 键盘鼠标
 * [Hardware - 硬件数据](ying-jian-xiang-guan.md)
   * [硬件测试](ying-jian-xiang-guan/ying-jian-ce-shi.md)
   * [数据恢复](ying-jian-xiang-guan/shu-ju-hui-fu.md)
