@@ -4,7 +4,7 @@
 
 ![](/assets/website_official.png) [https://www.xunlei.com/](https://www.xunlei.com/)
 
-### EageleGet![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)![](/assets/translation.png)
+### EageleGet![](/assets/windows.png)![](/assets/translation.png)
 
 一个拥有简洁界面和功能的免费的全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议
 
@@ -18,7 +18,7 @@
 
 ### IDM
 
-![](/assets/windows_16.638109305761px_1210167_easyicon.net.png)![](/assets/money_24.632411067194px_1218498_easyicon.net.png)![](/assets/translation.png)![](/assets/leaves_15.8208px_1219185_easyicon.net.png)
+![](/assets/windows.png)![](/assets/money_pay.png)![](/assets/translation.png)![](/assets/leaves_rec.png)
 
 有效的下载加速器，具备响应错链解决能力，官网设计比较古老
 
