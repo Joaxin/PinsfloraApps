@@ -2,7 +2,7 @@
 
 应用实际之间快速切换。
 
-### Listary![](/assets/leaves_rec.png)![](/assets/windows.png)![](/assets/translation.png) {#Listary}
+### Listary![](/assets/leaves_rec.png)![](/assets/windows.png)![](/assets/translation.png) {#Listary} ![](https://img.shields.io/badge/Version-5.00.2843-ff55bb.svg)
 
 ![](/assets/website_official.png)[https://www.listary.com/download](https://www.listary.com/download)
 

@@ -1,4 +1,9 @@
+
 ### ABBYY FineReader 11
+
+### Foxit
+
+![](/assets/website_official.png) https://www.foxitsoftware.com/pdf-reader/
 
 ### pdflock
 
@@ -9,6 +14,8 @@
 ### pdf636std.rar
 
 ### pdffactorypro.zip
+
+![](/assets/website_official.png) https://fineprint.com/
 
 ### Solid Converter v8
 

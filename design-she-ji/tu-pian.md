@@ -1,4 +1,4 @@
-## 颜色选曲
+## 颜色选取
 
 ### [Pixie](http://www.nattyware.com/pixie.php)
 

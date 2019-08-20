@@ -23,6 +23,7 @@
   * [Music - 音乐播放器](music/music-yin-le-bo-fang-qi.md)
   * [音乐创作](music/yin-le-gong-ju.md)
   * [Video - 视频播放器](music/video-shi-pin-bo-fang-qi.md)
+  * [CD工具](music/cdgong-ju.md)
 * [Coding - 编程开发](coding-bian-cheng-kai-fa.md)
   * [图片工具](design-she-ji/tu-pian.md)
   * [IDE](coding-bian-cheng-kai-fa/ide.md)
@@ -63,10 +64,8 @@
   * [系统监控](systems-xi-tong-gong-ju/xi-tong-jian-kong.md)
   * [软件管理](systems-xi-tong-gong-ju/ruan-jian-guan-li.md)
   * [进程管理](systems-xi-tong-gong-ju/jin-cheng-guan-li.md)
-  * 键盘鼠标
-  * [CD工具](ying-jian-xiang-guan/cdgong-ju.md)
+  * [键盘鼠标](systems-xi-tong-gong-ju/jian-pan-shu-biao.md)
   * [启动盘](systems-xi-tong-gong-ju/qi-dong-pan.md)
-  * 键盘鼠标
 * [Hardware - 硬件数据](ying-jian-xiang-guan.md)
   * [硬件测试](ying-jian-xiang-guan/ying-jian-ce-shi.md)
   * [数据恢复](ying-jian-xiang-guan/shu-ju-hui-fu.md)
