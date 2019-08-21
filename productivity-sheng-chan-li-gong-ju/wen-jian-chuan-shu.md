@@ -1,6 +1,10 @@
-### [Waltr](http://softorino.com/waltr/)
+### [Waltr](http://softorino.com/waltr/) ![](/assets/website_official.png) ![](/assets/translation.png)
 
 不依靠 iTunes 将任何电影或音乐文件传输到iPhone。
+
+### Dukto R6 [![](/assets/website_official.png)](https://www.msec.it/blog/dukto/) ![](/assets/translation.png) [![](/assets/github_open.png)](https://sourceforge.net/projects/dukto/)
+
+开源跨平台文件传输工具
 
 ### [Clipber](http://clipber.com/clipber/) 
 

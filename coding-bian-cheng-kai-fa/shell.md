@@ -52,9 +52,9 @@ Console 2 的修改版本，更好的体验和更好的视觉呈现。
 
 putty原版在这里 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 
-### [FileZilla](https://filezilla-project.org/) ![](/assets/website_official.png)
+### [FileZilla](https://filezilla-project.org/) ![](/assets/website_official.png) [![](/assets/github_open.png)](https://sourceforge.net/projects/filezilla/) ![](/assets/translation.png)
 
-FTP, FTPS 和 SFTP 客户端。
+FTP, FTPS 和 SFTP 的跨平台客户端。
 
 ### [WinSCP](https://winscp.net/) ![](/assets/website_official.png)
 

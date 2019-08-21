@@ -1,6 +1,8 @@
-### Syncthing[![](/assets/github_open.png)](https://github.com/syncthing/syncthing)
+### Syncthing [![](/assets/github_open.png)](https://github.com/syncthing/syncthing) ![](/assets/translation.png)
 
 ![](/assets/download.png) [https://github.com/syncthing/syncthing/releases](https://github.com/syncthing/syncthing/releases)
+不依赖云服务器的跨平台，可在多计算机之间简单安全地同步文件
+
 
 ### Seafile ![](/assets/github_open.png)
 

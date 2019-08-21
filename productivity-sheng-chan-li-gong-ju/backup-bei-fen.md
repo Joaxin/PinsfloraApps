@@ -12,5 +12,6 @@
 
 免费的备份应用，将加密备份存储到线上服务器，可用于Windows，macOS和Linux。
 
-### [FreeFileSync](http://www.freefilesync.org/)
+### [FreeFileSync](http://www.freefilesync.org/) ![](/assets/website_official.png) ![](/assets/translation.png)
+
  文件和文件夹的简单备份解决方案，它支持源和目标之间的镜像/双向同步/更新。

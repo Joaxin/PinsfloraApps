@@ -13,6 +13,12 @@ curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
 ```
+rimraf:https://www.npmjs.com/package/rimraf
+node 使用的深度删除模块。删除深目录文件（夹）
+
+
+
+
 
 ### [WebStorm](https://www.jetbrains.com/webstorm/)
 
