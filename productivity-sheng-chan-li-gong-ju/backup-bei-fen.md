@@ -12,11 +12,5 @@
 
 免费的备份应用，将加密备份存储到线上服务器，可用于Windows，macOS和Linux。
 
-
-### TeraCopy 
-
-![](/assets/website_official.png) http://codesector.com/teracopy
-
-文件快速复制工具
-
-NimbleText - 正则表达式很难写，我也学不会。NumbleText 则可以让你轻松地处理大量文字。
+### [FreeFileSync](http://www.freefilesync.org/)
+ 文件和文件夹的简单备份解决方案，它支持源和目标之间的镜像/双向同步/更新。
