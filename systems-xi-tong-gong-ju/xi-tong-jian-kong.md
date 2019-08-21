@@ -6,6 +6,3 @@
 
 网络流量控制和分析工具。
  
- ### [GlassWire](https://www.glasswire.com/)
- 
- 网络安全监控工具和分析器，可视化您的网络活动。

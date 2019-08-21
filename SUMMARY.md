@@ -19,6 +19,7 @@
     * 思维导图
     * [日程管理](study-xue-xi/da-gang-bi-ji-ff0c-si-wei-dao-tu/ri-cheng-guan-li.md)
     * [稍后阅读](study-xue-xi/da-gang-bi-ji-ff0c-si-wei-dao-tu/shao-hou-yue-du.md)
+    * [密码管理](study-xue-xi/da-gang-bi-ji-ff0c-si-wei-dao-tu/mi-ma-guan-li.md)
   * [Chat - 聊天工具 ](gou-tong.md)
   * [输入法 - IME](study-xue-xi/shu-ru-fa-ime.md)
   * [Online Storage - 网盘 ](study-xue-xi/pan-wang-pan.md)
@@ -74,7 +75,9 @@
 * [Systems - 系统工具](systems-xi-tong-gong-ju.md)
   * [系统安全 - Security](systems-xi-tong-gong-ju/xi-tong-an-quan.md)
     * [杀毒软件](systems-xi-tong-gong-ju/xi-tong-an-quan/sha-du-ruan-jian.md)
-    * [恶意软件清理](systems-xi-tong-gong-ju/xi-tong-an-quan/e-yi-ruan-jian-qing-li.md)
+    * [恶意软件防护](systems-xi-tong-gong-ju/xi-tong-an-quan/e-yi-ruan-jian-qing-li.md)
+    * [加密工具](ying-jian-xiang-guan/jia-mi-gong-ju.md)
+    * [网络监控](systems-xi-tong-gong-ju/xi-tong-an-quan/wang-luo-jian-kong.md)
   * [系统清理 - Customization](systems-xi-tong-gong-ju/xi-tong-qing-li.md)
   * [系统工具 - SysTools](systems-xi-tong-gong-ju/xi-tong-gong-ju.md)
   * [系统监控 - SysMonitor](systems-xi-tong-gong-ju/xi-tong-jian-kong.md)
@@ -87,6 +90,5 @@
   * [数据恢复 - DataRecovery](ying-jian-xiang-guan/shu-ju-hui-fu.md)
   * [硬件信息 - Configuration](ying-jian-xiang-guan/ying-jian-jian-kong.md)
   * [硬件维护 - Maintenance](ying-jian-xiang-guan/maintenance.md)
-  * [加密工具](ying-jian-xiang-guan/jia-mi-gong-ju.md)
 * [Suggestions - 使用建议](ying-jian-xiang-guan/cdgong-ju.md)
 

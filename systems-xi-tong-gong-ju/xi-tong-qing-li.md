@@ -12,10 +12,9 @@
 
 iobit出品的
 
+### [![CCleaner](https://s1.pir.fm/pf/logos--DA8LAgMPCAQ/ccleaner-logo--small.jpg)](https://www.ccleaner.com/ccleaner) ![](/assets/website_official.png)
 
-### [CCleaner](https://www.ccleaner.com/ccleaner) ![](/assets/website_official.png)
-
-来自 piriform 梨子公司产品的多功能清理软件，免费版基本够用。
+ 来自 piriform 梨子公司产品的多功能清理优化软件，免费版基本够用。
 
 ### [Glary Utilities](http://www.glarysoft.com/)
 
