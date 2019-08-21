@@ -10,8 +10,8 @@
 
 ![](/assets/download.png) https://www.acdsee.com/en/products/acdsee-free/
 
-### [Irfanview](https://www.irfanview.com/) ![](/assets/website_official.png) ![](https://img.shields.io/badge/Version-4.5.3-ff55bb.svg)
+### [Irfanview](https://www.irfanview.com/) ![](/assets/website_official.png) ![](/assets/translation.png) ![](https://img.shields.io/badge/Version-4.5.3-ff55bb.svg)
 
-一款小巧的图形浏览器。
+一款小巧的图形浏览器, 也可以播放视频与音频。
 
 > 大量图片整理，推荐使用 Adobe Bridge & Lightroom 

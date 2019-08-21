@@ -1,6 +1,4 @@
-
-
-### Snipaste {#Snipaste} ![](/assets/translation.png) ![](/assets/github_open.png)
+### Snipaste {#Snipaste} ![](/assets/translation.png) [![](/assets/github_open.png)]
 
 一款高效率功能全面的截图软件
 
@@ -8,14 +6,14 @@
 
 [https://dl.snipaste.com/win-x64](https://dl.snipaste.com/win-x64)
 
-### Pickpick {#Pickpick} ![](/assets/translation.png)
+### Pickpick {#Pickpick} ![](/assets/translation.png) 
+![](/assets/website_official.png) [https://picpick.app/](https://picpick.app/)
 
-[https://picpick.app/](https://picpick.app/)
+来自韩国的，全功能的屏幕截图工具,直观的图像编辑器,颜色选择器,颜色调色板,像素标尺,量角器,瞄准线和白板等等。
 
+### [Greenshot](https://github.com/greenshot/greenshot) ![](/assets/github_open.png) ![](/assets/translation.png)
 
-### [Greenshot](https://github.com/greenshot/greenshot)
-
-屏幕快照拍摄和裁剪.
+跨平台的屏幕捕获工具,屏幕快照拍摄和裁剪.
 
 ### [ShareX](https://getsharex.com/) ![](/assets/leaves_rec.png) ![](/assets/translation.png)![](/assets/windows.png)![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/ShareX/ShareX) ![](https://img.shields.io/badge/Version-12.4.1-ff55bb.svg)
 

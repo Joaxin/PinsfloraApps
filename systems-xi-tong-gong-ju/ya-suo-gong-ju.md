@@ -18,7 +18,7 @@
 
 喜闻乐见的压缩工具， 太经典啦
 
-### [Riot](http://luci.criosweb.ro/riot/)
+### [Riot](http://luci.criosweb.ro/riot/) ![](/assets/website_official.png)
 
 通过文件大小或许多其他图像属性压缩图像。 
 
