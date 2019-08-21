@@ -8,7 +8,10 @@
 
 加强版的任务管理器，支持监控和修改系统进程，启动项，系统服务，驱动，终端扩展等。
 
-###  ProcessLasso
+###  ProcessLasso [![](/assets/website_official.png)](https://bitsum.com/)
+
+优化系统内进程优先级
+
 ###  PCHunter
 
 [http://www.xuetr.com/](http://www.xuetr.com/)

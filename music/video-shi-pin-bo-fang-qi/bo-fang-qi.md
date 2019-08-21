@@ -34,10 +34,6 @@
 
 ![](/assets/website_official.png) https://player.qq.com/
 
-###  [HandBrake](http://handbrake.fr/) [![](/assets/github_open.png)](https://github.com/HandBrake/HandBrake)
-
-界面UI精美的高性能视频编码和转换工具。
-
 ### 5KPlayer  [![](/assets/website_official.png)](https://www.5kplayer.com/)
 支持 Airplay、广播电台与一些视频站点下载功能的通用多媒体播放器
 
@@ -62,3 +58,7 @@ MPV-EASY Player [![](/assets/website_official.png)](http://www.rjno1.com/mpv-eas
 ###  [SMPlayer](https://sourceforge.net/projects/smplayer/) ![](/assets/github_open.png)
 
 多媒体播放器，可针对不同视频保存不同的配置。
+
+### MadVR
+
+http://www.madvr.com/

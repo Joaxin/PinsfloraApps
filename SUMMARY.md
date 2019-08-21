@@ -84,8 +84,8 @@
     * [屏幕录制](productivity-sheng-chan-li-gong-ju/capture-lu-zhi-gong-ju/ping-mu-lu-zhi.md)
   * [Automation - 自动化](productivity-sheng-chan-li-gong-ju/automation-zi-dong-hua.md)
   * [Capture - 截图工具](screencapture-tu-xing-tu-xiang.md)
-  * [Appearance - 系统美化](productivity-sheng-chan-li-gong-ju/xi-tong-mei-hua.md)
   * [Backup - 备份](productivity-sheng-chan-li-gong-ju/backup-bei-fen.md)
+  * [Appearance - 系统](productivity-sheng-chan-li-gong-ju/xi-tong-mei-hua.md)
   * [Clipboard - 剪切板](productivity-sheng-chan-li-gong-ju/jian-qie-ban.md)
   * [Compression - 压缩工具](systems-xi-tong-gong-ju/ya-suo-gong-ju.md)
   * [Convert - 格式转换](productivity-sheng-chan-li-gong-ju/ge-shi-zhuan-huan.md)
@@ -105,6 +105,7 @@
   * [系统清理 - Customization](systems-xi-tong-gong-ju/xi-tong-qing-li.md)
     * [磁盘碎片](systems-xi-tong-gong-ju/xi-tong-qing-li/ci-pan-sui-pian.md)
     * [垃圾清理](systems-xi-tong-gong-ju/xi-tong-qing-li/la-ji-qing-li.md)
+    * [软件卸载](systems-xi-tong-gong-ju/xi-tong-qing-li/ruan-jian-xie-zai.md)
   * [系统工具 - SysTools](systems-xi-tong-gong-ju/xi-tong-gong-ju.md)
     * 软件管理
     * [软件管理 - Softwares](systems-xi-tong-gong-ju/ruan-jian-guan-li.md)
@@ -116,5 +117,6 @@
   * [数据恢复 - DataRecovery](ying-jian-xiang-guan/shu-ju-hui-fu.md)
   * [硬件信息 - Configuration](ying-jian-xiang-guan/ying-jian-jian-kong.md)
   * [硬件维护 - Maintenance](ying-jian-xiang-guan/maintenance.md)
+  * [系统分区](ying-jian-xiang-guan/xi-tong-fen-qu.md)
 * [Suggestions - 使用建议](ying-jian-xiang-guan/cdgong-ju.md)
 

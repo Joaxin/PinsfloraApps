@@ -8,8 +8,8 @@
 >  ClipX is a tiny clipboard history manager. It is sweet, it is free, use it.
 
 
-### [Ditto](http://ditto-cp.sourceforge.net/)
+### [Ditto](http://ditto-cp.sourceforge.net/) ![](/assets/github_open.png)
 
- Windows 剪贴板的增强神器。
+ Windows剪贴板的增强神器。
 
 

@@ -2,7 +2,7 @@
 
 管理、播放或处理音频文件的应用
 
-### [handbrake](https://handbrake.fr) ![](/assets/website_official.png)
+###  [HandBrake](http://handbrake.fr/) [![](/assets/github_open.png)](https://github.com/HandBrake/HandBrake)
 
 > HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
