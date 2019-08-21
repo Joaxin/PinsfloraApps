@@ -8,8 +8,12 @@
 ![](/assets/documents.png) https://www.getautoma.com/docs
 
 
-### AutoHotKey ![](/assets/github_open.png)
+### AutoHotKey [![](/assets/github_open.png)](https://github.com/Lexikos/AutoHotkey_L) [![](/assets/website_official.png)](https://www.autohotkey.com/)
 
-自动化 Windows 操作，堪称 Windows 平台的 Applescript。
+自动化 Windows 操作，开源的windows脚本语言
 
 ![](/assets/plugins.png) AuftoCorrect for English
+
+### AutoIt v3 [![](/assets/website_official.png)](https://www.autoitscript.com/site/autoit/)
+
+类 BASIC 脚本语言，用于 Windows GUI 的自动化

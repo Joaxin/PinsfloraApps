@@ -1,6 +1,6 @@
-### _Foxmail_
+### Foxmail ![](/assets/translation.png)
 
-从 1997 年就有的邮件客户端， 现属于腾讯的中文邮件客户端,界面比较简洁，支持win和Mac，与qq, gmail邮箱相容性不错。
+从 1997 年就有的邮件客户端， 现属于腾讯的中文邮件客户端,界面比较简洁，支持win和Mac，与qq、gmail邮箱相容性不错。
 
 ![](/assets/website_official.png)[http://www.foxmail.com/](http://www.foxmail.com/)
 
@@ -34,7 +34,7 @@ Simple, Clear and Powerful With Beautiful UI
 
 ![](/assets/website_official.png)[https://www.thunderbird.net](https://www.thunderbird.net/zh-CN/)
 
-一款免费的电子邮件应用程序，配置简单，定制自由，界面一般，开源，与 Firefox 出自同门 Mozilla
+雷鸟，一款免费的电子邮件应用程序，配置简单，定制自由，界面一般，开源，与 Firefox 出自同门 Mozilla
 
 ### [Outlook](http://office.microsoft.com/zh-cn/outlook/)
 

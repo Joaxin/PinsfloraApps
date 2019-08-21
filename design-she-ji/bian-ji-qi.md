@@ -52,6 +52,14 @@ vim真正的继任者。
 
 ### Winhex {#Winhex}
 
+### NimbleText
+
+小巧的大量文本处理软件。
+
+桌面版: http://nimbletext.com/
+
+在线版: http://nimbletext.com/Live
+
 
 
 

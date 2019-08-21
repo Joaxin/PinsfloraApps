@@ -10,17 +10,28 @@
 
 > 无论您身在何处，无论他们身在何处 － Skype让天涯变咫尺。
 
-### Telegram![](/assets/github_16px_1157868_easyicon.net.png)
+### Line
 
-![](/assets/website_official.png)[https://telegram.org/](https://telegram.org/)
+![](/assets/website_official.png) https://line.me
+
+来自韩国的一款曾经很流行的即时通信软件
+
+
+### Telegram![](/assets/github_open.png) 
+
+ ![](/assets/website_official.png)[https://telegram.org/](https://telegram.org/)
+
+速度 安全 开源
 
 ### Discord
 
-![](/assets/website_official.png)[https://discordapp.com/](https://discordapp.com/)
+![](/assets/website_official.png)   [https://discordapp.com/](https://discordapp.com/)
+
+![](/assets/download.png) https://discordapp.com/download
 
 跨平台
 
-免费的语音和文本聊天客户端，适合玩家和非玩家
+免费的语音和文本聊天客户端，适合游戏社区
 
 ### Messenger for Desktop![](/assets/github_16px_1157868_easyicon.net.png)
 
@@ -46,7 +57,7 @@
 
 ### [mIRC](http://www.mirc.com/)
 
-* 互联网中继聊天（IRC）客户端。
+ 互联网中继聊天（IRC）客户端。
 
 ### [Quassel](http://quassel-irc.org/)![](/assets/github_16px_1157868_easyicon.net.png)
 
