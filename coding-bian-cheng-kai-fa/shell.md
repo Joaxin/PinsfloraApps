@@ -1,5 +1,3 @@
-## 控制台
-
 ### Powershell
 
 系统自带，支配`.NET`、`WMI` 和 `COM` 
@@ -10,7 +8,9 @@
 
 ### [Zsh](http://www.zsh.org/)
 
-### Xshell
+### [Xshell 6](http://www.netsarang.com/products/xsh_overview.html) ![](/assets/website_official.png)
+
+一款经典的SSH工具
 
 ### [Babun](http://babun.github.io/)
 
@@ -32,29 +32,39 @@
 
 Console 2 的修改版本，更好的体验和更好的视觉呈现。
 
-### [Hyper](https://hyper.is/)
-
-基于 Web 技术的终端。
-
 ### [MobaXterm](http://mobaxterm.mobatek.net/) ![](/assets/website_official.png) ![](/assets/leaves_rec.png)
 
-Xserver 和标签式 SSH 客户端。
+> Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
 
-### [mRemoteNG](https://mremoteng.org/)
+支持SFTP、SSH, telnet、RDP、VNC 、 X11、Xserver 和标签式的增强型终端，并且封装了Unix命令集(GNU/ Cygwin).
 
-下一代 mRemote，开源，多标签，多协议，远程连接管理器。
+### [mRemoteNG](https://mremoteng.org/) ![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/mRemoteNG/mRemoteNG)
 
-### [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/)
+> mRemoteNG is a fork of mRemote: an open source, tabbed, multi-protocol, remote connections manager. mRemoteNG adds bug fixes and new features to mRemote.
 
-多标签 PuTTY。
+一款开源，多标签，支持SSH、RDP、ICA、VNC、Telnet、HTTP、rlogin等的多协议的远程连接管理器，是之前`mremote`的增强改进版,。
 
-### [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
+### [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) ![](/assets/website_official.png)
 
-SSH 和 telnet 客户端。
+> MTPuTTY (Multi-Tabbed PuTTY)
 
-### [Terminus](https://eugeny.github.io/terminus/)
+支持SSH、Telnet的多标签的PuTTY。
 
-基于Web技术的现代高度可配置的终端应用程序。
+putty原版在这里 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
+
+### [FileZilla](https://filezilla-project.org/) ![](/assets/website_official.png)
+
+FTP, FTPS 和 SFTP 客户端。
+
+### [WinSCP](https://winscp.net/) ![](/assets/website_official.png)
+
+免费开源的 SFTP, FTP, WebDAV 和 SCP 客户端。
+
+### [Terminus](https://eugeny.github.io/terminus/) [![](/assets/github_open.png)](https://github.com/Eugeny/terminus) ![](https://img.shields.io/badge/Version-Alpha 88-ff55bb.svg)
+
+![](/assets/download.png) https://github.com/Eugeny/terminus/releases/tag/v1.0.88
+
+界面美观的，基于Web技术的现代化高度可自定义的开源终端。
 
 ### [Alacritty](https://github.com/jwilm/alacritty)
 

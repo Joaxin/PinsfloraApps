@@ -13,10 +13,6 @@ JetBrain出品的跨平台的IDE，支持C/C++开发，使用CMake构建。
 ### [Eclipse](https://eclipse.org/downloads/)
 一款功能强大的 IDE。
 
-### [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-
-JetBrain出品的跨平台的IDE，现代化的 Java IDE。
-
 ### [NetBeans IDE](https://netbeans.org/)
 
 免费开源的 IDE
@@ -37,8 +33,9 @@ Nuget：https://www.nuget.org/
 
 JetBrain出品的跨平台的Ruby开发平台，支持多种框架。
 
-### [Visual Studio](https://www.visualstudio.com/vs/)
-微软官方的 IDE，通过插件可支持大量编程语言。
+### [Visual Studio](https://www.visualstudio.com/vs/) ![](/assets/website_official.png) ![](/assets/translation.png)
+
+微软官方的 IDE，终极武器。
 
 ![](/assets/plugins.png) http://vswebessentials.com/
 Coderush: https://www.devexpress.com/Products/CodeRush/

@@ -18,6 +18,24 @@ sudo apt-get install -y nodejs
 
 JetBrain出品的JavaScipt开发平台。
 
+# [HBuilder](http://dcloud.io/)
+
+国人开发的跨平台网页前端开发平台
+
+
+### [Hyper](https://hyper.is/) [![](/assets/github_open.png)](https://github.com/zeit/hyper)
+
+基于electron的HTML/CSS/JS 终端工具
+
+### [Insomnia](https://insomnia.rest/) ![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/getinsomnia/insomnia)
+
+![Insomnia](https://insomnia.rest/static/main-ac0a1732afac19acce5ad6825595c3bb-9a259.webp) 
+
+> Debug APIs like a human, not a robot
+Finally, a REST client you'll love
+
+一款开源的网络请求测试工具, 支持`GraphQL`
+
 
 
 

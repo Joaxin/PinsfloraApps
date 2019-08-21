@@ -14,7 +14,7 @@
 
 ### [HeidiSQL](http://www.heidisql.com/)
 
-可用于MySQL, MariaDB, Mircosoft SQL Server 和 PostgreSQL 的强大易用的客户端。
+一款支持MySQL, MariaDB, Mircosoft SQL Server 和 PostgreSQL 的数据库管理工具。
 
 ### [Keylord](https://protonail.com/products/keylord)
 

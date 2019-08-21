@@ -11,6 +11,8 @@ Github官方客户端
 
 ![](https://www.sourcetreeapp.com/dam/jcr:580c367b-c240-453d-aa18-c7ced44324f9/hero-mac-screenshot.png?cdnVersion=522)
 
+一款免费的跨平台图形化GIT客户端
+
 ### GIt
 
 * [https://git-scm.com/downloads](https://git-scm.com/downloads)
@@ -25,10 +27,6 @@ GitHub的官方客户端。
 
 ### [GitKraken](https://www.gitkraken.com/)
  优美，跨平台的 Git 客户端
- 
-### [SourceTree](https://www.sourcetreeapp.com/)
- 一个免费的 Git & Mercurial 客户端。
-
 
 ### [TortoiseGit](https://tortoisegit.org/)
 Git图形客户端，集成Shell工具包.
