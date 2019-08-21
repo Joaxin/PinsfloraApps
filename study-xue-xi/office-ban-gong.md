@@ -2,6 +2,12 @@
 
 微软自己的生产力套件。
 
+### Office Tool Plus 
+
+基于 Office Deployment Tool 打造，可以很轻松地部署 Office
+
+![](/assets/website_official.png) https://otp.landian.vip
+
 ### WPS Office![](/assets/leaves_rec.png) ![](/assets/website_official.png)
 
 ![](/assets/website_official.png)[https://www.wps.cn/](https://www.wps.cn/)

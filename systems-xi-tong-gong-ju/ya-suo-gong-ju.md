@@ -1,21 +1,24 @@
 ### 压缩工具 {#Manager}
 
-### [7-Zip](http://www.7-zip.org/) ![](/assets/website_official.png) ![](/assets/github_open.png)
+### [7-Zip](http://www.7-zip.org/) ![](/assets/website_official.png) ![](/assets/translation.png) ![](/assets/github_open.png)
 
-支持 7z，ZIP，GZIP，BZIP2和TAR 以及 TAR、ISO、RAR 和 CAB ，速度快，压缩比高
+![](/assets/download.png) https://www.7-zip.org/download.html
 
-### [Bandizip](https://www.bandisoft.com/bandizip/)
+支持7z，ZIP，GZIP，BZIP2和TAR 以及 TAR、ISO、RAR 和 CAB 的速度快，压缩率高的跨平台开源压缩管理工具
 
-来自韩国的 集轻量，快速与免费一体的zip压缩程序。
+### [Bandizip](https://www.bandisoft.com/bandizip/) ![](/assets/website_official.png) ![](/assets/translation.png)
 
-### [PeaZip](http://www.peazip.org/)
+来自韩国的集轻量，快速与免费一体的zip压缩管理程序。
 
-归档器和文件压缩器。 提取7Z CAB ISO RAR TAR ZIP归档文件。
+### [PeaZip](http://www.peazip.org/) ![](/assets/website_official.png) ![](/assets/translation.png) [![](/assets/github_open.png)](https://github.com/giorgiotani/PeaZip/releases/) ![](/assets/time_whathappened.png) ![](https://img.shields.io/badge/Version-6.9.0-ff55bb.svg)
+
+支持7Z CAB ISO RAR TAR ZIP等格式的开源跨平台归档器和文件压缩器，媲美WinRAR
+
+### [WinRAR](http://www.rarlab.com/)![](/assets/money_pay.png) ![](/assets/translation.png) ![](/assets/website_official.png)
+
+喜闻乐见的压缩工具， 太经典啦
 
 ### [Riot](http://luci.criosweb.ro/riot/)
 
-通过文件大小或许多其他图像属性压缩图像。 !
+通过文件大小或许多其他图像属性压缩图像。 
 
-### [WinRAR](http://www.rarlab.com/)![](/assets/money_pay.png)
-
-这个太经典啦

@@ -1,1 +1,0 @@
-### GoogleEarth {#GoogleEarth}
