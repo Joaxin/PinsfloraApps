@@ -79,6 +79,8 @@
     * [加密工具](ying-jian-xiang-guan/jia-mi-gong-ju.md)
     * [网络监控](systems-xi-tong-gong-ju/xi-tong-an-quan/wang-luo-jian-kong.md)
   * [系统清理 - Customization](systems-xi-tong-gong-ju/xi-tong-qing-li.md)
+    * [磁盘碎片](systems-xi-tong-gong-ju/xi-tong-qing-li/ci-pan-sui-pian.md)
+    * [垃圾清理](systems-xi-tong-gong-ju/xi-tong-qing-li/la-ji-qing-li.md)
   * [系统工具 - SysTools](systems-xi-tong-gong-ju/xi-tong-gong-ju.md)
   * [系统监控 - SysMonitor](systems-xi-tong-gong-ju/xi-tong-jian-kong.md)
   * [软件管理 - Softwares](systems-xi-tong-gong-ju/ruan-jian-guan-li.md)

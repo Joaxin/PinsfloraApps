@@ -5,10 +5,10 @@ Protect your PC from viruses, malware, and hackers.
 
 一款防火墙软件
 
-### [GlassWire](https://www.glasswire.com/)
-> Detect hidden threats with GlassWire's Firewall
+### [GlassWire](https://www.glasswire.com/) ![](/assets/website_official.png) ![](/assets/translation.png) ![](/assets/money_pay.png)
+> Detect hidden threats with GlassWire's Firewall 
 
-一款防火墙软件,也是网络流量监控工具和分析器，可视化网络分析工具。
+一款防火墙软件,也是网络流量即时监控工具和分析器，可视化网络分析工具。
 
 ### [NetLimiter](https://www.netlimiter.com/) ![](/assets/website_official.png) ![](https://img.shields.io/badge/Version-4.0.50-ff55bb.svg)
 
