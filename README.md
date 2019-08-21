@@ -1,8 +1,21 @@
 # Windows Apps Garden
 
-![](https://img.shields.io/badge/总数-410-blue.svg)
+![](https://img.shields.io/badge/总数-410-green.svg)
 
-![](https://img.shields.io/badge/☎️联系-telegram-ff69b4.svg)
+![](https://img.shields.io/badge/☎️联系-telegram-ff55bb.svg)
+
+##  收录事项：
+
+1. 不收录简单的软件封装，如：网页封装，Electron简单移植等
+2. 不收录商业化软件的破解版与修改版
+3. 不收录长期不更新 且有更好替代品的软件
+4. 不收录网络工具与攻击渗透为主要目的的软件
+5.  软件至少需支持Win7 64位
+6. 你可以自己便携版本，所以此处不作标注
+7. 游戏相关，另作收录
+8. 软件分类以其主要开发及设计目的为主
+
+## 图标说明：
 
 1 ![](/assets/stop_sign_continue_Q.png)  已经停更的，此文收录的，意味着暂时没有替代品，如果你有更好的推荐，欢迎
 
@@ -12,9 +25,9 @@
 
 4 ![](/assets/github_open.png) 开源的
 
-5 ![](/assets/CMD.png) 命令行
+5 ![](/assets/CMD.png) 命令行CLI
 
-6 ![](/assets/money_pay.png) 可能需付费，免费版够用的暂不标记
+6 ![](/assets/money_pay.png) 完整或者Pro版需付费，免费版够用的暂不标记
 
 7 ![](/assets/windows.png) 仅支持windows
 
@@ -37,6 +50,18 @@
 16 ![](/assets/network.png) 需网络工具
 
 17 ![](/assets/zlaw.png) 使用时请遵循当地法律
+
+18 ![](https://img.shields.io/badge/Version-0.0.0-ff55bb.svg) 收录时的最新版本号
+
+
+## 致谢：
+![](/assets/github_open.png) [Amazing-Windows-App](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us
+)
+![](/assets/github_open.png) [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
+
+![](/assets/website_official.png) 所有图标来自于 [Easyicon](https://www.easyicon.net)
+
+
 
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
