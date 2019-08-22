@@ -29,5 +29,18 @@ Process Explorer v16.26: https://docs.microsoft.com/zh-cn/sysinternals/downloads
 Autoruns: https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns
 Process Monitor v3.52: https://docs.microsoft.com/zh-cn/sysinternals/downloads/procmon
 
+### WindowTabs [![](/assets/website_official.png)] [![](/assets/github_open.png)](https://github.com/xmindltd/xmind)(https://github.com/mauricef/WindowTabs)
+
+给任意程序添加标签页，作者已停止维护
+
+### Quicker [![](/assets/website_official.png)](https://getquicker.net/) ![](/assets/leaves_rec.png)
+
+> Quicker
+更快， 更方便， 更简单。
+为常用操作建立捷径，让效率触手可及!
+
+超方便的面板管理启动脚本工具
+
+
 
 

@@ -14,3 +14,10 @@
 
 非常不错的商业解决方案，跨平台。
 
+### AnyDesk [![](/assets/website_official.png)](https://anydesk.com) ![](/assets/translation.png)
+
+> **AnyWhere. AnyTime. AnyDesk**
+
+> 远程连接到您的计算机，无论是从办公室的另一层还是世界的另一端。 AnyDesk为IT专业人员和移动用户提供安全可靠的远程桌面连接。
+
+

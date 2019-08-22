@@ -17,3 +17,9 @@
 ### AutoIt v3 [![](/assets/website_official.png)](https://www.autoitscript.com/site/autoit/)
 
 类 BASIC 脚本语言，用于 Windows GUI 的自动化
+
+### GestureSign [![](/assets/website_official.png)](http://gesturesign.win) [![](/assets/github_open.png)](https://github.com/TransposonY/GestureSign)
+
+> GestureSign is a gesture recognition software for Windows. You can automate repetitive tasks by simply drawing a gesture with your fingers, pen or mouse.
+
+针对 Windows 平板设计的触摸屏手势软件

@@ -1,6 +1,8 @@
+### Rainmeter [![](/assets/website_official.png)](https://www.rainmeter.net/) [![](/assets/github_open.png)](https://github.com/rainmeter/rainmeter)
+
+自定义你的桌面
+
 ## 任务栏
-
-
 
 ### [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)
 
@@ -47,6 +49,20 @@
 
 为不支持最小化到托盘的应用添加最小化功能
 
+
+### TranslucentTB [![](/assets/github_open.png)](https://github.com/TranslucentTB/TranslucentTB)
+
+状态栏透明工具
+
+### 火萤 [![](/assets/website_official.png)](http://huoying666.com/)
+
+视频桌面
+
+### Upupoo [![](/assets/website_official.png)](http://www.upupoo.com/)
+
+> Set videos as desktop background with online base.
+
+视频桌面
 
 
 

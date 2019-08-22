@@ -66,6 +66,6 @@ FTP, FTPS 和 SFTP 的跨平台客户端。
 
 界面美观的，基于Web技术的现代化高度可自定义的开源终端。
 
-### [Alacritty](https://github.com/jwilm/alacritty)
+### [Alacritty](https://github.com/jwilm/alacritty) [![](/assets/github_open.png)](https://github.com/jwilm/alacritty)
 
 跨平台，使用GPU加速的终端模拟器。 一个强大的命令行shell。

@@ -7,7 +7,3 @@
 
 使用可视化树状图布局以直观展示大文件（夹）的磁盘占用情况
 
-
-### 茄子快传 [![](/assets/website_official.png)](https://www.ushareit.com/) ![](/assets/translation.png)
-
-跨平台文件传输

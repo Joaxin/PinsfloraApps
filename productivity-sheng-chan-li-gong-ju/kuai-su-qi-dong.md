@@ -4,6 +4,10 @@
 
 应用实际之间快速切换。
 
+### Rolan [![](/assets/website_official.png)](http://www.irolan.com/) ![](/assets/money_pay.png)
+
+启动器
+
 ### Listary![](/assets/leaves_rec.png)![](/assets/windows.png)![](/assets/translation.png) {#Listary} ![](https://img.shields.io/badge/Version-5.00.2843-ff55bb.svg)
 
 ![](/assets/website_official.png)[https://www.listary.com/download](https://www.listary.com/download)
@@ -36,7 +40,7 @@ case:wholeword:Trees !flowers "D:\cocofiles\"
 
 如果没带移动硬盘 也可以把之前的移动硬盘索引保存到\`efu\`索引文件中，随时取用
 
-### Wox![](/assets/leaves_rec.png)[![](/assets/github_open.png)](https://github.com/Wox-launcher/Wox)![](/assets/windows.png)![](/assets/translation.png) {#Wox}
+### Wox![](/assets/leaves_rec.png) [![](/assets/github_open.png)](https://github.com/Wox-launcher/Wox) ![](/assets/windows.png) ![](/assets/translation.png) {#Wox}
 
 Wox 是windows平台下，由国人开发的启动器，类似于 `macOS` 上的效率神器 [Alfred](https://legacy.gitbook.com/book/joaxin/windows-apps-garden/edit#) 与 `windows`的另一款 [Launchy](https://legacy.gitbook.com/book/joaxin/windows-apps-garden/edit#).
 

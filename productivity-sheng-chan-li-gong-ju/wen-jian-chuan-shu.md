@@ -9,3 +9,7 @@
 ### [Clipber](http://clipber.com/clipber/) 
 
 来自国人开发的快帖，简单、便捷的多端剪贴板同步传输工具
+
+### 茄子快传 [![](/assets/website_official.png)](https://www.ushareit.com/) ![](/assets/translation.png)
+
+跨平台文件传输

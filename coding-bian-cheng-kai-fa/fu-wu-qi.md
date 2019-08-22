@@ -1,5 +1,11 @@
 ## 服务器环境
 
+### Caddy [![](/assets/website_official.png)](https://caddyserver.com/) [![](/assets/github_open.png)](https://github.com/caddyserver/caddy/)
+
+> Caddy is a general-purpose HTTP/2 web server that serves HTTPS by default.
+
+自动 HTTPS 部署能力的 HTTP/2 页面服务器
+
 ### [Mamp](https://www.mamp.info/en/)
 
 My Apache - MySQL - PHP服务器环境.

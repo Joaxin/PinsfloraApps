@@ -13,9 +13,9 @@ Github官方客户端
 
 一款免费的跨平台图形化GIT客户端
 
-### GIt
+### GIt [![](/assets/website_official.png)](https://git-scm.com/)[![](/assets/github_open.png)](https://github.com/git/git)
 
-* [https://git-scm.com/downloads](https://git-scm.com/downloads)
+![](/assets/download.png) [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 ### [Git Extensions](https://gitextensions.github.io/)
 

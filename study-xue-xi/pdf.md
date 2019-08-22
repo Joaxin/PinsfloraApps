@@ -10,11 +10,17 @@
 
 你会得到最好的PDF阅读器。
 
-### [PDF-XChange Viewer](https://www.tracker-software.com/product/pdf-xchange-viewer) ![](/assets/website_official.png) ![](https://img.shields.io/badge/Version-2.5.322-ff55bb.svg)
+### 文电通 Gaaiho PDF [![](/assets/website_official.png)](http://pdf.gaaiho.com/index.php) ![](/assets/money_pay.png)
+
+> 直觉式PDF编辑功能
+
+### [PDF-XChange Viewer](https://www.tracker-software.com/product/pdf-xchange-viewer) ![](/assets/website_official.png) ![](/assets/leaves_rec.png)![](https://img.shields.io/badge/Version-2.5.322-ff55bb.svg) 
 
 > The smallest, fastest, most feature-rich PDF reader/viewer available
 
 全能 PDF 阅读工具，在加载高分辨率扫描文件时速度优异，渲染效果出众，显示更加细腻。
+
+大量批注常用
 
 ### [福昕阅读器](https://www.foxitsoftware.cn/pdf-reader/)
 

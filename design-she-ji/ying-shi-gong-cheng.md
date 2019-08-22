@@ -13,4 +13,8 @@ Collection of DirectShow filters, VFW/ACM codecs, and tools.
 
 ### MediaCoder [![](/assets/website_official.png)](http://mediacoderhq.com/) 
 
-免费的通用影音转码工具
+DirectShow过滤器集合，免费的通用影音转码工具
+
+### FFmpeg [![](/assets/website_official.png)](https://ffmpeg.org/) ![](/assets/CMD.png)
+
+跨平台的视频转码解决方案

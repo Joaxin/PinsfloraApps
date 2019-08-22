@@ -6,6 +6,10 @@
 
 无敌的存在
 
+### Chromium [![](/assets/website_official.png)](https://www.chromium.org/Home) [![](/assets/github_open.png)](https://www.chromium.org/developers/how-tos/get-the-code)
+
+chrome的开源版
+
 -----
 ## Opera
 
@@ -21,23 +25,31 @@ Install [extension-source-viewer](https://addons.opera.com/zh-cn/extensions/deta
 [https://browser.yandex.com/](https://browser.yandex.com/)
 
 
-### Firefox {#Firefox}
+### Firefox {#Firefox} [![](/assets/website_official.png)](https://www.firefox.com/)
 
-[http://www.firefox.com/](http://www.firefox.com/)
 
 一只美丽的狐狸，最早流行于开发者圈子，逐渐被 Google 带向全世界，将 IE 拉下垄断神坛的第一个对手。近来的 Firefox 已经不输于 Chrome 的速度，并且其传统的强大扩展是很多人都无法离开的原因之一
 
-### Valvidi {#Valvidi}
+开源网页浏览器，高度扩展性并尊重用户隐私
 
-[https://vivaldi.com/](https://vivaldi.com/)
+### Valvidi {#Valvidi} [![](/assets/website_official.png)](https://vivaldi.com/)
+
+基于 chromium 的优秀浏览器
 
 ### Edge
 
 https://www.microsoft.com/zh-cn/windows/microsoft-edge
 
-## [Tor](https://www.torproject.org/download/) ![](/assets/zlaw.png)
+### [Tor](https://www.torproject.org/download/) ![](/assets/zlaw.png)
 
 启用匿名通信
+
+###  Brave [![](/assets/website_official.png)](https://www.brave.com/) [![](/assets/github_open.png)](https://github.com/brave)
+
+> You are not a product.
+Why use a browser that treats you like one? Enjoy private, secure and fast browsing with Brave.
+
+启用隐私保护 启用广告拦截
 
 ### 疑似停止更新的：
 

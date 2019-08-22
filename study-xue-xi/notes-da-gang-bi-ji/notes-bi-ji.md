@@ -7,6 +7,10 @@ The palest ink is better than the best memory.
 
 超棒的本地MarkDown编辑器
 
+### Markdown Plus [![](/assets/website_official.png)](http://tylingsoft.com/markdown-plus/) [![](/assets/github_open.png)](https://github.com/tylingsoft/markdown-plus)
+
+Markdown 编辑器，支持通用 markdown、GitHub markdown 之外，还支持：实时预览代码、高亮任务列表、Emoji 图标、Font Awesome 图标、Ionicons 图标、数学公式、流程图、顺序图、甘特图
+
 ### [Inkdrop](https://www.inkdrop.info/) ![](/assets/website_official.png)
 
 > Organizing your Markdown notes made simple.
