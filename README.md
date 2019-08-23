@@ -14,7 +14,7 @@
 6. 你可以自己便携版本，所以此处不作标注
 7. 游戏相关，另作收录
 8. 软件分类以其主要开发及设计目的为主
-9. 支持多端同步 （Windows, macOS, and Linux）
+9. 支持多端同步 （Windows, macOS, and Linux）WindowsU
 
 ## 图标说明：
 

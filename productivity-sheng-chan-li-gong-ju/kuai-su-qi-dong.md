@@ -6,15 +6,25 @@
 
 ### Rolan [![](/assets/website_official.png)](http://www.irolan.com/) ![](/assets/money_pay.png)
 
-启动器
+由国人开发的启动器
 
-### Listary![](/assets/leaves_rec.png)![](/assets/windows.png)![](/assets/translation.png) {#Listary} ![](https://img.shields.io/badge/Version-5.00.2843-ff55bb.svg)
+### Listary [![](/assets/website_official.png)](https://www.listary.com/) ![](/assets/leaves_rec.png) ![](/assets/windows.png) ![](/assets/translation.png) {#Listary} ![](https://img.shields.io/badge/Version-5.00.2843-ff55bb.svg)
 
-![](/assets/website_official.png)[https://www.listary.com/download](https://www.listary.com/download)
+> **Listary** is a revolutionary search utility for Windows
+that makes finding your files and launching applications blazing fast, for casual and power users alike!
+
+由国人`Channing` 开发的
+快速搜索路径
+快速切换目录
+快速打开应用
+快速打开网页
+的高效率启动器
+
+![](/assets/download.png) [https://www.listary.com/download](https://www.listary.com/download)
 
 ![](/assets/download.png) 便携版：[https://www.listary.com/download/ListaryPortable.zip?version=5.00.2843](https://www.listary.com/download/ListaryPortable.zip?version=5.00.2843)
 
-### Everything![](/assets/leaves_rec.png)![](/assets/windows.png)![](/assets/translation.png) {#Everything}
+### Everything ![](/assets/leaves_rec.png) ![](/assets/windows.png) ![](/assets/translation.png) {#Everything}
 
 windows搜索神器，极速建立文件索引\(ps:第一次使用，请稍作等待\)，并实时监测文件变化，支持正则搜索，预览，书签，还能建立ETP服务器。
 
@@ -40,9 +50,9 @@ case:wholeword:Trees !flowers "D:\cocofiles\"
 
 如果没带移动硬盘 也可以把之前的移动硬盘索引保存到\`efu\`索引文件中，随时取用
 
-### Wox![](/assets/leaves_rec.png) [![](/assets/github_open.png)](https://github.com/Wox-launcher/Wox) ![](/assets/windows.png) ![](/assets/translation.png) {#Wox}
+### Wox [![](/assets/github_open.png)](https://github.com/Wox-launcher/Wox) ![](/assets/windows.png) ![](/assets/translation.png) ![](/assets/leaves_rec.png)  {#Wox}
 
-Wox 是windows平台下，由国人开发的启动器，类似于 `macOS` 上的效率神器 [Alfred](https://legacy.gitbook.com/book/joaxin/windows-apps-garden/edit#) 与 `windows`的另一款 [Launchy](https://legacy.gitbook.com/book/joaxin/windows-apps-garden/edit#).
+Wox 是windows平台下，由国人开发的启动器，类似于 `macOS` 上的效率神器 [Alfred](https://legacy.gitbook.com/book/joaxin/windows-apps-garden/edit#) 与 `windows`的与`Launchy`类似的高效启动器.
 
 ![](/assets/website_official.png)[http://www.wox.one](http://www.wox.one/)
 
@@ -52,7 +62,7 @@ Wox 是windows平台下，由国人开发的启动器，类似于 `macOS` 上的
 
 ![](/assets/plugins.png) [http://www.wox.one/plugin](http://www.wox.one/plugin)
 
-自带 计算器 颜色 控制面板 everything 程序 命令行 URL 网页搜索 等插件
+自带 `计算器` `颜色` `控制面板` `everything` `程序` `命令行` `URL` `网页搜索` 等插件
 
 推荐插件：
 
@@ -86,11 +96,10 @@ Wox 是windows平台下，由国人开发的启动器，类似于 `macOS` 上的
 
 开源快捷键启动器。
 
-### WGestures
+### WGestures [![](/assets/website_official.png)](http://www.yingdev.com/projects/wgestures) ![](/assets/time_whathappened.png)
 
-[http://www.yingdev.com/projects/wgestures](http://www.yingdev.com/projects/wgestures)
+由国人开发的鼠标手势管理启动平台
 
-### WindowsTabs {#WindowsTabs}
 
 ### Wintop {#Wintop}
 

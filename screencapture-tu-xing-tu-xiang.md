@@ -1,10 +1,12 @@
-### Snipaste {#Snipaste} ![](/assets/translation.png) [![](/assets/github_open.png)]
+### Snipaste {#Snipaste} [![](/assets/website_official.png)](hhttps://zh.snipaste.com/) ![](/assets/translation.png) [![](/assets/github_open.png)](https://github.com/Snipaste)
 
-一款高效率功能全面的截图软件
+一款由国人开发的，支持多功能截图(包括涂鸦、马赛克、画画)的跨平台(`WindowsU` 、`macOS`)开源截图软件。
 
-[https://www.snipaste.com](https://www.snipaste.com/)
+![](/assets/z-pruductivity-capturescreen-snipaste.jpg)
 
-[https://dl.snipaste.com/win-x64](https://dl.snipaste.com/win-x64)
+![](/assets/website_official.png) [https://www.snipaste.com](https://www.snipaste.com/)
+
+![](/assets/download.png) [https://dl.snipaste.com/win-x64](https://dl.snipaste.com/win-x64)
 
 ### Pickpick {#Pickpick} ![](/assets/translation.png) 
 ![](/assets/website_official.png) [https://picpick.app/](https://picpick.app/)

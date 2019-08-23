@@ -12,9 +12,13 @@
 ------
 
 
-### 小狼毫 [![](/assets/github_open.png)](https://github.com/rime/librime)
+### RIME 小狼毫 [![](/assets/website_official.png)](https://rime.im)  [![](/assets/github_open.png)](https://github.com/rime/librime) ![](/assets/leaves_rec.png)
 
-[RIME | 中州韻輸入法引擎](https://rime.im/)：基于中州韵输入法引擎，思想用键盘表达也行。
+> 聪明的输入法懂我心意
+
+[RIME | 中州韻輸入法引擎](https://rime.im/)：基于中州韵输入法引擎的小巧跨平台(`Windows` 、`macOS`、 `Linux`、 `Android[同文]`)开源可扩展自定义的中文+繁体输入法。
+
+![](/assets/download.png) https://rime.im/download/
 
 ------
 

@@ -2,36 +2,25 @@
 The palest ink is better than the best memory.
 
 > 管理知识
-
-### [Typora](https://www.typora.io/) ![](/assets/website_official.png){#Typora}
-
-超棒的本地MarkDown编辑器
-
-### Markdown Plus [![](/assets/website_official.png)](http://tylingsoft.com/markdown-plus/) [![](/assets/github_open.png)](https://github.com/tylingsoft/markdown-plus)
-
-Markdown 编辑器，支持通用 markdown、GitHub markdown 之外，还支持：实时预览代码、高亮任务列表、Emoji 图标、Font Awesome 图标、Ionicons 图标、数学公式、流程图、顺序图、甘特图
-
-### [Inkdrop](https://www.inkdrop.info/) ![](/assets/website_official.png)
-
-> Organizing your Markdown notes made simple.
-Jot down your daily hacking endeavors and increase your productivity.
-
-Markdown爱好者的笔记应用程序，60天试用。
-
->支持 macOS Windows Linux
- iOS Android
+ 
 
 ### [为知笔记](http://www.wiz.cn/index.html) ![](/assets/website_official.png)
 
-记录、查阅一切有价值的信息，同样跨平台支持。
+> 大脑是用来思考的，记录的事情交给我们
+
+> 一键收藏、全端全文检索、多级目录、Markdown
+
+![](/assets/z-study-notes-markdown-weizhinotes.jpg)
+
+一款跨平台(`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`)的国产笔记用，支持markdown。
 
 ### [有道云笔记](http://note.youdao.com/) ![](/assets/website_official.png)
 
 网易旗下笔记工具，同样跨主流平台支持，文字、手写、录音、拍照多种记录方式，支持任意附件格式。
 
-### [蚂蚁笔记](https://leanote.com/) ![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/leanote)
+### [Leanote 蚂蚁笔记](https://leanote.com/) ![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/leanote)
 
-支持 Markdown 的开源笔记，同步需付费
+支持 Markdown 的开源国产笔记应用，同步需付费
 
 ### [Simplenote](https://simplenote.com/) ![](/assets/website_official.png)
 

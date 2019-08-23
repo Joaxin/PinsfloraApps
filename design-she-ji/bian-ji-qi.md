@@ -38,7 +38,7 @@ vim真正的继任者。
 
 
 
-一款支持多种编程语言的源码编辑,开源软件，知名度极高，来自台湾
+一款由台湾同胞开发的，开源的、支持多种编程语言的源码编辑软件
 
 ### [Notepad2](http://www.flos-freeware.ch/notepad2.html) [![](/assets/github_open.png)](https://github.com/notepad-plus-plus/notepad-plus-plus)
 

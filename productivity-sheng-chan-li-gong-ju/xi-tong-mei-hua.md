@@ -1,6 +1,4 @@
-### Rainmeter [![](/assets/website_official.png)](https://www.rainmeter.net/) [![](/assets/github_open.png)](https://github.com/rainmeter/rainmeter)
 
-自定义你的桌面
 
 ## 任务栏
 

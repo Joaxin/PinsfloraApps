@@ -19,15 +19,7 @@ The largest program suite worldwide!
 
   由Mark Russinovich提供的工具套件，提供对 Windows 进程，物理端口，磁盘活动等构件的访问以进行故障排除。
 
-### Sysinternals
 
-一套 Windows系统小应用
-
-![](/assets/website_official.png) https://docs.microsoft.com/zh-cn/sysinternals/
-Process Explorer v16.26: https://docs.microsoft.com/zh-cn/sysinternals/downloads/process-explorer
-多功能进程管理工具
-Autoruns: https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns
-Process Monitor v3.52: https://docs.microsoft.com/zh-cn/sysinternals/downloads/procmon
 
 ### WindowTabs [![](/assets/website_official.png)] [![](/assets/github_open.png)](https://github.com/xmindltd/xmind)(https://github.com/mauricef/WindowTabs)
 

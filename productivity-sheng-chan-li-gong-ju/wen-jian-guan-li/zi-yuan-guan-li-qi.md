@@ -1,12 +1,10 @@
-### [Clover](http://en.ejie.me/) ![](/assets/windows.png)![](/assets/translation.png)![](/assets/leaves_rec.png) ![](https://img.shields.io/badge/Version-3.5.2-ff55bb.svg)
+### Clover [![](/assets/website_official.png)](http://en.ejie.me/) ![](/assets/windows.png) ![](/assets/translation.png) ![](/assets/leaves_rec.png) ![](https://img.shields.io/badge/Version-3.5.2-ff55bb.svg) 
 
 > 为您的 Windows Explorer 插上翅膀！
 
-win下类似chrome的多标签页管理工具，推荐便携去广告版
+Windows下类似chrome的多标签页管理工具，推荐便携去广告版
 
 ![](/assets/keng.png) win10下可能不稳定，容易崩溃
-
-![](/assets/website_official.png) [http://cn.ejie.me/](http://cn.ejie.me/)
 
 ### Directory Opus ![](/assets/windows.png)![](/assets/leaves_rec.png)
 

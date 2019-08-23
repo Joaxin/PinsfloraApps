@@ -5,14 +5,6 @@
 
 免费且功能齐全的 GPU 监控工具。
 
-### CrystalDiskInfo [![](/assets/website_official.png)](http://crystalmark.info/software/CrystalDiskInfo/index-e.html)
-
-HDD/SSD 磁盘信息工具
-
-### SSD-Z [![](/assets/website_official.png)](http://aezay.dk/aezay/ssdz/)
-
-显示SSD磁盘信息
-
 ### AIDA64
 
 

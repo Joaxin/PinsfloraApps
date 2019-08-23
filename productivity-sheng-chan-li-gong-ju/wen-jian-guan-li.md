@@ -1,7 +1,17 @@
-### FileLocatorPro {#FileLocatorPro}
+整理文件，不光是为了提高你的生产力，也是为了提高你的解决问题的逻辑性与条理性。
 
-### Duplicate Cleaner ![](/assets/translation.png) [![](/assets/website_official.png)](https://www.digitalvolcano.co.uk/duplicatecleaner.html)
+常见问题:
+1. 我的文件找不到了
+2. 我的文件丢失了
 
-支持子目录搜索或MD5码搜索的重复文件查询工具
+解决方案
+1. 文件夹分类
+2. 文件分类
+3. 程序安装位置分类
+4. 临时文件夹策略
+5. 添加快速访问与建立快捷方式
+6. 借助软件
+
+
 
 
