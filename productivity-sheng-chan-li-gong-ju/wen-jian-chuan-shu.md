@@ -6,6 +6,10 @@
 
 开源跨平台文件传输工具
 
+### Pushbullet
+
+在不同设备间推送网址 图片 文件
+
 ### [Clipber](http://clipber.com/clipber/) 
 
 来自国人开发的快帖，简单、便捷的多端剪贴板同步传输工具

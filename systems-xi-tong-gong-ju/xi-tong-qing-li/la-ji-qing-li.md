@@ -16,7 +16,7 @@ iobit出品的系统优化套件
 > CCleaner is the number-one tool for cleaning your PC.
 It protects your privacy and makes your computer faster and more secure!
 
-来自 piriform 梨子公司产品的多功能清理优化软件，免费版基本够用。
+来自 piriform 梨子公司产品的多功能清理优化软件，提供垃圾清理、出册表清理、重复文件清理等，免费版基本够用。
 
 ### [Glary Utilities](http://www.glarysoft.com/)
 

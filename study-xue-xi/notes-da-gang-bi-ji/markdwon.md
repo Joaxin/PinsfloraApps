@@ -1,6 +1,6 @@
-### [Typora](https://www.typora.io/) ![](/assets/website_official.png){#Typora}
+### Typora [![](/assets/website_official.png)](https://www.typora.io/) {#Typora}
 
-超棒的本地MarkDown编辑器
+跨平台(`Windows` 、`macOS`、 `Linux`)的超棒的本地MarkDown编辑写作工具
 
 ### Markdown Plus [![](/assets/website_official.png)](http://tylingsoft.com/markdown-plus/) [![](/assets/github_open.png)](https://github.com/tylingsoft/markdown-plus)
 

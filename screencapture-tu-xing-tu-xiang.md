@@ -26,14 +26,15 @@
 一款功能十分强大的截图，屏幕录制，文字分享工具, 支持自定义与自动化分享，也有拾色器，生成图片与视频缩略图，图像合并，显示器测试等小功能，软件开源，开发活跃。
 
 
-### Snagit ![](/assets/money_pay.png)
+### Snagit [![](/assets/website_official.png)](https://www.techsmith.com/screen-capture.html
+
+)![](/assets/money_pay.png) 
 
 > The Leader in Screen Capture Software
 Snagit 2019 takes the hassle out of creating custom screenshots and recordings. Capture your screen, edit images, and deliver results.
 
-![](/assets/website_official.png)https://www.techsmith.com/screen-capture.html
+### Ashampoo Snap 10 [![](/assets/website_official.png)](https://www.ashampoo.com/cn/cny/pin/2024/multimedia-software/snap-10) ![](/assets/translation.png) ![](/assets/money_pay.png)
 
-### [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx)
- 一款屏幕缩放和标记工具，用于技术展示。它静默运行于托盘处，通过用户定义的热键触发放大屏幕区域，放大时拖动及在放大图像上标注。
+由Ashampoo开发的一款屏幕截取和录制视频的工具
 
 

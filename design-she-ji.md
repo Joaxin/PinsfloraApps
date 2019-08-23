@@ -2,11 +2,11 @@
 
 ![](/assets/website_official.png)[https://www.adobe.com/sea/creativecloud.html](https://www.adobe.com/sea/creativecloud.html)
 
+Adobe Bridge： 浏览Adobe文件
 Adobe Acrobat DC
 Adobe After Effects
 Adobe Animate
 Adobe Audition
-Adobe Bridge
 Adobe Captivate
 Adobe Character Animator
 Adobe Dreamweaver

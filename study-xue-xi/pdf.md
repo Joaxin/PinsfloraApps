@@ -30,12 +30,10 @@
 
 ### [福昕阅读器](https://www.foxitsoftware.cn/pdf-reader/)
 
-> 福昕PDF阅读器
-阅读PDF文档的理想选择
+> 阅读PDF文档的理想选择
 全新的Ribbon界面，全球用户超越4.75亿；支持PDF文档手写签名、插入印章；更多安全控制包括Foxit DRM内容管理插件；支持微软AD RMS对PDF文档的安全应用
 
-在全球拥有大量用户，最优秀的国产软件之一。Ribbon 界面，支持手写签名、插入印章等。
-
+国人开发的免费PDF阅读器，注意与[foxitsoftware](https://www.foxitsoftware.com/pdf-editor/)商业软件额区别
 ------
 
 ### pdflock
@@ -54,10 +52,6 @@
 
 * SolidConverterPDF
 * PDFXVwer
-
-### OCR {#OCR}
-
-* ABBYY FineReader
 
 ### Acrobat Pro {#Acrobat-Pro}
 

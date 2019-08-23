@@ -28,7 +28,7 @@ The palest ink is better than the best memory.
 Light, clean, and free. 
 Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 
-基于云同步的简单跨平台笔记应用程序。
+基于云同步的简单跨平台(`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`)的笔记应用。
 
 ### [EverNote](https://evernote.com) ![](/assets/website_official.png)
 
@@ -39,9 +39,15 @@ Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 
 老牌跨平台笔记工具，建议使用国际版
 
+可以用 [马克飞象](https://maxiang.io/) 来进行markdwon创作
+
 ### Notion
 
 ### [OneNote](http://office.microsoft.com/zh-cn/onenote/
 
 微软 Office 组件之一，功能非常强大的个人信息整合与多人协作工具，与 Office 各组件完美整合。
+
+### 看云 [![](/assets/website_official.png)](https://www.kancloud.cn/)
+
+技术文档写作平台
 

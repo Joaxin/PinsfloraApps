@@ -10,13 +10,13 @@
 
 ### AutoHotKey [![](/assets/github_open.png)](https://github.com/Lexikos/AutoHotkey_L) [![](/assets/website_official.png)](https://www.autohotkey.com/)
 
-自动化 Windows 操作，开源的windows脚本语言
+简单的脚本语言，自动化Windows操作，比如启动程序、文字操作、批处理、文件操作等
 
 ![](/assets/plugins.png) AuftoCorrect for English
 
 ### AutoIt v3 [![](/assets/website_official.png)](https://www.autoitscript.com/site/autoit/)
 
-类 BASIC 脚本语言，用于 Windows GUI 的自动化
+类`BASIC`脚本语言，用于Windows GUI的自动化, AutoHotKey的替代品
 
 ### GestureSign [![](/assets/website_official.png)](http://gesturesign.win) [![](/assets/github_open.png)](https://github.com/TransposonY/GestureSign)
 

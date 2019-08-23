@@ -11,6 +11,9 @@
 
 Collection of DirectShow filters, VFW/ACM codecs, and tools.
 
+让系统自带的WMP - Windows Media Player支持更多格式。
+
+
 ### MediaCoder [![](/assets/website_official.png)](http://mediacoderhq.com/) 
 
 DirectShow过滤器集合，免费的通用影音转码工具
