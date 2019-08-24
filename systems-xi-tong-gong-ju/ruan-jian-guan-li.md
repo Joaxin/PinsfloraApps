@@ -21,7 +21,18 @@ Unlike built-in auto update features, SUMo tells you if updates are available be
 
 ### PC Master
 
-### Uninstall Tool
+### Uninstall Tool [![](/assets/website_official.png)](https://www.crystalidea.com/uninstall-tool/) ![](/assets/translation.png) ![](/assets/leaves_rec.png)
+
+> Fast and Powerful Uninstaller 
+for Complete Removal of Programs
+
+![](/assets/third_party.png)(软件缘)
+
+
+ https://www.appcgn.com/uninstall-tool.html
+ 
+ 由美国CrystalIdea公司开发的软件卸载工具，支持卸载残留，十分好用
+
 
 ### Geek Uninstaller
 

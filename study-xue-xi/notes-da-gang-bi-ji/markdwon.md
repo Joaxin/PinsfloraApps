@@ -1,5 +1,7 @@
 ### Typora [![](/assets/website_official.png)](https://www.typora.io/) {#Typora}
 
+![](/assets/z-study-notes-markdown-typora.jpg)
+
 跨平台(`Windows` 、`macOS`、 `Linux`)的超棒的本地MarkDown编辑写作工具
 
 ### Markdown Plus [![](/assets/website_official.png)](http://tylingsoft.com/markdown-plus/) [![](/assets/github_open.png)](https://github.com/tylingsoft/markdown-plus)
