@@ -1,6 +1,16 @@
 {
-    "plugins": ["expandable-chapters-small"],
+    "plugins": ["chapter-fold","ancre-navigation","splitter"，"-sharing", "sharing-plus"，"popup"],
     "pluginsConfig": {
-        "expandable-chapters-small":{}
+            "sharing": {
+             "douban": false,
+             "facebook": false,
+             "pocket": false,
+             "twitter": false,
+             "weibo": true,
+          "all": [
+               "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo", 
+               "messenger","qq", "qzone","viber","whatsapp"
+           ]
+       }
     }
 }
