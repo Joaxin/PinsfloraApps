@@ -1,5 +1,5 @@
 {
-    "plugins": ["chapter-fold","ancre-navigation","splitter"，"-sharing", "sharing-plus"，"popup"],
+    "plugins": ["chapter-fold","ancre-navigation","splitter","-sharing", "sharing-plus","popup","-lunr","-search", "search-pro"],
     "pluginsConfig": {
             "sharing": {
              "douban": false,
