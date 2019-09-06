@@ -2,13 +2,13 @@
     "plugins": ["chapter-fold","ancre-navigation","splitter","-sharing", "sharing-plus","popup","-lunr","-search", "search-pro"],
     "pluginsConfig": {
             "sharing": {
-             "douban": false,
-             "facebook": false,
+             "douban": true,
+             "facebook": true,
              "pocket": false,
-             "twitter": false,
+             "twitter": true,
              "weibo": true,
           "all": [
-               "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo", 
+               "douban", "facebook",  "instapaper", "linkedin","twitter", "weibo", 
                "messenger","qq", "qzone","viber","whatsapp"
            ]
        }
