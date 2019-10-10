@@ -24,7 +24,7 @@
 
 5 ![](/assets/CMD.png) 命令行CLI
 
-6 ![](/assets/money_pay.png) 完整版或者Pro版需付费，一般可以试用7-30天不等，若免费版够用的，暂不标记
+6 ![](/assets/money_pay.png) 完整版或者Pro版需付费，一般可以试用7-30天不等，若免费版够用的，暂不标记 
 
 7 ![](/assets/windows.png) 仅支持windows
 
