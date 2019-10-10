@@ -51,6 +51,12 @@ Why use a browser that treats you like one? Enjoy private, secure and fast brows
 
 启用隐私保护 启用广告拦截
 
+### Lunascape ![](/assets/translation.png)
+
+来自日本的三引擎三叉戟浏览器。
+
+![](/assets/z-study-browser-lunascape.png)
+
 ### 疑似停止更新的：
 
 ### [Maxthon](http://www.maxthon.cn/)：一开始很好用的国人开发的浏览器

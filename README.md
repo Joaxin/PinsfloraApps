@@ -1,8 +1,4 @@
-# Windows Apps Garden
-
-![](https://img.shields.io/badge/总数-410-green.svg)
-
-![](https://img.shields.io/badge/☎️联系-telegram-ff55bb.svg)
+![](https://img.shields.io/badge/☎️Contact-Telegram-ff55bb.svg)
 
 ##  收录事项：
 
@@ -11,16 +7,16 @@
 3. 不收录长期不更新 且有更好替代品的软件
 4. 不收录网络工具与攻击渗透为主要目的的软件
 5. 软件至少需支持Win7 64位
-6. 你可以自己便携版本，所以此处不作标注
-7. 游戏相关，另作收录
+6. 你可以自己制作便携版本，所以此处不作标注
+7. 游戏相关的东西，另作收录
 8. 软件分类以其主要开发及设计目的为主
-9. 支持多端同步 （Windows, macOS, and Linux）WindowsU
+9. 支持多端同步的 会注明 比如 [Windows, macOS, Linux, [Microsoft Store](https://www.microsoft.com/en-us/store/apps/windows)]
 
 ## 图标说明：
 
-1 ![](/assets/stop_sign_continue_Q.png)  已经停更的，此文收录的，意味着暂时没有替代品，如果你有更好的推荐，欢迎
+1 ![](/assets/stop_sign_continue_Q.png) 已经停更的，在花园里收录的，意味着暂时没有更好的替代品，如果你有好的推荐，欢迎
 
-2 ![](/assets/time_whathappened.png)疑似停止维护，长期不更
+2 ![](/assets/time_whathappened.png) 疑似停止维护，长期不更
 
 3 ![](/assets/leaves_rec.png) 推荐的
 
@@ -28,7 +24,7 @@
 
 5 ![](/assets/CMD.png) 命令行CLI
 
-6 ![](/assets/money_pay.png) 完整或者Pro版需付费，一般可以试用7-30天不等，若免费版够用的，则不标记
+6 ![](/assets/money_pay.png) 完整版或者Pro版需付费，一般可以试用7-30天不等，若免费版够用的，暂不标记
 
 7 ![](/assets/windows.png) 仅支持windows
 
@@ -52,7 +48,7 @@
 
 17 ![](/assets/zlaw.png) 使用时请遵循当地法律
 
-18 ![](https://img.shields.io/badge/Version-0.0.0-ff55bb.svg) 收录时的最新版本号
+18 ![](https://img.shields.io/badge/Version-0.0.0-ff55bb.svg) 收录时的最新版本号，不定期更新
 
 
 ## 致谢：
