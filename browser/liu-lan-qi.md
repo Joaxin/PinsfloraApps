@@ -40,7 +40,7 @@ Install [extension-source-viewer](https://addons.opera.com/zh-cn/extensions/deta
 
 https://www.microsoft.com/zh-cn/windows/microsoft-edge
 
-### [Tor](https://www.torproject.org/download/) ![](/assets/zlaw.png)
+### Tor ![](/assets/zlaw.png) [![](/assets/website_official.png)](https://www.torproject.org)
 
 启用匿名通信
 

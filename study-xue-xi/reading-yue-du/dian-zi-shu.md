@@ -1,16 +1,17 @@
->
+> 
 
-### [Calibre](http://calibre-ebook.com/) ![](/assets/website_official.png) [![](/assets/github_open.png)]( https://github.com/kovidgoyal/calibre)
+### Calibre [![](/assets/website_official.png)](http://calibre-ebook.com/) [![](/assets/github_open.png)]( https://github.com/kovidgoyal/calibre)
 
-用于电子书管理和转换的开源软件。
+一款开源的电子书制作及阅读软件，提供网页转书籍，格式转换等的强大电子图书馆，适合折腾。
 
-### [kobo](https://www.kobo.com/desktop) ![](/assets/website_official.png)
+支持Linux，Mac，Windows
 
-界面简陋但功能强大的电子书管理和转换软件。
+### [kobo](https://www.kobo.com/desktop) [![](/assets/website_official.png)](https://www.kobo.com)
 
-### [Mobipocket Reader](https://mobipocket-reader-desktop.en.softonic.com/) ![](/assets/website_official.png)
+来自日本的功能强大的电子书管理和转换软件,也是电子书阅读器。
 
-![](/assets/third_party.png) [华军](http://www.onlinedown.net/soft/634581.htm)
+![](/assets/z-study-read-book-kobo.jpg)
+
 
 ### iReader ![](/assets/stop_sign_continue_Q.png)
 

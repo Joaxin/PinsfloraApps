@@ -8,7 +8,7 @@
 
 ![](/assets/z-dev-databases-postgresql-catwrap.jpg)
 
-![](/assets/download.png) https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+![](/assets/download.png) Win: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads#windows
 
 ### MySQL [![](/assets/website_official.png)](https://www.mysql.com) ![](/assets/translation.png) ![](https://img.shields.io/badge/Version-8.0.17-ff55bb.svg)
 
