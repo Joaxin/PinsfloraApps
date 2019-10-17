@@ -76,7 +76,7 @@
 ## Contributors
 ---
 
-If you have any suggestions for softwares, you can mention in issues or raise a pull request.
+If you have any suggestions for softwares, you can mention them in issues or raise a pull request.
 
-Made with ❤
+Made with ❤ by Joaxin
 

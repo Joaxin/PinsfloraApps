@@ -6,45 +6,49 @@
 
 自动补全：https://archive.codeplex.com/?p=powertab
 
-### [Zsh](http://www.zsh.org/)
+### Zsh [![](/assets/website_official.png)](http://www.zsh.org/)
 
 ### [Xshell 6](http://www.netsarang.com/products/xsh_overview.html) ![](/assets/website_official.png)
 
 一款经典的SSH工具
 
-### [Babun](http://babun.github.io/)
+### Babun [![babun](/assets/website_official.png)](http://babun.github.io/) [![](/assets/github_open.png)](https://github.com/babun/babun/)
 
-基于 Cygwin，用于替代 Windows shell。
+> a Windows shell you will love!
 
-### [Cmder](https://github.com/cmderdev/cmder) ![](/assets/github_open.png)
+一款开源的Windows shell工具, 基于 Cygwin
 
-好用又好看的终端控制台。
+### Cmder [![](/assets/website_official.png)](https://cmder.net/) [![](/assets/github_open.png)](https://github.com/cmderdev/cmder) ![](/assets/leaves_rec.png)
 
-### [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool)
+> Portable console emulator for Windows
 
-设置Widows终端支持iTerm的颜色模式。
+开源又精美的windows终端工具，支持git。
 
-### [ConEmu](https://github.com/Maximus5/ConEmu) ![](/assets/github_open.png)
+![main](https://cmder.net/img/main.png)
 
-标签，分布，闪烁及其他各项均可定制的终端。
+### ConEmu] [![](/assets/website_official.png)](https://conemu.github.io/) [![](/assets/github_open.png)](https://github.com/Maximus5/ConEmu)
+
+> Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more 
+
+开源的windows终端定制工具，支持标签，多窗口，热键等。
 
 ### [ConsoleZ](https://github.com/cbucher/console)
 
 Console 2 的修改版本，更好的体验和更好的视觉呈现。
 
-### [MobaXterm](http://mobaxterm.mobatek.net/) ![](/assets/website_official.png) ![](/assets/leaves_rec.png)
+### MobaXterm [![](/assets/website_official.png)](http://mobaxterm.mobatek.net/) ![](/assets/website_official.png) ![](/assets/leaves_rec.png)
 
 > Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
 
 支持SFTP、SSH, telnet、RDP、VNC 、 X11、Xserver 和标签式的增强型终端，并且封装了Unix命令集(GNU/ Cygwin).
 
-### [mRemoteNG](https://mremoteng.org/) ![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/mRemoteNG/mRemoteNG)
+### mRemoteNG [![](/assets/website_official.png)](https://mremoteng.org/) ![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/mRemoteNG/mRemoteNG)
 
 > mRemoteNG is a fork of mRemote: an open source, tabbed, multi-protocol, remote connections manager. mRemoteNG adds bug fixes and new features to mRemote.
 
 一款开源，多标签，支持SSH、RDP、ICA、VNC、Telnet、HTTP、rlogin等的多协议的远程连接管理器，是之前`mremote`的增强改进版,。
 
-### [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) ![](/assets/website_official.png)
+### MTPuTTY [![](/assets/website_official.png)](http://ttyplus.com/multi-tabbed-putty/)  ![](/assets/website_official.png)
 
 > MTPuTTY (Multi-Tabbed PuTTY)
 
@@ -52,20 +56,22 @@ Console 2 的修改版本，更好的体验和更好的视觉呈现。
 
 putty原版在这里 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 
-### [FileZilla](https://filezilla-project.org/) ![](/assets/website_official.png) [![](/assets/github_open.png)](https://sourceforge.net/projects/filezilla/) ![](/assets/translation.png)
+### FileZilla [![](/assets/website_official.png)](https://filezilla-project.org/)  ![](/assets/website_official.png) [![](/assets/github_open.png)](https://sourceforge.net/projects/filezilla/) ![](/assets/translation.png)
 
 FTP, FTPS 和 SFTP 的跨平台客户端。
 
-### [WinSCP](https://winscp.net/) ![](/assets/website_official.png)
+### WinSCP [![](/assets/website_official.png)](https://winscp.net/) 
 
 免费开源的 SFTP, FTP, WebDAV 和 SCP 客户端。
 
-### [Terminus](https://eugeny.github.io/terminus/) [![](/assets/github_open.png)](https://github.com/Eugeny/terminus) ![](https://img.shields.io/badge/Version-Alpha 88-ff55bb.svg)
+### Terminus [![](/assets/website_official.png)](https://eugeny.github.io/terminus/)  [![](/assets/github_open.png)](https://github.com/Eugeny/terminus) ![](https://img.shields.io/badge/Version-Alpha 92-ff55bb.svg)
 
-![](/assets/download.png) https://github.com/Eugeny/terminus/releases/tag/v1.0.88
+> A terminal for a more modern age
 
-界面美观的，基于Web技术的现代化高度可自定义的开源终端。
+![](/assets/download.png) https://github.com/Eugeny/terminus/releases/
 
-### [Alacritty](https://github.com/jwilm/alacritty) [![](/assets/github_open.png)](https://github.com/jwilm/alacritty)
+一款高颜值的，高度可自定义的开源终端，支持PowerShell，WSL，Git-Bash，Cygwin，Cmd，SSH等，仍处于处于Alpha版本，可能bug有点多。
+
+### Alacritty [![](/assets/website_official.png)](https://www.autohotkey.com/) [![](/assets/github_open.png)](https://github.com/jwilm/alacritty)
 
 跨平台，使用GPU加速的终端模拟器。 一个强大的命令行shell。
