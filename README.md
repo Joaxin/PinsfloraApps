@@ -2,6 +2,8 @@
 
 ##  收录事项：
 
+---
+
 1. 不收录简单的软件封装，如：网页封装，Electron简单移植等
 2. 不收录商业化软件的破解版与修改版
 3. 不收录长期不更新 且有更好替代品的软件
@@ -13,6 +15,8 @@
 9. 支持多端同步的 会注明 比如 [Windows, macOS, Linux, [Microsoft Store](https://www.microsoft.com/en-us/store/apps/windows)]
 
 ## 图标说明：
+
+---
 
 1 ![](/assets/stop_sign_continue_Q.png) 已经停更的，在花园里收录的，意味着暂时没有更好的替代品，如果你有好的推荐，欢迎
 
@@ -52,6 +56,8 @@
 
 
 ## 致谢：
+---
+
 ![](/assets/github_open.png) [Amazing-Windows-App](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us
 )
 ![](/assets/github_open.png) [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
@@ -67,5 +73,10 @@
 
 [CC BY-NC-SA 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-​
+## Contributors
+---
+
+If you have any suggestions for softwares, you can mention in issues or raise a pull request.
+
+Made with ❤
 
