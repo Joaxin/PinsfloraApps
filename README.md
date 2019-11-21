@@ -12,13 +12,13 @@
 6. 你可以自己制作便携版本，所以此处不作标注
 7. 游戏相关的东西，另作收录
 8. 软件分类以其主要开发及设计目的为主
-9. 支持多端同步的 会注明 比如 [Windows, macOS, Linux, [Microsoft Store](https://www.microsoft.com/en-us/store/apps/windows)]
+9. 支持多端同步的 会注明 比如 [Windows, macOS, Linux, [Microsoft Store](https://www.microsoft.com/en-us/store/apps/windows) ]
 
 ## 图标说明：
 
 ---
 
-1 ![](/assets/stop_sign_continue_Q.png) 已经停更的，在花园里收录的，意味着暂时没有更好的替代品，如果你有好的推荐，欢迎
+1 ![](/assets/stop_sign_continue_Q.png) 已经停更的，在花园里种植收录的，意味着暂时没有更好的替代品，如果你有好的，欢迎推荐
 
 2 ![](/assets/time_whathappened.png) 疑似停止维护，长期不更
 
@@ -28,7 +28,7 @@
 
 5 ![](/assets/CMD.png) 命令行CLI
 
-6 ![](/assets/money_pay.png) 完整版或者Pro版需付费，一般可以试用7-30天不等，若免费版够用的，暂不标记 
+6 ![](/assets/money_pay.png) 完整版或者Pro版需付费，一般可以试用7-30天不等，若免费版够用的，暂不作标记 
 
 7 ![](/assets/windows.png) 仅支持windows
 
@@ -76,7 +76,9 @@
 ## Contributors
 ---
 
-If you have any suggestions for softwares, you can mention them in issues or raise a pull request.
+如果您有任何建议，欢迎在issues中提及它们或发起pull request。
+
+If you have any suggestions for software garden, you can mention them in issues or raise a pull request.
 
 Made with ❤ by Joaxin
 
