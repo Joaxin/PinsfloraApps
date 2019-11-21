@@ -1,16 +1,18 @@
-## Chrome
+## Chrome ![](/assets/leaves_use.png) [![](/assets/website_official.png)](https://www.google.com/chrome//) ![](https://img.shields.io/badge/Version-78-ff55bb.svg)
 
-[https://repo.fdzh.org/chrome/exe/?C=M&O=D](https://repo.fdzh.org/chrome/exe/?C=M&O=D)
+国内站：[https://www.google.cn/intl/zh-CN/chrome/](https://www.google.cn/intl/zh-CN/chrome/)
+![](/assets/third_party.png)
+- 飞蚂蚁纯净下载站：http://www.chrome.hk.cn/
+- Chrome64bit：https://www.chrome64bit.com/
 
-[https://www.google.cn/intl/zh-CN/chrome/](https://www.google.cn/intl/zh-CN/chrome/)
+无人不知，无人不晓的谷歌浏览器，无敌的存在。
 
-无敌的存在
+支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]
 
-### Chromium [![](/assets/website_official.png)](https://www.chromium.org/Home) [![](/assets/github_open.png)](https://www.chromium.org/developers/how-tos/get-the-code)
 
-chrome的开源版
+家族：
+- Chromium [![](/assets/website_official.png)](https://www.chromium.org/Home) [![](/assets/github_open.png)](https://www.chromium.org/developers/how-tos/get-the-code) chrome的开源版
 
------
 ## Opera
 
 [https://www.opera.com](https://www.opera.com/)
