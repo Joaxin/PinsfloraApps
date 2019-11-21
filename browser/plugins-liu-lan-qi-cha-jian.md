@@ -12,19 +12,17 @@
 
 ### ![](/assets/plugins.png) 插件推荐
 
-日常使用：
+Chrome增强：
 
 - Infinity New Tab (Pro)：自定义你的新标签页，支持云同步
 https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh
 
-- AdBlock： 知名的广告过滤器https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
-
-- 广告净化器：非常好用的广告过滤器，也能屏蔽优酷、爱奇艺、腾讯视频等的广告
-![](/assets/website_official.png) https://www.yiclear.com/download/
-https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E5%87%80%E5%8C%96%E5%99%A8/ccjdmnikdhkffjkmbinbmbpaplkoihgp?hl=zh-CN
-
 - Proxy SwitchyOmega：代理切换
 https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
+
+- 谷歌上网助手 开发版
+![](/assets/website_official.png)： http://googlehelper.net/
+https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B-%E5%BC%80%E5%8F%91%E7%89%88/cieikaeocafmceoapfogpffaalkncpkc
 
 - Chrono下载管理器：替代谷歌浏览器的下载工具，貌似商店找不到了
 https://www.chromefor.com/down/?wp_file=mciiogijehkdemklbdcbfkefimifhecn/chrono-download-manager_v0.10.0.crx&tdd=1574315909
@@ -41,6 +39,9 @@ https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcm
 - Imagus：鼠标指针悬停在链接或缩略图上时直接在当前页面的弹出视图上显示这些图片、HTML5 视频/音频和内容专辑。
 https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab
 
+
+学习娱乐：
+
 - 沙拉查词-聚合词典划词翻译：超级好用且专业的划词翻译扩展
 https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg
 
@@ -49,6 +50,30 @@ https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdin
 
 - Grammarly for Chrome： 语法纠错
 https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen
+
+- Comic++：一款改变你阅读方式的漫画阅读器，摈弃传统的翻页模式，直接采用滚动翻页模式等等
+https://chrome.google.com/webstore/detail/comic%2B%2B/mhekhlkmjaleehfnfjfpejhegjieaaef
+
+- Flash Player for Chrome：flash工具
+https://chrome.google.com/webstore/detail/flash-player-for-chrome/pdgcfajiagepadbifdlfgiamcjdegkfp
+
+- Honey： 自动寻找优惠券和促销码
+https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj
+
+聚精会神：
+
+- AdBlock： 知名的广告过滤器https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
+
+- AdGuard 广告拦截器：广告拦截扩展
+https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg
+
+- 广告净化器：非常好用的广告过滤器，也能屏蔽优酷、爱奇艺、腾讯视频等的广告
+![](/assets/website_official.png) https://www.yiclear.com/download/
+https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E5%87%80%E5%8C%96%E5%99%A8/ccjdmnikdhkffjkmbinbmbpaplkoihgp?hl=zh-CN
+
+- 关灯看视频：心无旁骛看视频
+https://chrome.google.com/webstore/detail/turn-off-the-lights-for-y/bfbmjmiodbnnpllbbbfblcplfjjepjdn
+
 
 探索世界：
 
@@ -66,6 +91,9 @@ https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecgh
 
 - Notion Web Clipper：Notion剪藏工具
 https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk
+
+- Evernote Web Clipper：Evernote剪藏工具
+https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc
 
 - RARBG Monitor: 强大的资源匹配工具
 https://chrome.google.com/webstore/detail/rarbg-monitor/kkgcfdmlnfpdjmnheeojdlgpmhaeekga
@@ -125,13 +153,8 @@ https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8
 - Vue.js devtools：Vue.js 开发工具
 https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd
 
-书签管理：
-
-- 书签管理器快速拨号| Papaly
-https://chrome.google.com/webstore/detail/bookmark-manager-speed-di/pdcohkhhjbifkmpakaiopnllnddofbbn
-
-- 书签侧边栏
-https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh
+- fonts infos：显示网页所有字体
+https://chrome.google.com/webstore/detail/fonts-infos/dcmemojljgjdnjfckdmffgkcnooejahg
 
 生产力工具：
 
@@ -141,14 +164,29 @@ https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcme
 - Surfingkeys：快捷键工具，比vim好用
 https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc
 
+- Tab Resize - split screen layouts：Chrome分割屏幕布局
+https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc
+
+- Autofill：自动填充表单
+https://chrome.google.com/webstore/detail/autofill/nlmmgnhgdeffjkdckmikfpnddkbbfkkk
+
 - 云盘万能钥匙：自动填写百度网盘 & 蓝奏云提取密码，但会收集用户信息，请谨慎下载！
 https://chrome.google.com/webstore/detail/%E4%BA%91%E7%9B%98%E4%B8%87%E8%83%BD%E9%92%A5%E5%8C%99/anlllmnpjodopgbkbpnghnjlelnogfjc
+
+- ezLinkPreview：链接网页预览工具
+https://chrome.google.com/webstore/detail/ezlinkpreview/nnkcfbiefgdaceeplickkkmifpicbpcc
 
 - Copy Link Name: 复制链接标题
 https://chrome.google.com/webstore/detail/copy-link-name/mafjnaphoepgijmgfeemillelgkeigid
 
 - Email Extractor：方便的email提取工具
 https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc
+
+- Hunter: Find email addresses in seconds：email工具，与上配合使用
+https://chrome.google.com/webstore/detail/hunter-find-email-address/hgmhmanijnjhaffoampdlllchpolkdnj
+
+- IP Whois & Flags Chrome & Websites Rating：网站信息分析工具
+https://chrome.google.com/webstore/detail/ip-whois-flags-chrome-web/kmdfbacgombndnllogoijhnggalgmkon
 
 - Fast Emoji Search：emoji搜索
 https://chrome.google.com/webstore/detail/fast-emoji-search/kndccmeghdbaoobnmbbeamggokchejln
@@ -171,5 +209,13 @@ https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiok
 - Pushbullet： 文件传输工具
 https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd
 https://play.google.com/store/apps/details?id=com.pushbullet.android
+
+- 书签管理器快速拨号| Papaly
+https://chrome.google.com/webstore/detail/bookmark-manager-speed-di/pdcohkhhjbifkmpakaiopnllnddofbbn
+
+- 书签侧边栏
+https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh
+
+
 
 ### 插件安装![](/assets/leaves_use.png)
