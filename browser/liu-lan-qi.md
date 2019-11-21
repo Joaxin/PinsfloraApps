@@ -1,4 +1,4 @@
-## Chrome ![](/assets/leaves_use.png) [![](/assets/website_official.png)](https://www.google.com/chrome//) ![](https://img.shields.io/badge/Version-78-ff55bb.svg)
+## Chrome ![](/assets/leaves_use.png) [![](/assets/website_official.png)](https://www.google.com/chrome//) ![](/assets/translation.png) ![](https://img.shields.io/badge/Version-78-ff55bb.svg) 
 
 无人不知，无人不晓的谷歌浏览器，无敌的存在。
 
@@ -6,63 +6,88 @@
 
 国内站：[https://www.google.cn/intl/zh-CN/chrome/](https://www.google.cn/intl/zh-CN/chrome/)
 
-![](/assets/third_party.png)
-- 飞蚂蚁纯净下载站：http://www.chrome.hk.cn/
-- Chrome64bit：https://www.chrome64bit.com/
+
+- ![](/assets/third_party.png) 
+飞蚂蚁纯净下载站：http://www.chrome.hk.cn/
+- ![](/assets/third_party.png) 
+Chrome64bit：https://www.chrome64bit.com/
 
 
 家族：
 - Chromium [![](/assets/website_official.png)](https://www.chromium.org/Home) [![](/assets/github_open.png)](https://www.chromium.org/developers/how-tos/get-the-code) chrome的开源版
 
-## Opera
+## Opera [![](/assets/website_official.png)](https://www.opera.com/) ![](/assets/translation.png) 
 
-[https://www.opera.com](https://www.opera.com/)
-
-Opera 来自挪威，小众而又精美，只为探索。已经数不清有多少浏览器的新功能诞生自 Opera，早期几乎是手机浏览器的代名词。
-
-
-Install [extension-source-viewer](https://addons.opera.com/zh-cn/extensions/details/extension-source-viewer/) --&gt; Chrome &lt;
-
-### Yandex {#Yandex}
-
-[https://browser.yandex.com/](https://browser.yandex.com/)
+来自挪威的小众而精美的Opera浏览器 ，很多浏览器的功能譬如鼠标手势、页面缩放、快速拨号、多标签浏览都是从opera开始的，还有很久以前很好用的opera手机浏览器，是Nokia塞班的年代的流行，后被iOS，安卓拉下神坛。
+Opera， 13年放弃自家Presto内核转投WebKit，目前支持[`Windows` 、`macOS`、 `Linux`、 `Android`、~~iOS~~ ]，内置广告拦截器、货币汇价以及网络工具，侧边栏的` Whatsapp`、`Facebook Messenger`、`Telegram`也比较方便。
 
 
-### Firefox {#Firefox} [![](/assets/website_official.png)](https://www.firefox.com/)
+![](/assets/plugins.png) Opera插件： [Opera Addons](https://addons.opera.com)
+
+家族：
+
+Opera GX, 世界第一款游戏浏览器
+
+![](/assets/z-study-browser-operaGX.jpg)
+
+### Yandex {#Yandex} [![](/assets/website_official.png)](https://browser.yandex.com/) ![](/assets/translation.png)
+
+毛子开发的功能十分强大的红裤衩浏览器，手机端唯一完善支持chrome插件及tampermonkey脚本的浏览器，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]
+
+### Firefox {#Firefox} [![](/assets/website_official.png)](https://www.firefox.com/) ![](/assets/translation.png)
 
 
-一只美丽的狐狸，最早流行于开发者圈子，逐渐被 Google 带向全世界，将 IE 拉下垄断神坛的第一个对手。近来的 Firefox 已经不输于 Chrome 的速度，并且其传统的强大扩展是很多人都无法离开的原因之一
+由Mozallia开发的开源网页浏览器，使用自家gecko内核，最早流行于开发者圈子的一只美丽的狐狸，将 IE 拉下垄断神坛的第一个对手，性能基本与谷歌浏览器持平，高度扩展性并尊重用户隐私，对开发者友好（比如:很早的Firebug），支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]。
 
-开源网页浏览器，高度扩展性并尊重用户隐私
+![](/assets/github_open.png) mozilla-mobile：https://github.com/mozilla-mobile
+### Valvidi {#Valvidi} [![](/assets/website_official.png)](https://vivaldi.com/) ![](/assets/translation.png) ![](https://img.shields.io/badge/Version-2.9-ff55bb.svg)
 
-### Valvidi {#Valvidi} [![](/assets/website_official.png)](https://vivaldi.com/)
+由Opera联合创始人、前CEO谭咏文发布的一款个性化浏览器，基于 Blink 内核，自带笔记、截图等众多实用的功能，支持[`Windows` 、`macOS`、 `Linux`、 `Android`]。
 
-基于 chromium 的优秀浏览器
+![](/assets/download.png)：https://vivaldi.com/download/
 
-### Edge
+### Edge [![](/assets/website_official.png)](https://www.microsoft.com/zh-cn/windows/microsoft-edge) ![](/assets/translation.png)
 
-https://www.microsoft.com/zh-cn/windows/microsoft-edge
+由微软开发的，基于chromium的，越来越好用的浏览器。
 
-### Tor ![](/assets/zlaw.png) [![](/assets/website_official.png)](https://www.torproject.org)
+![](/assets/download.png) 最新预览版下载：https://www.microsoftedgeinsider.com/en-us/
 
-启用匿名通信
+![](/assets/z-study-browser-edgeinsider.jpg)
 
-###  Brave [![](/assets/website_official.png)](https://www.brave.com/) [![](/assets/github_open.png)](https://github.com/brave)
+### Internet Explorer ![](/assets/windows.png) ![](/assets/translation.png)
+
+![](/assets/download.png) ： https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads
+
+一款令开发者痛恨的浏览器。
+
+###  Brave [![](/assets/website_official.png)](https://www.brave.com/) [![](/assets/github_open.png)](https://github.com/brave) ![](/assets/translation.png)
 
 > You are not a product.
 Why use a browser that treats you like one? Enjoy private, secure and fast browsing with Brave.
 
-启用隐私保护 启用广告拦截
+由 Brendan Eich 开发的一款对tracking, cookie,ads等高度可控并强制拦截的浏览器，基于chromium，有效保护你的隐私，支持[`Windows` 、`macOS`、 `Linux`]。
 
-### Lunascape ![](/assets/translation.png)
+### Lunascape [![](/assets/website_official.png)](http://www.lunascape.tv/) ![](/assets/translation.png)
 
-来自日本的三引擎三叉戟浏览器。
+来自日本的三引擎，也即是同时支持Trident(IE)、 Gecko(Firefox)和WebKit的三叉戟浏览器。
 
 ![](/assets/z-study-browser-lunascape.png)
 
-### 疑似停止更新的：
+### Tor ![](/assets/zlaw.png) [![](/assets/website_official.png)](https://www.torproject.org) ![](/assets/translation.png)
 
-### [Maxthon](http://www.maxthon.cn/)：一开始很好用的国人开发的浏览器
+知名的洋葱浏览器，启用匿名加密通信，大家都懂。
+
+### 国内浏览器：
+
+- qq浏览器 [![](/assets/website_official.png)](https://browser.qq.com/)： 腾讯开发的良心浏览器。
+- 360浏览器[![](/assets/website_official.png)](https://browser.360.cn/)：360开发的特别流行的浏览器。
+- 360极速浏览器[![](/assets/website_official.png)](https://browser.360.cn/ee/)：360极速浏览器，前身为世界之窗(http://www.theworld.cn/)。
+- Maxthon [![](/assets/website_official.png)](http://www.maxthon.cn/)：一款开始很好用的国人开发的双引擎浏览器，疑似停止更新
+- 搜狗浏览器 [![](/assets/website_official.png)](https://ie.sogou.com/)：一款开始很好用的搜狗浏览器
+- 猎豹安全浏览器 [![](/assets/website_official.png)](https://www.liebao.cn/): 由猎豹移动公司开发的双引擎浏览器。
+- 。。。
+
+
 
 
 

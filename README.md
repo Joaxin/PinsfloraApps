@@ -76,7 +76,7 @@
 ## Contributors
 ---
 
-如果您有任何建议，欢迎在issues中提及它们或发起pull request。
+如果您有任何建议包括改进文档方面的任意需求，欢迎在issues中提问或发起pull request。
 
 If you have any suggestions for software garden, you can mention them in issues or raise a pull request.
 
