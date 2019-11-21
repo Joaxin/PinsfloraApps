@@ -40,6 +40,9 @@ Opera GX, 世界第一款游戏浏览器
 由Mozallia开发的开源网页浏览器，使用自家gecko内核，最早流行于开发者圈子的一只美丽的狐狸，将 IE 拉下垄断神坛的第一个对手，性能基本与谷歌浏览器持平，高度扩展性并尊重用户隐私，对开发者友好（比如:很早的Firebug），支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]。
 
 ![](/assets/github_open.png) mozilla-mobile：https://github.com/mozilla-mobile
+
+家族：
+
 ### Valvidi {#Valvidi} [![](/assets/website_official.png)](https://vivaldi.com/) ![](/assets/translation.png) ![](https://img.shields.io/badge/Version-2.9-ff55bb.svg)
 
 由Opera联合创始人、前CEO谭咏文发布的一款个性化浏览器，基于 Blink 内核，自带笔记、截图等众多实用的功能，支持[`Windows` 、`macOS`、 `Linux`、 `Android`]。
@@ -85,7 +88,7 @@ Why use a browser that treats you like one? Enjoy private, secure and fast brows
 - Maxthon [![](/assets/website_official.png)](http://www.maxthon.cn/)：一款开始很好用的国人开发的双引擎浏览器，疑似停止更新
 - 搜狗浏览器 [![](/assets/website_official.png)](https://ie.sogou.com/)：一款开始很好用的搜狗浏览器
 - 猎豹安全浏览器 [![](/assets/website_official.png)](https://www.liebao.cn/): 由猎豹移动公司开发的双引擎浏览器。
-- 。。。
+- blablabla
 
 
 
