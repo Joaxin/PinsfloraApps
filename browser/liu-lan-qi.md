@@ -1,13 +1,14 @@
 ## Chrome ![](/assets/leaves_use.png) [![](/assets/website_official.png)](https://www.google.com/chrome//) ![](https://img.shields.io/badge/Version-78-ff55bb.svg)
 
-国内站：[https://www.google.cn/intl/zh-CN/chrome/](https://www.google.cn/intl/zh-CN/chrome/)
-![](/assets/third_party.png)
-- 飞蚂蚁纯净下载站：http://www.chrome.hk.cn/
-- Chrome64bit：https://www.chrome64bit.com/
-
 无人不知，无人不晓的谷歌浏览器，无敌的存在。
 
 支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]
+
+国内站：[https://www.google.cn/intl/zh-CN/chrome/](https://www.google.cn/intl/zh-CN/chrome/)
+
+![](/assets/third_party.png)
+- 飞蚂蚁纯净下载站：http://www.chrome.hk.cn/
+- Chrome64bit：https://www.chrome64bit.com/
 
 
 家族：
