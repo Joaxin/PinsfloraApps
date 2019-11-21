@@ -19,6 +19,10 @@ https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajf
 
 - AdBlock： 知名的广告过滤器https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
 
+- 广告净化器：非常好用的广告过滤器，也能屏蔽优酷、爱奇艺、腾讯视频等的广告
+![](/assets/website_official.png) https://www.yiclear.com/download/
+https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E5%87%80%E5%8C%96%E5%99%A8/ccjdmnikdhkffjkmbinbmbpaplkoihgp?hl=zh-CN
+
 - Proxy SwitchyOmega：代理切换
 https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
 
@@ -31,10 +35,14 @@ https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemnd
 - 高效网页截图编辑插件：截取任意网页以及屏幕录像
 https://chrome.google.com/webstore/detail/explain-and-send-screensh/mdddabjhelpilpnpgondfmehhcplpiin
 
-- 图片助手(ImageAssistant) 批量图片下载器https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko
+- 图片助手(ImageAssistant) 批量图片下载器，以及生成当前页二维码和图片编辑
+https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko
 
 - Imagus：鼠标指针悬停在链接或缩略图上时直接在当前页面的弹出视图上显示这些图片、HTML5 视频/音频和内容专辑。
 https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab
+
+- 沙拉查词-聚合词典划词翻译：超级好用且专业的划词翻译扩展
+https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg
 
 - Google 输入工具: 网页版的语言输入工具
 https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab
@@ -66,6 +74,9 @@ https://chrome.google.com/webstore/detail/rarbg-monitor/kkgcfdmlnfpdjmnheeojdlgp
 https://chrome.google.com/webstore/detail/same-page-2/bldcellajihanglphncgjmceklbibjkk
 - SEOquake： 强大的SEO工具
 https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc
+
+- 西方媒体查一查：中文-媒体倾向评价
+https://chrome.google.com/webstore/detail/%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93%E6%9F%A5%E4%B8%80%E6%9F%A5/bpejcaojjipcgcnjkfmnkhokdpimcmij
 
 开发工具：
 
@@ -105,6 +116,15 @@ https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojj
 - Quick Javascript Switcher：Javascript开关
 https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje
 
+- WebRTC Leak Prevent：WebRTC开关
+https://chrome.google.com/webstore/detail/webrtc-leak-prevent/eiadekoaikejlgdbkbdfeijglgfdalml
+
+- WEB前端助手(FeHelper)：Awesome，All In One的一个工具，包含多个独立小应用，比如：Json工具、代码美化、代码压缩、二维码、Postman、markdown、网页油猴、便签笔记、信息加密与解密、随机密码生成、Crontab等等！
+https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad
+
+- Vue.js devtools：Vue.js 开发工具
+https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd
+
 书签管理：
 
 - 书签管理器快速拨号| Papaly
@@ -115,8 +135,14 @@ https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkf
 
 生产力工具：
 
+- Vimium：老牌的键盘操作插件
+https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
+
 - Surfingkeys：快捷键工具，比vim好用
 https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc
+
+- 云盘万能钥匙：自动填写百度网盘 & 蓝奏云提取密码，但会收集用户信息，请谨慎下载！
+https://chrome.google.com/webstore/detail/%E4%BA%91%E7%9B%98%E4%B8%87%E8%83%BD%E9%92%A5%E5%8C%99/anlllmnpjodopgbkbpnghnjlelnogfjc
 
 - Copy Link Name: 复制链接标题
 https://chrome.google.com/webstore/detail/copy-link-name/mafjnaphoepgijmgfeemillelgkeigid
@@ -145,4 +171,5 @@ https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiok
 - Pushbullet： 文件传输工具
 https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd
 https://play.google.com/store/apps/details?id=com.pushbullet.android
+
 ### 插件安装![](/assets/leaves_use.png)
