@@ -58,6 +58,12 @@ Mailspring是`Nylas N1`的分支版本，有付费版本，界面简洁美观，
 
 网易出品的跨平台邮件 ，支持[`Windows` 、`macOS`、 `Android`、`iOS`]，以前叫网易闪电邮
 
+### DreamMail [![](/assets/website_official.png)](https://www.cy-email.com/) ![](/assets/windows.png)
+
+强悍、纯净、稳定的邮件客户端，以及vuepress的帮助文档，十分便捷。
+
+![](/assets/documents.png) http://help.cy-email.com/
+
 ### Yomail ![](/assets/time_whathappened.png) [![](/assets/website_official.png)](http://www.nextechat.com/)
 
 优雅简洁高效的邮箱客户端，疑似公司跑路，停止维护
