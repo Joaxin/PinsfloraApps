@@ -28,7 +28,7 @@
 
 英文版：https://www.wechat.com/en
 
-### Skype [![](/assets/website_official.png)](https://www.skype.com/en/) ![](/assets/translation.png)
+### Skype [![](/assets/website_official.png)](https://www.skype.com/en/) ![](/assets/translation.png) ![](/assets/translation.png)
 
 > 无论您身在何处，无论他们身在何处 － Skype让天涯变咫尺。
 
@@ -52,6 +52,12 @@
 
 ![](/assets/download.png) https://desktop.telegram.org/
 
+### Viber [![](/assets/website_official.png)](https://www.viber.com/) ![](/assets/network.png) ![](/assets/translation.png)
+
+跨平台的网络电话及即时通讯软件，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]
+
+![](/assets/download.png) https://www.viber.com/download/
+
 ### Discord [![](/assets/website_official.png)](https://discordapp.com/) ![](/assets/network.png)
 
 > All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone. Stop paying for TeamSpeak servers and hassling with Skype. Simplify your life.
@@ -66,38 +72,26 @@
 
 Facebook messenger 的第三方桌面程序，支持[`Windows` 、`macOS`]。
 
-### Whatsapp [![](/assets/website_official.png)](https://www.whatsapp.com/)
+### Whatsapp [![](/assets/website_official.png)](https://www.whatsapp.com/) ![](/assets/network.png)
 
 与海外客户交流的绝佳即时通信工具，支持[`Windows` 、`macOS`、 `Android`、`iOS`]。
 
 ![](/assets/download.png) https://www.whatsapp.com/download/
 网页版：https://web.whatsapp.com/
 
-![](/assets/website_official.png)[https://dedg3.com/wao/](https://dedg3.com/wao/)
 
-WhatsApp Web 客户端，为您提供最好的WhatsApp的体验。
+### Retroshare [![](/assets/website_official.png)](http://retroshare.cc/) [![](/assets/github_open.png)](https://github.com/RetroShare) ![](https://img.shields.io/badge/Version-0.6.5-ff55bb.svg)
 
-### Retroshare [![](/assets/website_official.png)](http://retroshare.net/) [![](/assets/github_open.png)](https://github.com/RetroShare)
+开源的去中心化匿名文件分享工具，可提供类似于Telegram的高强度加密安全通讯，可用于聊天、语音视频、分享文件、论坛等。
 
-免费开源适用于亲友间的安全的去中心化交流平台，可用于聊天、语音视频、分享文件、论坛等
+![](/assets/download.png) https://retroshare.cc/downloads.html
 
-## IRC
+### Hexchat [![](/assets/website_official.png)](https://hexchat.github.io/) [![](/assets/github_open.png)](https://github.com/hexchat/hexchat)
 
-### [Hexchat](https://hexchat.github.io/)![](/assets/github_open.png)
+基于XChat的IRC客户端,支持[`Windows` 、`macOS`、 `Linux`]
 
-基于XChat的IRC客户端
+![](/assets/download.png) https://hexchat.github.io/downloads.html
 
-### [LimeChat](http://limechat.net/)
-
--即时通讯应用。
-
-### [mIRC](http://www.mirc.com/)
-
- 互联网中继聊天（IRC）客户端。
-
-### [Quassel](http://quassel-irc.org/)![](/assets/github_16px_1157868_easyicon.net.png)
-
- Quassel IRC 是一款现代, 跨平台, 分布式的 IRC 客户端。
 
 
 
