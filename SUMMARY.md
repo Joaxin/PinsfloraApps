@@ -22,8 +22,7 @@
     * [Notes - 笔记](study-xue-xi/notes-da-gang-bi-ji/notes-bi-ji.md)
     * [Markdown - 编辑器](study-xue-xi/notes-da-gang-bi-ji/markdwon.md)
     * [Schedule - 时间管理](productivity-sheng-chan-li-gong-ju/zhuan-zhu.md)
-    * [稍后阅读](study-xue-xi/notes-da-gang-bi-ji/shao-hou-yue-du.md)
-    * [密码管理](study-xue-xi/notes-da-gang-bi-ji/mi-ma-guan-li.md)
+    * [Password - 密码管理](study-xue-xi/notes-da-gang-bi-ji/mi-ma-guan-li.md)
   * Office - 办公
     * [Office](study-xue-xi/office.md)
     * [PDF](study-xue-xi/pdf.md)
