@@ -1,10 +1,15 @@
-Bing: https://www.bing.com/translator/
-Google: https://translate.google.com/
+也许，你还在寻找要智能纠错，推荐两个：
 
-### ABOBOO![](/assets/time_whathappened.png)![](/assets/windows.png)
+### LanguageTool [![](/assets/website_official.png)](https://languagetool.org/)
 
-学外语必备神器，功能丰富，资源开放，社区活跃，目前版本仅是2017.3.11的V2.9.5版本。
+语法拼写检查工具，类似于Grammarly，同时支持德语、法语。
 
-![](/assets/website_official.png) [http://www.aboboo.com](http://www.aboboo.com/g/#/)
+chrome商店： https://chrome.google.com/webstore/detail/languagetool/oldceeleldhonbafppcapldpdifcinji
 
+### Grammarly [![](/assets/website_official.png)](https://www.grammarly.com)
 
+英文语法错误监测，免费版功能有限。
+
+支持[`Windows` 、`Chrome`、 `Office`]
+
+![](/assets/download.png) https://app.grammarly.com/apps

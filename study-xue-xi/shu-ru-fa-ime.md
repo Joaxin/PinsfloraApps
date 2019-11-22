@@ -20,6 +20,12 @@
 
 支持[`Windows` 、`macOS`、`Android`、`iOS`]
 
+### 手心输入法 [![](/assets/website_official.png)](http://www.xinshuru.com//)
+
+一款高效,无广告,只专注于输入本质的纯粹输入法，支持[`Windows` 、`macOS`、 `Android`、`iOS`]。
+
+win版![](/assets/download.png)： http://www.xinshuru.com/index.html?p=win
+
 ### 必应输入法 ![](/assets/stop_sign_continue_Q.png)
 
 由微软出品的创新中文输入法，轻盈流畅，无广告，无插件，已停止开发 。
