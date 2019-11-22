@@ -64,9 +64,6 @@
 
 ![](/assets/website_official.png) 所有图标来自于 [Easyicon](https://www.easyicon.net)
 
-
-
-
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
 
 若非特殊声明，文档中所有项目协议均为：

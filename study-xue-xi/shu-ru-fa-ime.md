@@ -1,21 +1,32 @@
 ### 搜狗输入法 [![](/assets/website_official.png)](https://pinyin.sogou.com/)
 
-支持大量皮肤的，广告有点多的，家喻户晓的跨平台(`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`)输入法。
+支持大量精美皮肤，略带广告，深入人心的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]中文输入法。
 
-![](/assets/download.png)Linux： https://pinyin.sogou.com/linux/
+![](/assets/download.png) Linux： https://pinyin.sogou.com/linux/
 
 ### QQ 输入法 [![](/assets/website_official.png)](http://py.qq.com/) ![](/assets/windows.png)
 
-来自腾讯，支持 win和Android的，一直在维护更新的挺良心的输入法。
+来自腾讯，支持win和Android的，一直在维护更新的良心输入法。
 
+### 百度输入法 [![](/assets/website_official.png)](https://shurufa.baidu.com/)
+
+> 初见如故，再见有您
+
+百度出品的跨平台[`Windows` 、`macOS`、`Android`、`iOS`]的中文输入法。
+
+### 讯飞输入法 [![](/assets/website_official.png)](https://srf.xunfei.cn/)
+
+一款集语音、手写、拼音等输入方式于一体的中文输入法，主推语音输入，支持方言。
+
+支持[`Windows` 、`macOS`、`Android`、`iOS`]
 
 ### 必应输入法 ![](/assets/stop_sign_continue_Q.png)
 
-由微软出品的创新中文输入法，轻盈流畅，无广告，无插件，和谷歌输入法一样，凉了 。
+由微软出品的创新中文输入法，轻盈流畅，无广告，无插件，已停止开发 。
 
 ### 谷歌输入法 ![](/assets/stop_sign_continue_Q.png)
 
-曾经很好用的输入法
+挺好用的输入法，被Google遗弃了。
 
 
 ### RIME 小狼毫 [![](/assets/website_official.png)](https://rime.im)  [![](/assets/github_open.png)](https://github.com/rime/librime) ![](/assets/leaves_rec.png)
