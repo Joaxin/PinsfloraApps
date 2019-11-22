@@ -2,11 +2,10 @@
 
 ## PDF阅读
 
-### Foxit
+### Foxit [![](/assets/website_official.png)](https://www.foxitsoftware.com/pdf-reader/)
 
-![](/assets/website_official.png) https://www.foxitsoftware.com/pdf-reader/
 
-### [NitroPDF](https://www.gonitro.com/pdf-reader) 
+### NitroPDF [![](/assets/website_official.png)](https://www.gonitro.com/pdf-reader)
 
 你会得到最好的PDF阅读器。
 
@@ -20,7 +19,7 @@
 
 > 一款易操作、更高效、功能全的PDF编辑软件让工作更轻松
 
-### [PDF-XChange Viewer](https://www.tracker-software.com/product/pdf-xchange-viewer) ![](/assets/website_official.png) ![](/assets/leaves_rec.png)![](https://img.shields.io/badge/Version-2.5.322-ff55bb.svg) 
+### PDF-XChange Viewer [![](/assets/website_official.png)](https://www.tracker-software.com/product/pdf-xchange-viewer)![](/assets/leaves_rec.png)![](https://img.shields.io/badge/Version-2.5.322-ff55bb.svg) 
 
 > The smallest, fastest, most feature-rich PDF reader/viewer available
 
@@ -34,7 +33,6 @@
 全新的Ribbon界面，全球用户超越4.75亿；支持PDF文档手写签名、插入印章；更多安全控制包括Foxit DRM内容管理插件；支持微软AD RMS对PDF文档的安全应用
 
 国人开发的免费PDF阅读器，注意与[foxitsoftware](https://www.foxitsoftware.com/pdf-editor/)商业软件额区别
-------
 
 ### pdflock
 
