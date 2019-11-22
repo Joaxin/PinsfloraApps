@@ -1,49 +1,81 @@
-### Tim
+### QQ [![](/assets/website_official.png)](https://im.qq.com/)
 
-![](/assets/website_official.png)[https://office.qq.com/](https://office.qq.com/)
+家喻户晓的老牌即时聊天工具，前身为OICQ。
 
-### Wechat
+支持[`Windows` 、`macOS`、 `Android`、`iOS`]
 
-![](/assets/website_official.png)[https://pc.weixin.qq.com/](https://pc.weixin.qq.com/)
+![](/assets/download.png) https://im.qq.com/pcqq/
 
-### [Skype](http://skype.gmw.cn/) ![](/assets/website_official.png)
+### Tim [![](/assets/website_official.png)](https://office.qq.com/) ![](/assets/leaves_rec.png)
+
+腾讯出品的简洁轻聊、办公聊天软件，没有太多花哨的功能，提高你的日常效率。
+
+支持[`Windows` 、 `Android`、`iOS`]
+
+![](/assets/z-study-com-im-tim.png)
+
+![](/assets/download.png) https://office.qq.com/download.html
+
+### Wechat [![](/assets/website_official.png)](https://weixin.qq.com/)
+
+> 微信，是一个生活方式。
+
+出自foxmail作者张小龙之手的即时聊天工具，不必作太多介绍。
+
+支持[`Windows` 、`macOS`、 `Android`、`iOS`]
+
+网页版：https://web.wechat.com/
+
+英文版：https://www.wechat.com/en
+
+### Skype [![](/assets/website_official.png)](https://www.skype.com/en/) ![](/assets/translation.png)
 
 > 无论您身在何处，无论他们身在何处 － Skype让天涯变咫尺。
 
-### Line
+支持 [`Windows` 、`macOS`、`Android`、`iOS`]
 
-![](/assets/website_official.png) https://line.me
+中国版：http://skype.gmw.cn/
 
-来自韩国的一款曾经很流行的即时通信软件
+### Line [![](/assets/website_official.png)](https://line.me) ![](/assets/network.png)
 
 
-### Telegram![](/assets/github_open.png) 
+来自韩国的一款曾经很流行的即时通信软件，支持[`Windows` 、`macOS`、 `Android`、`iOS`]
 
- ![](/assets/website_official.png)[https://telegram.org/](https://telegram.org/)
+![](/assets/download.png) https://line.me/en/download
 
-速度 安全 开源
+### Telegram [![](/assets/website_official.png)](https://telegram.org/) ![](/assets/network.png) ![](/assets/leaves_rec.png)
 
-### Discord
 
-![](/assets/website_official.png)   [https://discordapp.com/](https://discordapp.com/)
+毛子开发的速度、安全、开源的即时通信软件，支持所有平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]。
+
+网页版：https://web.telegram.org/#/login
+
+![](/assets/download.png) https://desktop.telegram.org/
+
+### Discord [![](/assets/website_official.png)](https://discordapp.com/) ![](/assets/network.png)
+
+> All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone. Stop paying for TeamSpeak servers and hassling with Skype. Simplify your life.
+
+适合游戏社区的跨平台语音和文本聊天客户端, 支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]。
+
+![](/assets/z-study-com-im-discord.png)
 
 ![](/assets/download.png) https://discordapp.com/download
 
-跨平台
+### Messenger for Desktop [![](/assets/website_official.png)](http://messengerfordesktop.com/) ![](/assets/leaves_rec.png)
 
-免费的语音和文本聊天客户端，适合游戏社区
+Facebook messenger 的第三方桌面程序，支持[`Windows` 、`macOS`]。
 
-### Messenger for Desktop![](/assets/github_16px_1157868_easyicon.net.png)
+### Whatsapp [![](/assets/website_official.png)](https://www.whatsapp.com/)
 
-![](/assets/website_official.png)[http://messengerfordesktop.com/](http://messengerfordesktop.com/)
+与海外客户交流的绝佳即时通信工具，支持[`Windows` 、`macOS`、 `Android`、`iOS`]。
 
-一款 Facebook messenger 的桌面端程序。
-
-### Waow
+![](/assets/download.png) https://www.whatsapp.com/download/
+网页版：https://web.whatsapp.com/
 
 ![](/assets/website_official.png)[https://dedg3.com/wao/](https://dedg3.com/wao/)
 
-* 卓越的 WhatsApp Web 客户端，为您提供最好的WhatsApp的体验。
+WhatsApp Web 客户端，为您提供最好的WhatsApp的体验。
 
 ### Retroshare [![](/assets/website_official.png)](http://retroshare.net/) [![](/assets/github_open.png)](https://github.com/RetroShare)
 
