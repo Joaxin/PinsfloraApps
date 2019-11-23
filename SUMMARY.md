@@ -28,6 +28,8 @@
     * [Plugins - Office插件](study-xue-xi/plugins-officecha-jian.md)
       * [PPT](study-xue-xi/plugins-officecha-jian/ppt.md)
     * [PDF - PDF](study-xue-xi/pdf.md)
+      * [PDF - PDF阅读编辑](study-xue-xi/pdf/pdf-pdfyue-du-bian-ji.md)
+      * [PTools - PDF工具](study-xue-xi/pdf/pdftools-pdfxiao-gong-ju.md)
     * [OCR - 文字识别](study-xue-xi/ocr.md)
   * [Online Storage - 在线存储 ](study-xue-xi/pan-wang-pan.md)
     * [云储存同步服务 - File synchronization](study-xue-xi/pan-wang-pan/yun-chu-cun-tong-bu-fu-wu-file-synchronization.md)
