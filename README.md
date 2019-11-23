@@ -1,5 +1,7 @@
 ![](https://img.shields.io/badge/☎️Contact-Telegram-ff55bb.svg)
 
+注：本文档仍在建设中，进度15%.....
+
 ##  收录事项：
 
 ---
@@ -28,7 +30,7 @@
 
 5 ![](/assets/CMD.png) 命令行CLI
 
-6 ![](/assets/money_pay.png) 完整版或者Pro版需付费，一般可以试用7-30天不等，若免费版够用的，暂不作标记 
+6 ![](/assets/money_pay.png) 完整版/Pro版/继续使用需付费，一般可以试用7-30天不等，若免费版够用的，暂不作标记 
 
 7 ![](/assets/windows.png) 仅支持windows
 
@@ -52,7 +54,7 @@
 
 17 ![](/assets/zlaw.png) 使用时请遵循当地法律
 
-18 ![](https://img.shields.io/badge/Version-0.0.0-ff55bb.svg) 收录时的最新版本号，不定期更新
+18 ![](https://img.shields.io/badge/Version-0.0.0-ff55bb.svg) 收录时的最新版本号，不定期更新，大多偷懒，不做标记
 
 
 ## 致谢：
