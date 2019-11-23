@@ -1,22 +1,24 @@
+### PDFtoPowerPointPortable ![](/assets/windows.png)
 
-## PDF
+很老的小软件了，PDF转PPT，可在无office的电脑上直接打开
 
-  pdflock
+![](/assets/third_party.png) https://www.portablesoft.org/pdf-to-powerpoint-converter/
 
-### PDFtoPowerPointPortable
+### Simpo PDF Merge Split ![](/assets/windows.png)
 
-### Simpo PDF Merge Split
+简易小巧的PDF分割合并工具
 
-### pdf636std.rar
+![](/assets/third_party.png) https://www.jb51.net/softs/60058.html
 
-### pdffactorypro.zip
+### PDFFactorypro [![](/assets/website_official.png)](https://fineprint.com/) ![](/assets/windows.png)
 
-![](/assets/website_official.png) https://fineprint.com/
+虚拟打印创建PDF文件。
 
-### Solid Converter v8
+![](/assets/download.png) https://fineprint.com/pdfp/
 
-* SolidConverterPDF
-* PDFXVwer
+### Solid Converter [![](/assets/website_official.png)](https://www.soliddocuments.com/) ![](/assets/money_pay.png)
+
+方便的PDF格式转换工具
 
 
 
