@@ -1,5 +1,5 @@
 {
-    "plugins": ["chapter-fold","ancre-navigation","splitter","-sharing", "sharing-plus","popup","-lunr","-search", "search-pro"],
+    "plugins": ["chapter-fold","ancre-navigation","splitter","-sharing", "sharing-plus","popup","-lunr","-search", "search-pro", "ga"],
     "pluginsConfig": {
             "sharing": {
              "douban": true,
@@ -11,6 +11,9 @@
                "douban", "facebook",  "instapaper", "linkedin","twitter", "weibo", 
                "messenger","qq", "qzone","viber","whatsapp"
            ]
-       }
+       },
+       "ga": {
+            "token": "UA-153171056-1"
+        }
     }
 }

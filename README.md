@@ -64,7 +64,9 @@
 )
 ![](/assets/github_open.png) [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
-![](/assets/website_official.png) 所有图标来自于 [Easyicon](https://www.easyicon.net)
+![](/assets/github_open.png) https://github.com/GitbookIO
+
+![](/assets/website_official.png) 所有图标均来自于 [Easyicon](https://www.easyicon.net)
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
 
