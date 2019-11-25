@@ -6,5 +6,5 @@
 
 基于Office Deployment Tool，轻松部署安装Office。
 
-![](/assets/website_official.png) https://otp.landian.vip
+![](/assets/website_official.svg) https://otp.landian.vip
 

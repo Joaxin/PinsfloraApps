@@ -1,8 +1,8 @@
-### QTranslate [![](/assets/website_official.png)](https://quest-app.appspot.com) ![](/assets/translation.png) ![](/assets/windows.png) ![](/assets/leaves_rec.png) ![](https://img.shields.io/badge/Version-6.7.3-ff55bb.svg) 
+### QTranslate [![](/assets/website_official.svg)](https://quest-app.appspot.com) ![](/assets/translation.svg) ![](/assets/windows.svg) ![](/assets/leaves_rec.svg) ![](https://img.shields.io/badge/Version-6.7.3-ff55bb.svg) 
 
 ![](/assets/z-study-lang-q-translate.jpg)
 
-![](/assets/download.png) https://quest-app.appspot.com/download
+![](/assets/download.svg) https://quest-app.appspot.com/download
 
 Windows下强大的免费翻译工具，支持的翻译引擎：
 

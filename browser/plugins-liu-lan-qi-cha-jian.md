@@ -10,7 +10,7 @@
 - ChromeFor： https://www.chromefor.com/
 
 
-### ![](/assets/plugins.png) 插件推荐
+### ![](/assets/plugins.svg) 插件推荐
 
 Chrome增强：
 
@@ -21,7 +21,7 @@ https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajf
 https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
 
 - 谷歌上网助手 开发版
-![](/assets/website_official.png)： http://googlehelper.net/
+![](/assets/website_official.svg)： http://googlehelper.net/
 https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B-%E5%BC%80%E5%8F%91%E7%89%88/cieikaeocafmceoapfogpffaalkncpkc
 
 - Chrono下载管理器：替代谷歌浏览器的下载工具，貌似商店找不到了
@@ -68,7 +68,7 @@ https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj
 https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg
 
 - 广告净化器：非常好用的广告过滤器，也能屏蔽优酷、爱奇艺、腾讯视频等的广告
-![](/assets/website_official.png) https://www.yiclear.com/download/
+![](/assets/website_official.svg) https://www.yiclear.com/download/
 https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E5%87%80%E5%8C%96%E5%99%A8/ccjdmnikdhkffjkmbinbmbpaplkoihgp?hl=zh-CN
 
 - 关灯看视频：心无旁骛看视频
@@ -218,4 +218,4 @@ https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkf
 
 
 
-### 插件安装![](/assets/leaves_use.png)
+### 插件安装![](/assets/leaves_use.svg)

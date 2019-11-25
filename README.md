@@ -31,27 +31,27 @@
 
 6 [![](/assets/money_pay.svg)](https://www.easyicon.net/language.en/1227717-money_bag_icon.html) 完整版/Pro版/继续使用需付费，一般可以试用7-30天不等，若免费版够用的，暂不作标记
 
-7 [![](/assets/windows.svg)]() 仅支持windows
+7 [![](/assets/windows.svg)](https://www.easyicon.net/language.en/1210167-windows_icon.html) 仅支持windows
 
-8 [![](/assets/website_official.svg)]() 官方下载地址
+8 [![](/assets/download.svg)](https://www.easyicon.net/language.en/1230169-download_icon.html) 官方下载地址
 
-9 [![](/assets/third_party.svg)]() 第三方下载源
+9 [![](/assets/third_party.svg)](https://www.easyicon.net/language.en/1192054-Download_icon.html) 第三方下载源
 
-10 [![](/assets/translation.svg)]() 多语言支持
+10 [![](/assets/translation.svg)](https://www.easyicon.net/language.en/1222340-translate_icon.html) 多语言支持
 
-11 [![](/assets/website_official.svg)]() 官网
+11 [![](/assets/website_official.svg)](https://www.easyicon.net/language.en/1230659-website_icon.html) 官网
 
-12 [![](/assets/keng.svg)]() 安装或使用过程中遇到的坑
+12 [![](/assets/keng.svg)](https://www.easyicon.net/language.en/1230787-black_hole_icon.html) 安装或使用过程中遇到的坑
 
-13 [![](/assets/plugins.svg)]() 插件推荐
+13 [![](/assets/plugins.svg)](https://www.easyicon.net/language.en/1192849-plugins_icon.html) 插件推荐
 
-14 [![](/assets/leaves_use.svg)]() 简单用法
+14 [![](/assets/leaves_use.svg)](https://www.easyicon.net/language.en/1218386-leaves_icon.html) 简单用法
 
-15 [![](/assets/documents.svg)]() 帮助文档或者参考链接
+15 [![](/assets/documents.svg)](https://www.easyicon.net/language.en/1197228-documents_icon.html) 帮助文档或者参考链接
 
-16 [![](/assets/network.svg)]() 需网络工具
+16 [![](/assets/network.svg)](https://www.easyicon.net/language.en/1234859-network_icon.html) 需网络工具
 
-17 [![](/assets/zlaw.svg)]() 使用时请遵循当地法律
+17 [![](/assets/zlaw.svg)](https://www.easyicon.net/language.en/1233351-law_icon.html) 使用时请遵循当地法律
 
 18 [![](https://img.shields.io/badge/Version-0.0.0-ff55bb.svg)]() 收录时的最新版本号，不定期更新，大多偷懒，不做标记
 
@@ -61,11 +61,12 @@
 
 ![](/assets/github_open.svg) [Amazing-Windows-App](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us
 )
+
 ![](/assets/github_open.svg) [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
 ![](/assets/github_open.svg) https://github.com/GitbookIO
 
-![](/assets/website_official.svg) 所有图标均来自于 [Easyicon](https://www.easyicon.net)
+![](/assets/website_official.svg) 所有SVG图标均来自于 [Easyicon](https://www.easyicon.net), 链接已注明。
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.svg "Creative Commons License")
 

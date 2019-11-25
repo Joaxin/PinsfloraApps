@@ -1,6 +1,5 @@
-> 书籍便是这种改造灵魂的工具。人类所需要的，是富有启发性的养料。而阅读，则正是这种养料。——雨果
-
 > Gorky once said: 
+
 Books are the stepping stones to human progress. 
 However, as Einstein said, the only source of knowledge is practice. 
 Reading is a fulfilling, mind-enhancing journey. 
