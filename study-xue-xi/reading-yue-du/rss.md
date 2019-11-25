@@ -6,7 +6,7 @@ RSS(Really Simple Syndication，简易信息聚合), 即是将新闻资讯、博
 
 在碎片化的信息爆炸时代里，信息不仅需要过滤，更需要有价值地传递给用户。
 
-### Irreader  [![](/assets/website_official.png)](http://irreader.fatecore.com/) ![](/assets/leaves_rec.png) ![](https://img.shields.io/badge/Version-1.5.9-ff55bb.svg)
+### Irreader  [![](/assets/website_official.png)](http://irreader.fatecore.com/) ![](/assets/leaves_rec.svg) ![](https://img.shields.io/badge/Version-1.5.9-ff55bb.svg)
 
 > 订阅网页、RSS和Podcast，具备急速的阅读体验，
 高品质、免费、无广告、多平台的阅读器。

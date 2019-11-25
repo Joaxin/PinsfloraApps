@@ -1,5 +1,4 @@
 ![](https://img.shields.io/badge/☎️Contact-Telegram-ff55bb.svg)
-
 注：本文档仍在建设中，进度15%.....
 
 ##  收录事项：
@@ -24,7 +23,7 @@
 
 2 ![](/assets/time_whathappened.png) 疑似停止维护，长期不更
 
-3 ![](/assets/leaves_rec.png) 推荐的
+3 ![](/assets/leaves_rec.svg) 推荐的
 
 4 ![](/assets/github_open.png) 开源的
 
