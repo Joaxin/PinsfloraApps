@@ -17,21 +17,20 @@
 9. 支持多端同步的 会注明 比如 [Windows, macOS, Linux, [Microsoft Store](https://www.microsoft.com/en-us/store/apps/windows) ]
 
 ## 图标说明：
-
 ---
 
 1 [![](/assets/stop_sign_continue_Q.svg)](https://www.easyicon.net/language.en/1236272-stop_icon.html) 已经停更的，在花园里种植收录的，意味着暂时没有更好的替代品，如果你有好的，欢迎推荐
 
-2 [![](/assets/time_whathappened.svg)]() 疑似停止维护，长期不更
+2 [![](/assets/time_whathappened.svg)](https://www.easyicon.net/language.en/1215615-time_icon.html) 疑似停止维护，长期不更
 
 3 [![](/assets/leaves_rec.svg)](https://www.easyicon.net/language.en/1219185-leaves_icon.html) 推荐的
 
-4 [![](/assets/github_open.svg)]() 开源的
+4 [![](/assets/github_open.svg)](https://www.easyicon.net/language.en/1230449-Github_icon.html) 开源的
 
-5 [![](/assets/CMD.svg)]() 命令行CLI
+5 [![](/assets/CMD.svg)](https://www.easyicon.net/language.en/1222586-terminal_icon.html) 命令行CLI
 
-6 [![](/assets/money_pay.svg)]() 完整版/Pro版/继续使用需付费，一般可以试用7-30天不等，若免费版够用的，暂不作标记
-![![](/assets/stop_1236272_easyicon.net.sv](/assets/stop_1236272_easyicon.net.svg)g)
+6 [![](/assets/money_pay.svg)](https://www.easyicon.net/language.en/1227717-money_bag_icon.html) 完整版/Pro版/继续使用需付费，一般可以试用7-30天不等，若免费版够用的，暂不作标记
+
 7 [![](/assets/windows.svg)]() 仅支持windows
 
 8 [![](/assets/website_official.svg)]() 官方下载地址
