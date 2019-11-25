@@ -1,7 +1,8 @@
-![](https://img.shields.io/badge/☎️Contact-Telegram-ff55bb.svg)
+!
+[](https://img.shields.io/badge/☎️Contact-Telegram-ff55bb.svg)
 注：本文档仍在建设中，进度15%.....
 
-##  收录事项：
+## 收录事项：
 
 ---
 
@@ -19,55 +20,55 @@
 
 ---
 
-1 ![](/assets/stop_sign_continue_Q.png) 已经停更的，在花园里种植收录的，意味着暂时没有更好的替代品，如果你有好的，欢迎推荐
+1 [![](/assets/stop_sign_continue_Q.svg)](https://www.easyicon.net/language.en/1236272-stop_icon.html) 已经停更的，在花园里种植收录的，意味着暂时没有更好的替代品，如果你有好的，欢迎推荐
 
-2 ![](/assets/time_whathappened.png) 疑似停止维护，长期不更
+2 [![](/assets/time_whathappened.svg)]() 疑似停止维护，长期不更
 
-3 ![](/assets/leaves_rec.svg) 推荐的
+3 [![](/assets/leaves_rec.svg)](https://www.easyicon.net/language.en/1219185-leaves_icon.html) 推荐的
 
-4 ![](/assets/github_open.png) 开源的
+4 [![](/assets/github_open.svg)]() 开源的
 
-5 ![](/assets/CMD.png) 命令行CLI
+5 [![](/assets/CMD.svg)]() 命令行CLI
 
-6 ![](/assets/money_pay.png) 完整版/Pro版/继续使用需付费，一般可以试用7-30天不等，若免费版够用的，暂不作标记 
+6 [![](/assets/money_pay.svg)]() 完整版/Pro版/继续使用需付费，一般可以试用7-30天不等，若免费版够用的，暂不作标记
+![![](/assets/stop_1236272_easyicon.net.sv](/assets/stop_1236272_easyicon.net.svg)g)
+7 [![](/assets/windows.svg)]() 仅支持windows
 
-7 ![](/assets/windows.png) 仅支持windows
+8 [![](/assets/website_official.svg)]() 官方下载地址
 
-8 ![](/assets/website_official.png) 官方下载地址
+9 [![](/assets/third_party.svg)]() 第三方下载源
 
-9 ![](/assets/third_party.png)  第三方下载源
+10 [![](/assets/translation.svg)]() 多语言支持
 
-10 ![](/assets/translation.png) 多语言支持
+11 [![](/assets/website_official.svg)]() 官网
 
-11 ![](/assets/website_official.png) 官网
+12 [![](/assets/keng.svg)]() 安装或使用过程中遇到的坑
 
-12 ![](/assets/keng.png) 安装或使用过程中遇到的坑
+13 [![](/assets/plugins.svg)]() 插件推荐
 
-13 ![](/assets/plugins.png) 插件推荐
+14 [![](/assets/leaves_use.svg)]() 简单用法
 
-14 ![](/assets/leaves_use.png) 简单用法
+15 [![](/assets/documents.svg)]() 帮助文档或者参考链接
 
-15 ![](/assets/documents.png) 帮助文档或者参考链接
+16 [![](/assets/network.svg)]() 需网络工具
 
-16 ![](/assets/network.png) 需网络工具
+17 [![](/assets/zlaw.svg)]() 使用时请遵循当地法律
 
-17 ![](/assets/zlaw.png) 使用时请遵循当地法律
-
-18 ![](https://img.shields.io/badge/Version-0.0.0-ff55bb.svg) 收录时的最新版本号，不定期更新，大多偷懒，不做标记
+18 [![](https://img.shields.io/badge/Version-0.0.0-ff55bb.svg)]() 收录时的最新版本号，不定期更新，大多偷懒，不做标记
 
 
 ## 致谢：
 ---
 
-![](/assets/github_open.png) [Amazing-Windows-App](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us
+![](/assets/github_open.svg) [Amazing-Windows-App](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us
 )
-![](/assets/github_open.png) [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
+![](/assets/github_open.svg) [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
-![](/assets/github_open.png) https://github.com/GitbookIO
+![](/assets/github_open.svg) https://github.com/GitbookIO
 
-![](/assets/website_official.png) 所有图标均来自于 [Easyicon](https://www.easyicon.net)
+![](/assets/website_official.svg) 所有图标均来自于 [Easyicon](https://www.easyicon.net)
 
-![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
+![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.svg "Creative Commons License")
 
 若非特殊声明，文档中所有项目协议均为：
 
