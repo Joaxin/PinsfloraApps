@@ -1,5 +1,10 @@
-!
-[](https://img.shields.io/badge/☎️Contact-Telegram-ff55bb.svg)
+## Windows Apps Garden
+
+[![telegram](https://img.shields.io/badge/☎️Contact-Telegram-ff55bb.svg)](https://t.me/pinsflora)
+
+
+A collection of windows softwares garden
+
 注：本文档仍在建设中，进度15%.....
 
 ## 收录事项：
@@ -29,7 +34,7 @@
 
 5 [![](/assets/CMD.svg)](https://www.easyicon.net/language.en/1222586-terminal_icon.html) 命令行CLI
 
-6 [![](/assets/money_pay.svg)](https://www.easyicon.net/language.en/1227717-money_bag_icon.html) 完整版/Pro版/继续使用需付费，一般可以试用7-30天不等，若免费版够用的，暂不作标记
+6 [![](/assets/money_pay.svg)](https://www.easyicon.net/language.en/1227717-money_bag_icon.html) 完整版/Pro版/后续使用需付费，一般可以试用7-30天不等，若免费版够用的，暂不作标记
 
 7 [![](/assets/windows.svg)](https://www.easyicon.net/language.en/1210167-windows_icon.html) 仅支持windows
 
@@ -77,9 +82,9 @@
 ## Contributors
 ---
 
-如果您有任何建议包括改进文档方面的任意需求，欢迎在issues中提问或发起pull request。
+如果您有任何建议，欢迎在issues中提起或发起pull request。
 
-If you have any suggestions for software garden, you can mention them in issues or raise a pull request.
+If you have any suggestions for software garden, you can mention them in issues or raise a pull request, and contact me on Telegram.
 
 Made with ❤ by Joaxin
 

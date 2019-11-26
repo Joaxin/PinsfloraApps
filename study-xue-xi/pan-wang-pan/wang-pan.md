@@ -2,76 +2,68 @@
 
 百度公司出品的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]资源分享与在线存储平台。
 
+如果你物尽其用，其实会员并不贵。
+
 ![](/assets/download.png) http://pan.baidu.com/download
 
-### 微云 [![](/assets/website_official.svg)](https://www.autohotkey.com/)
+### 微云 [![](/assets/website_official.svg)](https://www.weiyun.com/)
 
-![](/assets/website_official.svg) [https://www.weiyun.com/](https://www.weiyun.com/)
+> 微云是腾讯公司为用户精心打造的一项智能云服务, 您可以通过微云方便地在手机和电脑之间,同步文件、推送照片和传输数据。
 
-### 坚果云 [![](/assets/website_official.svg)](https://www.autohotkey.com/)
+支持[`Windows` 、`macOS`、 `Android`、`iOS`]
 
-![](/assets/website_official.svg) [https://www.jianguoyun.com/](https://www.jianguoyun.com/)
+![](/assets/download.svg) https://www.weiyun.com/download.html
 
-NutStore
+### 坚果云 [![](/assets/website_official.svg)](https://www.jianguoyun.com/)
 
-### 蓝奏云 [![](/assets/website_official.svg)](https://www.autohotkey.com/)
+![](/assets/website_official.svg) [](https://www.jianguoyun.com/)
 
-免费的云盘存储，主要用作软件，分享平台，用户体验极佳
+一款便捷、安全的专业的跨平台低调网盘产品，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，支持`WebDAV`，ta就像书房一样，陪伴你左右。
 
-暂无PC客户端
+### 蓝奏云 [![](/assets/website_official.svg)](http://www.lanzou.com/)
 
-![](/assets/website_official.svg)[http://www.lanzou.com/](http://www.lanzou.com/)
+免费的云盘存储，主要用作软件，分享平台，用户体验极佳, 仅支持web, 暂不支持客户端。
 
-### Box [![](/assets/website_official.svg)](https://www.autohotkey.com/)
+### Box [![](/assets/website_official.svg)](https://www.box.com/home)
 
-能够同步超过100,000个文件，并支持含有特殊字符的文件名和长度超过256个字符的路径。
+简洁优雅的国外网盘，遵循[GDPR](https://www.box.com/gdpr)标准。
 
-![](/assets/website_official.svg)[https://www.box.com/home](https://www.box.com/home)
+![](/assets/website_official.svg)[](https://www.box.com/home)
 
-### Dropbox [![](/assets/website_official.svg)](https://www.autohotkey.com/)
+### Dropbox [![](/assets/website_official.svg)](https://www.dropbox.com/) ![](/assets/network.svg)
 
-简单，优雅和多功能（PC，Mac，Android ...）云存储解决方案。
+国外流行著名的简单，优雅的同步、备份、共享云存储软件，支持[`Windows` 、`macOS`、 `Android`、`iOS`]。
 
-![](blob:https://legacy.gitbook.com/a89049c5-bd13-4a11-9ba2-078a92c9034e)你需要工具
+### Google Drive [![](/assets/website_official.svg)](https://www.google.com/drive/) 
 
-![](/assets/website_official.svg)[https://www.dropbox.com/](https://www.dropbox.com/)
+Google生态系统的云存储解决方案。
 
-### Google Drive [![](/assets/website_official.svg)](https://www.autohotkey.com/)
+### Mega [![](/assets/website_official.svg)](http://www.mega.co.nz/) ![](/assets/network.svg)
 
-深深融入Google生态系统的云存储解决方案。
+国外安全、可靠、稳定的大容量存储服务商，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，以前可直接访问，拥有众多良心资源。
 
-![](/assets/golf_hole_13.176470588235px_1224973_easyicon.net.png) 你需要工具
+### Mediafire [![](/assets/website_official.svg)](https://www.mediafire.com/)
 
-![](/assets/website_official.svg)[https://www.google.com/drive/](https://www.google.com/drive/)
+来自美国华盛顿的老牌免费网络硬盘，支持[ `Android`、`iOS`]。
 
-### Hubic [![](/assets/website_official.svg)](https://www.autohotkey.com/)
-
-![](/assets/website_official.svg)[http://www.hubic.com/](http://www.hubic.com/)
-
-为 Windows, Linux, MacOsx, iOs & Android 平台设计的云存储。
-
-### Mega [![](/assets/website_official.svg)](https://www.autohotkey.com/)
-
-![](/assets/keng.png) 你需要工具
-
-![](/assets/website_official.svg)[http://www.mega.co.nz/](http://www.mega.co.nz/)
-
-### Mediafire [![](/assets/website_official.svg)](https://www.autohotkey.com/)
-
-![](/assets/website_official.svg)[https://www.mediafire.com/](https://www.mediafire.com/)
-
-### OneDrive [![](/assets/website_official.svg)](https://www.autohotkey.com/)
+### OneDrive [![](/assets/website_official.svg)](https://onedrive.live.com/about/en-us/) ![](/assets/leaves_rec.svg)
 
 [https://office.live.com/start/onedrive.aspx?omkt=en-us](https://office.live.com/start/onedrive.aspx?omkt=en-us)
 
-为Windows用户提供最佳云存储解决方案
+![](/assets/download.svg) https://onedrive.live.com/about/en-us/download/
 
-### Yandex Drive [![](/assets/website_official.svg)](https://www.autohotkey.com/)
+微软提供的最佳云存储解决方案，支持[`Windows` 、`macOS`、 `XBOX`、 `Android`、`iOS`]。
 
-[https://disk.yandex.com/](https://disk.yandex.com/)
+### Yandex Drive [![](/assets/website_official.svg)](https://disk.yandex.com/)
 
-### 360 [![](/assets/website_official.svg)](https://www.autohotkey.com/)
+俄罗斯yandex出品的免费良心网盘。
+
+### 360 [![](/assets/website_official.svg)](https://yunpan.360.cn/)
 
 自360云盘关闭事件后，仅提供企业版
 
-![](/assets/website_official.svg)[https://yunpan.360.cn/](https://yunpan.360.cn/)
+
+### 已关闭的服务
+
+- [Hubic](https://hubic.com/): 停止注册
+- 360个人版
