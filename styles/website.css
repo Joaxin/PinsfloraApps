@@ -1,3 +1,11 @@
-h2{
-color:#f3f3f3;
+h2:first-letter{
+    color:#f53d68;
+}
+a>img:after {
+  content: ""; 
+  position: absolute; 
+  top: 0; 
+  right: 0; 
+  bottom: 0; 
+  left: 0;
 }
