@@ -1,5 +1,7 @@
-### [Photoshop](https://www.adobe.com/products/photoshop.html)
- make images for your web pages.
+### Photoshop [![](/assets/website_official.svg)](https://www.adobe.com/products/photoshop.html)
+
+> Creativity is everywhere.
+
 
 ### [GIMP](http://www.gimp.org/)![](/assets/website_official.png) ![](/assets/translation.png) [![](/assets/github_open.png)](https://git.gnome.org/browse/gimp)  ![](https://img.shields.io/badge/Version-2.10.12-ff55bb.svg)
 

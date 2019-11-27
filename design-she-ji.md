@@ -1,27 +1,9 @@
-### Adobe\(PS LR AI PR AE\) {#Adobe-PS-LR-AI-PR-AE}
+## Adobe
 
-![](/assets/website_official.png)[https://www.adobe.com/sea/creativecloud.html](https://www.adobe.com/sea/creativecloud.html)
+提起设计，不得不提的Adobe家族.
 
-Adobe Bridge： 浏览Adobe文件
-Adobe Acrobat DC
-Adobe After Effects
-Adobe Animate
-Adobe Audition
-Adobe Captivate
-Adobe Character Animator
-Adobe Dreamweaver
-Adobe Edge Code
-Adobe Edge Reflow
-Adobe Encore
-Adobe Fireworks
-Adobe Fuse
-Adobe Illustrator
-Adobe InCopy
-Adobe InDesign
-Adobe Lightroom
-Adobe Muse
-Adobe Photoshop
-Adobe Prelude
-Adobe Premiere
-Adobe Scout
-Adobe SpeedGrade
+所有产品: https://www.adobe.com/creativecloud/catalog/desktop.html?promoid=PTYTQ77P&mv=other
+
+![](/assets/website_official.svg) [https://www.adobe.com/sea/creativecloud.html](https://www.adobe.com/sea/creativecloud.html)
+
+![![](/assets/z-study-adobe-products.pn](/assets/z-design-adobe-products.png)
