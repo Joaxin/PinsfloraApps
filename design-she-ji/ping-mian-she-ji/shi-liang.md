@@ -1,11 +1,21 @@
-### [Inkscape](https://inkscape.org/en/) ![](/assets/website_official.png) ![](/assets/github_open.png)![](/assets/translation.png)
+### Illustrator [![](/assets/website_official.svg)](https://www.adobe.com/products/illustrator.html) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg) ![](/assets/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2020-ff55bb.svg)
 
-![](/assets/download.png) https://inkscape.org/en/download/source/
- 免费的跨平台矢量图形设计软件。
+> The state of the art of illustration.
+
+Adobe出品的矢量图形和插图软件。
+
+
+### Inkscape [![](/assets/website_official.svg)](https://inkscape.org/en/)  ![](/assets/github_open.svg) ![](/assets/translation.svg)
+
+![](/assets/download.svg) https://inkscape.org/en/download/source/
+
+免费的跨平台[`Windows` 、`macOS`、 `Linux``]矢量图形设计软件。
  
  
-### Icons8  [![](/assets/website_official.png)](https://icons8.com/app)
+### 图标库
 
-具有拖放功能的离线图标库，数量丰富
+#### Icons8  [![](/assets/website_official.svg)](https://icons8.com/app)
+
+一款使用方便且优雅的离线图标库
 
 

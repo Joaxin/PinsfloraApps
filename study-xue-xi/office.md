@@ -36,6 +36,12 @@ Linux上知名的开源办公套件，支持[`Windows` 、`macOS`、 `Linux`]。
 
 ![](/assets/download.svg) https://www.libreoffice.org/download/download/
 
+### Calligra [![](/assets/website_official.svg)](https://www.calligra.org/) ![](/assets/github_open.svg)
+
+[KDE](https://kde.org/applications/office/)上一套开源自由发行的集成化办公套件,包含了文字处理器、电子 表格、幻灯片制作、项目管理等多种工具，支持[`Windows` 、`macOS`、 `Linux`]。
+
+![](/assets/download.svg) https://www.calligra.org/get-calligra/
+
 ### OnlyOffice [![](/assets/website_official.svg)](https://www.onlyoffice.com/)
 
 > ONLYOFFICE provides you with the most secure way to create, edit and collaborate on business documents online
