@@ -1,11 +1,6 @@
-h2:first-letter{
+h3:first-letter{
     color:#f53d68;
 }
-a>img:after {
-  content: ""; 
-  position: absolute; 
-  top: 0; 
-  right: 0; 
-  bottom: 0; 
-  left: 0;
+a>img {
+    pointer-events: none;
 }
