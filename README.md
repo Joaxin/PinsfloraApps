@@ -69,11 +69,11 @@ A collection of windows softwares garden
 
 ![](/assets/github_open.svg) [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
-![](/assets/github_open.svg) https://github.com/GitbookIO
+![](/assets/github_open.svg) https://gitbookio.gitbooks.io/documentation/index.html
 
 ![](/assets/website_official.svg) 所有SVG图标均来自于 [Easyicon](https://www.easyicon.net), 链接已注明。
 
-![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.svg "Creative Commons License")
+![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
 
 若非特殊声明，文档中所有项目协议均为：
 
