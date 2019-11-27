@@ -1,3 +1,9 @@
-### GoogleEarth {#GoogleEarth}
+### GoogleEarth {#GoogleEarth} [![](/assets/website_official.svg)](https://www.google.com/earth/) ![](/assets/leaves_rec.svg)
 
-可以模拟飞行的谷歌地球
+> The world's most detailed globe
+
+谷歌公司开发的虚拟地球软件，可俯瞰全球，游览全世界，模拟飞行的谷歌地球，支持[`Windows` 、`macOS`、 `Android`、`iOS`]。
+
+![](/assets/website_official.svg) 中文版：http://www.google.cn/intl/zh-CN/earth/
+
+![](/assets/z-study-sci-gis-googleearth.png)

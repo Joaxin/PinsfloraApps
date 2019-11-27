@@ -7,19 +7,26 @@
 
 ### Seafile [![](/assets/website_official.svg)](https://www.seafile.com/home/) ![](/assets/github_open.svg)
 
-Seafile 是一款开源的企业云盘，注重可靠性和性能。支持 Windows, Mac, Linux, iOS, Android 平台。支持文件同步或者直接挂载到本地访问。
+开源的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]企业云盘，注重可靠性和性能。
 
-### NextCloud
+![](/assets/download.svg) https://www.seafile.com/download/
 
-![](/assets/website_official.svg) [https://nextcloud.com/](https://nextcloud.com/)
+### NextCloud [![](/assets/website_official.svg)](https://nextcloud.com/)
 
-### OwnCloud
+自由及开源的网盘，支持WebDAV，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]进行同步。
+
+![](/assets/download.svg) https://nextcloud.com/install/#
+
+### OwnCloud [![](/assets/website_official.svg)](https://owncloud.com/)
 
 `Store. Share. Work.`
 
 Secure Enterprise File Sharing within your data center
 
-![](/assets/website_official.svg) [https://owncloud.com/](https://owncloud.com/)
+一个开源的私有云盘解决方案，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]同步，app是收费的。
+
+![](/assets/z-study-storage-file-owncloud.png)
+
 
 
 

@@ -37,7 +37,7 @@
   * [Research - 科学研究](study-xue-xi/ke-yan-xiang-guan.md)
     * [文献管理 - Paper](study-xue-xi/ke-yan-xiang-guan/wen-xian-guan-li.md)
     * [地理信息 - GIS](study-xue-xi/ke-yan-xiang-guan/di-li-xin-xi.md)
-    * [数学 - Math](study-xue-xi/ke-yan-xiang-guan/shu-xue.md)
+    * [工程计算 - Math](study-xue-xi/ke-yan-xiang-guan/shu-xue.md)
 * [Design - 设计](design-she-ji.md)
   * [平面设计 - Graphic Design](design-she-ji/ping-mian-she-ji.md)
     * [矢量](design-she-ji/ping-mian-she-ji/shi-liang.md)
