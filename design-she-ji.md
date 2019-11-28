@@ -11,14 +11,14 @@ PS：可使用 Creative Cloud 安装所有Adobe应用程序。
 
 ## Autodesk
 
-提起3d设计，不得不提的Autodesk家族.
+提起3d设计，不得不提的Autodesk(欧特克)家族.
 
 所有产品: https://www.autodesk.com/products
 https://www.autodesk.com.cn/products
 
-
-
 ![](/assets/z-design-autodesk-products.png)
+
+
 
 
 

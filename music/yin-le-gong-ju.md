@@ -1,3 +1,13 @@
+### Cubase [![](/assets/website_official.svg)](https://new.steinberg.net/cubase/) ![](/assets/money_pay.svg)
+
+来自著名steinberg公司的专业功能强大音频处理编辑软件，用于创建，录制，编辑和制作音乐。
+
+![](/assets/z-mv-music-making-cubase.png)
+
+### Nuendo [![](/assets/website_official.svg)](https://new.steinberg.net/nuendo/) ![](/assets/money_pay.svg)
+
+同来自著名steinberg公司的专业的音频制作软件。
+
 ### Mixxx [![](/assets/website_official.svg)](https://mixxx.org/) [![](/assets/github_open.svg)](https://github.com/mixxxdj/mixxx)
 
 DJ混音软件
