@@ -21,7 +21,7 @@
 
 > 3D computer animation, modeling, simulation, and rendering software
 
-由美国Autodesk公司出品的世界顶级的三维动画软件，用于三维计算机动画、建模、仿真和渲染。
+由美国Autodesk公司出品的世界顶级的三维动画软件，用于三维计算机动画、建模、仿真和渲染，并有maya特效模块用于视频制作。
 
 ### C4D {#C4D} [![](/assets/website_official.svg)](https://www.maxon.net/en/) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg) ![](/assets/money_pay.svg) 
 

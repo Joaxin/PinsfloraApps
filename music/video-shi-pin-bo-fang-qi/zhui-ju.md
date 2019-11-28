@@ -1,6 +1,11 @@
-### EMDB   [![](/assets/website_official.png)](http://www.emdb.eu//)
-电影及电视剧追播进度记录，同时支持光盘与本地媒体文件
+### EMDB [![](/assets/website_official.svg)](http://www.emdb.eu//)
 
-### tinyMediaManager [![](/assets/website_official.png)](http://www.tinymediamanager.org/) [![](/assets/github_open.png)](https://github.com/tinyMediaManager/tinyMediaManager)  
+一款跟踪电影和电视连续剧以及进行收藏管理的应用。
 
-开源的电影电视剧管理工具，支持自动下载影片信息、字幕、标记已观看、同步 Trakt.tv 等功能
+### tinyMediaManager [![](/assets/website_official.svg)](http://www.tinymediamanager.org/) [![](/assets/github_open.svg)](https://gitlab.com/tinyMediaManager)  
+
+开源的本地电影、电视剧管理工具，可自动下载影片信息、字幕、标记已观看等。
+
+### Seriesgui [![](/assets/website_official.svg)](https://seriesgui.de/)
+
+可记录追剧进度，数据源来自 [TheTVDB](https://www.thetvdb.com/?ref=appinn)

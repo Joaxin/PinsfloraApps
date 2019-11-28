@@ -1,10 +1,10 @@
-### Audacity [![](/assets/website_official.png)](http://www.audacityteam.org/) [![](/assets/github_open.png)](https://github.com/audacity/audacity)
+### Audacity [![](/assets/website_official.svg)](http://www.audacityteam.org/) [![](/assets/github_open.svg)](https://github.com/audacity/audacity)
 
-免费的音频编辑软件，界面比较简洁
+免费的音频编辑软件，界面比较简洁。
 
 跨平台cross-platform，支持`windows` `mac` `Linux`
 
-![](/assets/download.png) https://www.audacityteam.org/download/windows/
+![](/assets/download.svg) https://www.audacityteam.org/download/windows/
 
 ### AudioNodes
 
@@ -12,15 +12,16 @@
 
 Edit & mix audio, compose original music\(such as midi\), and more
 
-### Goldwave![](/assets/money_24.632411067194px_1218498_easyicon.net.png)
 
-![](/assets/website.png)[http://www.goldwave.com/](http://www.goldwave.com/)
+### Goldwave![](/assets/money_24.632411067194px_1218498_easyicon.net.svg)
 
-### Qtractor![](/assets/github_16px_1157868_easyicon.net.png)
+![](/assets/website.svg)[http://www.goldwave.com/](http://www.goldwave.com/)
 
-多轨音序编辑器
+### Qtractor![](/assets/github_16px_1157868_easyicon.net.svg)
+
+多轨音序编辑器。
 
 -音频/MIDI多轨音序器。
 
-![](/assets/website.png)[https://qtractor.sourceforge.io](https://qtractor.sourceforge.io/qtractor-screenshots.html)
+![](/assets/website.svg)[https://qtractor.sourceforge.io](https://qtractor.sourceforge.io/qtractor-screenshots.html)
 
