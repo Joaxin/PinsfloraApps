@@ -1,3 +1,7 @@
+### Adobe Fresco [![](/assets/website_official.svg)](https://www.adobe.com/products/fresco.html) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg) ![](/assets/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2020-ff55bb.svg)
+
+由Adobe开发和发行的AI笔刷绘画应用。
+
 ### Krita [![](/assets/website_official.svg)](https://krita.org/en) ![](/assets/github_open.svg) ![](/assets/translation.svg)
 
 Krita（瑞典语的蜡笔、来自动词“rita”），一款开源的位图形编辑软件，支持[`Windows` 、`macOS`、 `Linux`]

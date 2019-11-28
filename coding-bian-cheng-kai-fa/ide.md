@@ -1,4 +1,5 @@
-### Android Studio [![](/assets/website_official.svg)](https://developer.android.com/studio/index.html)
+#
+## Android Studio [![](/assets/website_official.svg)](https://developer.android.com/studio/index.html)
 
 Android 的官方 IDE, 基于 IntelliJ 的 IDEA。
 
@@ -29,18 +30,18 @@ JetBrain出品的跨平台的PHP开发平台。
 
 JetBrain出品的跨平台的用于.NET/Mono开发的IDE.
 
-![](/assets/plugins.png) Resharper：http://www.jetbrains.com/resharper/
+![](/assets/plugins.svg) Resharper：http://www.jetbrains.com/resharper/
 Nuget：https://www.nuget.org/
 
 ### RubyMine [![](/assets/website_official.svg)](https://www.jetbrains.com/ruby/)
 
 JetBrain出品的跨平台的Ruby开发平台，支持多种框架。
 
-### Visual Studio [![](/assets/website_official.svg)](https://www.visualstudio.com/vs/) ![](/assets/website_official.png) ![](/assets/translation.png)
+### Visual Studio [![](/assets/website_official.svg)](https://www.visualstudio.com/vs/) ![](/assets/website_official.svg) ![](/assets/translation.svg)
 
 微软官方的 IDE，终极武器。
 
-![](/assets/plugins.png) http://vswebessentials.com/
+![](/assets/plugins.svg) http://vswebessentials.com/
 Coderush: https://www.devexpress.com/Products/CodeRush/
 
 VB&C#：http://converter.telerik.com/

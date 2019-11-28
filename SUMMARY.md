@@ -60,6 +60,7 @@
     * [排版编辑 - Layout](design-she-ji/ping-mian-she-ji/pai-ban-bian-ji-layout.md)
     * [原型设计 - UI/UX](design-she-ji/ping-mian-she-ji/yuan-xing-she-ji-ui-ux.md)
     * [动画 - Animation](design-she-ji/ping-mian-she-ji/dong-hua-animation.md)
+    * [三维构图 - 3D](design-she-ji/ping-mian-she-ji/san-wei-gou-tu-3d.md)
     * [轻工具 - Minitools](design-she-ji/ping-mian-she-ji/qing-gong-ju.md)
   * [工程绘图 - Engineering](design-she-ji/gong-cheng-hui-tu.md)
   * [影视工程](design-she-ji/ying-shi-gong-cheng.md)
