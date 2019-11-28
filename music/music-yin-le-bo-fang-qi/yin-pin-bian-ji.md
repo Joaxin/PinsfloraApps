@@ -1,3 +1,7 @@
+### Audition [![](/assets/website_official.svg)](https://www.adobe.com/products/audition.html) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg) ![](/assets/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2020-ff55bb.svg)
+
+由Adobe开发和发行的一流的数字音频编辑软件，创建、混合和设计音效。
+
 ### Audacity [![](/assets/website_official.svg)](http://www.audacityteam.org/) [![](/assets/github_open.svg)](https://github.com/audacity/audacity)
 
 免费的音频编辑软件，界面比较简洁。

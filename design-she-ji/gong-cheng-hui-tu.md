@@ -31,10 +31,10 @@ Autodesk 出品的机械设计和三维 CAD 软件。
 
 Autodesk 出品的CAD/CAM/CAE一体化三维软件。
 
-### Infraworks [![](/assets/website_official.svg)](https://www.autodesk.com/products/infraworks/overview) ![](/assets/leaves_rec.svg) ![](/assets/money_pay.svg) 
+### Infraworks [![](/assets/website_official.svg)](https://www.autodesk.com/products/infraworks/overview)  ![](/assets/money_pay.svg) 
 
 Autodesk 出品的用于规划、设计和分析的地理空间和工程 BIM 平台。
 
-### Navisworks [![](/assets/website_official.svg)](https://www.autodesk.com/products/navisworks/overview) ![](/assets/leaves_rec.svg) ![](/assets/money_pay.svg) 
+### Navisworks [![](/assets/website_official.svg)](https://www.autodesk.com/products/navisworks/overview)  ![](/assets/money_pay.svg) 
 
 Autodesk 出品的建筑、工程和施工的 3D 模型审阅软件。

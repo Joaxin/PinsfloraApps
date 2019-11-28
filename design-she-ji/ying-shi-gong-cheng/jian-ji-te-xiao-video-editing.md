@@ -1,3 +1,7 @@
+### Prelude [![](/assets/website_official.svg)](https://www.adobe.com/products/prelude.html) ![](/assets/translation.svg) ![](/assets/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2020-ff55bb.svg)
+
+Adobe出品的元数据采集、记录和粗剪工具。
+
 ### Premiere [![](/assets/website_official.svg)](https://www.adobe.com/products/premiere.html) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg) ![](/assets/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2020-ff55bb.svg)
 
 > Video editing that’s always a cut above.

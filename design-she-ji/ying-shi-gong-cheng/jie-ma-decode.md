@@ -1,3 +1,9 @@
+### Media Encoder [![](/assets/website_official.svg)](https://www.adobe.com/products/media-encoder.html) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg) ![](/assets/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2020-ff55bb.svg)
+
+由Adobe开发和发行的媒体处理平台。
+
+> 收录、转码、创建代理和输出您可以想象的几乎任何格式。这款功能强大的工具使您能够在各种应用程序中以统一的方式处理媒体。与 Adobe Premiere Pro、After Effects 和其他应用程序的紧密集成提供了无缝的工作流程。  
+
 ### K-Lite Codecs [![](/assets/website_official.svg)](http://www.codecguide.com)
 
 [http://www.codecguide.com/download\_kl.htm](http://www.codecguide.com/download_kl.htm)

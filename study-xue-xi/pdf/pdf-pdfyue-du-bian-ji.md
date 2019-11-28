@@ -40,6 +40,8 @@
 
 来自知名Adobe公司的PDF阅读及编辑软件，自家产的OCR编辑功能相当好用，付费。
 
+官网中文：https://acrobat.adobe.com/cn/zh-Hans/acrobat.html
+
 阅读器![](/assets/download.svg) https://get.adobe.com/reader/
 编辑器![](/assets/download.svg)  https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html
 

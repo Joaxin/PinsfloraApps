@@ -41,3 +41,10 @@ JetBrain出品的跨平台的Ruby开发平台，支持多种框架。
 Coderush: https://www.devexpress.com/Products/CodeRush/
 
 VB&C#：http://converter.telerik.com/
+
+### Dreamweaver [![](/assets/website_official.svg)](https://www.adobe.com/products/premiere.html) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg) ![](/assets/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2020-ff55bb.svg)
+
+> Video editing that’s always a cut above.
+
+Adobe出品的符合行业标准的专业视频和电影编辑软件。
+

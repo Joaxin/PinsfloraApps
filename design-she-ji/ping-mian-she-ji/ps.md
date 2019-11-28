@@ -4,6 +4,15 @@
 
 由Adobe Systems开发和发行的图像处理软件，在桌面上编辑、合成和创建精美的图像、图形和艺术作品,简称“PS”，您的一生相伴。
 
+### Lightroom [![](/assets/website_official.svg)](https://www.adobe.com/products/photoshop-lightroom-classic.html) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg) ![](/assets/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2020-ff55bb.svg)
+
+> The next page in layout design.
+
+由Adobe开发和发行的以后期制作为重点的图形处理软件，让您可以创作精美绝伦的照片,在桌面上轻松整理所有照片，摄影工作必备，支持[`Windows` 、`macOS`、 `Android`、`iOS`]。
+
+
+由Adobe Systems开发和发行的图像处理软件，在桌面上编辑、合成和创建精美的图像、图形和艺术作品,简称“PS”，您的一生相伴。
+
 ### GIMP [![](/assets/website_official.svg)](http://www.gimp.org/) ![](/assets/translation.svg) [![](/assets/github_open.svg)](https://git.gnome.org/browse/gimp) ![](https://img.shields.io/badge/Version-2.10.12-ff55bb.svg)
 
 一款开源的跨平台[`Windows` 、`macOS`、 `Linux`]图像编辑器。
