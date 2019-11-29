@@ -1,5 +1,4 @@
-#
-## Android Studio [![](/assets/website_official.svg)](https://developer.android.com/studio/index.html)
+### Android Studio [![](/assets/website_official.svg)](https://developer.android.com/studio/index.html)
 
 Android 的官方 IDE, 基于 IntelliJ 的 IDEA。
 
