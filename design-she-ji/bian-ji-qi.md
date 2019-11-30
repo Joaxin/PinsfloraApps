@@ -1,71 +1,80 @@
-#
-## [Atom](https://atom.io/) [![](/assets/github_open.svg)](https://github.com/atom/atom)
+### Atom [![](/assets/website_official.svg)](https://atom.io/) [![](/assets/github_open.svg)](https://github.com/atom/atom)
 
-面向21世纪的极客文本编辑器。
+跨平台的极客文本编辑器。
 
-### [Brackets](http://brackets.io/)
+![](/assets/z-dev-editor-atom.png)
 
-一款擅长网页设计的现代，开源文本编辑器。
+### Emacs [![](/assets/website_official.svg)](http://www.gnu.org/software/emacs/)
 
-### [EditPlus](http://www.editplus.com/index.html)
-
-一款很好的替代 Windows 记事本与写字板的工具，拥有很多适用于网页设计师及程序员的功能和特性。
-
-### [Emacs](http://www.gnu.org/software/emacs/)
-
-与 Vim 一起受到 Unix 用户喜爱，具有极强的扩展性，而 Vim 与 Emacs 的优劣一直伴随着争论。
+Vim的竞争对手，类似于php是最好的语言。
 
 - GNU Emacs : https://www.gnu.org/software/emacs/
 
-### EverEdit [![](/assets/website_official.svg)](http://www.everedit.net/)
+### (G)Vim [![](/assets/website_official.svg)](http://www.vim.org/download.php#pc) ![](/assets/CMD.svg)
 
-内置 Markdown 预览与十六进制编辑的文本编辑器
+即是Vi vi improved，Linux下最受欢迎的编辑器，被誉为编辑器之神，命令行操作。
 
-### [GVim](http://www.vim.org/download.php#pc)
+![](/assets/z-dev-editor-vim-joke.jpg)
 
-（G）Vim是一款高度可配置的文本编辑器，用于高效的文本编辑, Unix 下最受欢迎的文本编辑器之一，命令行操作，入门稍显困难，但这是一款学会后可以改变你对软件看法的软件。。
+### Neovim [![](/assets/website_official.svg)](https://neovim.io/)
 
-### [Light Table](http://lighttable.com/) [![](/assets/github_open.svg)](https://github.com/LightTable/LightTable)
+被誉为vim真正的继任者。
+
+### Brackets [![](/assets/website_official.svg)](http://brackets.io/) [![](/assets/github_open.svg)](https://github.com/adobe/brackets)
+
+由 Adobe 主导开发的一款开源的现代文本编辑器，主打HTML、CSS和JavaScript, 支持[`Windows` 、`macOS`、 `Linux`]。
+
+### EditPlus [![](/assets/website_official.svg)](http://www.editplus.com/index.html) ![](/assets/money_pay.svg) ![](/assets/windows.svg)
+
+来自韩国的Notepad++替代品。
+
+![](/assets/download.svg) https://www.editplus.com/download.html
+
+### EverEdit [![](/assets/website_official.svg)](http://www.everedit.net/) ![](/assets/windows.svg) ![](/assets/money_pay.svg)
+
+十分强悍的轻量文本编辑器。
+
+中国版：http://cn.everedit.net/
+
+![](/assets/download.svg) http://www.everedit.net/download
+
+### Light Table [![](/assets/website_official.svg)](http://lighttable.com/) [![](/assets/github_open.svg)](https://github.com/LightTable/LightTable)
 
 > Light Table is a next generation code editor that connects you to your creation with instant feedback.
 
-具有即时反馈和显示代码中数据值的可定制的编辑器。
+一款开源的功能强大的代码编辑器。
 
-### [Neovim](https://neovim.io/)
+### Notepad++ [![](/assets/website_official.svg)](https://notepad-plus-plus.org/) ![](/assets/translation.svg) [![](/assets/github_open.svg)](https://github.com/notepad-plus-plus/notepad-plus-plus)
 
-vim真正的继任者。
+由台湾同胞开发的，开源的、支持多种编程语言的源码编辑软件。
 
-### [Notepad++](https://notepad-plus-plus.org/) ![](/assets/translation.svg) [![](/assets/github_open.svg)](https://github.com/notepad-plus-plus/notepad-plus-plus)
+> 开源软件政治化, 对作者倍感失望。
 
+### Sublime Text 3 [![](/assets/website_official.svg)](http://www.sublimetext.com/3) ![](/assets/money_pay.svg) ![](/assets/leaves_rec.svg)
 
+最初设计为Vim提供多功能扩展，后发展为跨平台[`Windows` 、`macOS`、 `Linux`]的高度自定义轻量文本编辑器，支持插件扩展功能。
 
-一款由台湾同胞开发的，开源的、支持多种编程语言的源码编辑软件
+### Visual Studio Code [![](/assets/website_official.svg)](ttps://code.visualstudio.com/) [![](/assets/github_open.svg)](https://github.com/Microsoft/vscode) ![](/assets/leaves_rec.svg)
 
-### [Notepad2](http://www.flos-freeware.ch/notepad2.html) [![](/assets/github_open.svg)](https://github.com/notepad-plus-plus/notepad-plus-plus)
+![](/assets/plugins.svg)插件地址： https://marketplace.visualstudio.com/
 
-用于替代默认文本编辑器的轻量快速的编辑器，拥有众多有用的功能。
+微软出品的更新维护频繁的超好用的开源文本编辑器。
 
-### [Sublime Text 3](http://www.sublimetext.com/3)
+### Emeditor {#Emeditor} [![](/assets/website_official.svg)](https://www.emeditor.com/) ![](/assets/money_pay.svg) ![](/assets/leaves_rec.svg)
 
-高级文本编辑器,最初设计为 Vim 提供多功能扩展，后发展为跨平台编辑器，支持自定义及可通过插件扩展功能，快速且顺畅。
+支持宏，Unicode，最好用的强大超大文件编辑器。
 
-### [Visual Studio Code](https://code.visualstudio.com/) [![](/assets/github_open.svg)](https://github.com/Microsoft/vscode)
+### UltraEdit {#UltraEdit} [![](/assets/website_official.svg)](https://www.ultraedit.com/) ![](/assets/money_pay.svg) ![](/assets/leaves_rec.svg) ![](/assets/windows.svg)
 
-![](/assets/plugins.svg) https://marketplace.visualstudio.com/
+一套功能强大的文本编辑器，可以编辑文本、十六进制、ASCII 码等。
 
-隔几天就更新的微软出品的开源文本编辑器
+### Winhex {#Winhex} [![](/assets/website_official.svg)](http://www.x-ways.net/winhex/) ![](/assets/money_pay.svg) ![](/assets/leaves_rec.svg) ![](/assets/windows.svg)
 
-![](/assets/plugins.svg)
+一款与UltraEdit并驾齐驱的16进制文件编辑与磁盘编辑软件。
 
-### Emeditor {#Emeditor} [![](/assets/website_official.svg)](https://www.emeditor.com/)
+### NimbleText [![](/assets/website_official.svg)](http://nimbletext.com/) ![](/assets/money_pay.svg)
 
-支持宏，Unicode，可处理大数据以及 CSV 文件的文本编辑器
-
-### U32 {#U32}
-
-### Winhex {#Winhex}
-
-### NimbleText
+> Manipulate text and data with light-weight patterns
 
 小巧的大量文本处理软件。
 

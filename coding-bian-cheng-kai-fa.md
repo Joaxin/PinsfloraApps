@@ -1,4 +1,6 @@
+### Jetbains [![](/assets/website_official.svg)](https://www.jetbrains.com/)
 
+![](/assets/z-dev-ide-jetbains.png)
 
 ### Velocity [![](/assets/website_official.svg)](http://velocity.silverlakesoftware.com/)
 

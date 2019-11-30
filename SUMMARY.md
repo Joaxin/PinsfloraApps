@@ -71,7 +71,7 @@
 * [Dev Tools - 编程开发](coding-bian-cheng-kai-fa.md)
   * [IDE - 集成开发环境](coding-bian-cheng-kai-fa/ide.md)
   * [Editor - 编辑器 ](design-she-ji/bian-ji-qi.md)
-  * [Git](coding-bian-cheng-kai-fa/git.md)
+  * [Git - Git](coding-bian-cheng-kai-fa/git.md)
   * [Lang - 编程语言](coding-bian-cheng-kai-fa/bian-cheng-yu-yan.md)
     * [R](design-she-ji/r.md)
     * [Python](design-she-ji/python.md)
