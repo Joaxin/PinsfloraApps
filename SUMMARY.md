@@ -78,7 +78,7 @@
     * [C/C++](design-she-ji/cc++.md)
     * [Javascript](design-she-ji/javascript.md)
     * [Java](design-she-ji/java.md)
-    * .Net
+    * [.Net](design-she-ji/net.md)
   * [Databases - 数据库](coding-bian-cheng-kai-fa/shu-ju-ku-databases.md)
     * [数据库](coding-bian-cheng-kai-fa/shu-ju-ku-databases/shu-ju-ku.md)
     * [数据库管理](coding-bian-cheng-kai-fa/shu-ju-ku-databases/shu-ju-ku-liu-lan.md)

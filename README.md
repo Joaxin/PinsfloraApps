@@ -50,7 +50,7 @@ A collection of windows software garden.
 
 12 [![](/assets/keng.svg)](https://www.easyicon.net/language.en/1230787-black_hole_icon.html) 安装或使用过程中遇到的坑
 
-13 [![](/assets/plugins.svg)](https://www.easyicon.net/language.en/1192849-plugins_icon.html) 插件推荐
+13 [![](/assets/plugins.svg)](https://www.easyicon.net/language.en/1192849-plugins_icon.html) 插件/包推荐
 
 14 [![](/assets/leaves_use.svg)](https://www.easyicon.net/language.en/1218386-leaves_icon.html) 简单用法
 

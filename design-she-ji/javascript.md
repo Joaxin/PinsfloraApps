@@ -1,46 +1,26 @@
-### Node.js {#Node-js}
+### Node.js {#Node-js} ![](https://img.shields.io/badge/LTS-12.13.1-ff55bb.svg) ![](https://img.shields.io/badge/Latest-13.2-ff55bb.svg)
 
-![](/assets/download.png) [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+![](/assets/download.svg) [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
-> Encounter 2503/2502 error on win10,
->
-> msiexec /package node-v10.16.0-x64.msi
+> 若Win10 遇到2503/2502 error,
+> 请在命令行执行 msiexec /package node-version.msi
 
-To install the most recent LTS version of Node 10.x on e.g. ubuntu 18.04 , you need to use the [package manager](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions) to get it from the Ubuntu \_binary distributions \_repository.
-
-```bash
-curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash - 
-sudo apt-get install -y nodejs
-
-```
+![](/assets/plugins.svg)
 rimraf:https://www.npmjs.com/package/rimraf
 node 使用的深度删除模块。删除深目录文件（夹）
 
+### WebStorm [![](/assets/website_official.svg)](https://www.jetbrains.com/webstorm/) ![](/assets/money_pay.svg)
 
+JetBrain出品的WEB开发平台。
 
+### Hyper [![](/assets/website_official.svg)](https://hyper.is/) [![](/assets/github_open.svg)](https://github.com/zeit/hyper)
 
+基于electron的`HTML/CSS/JS `终端工具,支持[`Windows` 、`macOS`、 `Linux`]
 
-### [WebStorm](https://www.jetbrains.com/webstorm/)
+### HBuilder [![](/assets/website_official.svg)](http://dcloud.io/)
 
-JetBrain出品的JavaScipt开发平台。
+国人开发的，由DCloud（数字天堂）推出的跨平台Web开发IDE。
 
-# [HBuilder](http://dcloud.io/)
-
-国人开发的跨平台网页前端开发平台
-
-
-### [Hyper](https://hyper.is/) [![](/assets/github_open.png)](https://github.com/zeit/hyper)
-
-基于electron的HTML/CSS/JS 终端工具
-
-### [Insomnia](https://insomnia.rest/) ![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/getinsomnia/insomnia)
-
-![Insomnia](https://insomnia.rest/static/main-ac0a1732afac19acce5ad6825595c3bb-9a259.webp) 
-
-> Debug APIs like a human, not a robot
-Finally, a REST client you'll love
-
-一款开源的网络请求测试工具, 支持`GraphQL`
 
 
 

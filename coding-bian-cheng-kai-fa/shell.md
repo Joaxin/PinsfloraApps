@@ -36,6 +36,15 @@
 
 Console 2 的修改版本，更好的体验和更好的视觉呈现。
 
+### [msys2](http://www.msys2.org/) ![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/msys2) ![](/assets/CMD.png)
+
+> A software distro and building platform for Windows
+
+Windows 上的 UNIX 软件包的开源平台
+
+
+
+
 ### MobaXterm [![](/assets/website_official.png)](http://mobaxterm.mobatek.net/) ![](/assets/website_official.png) ![](/assets/leaves_rec.png)
 
 > Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more

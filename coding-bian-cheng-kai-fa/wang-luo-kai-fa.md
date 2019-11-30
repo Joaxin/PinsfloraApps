@@ -11,6 +11,15 @@ HTTP，SSL调试代理工具。
 
 跨平台的IPv4 免费地址库 & 客户端工具
 
+### Insomnia [![](/assets/website_official.svg)](https://insomnia.rest/) ![](/assets/website_official.svg) [![](/assets/github_open.svg)](https://github.com/getinsomnia/insomnia)
+
+![Insomnia](https://insomnia.rest/static/main-ac0a1732afac19acce5ad6825595c3bb-9a259.webp)
+
+> Debug APIs like a human, not a robot
+Finally, a REST client you'll love
+
+一款开源的网络请求测试工具, 支持`GraphQL`
+
 
 
 ### Fluxay5
