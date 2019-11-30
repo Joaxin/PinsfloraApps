@@ -33,3 +33,9 @@
 厦门大学：http://mirrors.xmu.edu.cn/
 
 华中科技大学：http://mirror.hust.edu.cn/
+
+---
+
+豆瓣pypi：https://pypi.doubanio.com/
+
+淘宝NPM：https://npm.taobao.org/
