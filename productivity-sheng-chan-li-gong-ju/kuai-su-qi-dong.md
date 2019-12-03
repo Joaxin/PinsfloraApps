@@ -1,14 +1,15 @@
-> Win+R：最原生、最不消耗资源，但也可能是最难看的快速启动方式。
+>
+Win+R：最原生、最不消耗资源，但也可能是最难看的快速启动方式。
 
 ### [Easy Window Switcher](https://neosmart.net/EasySwitch/)
 
 应用实际之间快速切换。
 
-### Rolan [![](/assets/website_official.png)](http://www.irolan.com/) ![](/assets/money_pay.png)
+### Rolan [![](/assets/website_official.svg)](http://www.irolan.com/) ![](/assets/money_pay.svg)
 
 由国人开发的启动器
 
-### Listary [![](/assets/website_official.png)](https://www.listary.com/) ![](/assets/leaves_rec.png) ![](/assets/windows.png) ![](/assets/translation.png) {#Listary} ![](https://img.shields.io/badge/Version-5.00.2843-ff55bb.svg)
+### Listary [![](/assets/website_official.svg)](https://www.listary.com/) ![](/assets/leaves_rec.svg) ![](/assets/windows.svg) ![](/assets/translation.svg) {#Listary} ![](https://img.shields.io/badge/Version-5.00.2843-ff55bb.svg)
 
 > **Listary** is a revolutionary search utility for Windows
 that makes finding your files and launching applications blazing fast, for casual and power users alike!
@@ -21,26 +22,26 @@ that makes finding your files and launching applications blazing fast, for casua
 
 的高效率启动器
 
-![](/assets/download.png) [https://www.listary.com/download](https://www.listary.com/download)
+![](/assets/download.svg) [https://www.listary.com/download](https://www.listary.com/download)
 
-![](/assets/download.png) 便携版：[https://www.listary.com/download/ListaryPortable.zip?version=5.00.2843](https://www.listary.com/download/ListaryPortable.zip?version=5.00.2843)
+![](/assets/download.svg) 便携版：[https://www.listary.com/download/ListaryPortable.zip?version=5.00.2843](https://www.listary.com/download/ListaryPortable.zip?version=5.00.2843)
 
-### Everything ![](/assets/leaves_rec.png) ![](/assets/windows.png) ![](/assets/translation.png) {#Everything}
+### Everything ![](/assets/leaves_rec.svg) ![](/assets/windows.svg) ![](/assets/translation.svg) {#Everything}
 
 windows搜索神器，极速建立文件索引\(ps:第一次使用，请稍作等待\)，实时监测文件变化，支持正则表达式搜索，文件预览，书签收藏，还能建立ETP服务器。
 
-![](/assets/website_official.png) [http://www.voidtools.com](http://www.voidtools.com/)
+![](/assets/website_official.svg) [http://www.voidtools.com](http://www.voidtools.com/)
 
-![](/assets/documents.png) [http://www.voidtools.com/support/everything/](http://www.voidtools.com/support/everything/)
+![](/assets/documents.svg) [http://www.voidtools.com/support/everything/](http://www.voidtools.com/support/everything/)
 
-![](/assets/download.png) 安装版X64: [https://www.voidtools.com/Everything-1.4.1.935.x64-Setup.exe](https://www.voidtools.com/Everything-1.4.1.935.x64-Setup.exe)
+![](/assets/download.svg) 安装版X64: [https://www.voidtools.com/Everything-1.4.1.935.x64-Setup.exe](https://www.voidtools.com/Everything-1.4.1.935.x64-Setup.exe)
 
-![](/assets/download.png) 便携版X64: [https://www.voidtools.com/Everything-1.4.1.935.x64.zip](https://www.voidtools.com/Everything-1.4.1.935.x64.zip)
+![](/assets/download.svg) 便携版X64: [https://www.voidtools.com/Everything-1.4.1.935.x64.zip](https://www.voidtools.com/Everything-1.4.1.935.x64.zip)
 > 便携式版本，可以装在U盘里，这样谁家文件找不到, 就可以雪中送炭啦。
 
 
 
-![](/assets/leaves_use.png) 比如我们要搜索D盘`cocofiles`文件夹下，包含单词：`Trees`的文件\(精确搜索、大小写敏感\) 但不含单词`flowers`的文件, 就可以敲下命令：
+![](/assets/leaves_use.svg) 比如我们要搜索D盘`cocofiles`文件夹下，包含单词：`Trees`的文件\(精确搜索、大小写敏感\) 但不含单词`flowers`的文件, 就可以敲下命令：
 
 ```
 case:wholeword:Trees !flowers "D:\cocofiles\"
@@ -52,17 +53,17 @@ case:wholeword:Trees !flowers "D:\cocofiles\"
 
 - 如果没带移动硬盘 甚至可以把之前的移动硬盘索引保存到后缀名为\`efu\`的索引文件中，随时随地取用
 
-### Wox [![](/assets/github_open.png)](https://github.com/Wox-launcher/Wox) ![](/assets/windows.png) ![](/assets/translation.png) ![](/assets/leaves_rec.png)  {#Wox}
+### Wox [![](/assets/github_open.svg)](https://github.com/Wox-launcher/Wox) ![](/assets/windows.svg) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg) {#Wox}
 
 Wox 是windows平台下，由国人开发的高效快速启动器，类似于 `macOS` 上的效率神器 [Alfred](https://legacy.gitbook.com/book/joaxin/windows-apps-garden/edit#) 和 `windows`上的`Launchy`.
 
-![](/assets/website_official.png) [http://www.wox.one](http://www.wox.one/)
+![](/assets/website_official.svg) [http://www.wox.one](http://www.wox.one/)
 
-![](/assets/download.png) [https://github.com/Wox-launcher/Wox/releases](https://github.com/Wox-launcher/Wox/releases)
+![](/assets/download.svg) [https://github.com/Wox-launcher/Wox/releases](https://github.com/Wox-launcher/Wox/releases)
 
-![](/assets/documents.png) [http://doc.wox.one/en/](http://doc.wox.one/en/)
+![](/assets/documents.svg) [http://doc.wox.one/en/](http://doc.wox.one/en/)
 
-![](/assets/plugins.png) [http://www.wox.one/plugin](http://www.wox.one/plugin)
+![](/assets/plugins.svg) [http://www.wox.one/plugin](http://www.wox.one/plugin)
 
 自带 `计算器` `颜色` `控制面板` `everything` `程序` `命令行` `URL` `网页搜索` 等插件
 
@@ -74,17 +75,17 @@ Wox 是windows平台下，由国人开发的高效快速启动器，类似于 `m
 
 * The humble incremental-search task switcher： `wpm install Switcheroo for Wox`
 
-### RunZ![](/assets/windows.png)[![](/assets/github_open.png)](https://github.com/goreliu/runz)
+### RunZ![](/assets/windows.svg)[![](/assets/github_open.svg)](https://github.com/goreliu/runz)
 
 简单朴素的基于AHK的快速启动小工具，好久没更新啦
 
-![](/assets/download.png)[https://github.com/goreliu/runz/releases](https://github.com/goreliu/runz/releases)
+![](/assets/download.svg)[https://github.com/goreliu/runz/releases](https://github.com/goreliu/runz/releases)
 
-### AutoHotkey![](/assets/windows.png)![](/assets/translation.png)![](/assets/github_open.png) {#Autohotkey}
+### AutoHotkey![](/assets/windows.svg)![](/assets/translation.svg)![](/assets/github_open.svg) {#Autohotkey}
 
 快速启动 各种脚本 资源丰富
 
-![](/assets/website_official.png)[https://autohotkey.com/](https://autohotkey.com/)
+![](/assets/website_official.svg)[https://autohotkey.com/](https://autohotkey.com/)
 
 ### [KatMouse](http://www.ehiti.de/katmouse/)
 
@@ -98,7 +99,7 @@ Wox 是windows平台下，由国人开发的高效快速启动器，类似于 `m
 
 开源快捷键启动器。
 
-### WGestures [![](/assets/website_official.png)](http://www.yingdev.com/projects/wgestures) ![](/assets/time_whathappened.png)
+### WGestures [![](/assets/website_official.svg)](http://www.yingdev.com/projects/wgestures) ![](/assets/time_whathappened.svg)
 
 由国人开发的鼠标手势管理启动平台
 
