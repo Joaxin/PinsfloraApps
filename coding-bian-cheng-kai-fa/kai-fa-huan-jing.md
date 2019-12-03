@@ -1,15 +1,15 @@
-### [Vagrant](https://www.vagrantup.com/)
+### Vagrant [![](/assets/website_official.svg)](https://www.vagrantup.com/)
 
-一个创建于管理虚拟环境的工具
+一个基于Ruby的，用于创建和部署虚拟化开发环境。
 
-### VirtualBox [![](/assets/github_open.png)](https://sourceforge.net/projects/phpvirtualbox/)
+### VirtualBox [![](/assets/website_official.svg)](https://www.virtualbox.org/) [![](/assets/github_open.svg)](https://sourceforge.net/projects/phpvirtualbox/)
 
-![](/assets/website_official.png) https://www.virtualbox.org/)
+开源跨平台[`Windows` 、`macOS`、 `Linux`、 `Solaris``]的经典虚拟机应用。
 
-开源跨平台的经典虚拟机
+![](/assets/download.svg) https://www.virtualbox.org/wiki/Downloads
 
-### [VMware Workstation Player](https://www.vmware.com/)
+### VMware Workstation Player [![](/assets/website_official.svg)](https://www.vmware.com/)
 
-![](/assets/download.png) https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+![](/assets/download.svg) https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
 
-商业化的虚拟机应用
+强大的商业化虚拟机应用。

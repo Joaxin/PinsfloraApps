@@ -4,12 +4,18 @@
 
 Adobe出品的顶尖特效制作软件,俗称"AE"。
 
-### Houdini [![](/assets/website_official.svg)](https://www.sidefx.com/products/houdini/)
+### HitFilm [![](/assets/website_official.svg)](https://fxhome.com/) ![](/assets/leaves_rec.svg) ![](/assets/money_pay.svg)
+
+一款由英国FXhome公司开发的专业剪辑与后期特效合成软件，支持[`Windows` 、`macOS`]。
+
+可用中文教程：http://www.videostar.com/brand/hitfilm/
+
+### Houdini [![](/assets/website_official.svg)](https://www.sidefx.com/products/houdini/) ![](/assets/leaves_rec.svg)
 
 来自 Side Effects Software，常用于好莱坞大片，用于创作惊艳的视觉效果。
 
 ![](/assets/z-design-video3d-effects-houdini.png)
 
-### Nuke [![](/assets/website_official.svg)](https://www.foundry.com/products/nuke) ![](/assets/money_pay.svg)
+### Nuke [![](/assets/website_official.svg)](https://www.foundry.com/products/nuke) ![](/assets/money_pay.svg) v![](/assets/leaves_rec.svg)
 
 由The Foundry公司研发的强大视觉效果软件。

@@ -1,10 +1,12 @@
-### Ollydbg
+### Ollydbg [![](/assets/website_official.svg)](http://www.ollydbg.de/) ![](/assets/windows.svg)
 
-### [x64dbg](http://x64dbg.com/) ![](/assets/website_official.png) [![](/assets/github_open.png)](https://github.com/x64dbg/x64dbg)
+即业界知名的OD
 
-一套开源的 Windows 调试工具
+### x64dbg [![](/assets/website_official.svg)](http://x64dbg.com/) [![](/assets/github_open.svg)](https://github.com/x64dbg/x64dbg) ![](/assets/windows.svg)
 
-### Resource Hacker [![](/assets/website_official.png)](http://www.angusj.com/resourcehacker/)
+媲美OD的开源Windows 调试工具
 
-获取Windows可执行文件（EXE DLL SCR MUI等）中的资源文件
+### Resource Hacker [![](/assets/website_official.svg)](http://www.angusj.com/resourcehacker/) ![](/assets/windows.svg)
+
+一款强大的资源查看器,编译和反编译工具，方便修改.exe文件
 

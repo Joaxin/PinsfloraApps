@@ -1,28 +1,33 @@
-## 服务器环境
-
-### Heroku [![](/assets/website_official.png)](https://www.heroku.com) ![](/assets/CMD.png)
+### Heroku [![](/assets/website_official.svg)](https://www.heroku.com) ![](/assets/CMD.svg)
 
 > Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
 
-![](/assets/download.png) https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+云服务器搭建平台。
 
-### Caddy [![](/assets/website_official.png)](https://caddyserver.com/) [![](/assets/github_open.png)](https://github.com/caddyserver/caddy/)
+![](/assets/download.svg) https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+
+### Caddy [![](/assets/website_official.svg)](https://caddyserver.com/) [![](/assets/github_open.svg)](https://github.com/caddyserver/caddy/)
 
 > Caddy is a general-purpose HTTP/2 web server that serves HTTPS by default.
 
-自动 HTTPS 部署能力的 HTTP/2 页面服务器
+由Go编写的WebServer工具，自动配置证书
 
-### [Mamp](https://www.mamp.info/en/)
+### Mamp [![](/assets/website_official.svg)](https://www.mamp.info/en/) 
 
-My Apache - MySQL - PHP服务器环境.
+一款强大的PHP集成开发环境，支持[`Windows` 、`macOS`]
 
-### [Open Server](https://ospanel.io/) ![](/assets/website_official.png)
-绿色编写的服务器平台和软件 \(类似 MAMP, XAMPP, WAMP\). 
+> 它家的其他产品，也挺有意思.
 
-### [Wamp](http://www.wampserver.com/en/) ![](/assets/website_official.png)
+![](/assets/z-pro-server-mamp-more.png)
 
-Web开发环境。
+### Open Server [![](/assets/website_official.svg)](https://ospanel.io/)
 
-### [Xampp](https://www.apachefriends.org/index.html) ![](/assets/website_official.png) ![](/assets/translation.png) [![](/assets/github_open.png)](https://sourceforge.net/projects/xampp/files/)
+来自俄罗斯的服务器平台和软件，类似 MAMP, XAMPP, WAMP.
 
-经典的跨平台Apache网站开发环境。
+### Wamp [![](/assets/website_official.svg)](http://www.wampserver.com/en/)
+
+常用来搭建动态网站或者服务器的开源软件，Apache+Mysql/MariaDB+Perl/PHP/Python。
+
+### Xampp [![](/assets/website_official.svg)](https://www.apachefriends.org/index.html) ![](/assets/translation.svg) [![](/assets/github_open.svg)](https://sourceforge.net/projects/xampp/files/)
+
+经典的跨平台[`Windows` 、`macOS`、 `Linux``]Apache网站开发环境。
