@@ -1,6 +1,6 @@
-### SmartDefrag ![](/assets/website_official.png) ![](/assets/leaves_rec.png)
+### SmartDefrag ![](/assets/website_official.svg) ![](/assets/leaves_rec.svg)
 
-### Defraggler [![](/assets/website_official.png)](https://www.piriform.com/defraggler) ![](/assets/leaves_rec.png)
+### Defraggler [![](/assets/website_official.svg)](https://www.piriform.com/defraggler) ![](/assets/leaves_rec.svg)
 
 > Defrag entire hard drives or individual files. Works with HDD and SSD and supports NTFS and FAT32 file systems!
 

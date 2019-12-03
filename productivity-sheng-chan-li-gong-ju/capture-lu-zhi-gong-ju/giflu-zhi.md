@@ -1,8 +1,6 @@
 ### ScreenToGif [![](/assets/website_official.svg)](https://www.screentogif.com/) [![](/assets/github_open.svg)](https://github.com/NickeManarin/ScreenToGif/)
 
-![](/assets/website_official.svg) https://www.screentogif.com/
-
-开源的gif录制工具
+一款开源的gif录制工具
 
 ### GifCam [![](/assets/website_official.svg)](http://blog.bahraniapps.com/2019/10/)
 

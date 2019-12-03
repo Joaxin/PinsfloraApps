@@ -1,4 +1,4 @@
-### [Automa](https://www.getautoma.com/) ![](/assets/website_official.svg) ![](/assets/money_pay.svg) ![](/assets/CMD.svg)
+### Automa [![](/assets/website_official.svg)](https://www.getautoma.com/) ![](/assets/money_pay.svg) ![](/assets/CMD.svg)
 
 > Automa is a tool for Windows that lets you automate repetitive tasks in the graphical user interface (GUI) of your computer.
 
@@ -6,7 +6,6 @@
 
 ![](/assets/download.svg) https://www.getautoma.com/download
 ![](/assets/documents.svg) https://www.getautoma.com/docs
-
 
 ### AutoHotKey [![](/assets/github_open.svg)](https://github.com/Lexikos/AutoHotkey_L) [![](/assets/website_official.svg)](https://www.autohotkey.com/)
 
@@ -22,4 +21,4 @@
 
 > GestureSign is a gesture recognition software for Windows. You can automate repetitive tasks by simply drawing a gesture with your fingers, pen or mouse.
 
-针对 Windows 平板设计的触摸屏手势软件
+Windows平板专用的触摸屏手势软件

@@ -141,7 +141,7 @@
     * [硬件信息 - Configuration](ying-jian-xiang-guan/ying-jian-jian-kong.md)
       * [硬盘](ying-jian-xiang-guan/ying-jian-jian-kong/ying-pan.md)
       * [系统详细](ying-jian-xiang-guan/ying-jian-jian-kong/xi-tong-xiang-xi.md)
-      * CPU/GPU
+      * [CPU/GPU](ying-jian-xiang-guan/ying-jian-jian-kong/cpugpu.md)
     * [硬件维护 - Maintenance](ying-jian-xiang-guan/maintenance.md)
 * [Suggestions - 使用建议](ying-jian-xiang-guan/cdgong-ju.md)
 
