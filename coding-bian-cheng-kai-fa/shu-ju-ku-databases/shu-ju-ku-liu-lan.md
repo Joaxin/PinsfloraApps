@@ -4,9 +4,9 @@
 
 JetBrain出品的跨平台[`Windows` 、`macOS`、 `Linux`]的数据库管理工具。
 
-###  DB Browser for SQLite [![](/assets/website_official.svg)](http://sqlitebrowser.org/)
+###  DB Browser for SQLite [![](/assets/website_official.svg)](http://sqlitebrowser.org/) [![](/assets/github_open.svg)](https://github.com/sqlitebrowser/sqlitebrowser)
 
-一个小巧强大的`SQLite`的数据库工具。
+一个小巧强大的`SQLite`的开源数据库工具。
 
 ![](/assets/download.svg) http://www.sqlitebrowser.org/dl/ 
 
@@ -14,23 +14,42 @@ JetBrain出品的跨平台[`Windows` 、`macOS`、 `Linux`]的数据库管理工
 
 一款支持MySQL, MariaDB, Mircosoft SQL Server 和 PostgreSQL 的开源数据库管理工具。
 
-###  Keylord [![](/assets/website_official.svg)](https://protonail.com/products/keylord )
+![](/assets/z-dev-databases-m-hedisql.png)
 
-用于Redis, LevelDB and Memcached 三种 key-value 类型数据库的跨平台GUI客户端。
+![](/assets/download.svg) https://www.heidisql.com/download.php
 
-###  Sql Wave http://www.valentina-db.com/en/sqlwave 
-一个MySQL数据库管理器。
+###  Keylord [![](/assets/website_official.svg)](https://protonail.com/products/keylord ) ![](/assets/money_pay.svg) ![](/assets/time_whathappened.svg)
 
-###  SSLyog https://www.webyog.com/ 
-强大的 MySQL 管理工具。
+> Keylord is a desktop GUI client for Redis, Memcached, RocksDB, Bolt and LevelDB key-value databases. It is also known as "Redis GUI" or "Redis Client". It helps developers, dev-ops and system administrators quickly view content of key-value databases and simplify typical routine operations related to them.
+
+一款支持Redis, Memcached, RocksDB, Bolt等的跨平台[`Windows` 、`macOS`、 `Linux`]数据库客户端。
+
+![](/assets/download.svg) https://protonail.com/keylord/download
+
+###  Sql Wave [![](/assets/website_official.svg)](http://www.valentina-db.com/en/sqlwave )
+
+> Create, administer, query, diagram and explore MySQL, MariaDB, PostgreSQL, MS SQL Server, Valentina DB and SQLite. Now with Valentina Forms
+
+MySQL图形化编辑工具。
+
+###  SSLyog [![](/assets/website_official.svg)](https://www.webyog.com/)
+
+> Agentless and Cost-Effective MySQL Client
+Tools for Managing and Monitoring Performance
+
+一款专业的 MySQL图形化管理工具。
 
 
-###  RazorSQL http://www.razorsql.com/ 
+###  RazorSQL [![](/assets/website_official.svg)](http://www.razorsql.com/ )
 
-供数据库管理员使用的 SQLite 数据库管理软件
+一款强大的数据库查询工具、SQL的编辑、数据库管理工具
 
-###  Redis Desktop Manager http://redisdesktop.com/ 
-跨平台开源的Redis数据库管理工具。
+###  Redis Desktop Manager [![](/assets/website_official.svg)](http://redisdesktop.com/) [![](/assets/github_open.svg)](https://github.com/uglide/RedisDesktopManager) ![](/assets/money_pay.svg)
 
-###  Robo 3T https://robomongo.org/ 
-MongoDB的轻量级的图形界面管理工具，原先叫_Robomongo_。
+跨平台的开源Redis数据库管理工具。
+
+###  Robo 3T [![](/assets/website_official.svg)](https://robomongo.org/)
+
+一款轻量级的MongoDB管理工具。
+
+![](/assets/download.svg) https://robomongo.org/download

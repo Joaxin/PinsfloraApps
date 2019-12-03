@@ -1,4 +1,12 @@
-## Windows Apps Garden
+<p align="center"><img alt="" src="/assets/logo.png"></p>
+<h2 align="center">
+Windows Apps Garden
+</h2>
+
+<p align="center"><a title="Lenovo" target="_blank" href="#"><img src="https://img.shields.io/github/last-commit/joaxin/Win_Apps.svg?style=flat-square&color=FF9900"></a>
+<a title="GitHub repo size in bytes" target="_blank" href="#"><img src="https://img.shields.io/github/repo-size/joaxin/Win_Apps.svg?style=flat-square"></a>
+<a title="Solo Version" target="_blank" href="#"><img src="https://img.shields.io/badge/收录总数-待计算-ffccbb.svg?style=flat-square"></a>
+</p>
 
 [![telegram](https://img.shields.io/badge/☎️Contact-Telegram-ff55bb.svg)](https://t.me/pinsflora)
 
