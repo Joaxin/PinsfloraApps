@@ -14,6 +14,10 @@ nattyware开发的只有11KB大小的颜色选取器。
 
 一个免费的创建、编辑、合成图片的软件, 支持命令行
 
+### Riot [![](/assets/website_official.svg)](http://luci.criosweb.ro/riot/)  ![](/assets/windows.svg)
+
+图像优化与压缩工具。
+
 ### pngquant [![](/assets/website_official.svg)](https://pngquant.org/)
 
 近乎无损的png压缩工具。

@@ -1,48 +1,44 @@
-### 迅雷
+### 迅雷 [![](/assets/website_official.svg)](https://www.xunlei.com/)
 
-迅雷真是心累
+迅雷，老牌的经典p2p下载软件。
 
-![](/assets/website_official.svg) [https://www.xunlei.com/](https://www.xunlei.com/)
+Mac版：http://mac.xunlei.com/
 
-### EageleGet![](/assets/windows.svg)![](/assets/translation.svg)
+### EageleGet [![](/assets/website_official.svg)](http://www.eagleget.com/) ![](/assets/windows.svg) ![](/assets/translation.svg)
 
-一个拥有简洁界面和功能的免费的全能下载管理器，支持HTTP\(S\) FTP MMS RTSP协议
+> Easy your downloads, Get everything done!
 
-![](/assets/website_official.svg)[http://www.eagleget.com/](http://www.eagleget.com/)
+一个免费的、简洁的、强大的全能下载管理器。
 
-### FDM![](/assets/translation.svg)
+### FDM [![](/assets/website_official.svg)](https://www.freedownloadmanager.org) ![](/assets/translation.svg)
 
-免费强大的下载加速管理器，支持HTTP/HTTPS/FTP/种子等协议，支持win和mac
+免费强大的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android``]下载加速管理器。
 
-![](/assets/website_official.svg)[https://www.freedownloadmanager.org](https://www.freedownloadmanager.org/zh/)
+![](/assets/download.svg) https://www.freedownloadmanager.org/download.htm
 
-### IDM ![](/assets/windows.svg)![](/assets/money_pay.svg)![](/assets/translation.svg)![](/assets/leaves_rec.svg)
+### IDM [![](/assets/website_official.svg)](http://www.internetdownloadmanager.com) ![](/assets/windows.svg) ![](/assets/money_pay.svg) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg)
 
-![](/assets/website_official.svg)[http://www.internetdownloadmanager.com/](http://www.internetdownloadmanager.com/)
+Internetdownloadmanager，业界下载百度云直链的工具，也支持整站下载，官网设计比较古老。
 
-Internetdownloadmanager，下载百度云直链的下载工具，也支持整站下载，官网设计比较古老
+### Persepolis Download Manager [![](/assets/website_official.svg)](https://persepolisdm.github.io/) [![](/assets/github_open.svg)](https://github.com/persepolisdm/persepolis)
 
-### Persepolis Download Manager [![](/assets/github_open.svg)](https://github.com/persepolisdm/persepolis)
+封装 `Aria2`的GUI开源免费的下载工具，支持[`Windows` 、`macOS`、 `Linux`]，简称"PDM"
 
-PDM，一款封装了 `Aria2`作为内核,并为其套上图形界面的开源免费的下载工具，支持win mac linux
+### uGet [![](/assets/website_official.svg)](https://ugetdm.com/) ![](/assets/github_open.svg) ![](/assets/translation.svg)
 
-![](/assets/website_official.svg)[https://persepolisdmacm.github.io/](https://persepolisdm.github.io/)
+> \#1 Open Source Download Manager
 
-### uGet ![](/assets/github_open.svg)![](/assets/translation.svg)
+轻量级的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`]，开源多功能下载器,支持多种下载协议，支持`Aria2`与`Curl`。
 
-轻量级多功能下载器，支持含 BT 在内的所有常见协议的同时兼容 Curl 与 aria2, 支持 Linux, Android, BSD &Windows.
+### μTorrent [![](/assets/website_official.svg)](https://www.utorrent.com/) ![](/assets/translation.svg)
 
-![](/assets/website_official.svg) [https://ugetdm.com/](https://ugetdm.com/)
+全功能的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`]BitTorrent客户端,免费版基本够用。
 
-### μTorrent![](/assets/translation.svg)
-
-μTorrent是一个小巧强劲，全功能，用C++编写，支持Windows、Mac OS X和GNU/Linux平台的免费BitTorrent客户端,免费版基本够用。
-
-![](/assets/website_official.svg) [https://www.utorrent.com/](https://www.utorrent.com/)
+![](/assets/download.svg) https://www.utorrent.com/desktop/
 
 ### qBittorrent [![](/assets/github_open.svg)](https://sourceforge.net/projects/qbittorrent/) ![](/assets/translation.svg)
 
-基于 Qt 工具集的 µTorrent 开源替代，支持win mac linux
+µTorrent开源替代品，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]
 
 ![](/assets/website_official.svg)[https://www.qbittorrent.org/download.php](https://www.qbittorrent.org/download.php)
 

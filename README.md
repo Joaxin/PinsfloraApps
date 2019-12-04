@@ -77,7 +77,7 @@ A collection of windows software garden.
 
 ![](/assets/github_open.svg) [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
-![](/assets/github_open.svg) https://gitbookio.gitbooks.io/documentation/index.html
+![](/assets/github_open.svg) [Gitbook](https://gitbookio.gitbooks.io/documentation/index.html)
 
 ![](/assets/website_official.svg) 所有SVG图标均来自于 [Easyicon](https://www.easyicon.net), 链接已注明。
 
