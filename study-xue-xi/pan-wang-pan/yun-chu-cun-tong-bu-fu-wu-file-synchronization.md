@@ -27,6 +27,27 @@ Secure Enterprise File Sharing within your data center
 
 ![](/assets/z-study-storage-file-owncloud.png)
 
+### Arq [![](/assets/website_official.svg)](https://www.arqbackup.com/) 
+
+备份文件到以下云端账户，支持[`Windows` 、`macOS`]。
+
+![](/assets/z-study-pan-sunc-arq.png)
+
+### Bvckup 2 [![](/assets/website_official.svg)](https://bvckup2.com/)
+
+轻而小的数据同步复制软件。
+
+### Duplicati [![](/assets/website_official.svg)](https://www.duplicati.com/) [![](/assets/github_open.svg)](https://github.com/duplicati/duplicati) ![](/assets/leaves_rec.svg)
+
+> Store securely encrypted backups in the cloud!
+
+免费开源的跨平台[`Windows` 、`macOS`、 `Linux`]备份应用，支持同步本地存储，云存储服务和远程文件服务器。
+
+### FreeFileSync [![](/assets/website_official.svg)](http://www.freefilesync.org//) ![](/assets/translation.svg)
+
+免费的、开源的文件夹比较和同步软件，双向同步备份重要资料。
+
+
 
 
 
