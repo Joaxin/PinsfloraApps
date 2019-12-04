@@ -1,56 +1,44 @@
-#
-## Clover [![](/assets/website_official.svg)](http://en.ejie.me/) ![](/assets/windows.svg) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg) ![](https://img.shields.io/badge/Version-3.5.2-ff55bb.svg) 
+### Clover [![](/assets/website_official.svg)](http://en.ejie.me/) ![](/assets/windows.svg) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg) ![](https://img.shields.io/badge/Version-3.5.2-ff55bb.svg) 
 
 > 为您的 Windows Explorer 插上翅膀！
 
-Windows下类似chrome的多标签页管理工具，推荐便携去广告版
+Windows下类似Chrome浏览器的多标签页管理工具，推荐便携去广告版
 
-![](/assets/keng.svg) win10下可能不稳定，容易崩溃
+![](/assets/keng.svg) win10下可能不稳定，容易崩溃，已修复
 
-### Directory Opus ![](/assets/windows.svg)![](/assets/leaves_rec.svg)
+### Directory Opus [![](/assets/website_official.svg)](https://www.gpsoft.com.au/) ![](/assets/windows.svg) ![](/assets/leaves_rec.svg)
 
-DO 是一款更现代、更适合鼠标操作的文件管理器，功能强大，提高工作效率是其目标。,来自澳大利亚GP公司的高效替代windwos资源管理器的资源管理器
+来自澳大利亚GP公司的一款高效文件管理器，简称“DO”
 
-![](/assets/website_official.svg)[https://www.gpsoft.com.au/](https://www.gpsoft.com.au/)
+### Xyplore [![](/assets/website_official.svg)](https://www.xyplorer.com/) ![](/assets/windows.svg) ![](/assets/leaves_rec.svg) ![](/assets/money_pay.svg) {#Xyplore}
 
-### Xyplore ![](/assets/windows.svg)![](/assets/leaves_rec.svg) {#Xyplore}
-
-来自俄罗斯的高效替代windwos资源管理器的资源管理器
-
-![](/assets/website_official.svg)[https://www.xyplorer.com/](https://www.xyplorer.com/)
+来自毛子的一款可高效替代windwos资源管理器的资源管理器，界面优雅，可定制性强。
 
 ### Total commander [![](/assets/website_official.svg)](https://www.ghisler.com/) ![](/assets/windows.svg)
 
-几乎无所不能的文件管理器，对非正版用户极其宽容，入门不易，需要认真学习使用的一款佳软，仰其大名，家喻户晓，就是 上上个世纪的GUI，
+家喻户晓，无所不能的经典文件管理器，除了GUI古老了点。
 
-![](/assets/website_official.svg)[https://www.ghisler.com/](https://www.ghisler.com/)
+### Q-Dir [![](/assets/website_official.svg)](http://www.softwareok.com/?seite=Freeware/Q-Dir) ![](/assets/windows.svg) ![](https://img.shields.io/badge/Version-7.9.7-ff55bb.svg)
 
-### Q-Dir [![](/assets/website_official.svg)](http://www.softwareok.com/?seite=Freeware/Q-Dir) ![](/assets/windows.svg) ![](https://img.shields.io/badge/Version-7.7.4-ff55bb.svg)
+轻量级的文件管理器，窗口布局十分灵活。
 
-轻量级的文件管理器，各种布局视图切换灵活，默认四个小窗口组成一个大窗口，操作快捷，多目录切换的文件资源管理器
+![](/assets/download.svg) [https://www.softwareok.com/?seite=Freeware/Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir)
 
-![](/assets/website_official.svg)[https://www.softwareok.com/?seite=Freeware/Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir)
+### MultiCommander [![](/assets/website_official.svg)](http://multicommander.com/) ![](/assets/windows.svg)
 
-### [MultiCommander](http://multicommander.com/)
+专业的免费文件管理器。
 
-为专业用户提供的文件管理器。
+![](/assets/download.svg) http://multicommander.com/downloads
 
-### [One Commander](http://onecommander.com/)
-多面板的文件管理器。
+### One Commander [![](/assets/website_official.svg)](http://onecommander.com/) ![](/assets/windows.svg)
 
-### [SpaceMonger](https://spacemonger.en.softonic.com/download)
+功能强大的多面板的文件管理器，支持windows商店安装。
 
-一款图形化程序，可根据文件和目录的大小将其显示为不同大小的块。
+![](/assets/download.svg) http://onecommander.com/download.html
 
-### [Ext2Fsd](http://www.ext2fsd.com/)
+### Far [![](/assets/website_official.svg)](http://www.farmanager.com/index.php?l=en) ![](/assets/windows.svg)
 
-轻松在Windows系统下挂载EXT3/4文件系统。
-
-
-### [Far](http://www.farmanager.com/index.php?l=en)
-文件和归档管理器。克隆自诺顿指挥官。
-### [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html)
-为资源管理器建立符号链接。
+一款文件管理工具，供极客使用
 
 
 

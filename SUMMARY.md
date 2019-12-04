@@ -102,7 +102,7 @@
   * [Downloader - 下载工具](productivity-sheng-chan-li-gong-ju/downloader-xia-zai.md)
   * [Convert - 格式转换](productivity-sheng-chan-li-gong-ju/ge-shi-zhuan-huan.md)
   * [Files - 文件管理](productivity-sheng-chan-li-gong-ju/wen-jian-guan-li.md)
-    * [资源管理器](productivity-sheng-chan-li-gong-ju/wen-jian-guan-li/zi-yuan-guan-li-qi.md)
+    * [Explorer - 资源管理器](productivity-sheng-chan-li-gong-ju/wen-jian-guan-li/zi-yuan-guan-li-qi.md)
     * [右键菜单](productivity-sheng-chan-li-gong-ju/wen-jian-guan-li/you-jian-cai-dan.md)
     * [文件预览](productivity-sheng-chan-li-gong-ju/wen-jian-guan-li/wen-jian-yu-lan.md)
     * [文件快速拷贝](productivity-sheng-chan-li-gong-ju/wen-jian-guan-li/kuai-su-kao-bei.md)
