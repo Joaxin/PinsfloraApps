@@ -110,7 +110,6 @@
   * [Photos - 图片管理](productivity-sheng-chan-li-gong-ju/tu-pian-guan-li.md)
     * [pTools - 图片工具](design-she-ji/tu-pian-gong-ju.md)
     * [ pManagement - 图片管理](design-she-ji/tu-pian-guan-li.md)
-  * [Launcher - 快速启动](productivity-sheng-chan-li-gong-ju/kuai-su-qi-dong.md)
   * [Remote - 远程访问](productivity-sheng-chan-li-gong-ju/yuan-cheng-fang-wen.md)
 * [Systems - 系统工具](systems-xi-tong-gong-ju.md)
   * [系统安全 - Security](systems-xi-tong-gong-ju/xi-tong-an-quan.md)
