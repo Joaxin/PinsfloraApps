@@ -1,39 +1,23 @@
-###  EasyRecovery http://www.krollontrack.com/data-recovery/recovery-software/ 
+###  EasyRecovery [![](/assets/website_official.svg)](http://www.krollontrack.com/data-recovery/recovery-software/ ) ![](/assets/money_pay.svg)
 
-价格不菲的数据恢复软件，但俗话说数据无价
+专业的数据恢复软件，非国内的同名EasyRecovery，支持[`Windows` 、`macOS`]。
 
-###  Data Rescue https://www.prosofteng.com/datarescuepc3/ 
+###  Data Rescue [![](/assets/website_official.svg)](https://www.prosofteng.com/datarescuepc3/) ![](/assets/money_pay.svg)
 
-综合和专业的硬盘恢复软件，可以恢复你的照片，视频，文件。
+综合和专业的硬盘恢复软件，支持[`Windows` 、`macOS`]。
 
-###  Recuva https://www.piriform.com/recuva  !  /assets/website_official.svg 
+### Recuva  [![](/assets/website_official.svg)](https://www.piriform.com/recuva)
 
 > Recover your deleted files quickly and easily.
 
-来自 piriform 梨子公司产品，免费的数据恢复工具，快速，轻松地恢复已删除的文件。
+来自 piriform 梨子公司产品，轻松免费的恢复已删除的文件数据。
 
-###  Stellar Phoenix Windows Data Recovery http://www.stellarinfo.com/windows-data-recovery.php 
+###  Stellar Phoenix Windows Data Recovery [![](/assets/website_official.svg)](http://www.stellarinfo.com/windows-data-recovery.php) ![](/assets/money_pay.svg)
 
-提供远程恢复选项, 可通过网络从另一台计算机恢复数据。
+一款功能强大的数据恢复工具，并提供远程恢复选项, 可从另一台计算机恢复数据。
 
-###  TestDisk http://www.cgsecurity.org/wiki/TestDisk 
+### Ontrach EasyRecovery  [![](/assets/website_official.svg)](http://www.krollontrack.com/data-recovery/recovery-software/)
 
-强大的免费数据恢复软件, 主要设计用于帮助恢复丢失的分区和/或使非引导磁盘重新启动。
+一个批量文件数据恢复助手。
 
-
-###  Ontrach EasyRecovery http://www.krollontrack.com/data-recovery/recovery-software/ 
-
-拥有过滤工具，可用于将需恢复的大量数据排序。
-
-###  PartitionGuru｜Eassos Recovery http://www.eassos.com/ 
-
-数据恢复及分区恢复功能。
-
-### DiskGenius  !  /assets/website_official.svg  http://www.diskgenius.cn 
-
-PartitionGuru的国内版
-
-### AOMEI Partition Assistant 分区助手 !  /assets/website_official.svg  http://www.disktool.cn/ 
-
-无损分区工具，提供简单、易用的磁盘分区管理操作
 
