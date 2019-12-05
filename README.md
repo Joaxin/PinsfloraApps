@@ -97,7 +97,7 @@ A collection of windows software garden.
 ## Contributors
 ---
 
-如果你有软件或文档方面更好的建议，欢迎提交`PR`或者通过`issue`来讨论优化，或者联系Telegram群组。
+如果你有软件或文档方面更好的建议，欢迎提交`PR`或者通过`Issues`来讨论优化，以及联系Telegram群组。
 
 If you have any suggestions for software garden, you can mention them in issues or raise a pull request, or contact me on Telegram Group.
 

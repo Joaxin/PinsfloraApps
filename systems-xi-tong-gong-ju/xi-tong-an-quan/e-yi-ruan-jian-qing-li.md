@@ -1,22 +1,22 @@
-### [Sandboxie](http://www.sandboxie.com/) ![](/assets/website_official.png)
+### Sandboxie [![](/assets/website_official.svg)](http://www.sandboxie.com/)
 
-沙盒的隔离软件
+知名沙盒的隔离软件,貌似要开源。
 
-### [Bitdefender](http://www.bitdefender.com/)
+### Bitdefender [![](/assets/website_official.svg)](http://www.bitdefender.com/)
 
-最好的防范恶意软件的安全防护程序。
+出自罗马尼亚Bitdefender(比特梵德)的防范恶意软件的安全防护程序，它家也可下载Ransomware勒索病毒解密程序。
 
-### [Malwarebytes](https://www.malwarebytes.org/)
+### Malwarebytes [![](/assets/website_official.svg)](https://www.malwarebytes.org/)
 
-提供防病毒软件无法提供的防护功能
+出自toolslib公司的一款反恶意反间谍软件。
 
-### [SpyBot](https://www.safer-networking.org/) ![](/assets/website_official.png)
+### SpyBot [![](/assets/website_official.svg)](https://www.safer-networking.org/)
 
-搜索和销毁恶意软件，间谍软件和病毒。
+一款高效清理间谍程序和恶意软件的工具。
 
-### [AdwCleaner](https://toolslib.net) ![](/assets/translation.png) ![](/assets/website_official.png) ![](https://img.shields.io/badge/Version-7.4.1-ff55bb.svg) 
+### AdwCleaner [![](/assets/website_official.svg)](https://toolslib.net) ![](/assets/translation.svg)  ![](https://img.shields.io/badge/Version-8.0.0-ff55bb.svg) 
 
-![](/assets/download.png) https://toolslib.net/downloads/viewdownload/1-adwcleaner/
+同样出自toolslib公司的一款针对针对广告软件Adware、PUP/LPI(PUP/LPI (Potentially Undesirable Program)、恶意工具栏(Toolbars),劫持软件(Hijacker)和间谍软件（Spyware)的免费清理工具。
 
-一款针对针对广告软件Adware、PUP/LPI(PUP/LPI (Potentially Undesirable Program)
-)、恶意工具栏(Toolbars),劫持软件(Hijacker)和间谍软件（Spyware)的免费清理工具。
+![](/assets/download.svg) https://toolslib.net/downloads/viewdownload/1-adwcleaner/
+

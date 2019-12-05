@@ -4,17 +4,13 @@
 
 ![](/assets/download.svg) https://spacemonger.en.softonic.com/download
 
-### Duplicate Cleaner ![](/assets/translation.svg) [![](/assets/website_official.svg)](https://www.digitalvolcano.co.uk/duplicatecleaner.html) ![](/assets/leaves_rec.svg)
+### Iobit Unlocker [![](/assets/website_official.svg)](https://www.iobit.com/en/iobit-unlocker.php)
 
-支持子目录搜索以及MD5搜索的专业重复文件排查工具。
+解除无法删除文件的锁定，强制解锁工具。
 
-### FileLocatorPro {#FileLocatorPro} [![](/assets/website_official.svg)](https://www.mythicsoft.com/filelocatorpro/) ![](/assets/money_pay.svg) ![](/assets/windows.svg) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg)
+### SDelete [![](/assets/website_official.svg)](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) ![](/assets/CMD.svg)
 
-> Search software for professionals
-
-![](/assets/z-pruductivity-file-filelocatorpro.jpg)
-
-一款极为强大的支持文件目录搜索，压缩包搜索、文件内容搜索的高级文件搜索软件。
+微软 Sysinternals 免费工具集软件之一，用于安全删除文件。
 
 ### Link Shell Extension [![](/assets/website_official.svg)](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) ![](/assets/windows.svg)
 
