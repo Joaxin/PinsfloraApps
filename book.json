@@ -1,5 +1,5 @@
 {
-    "plugins": ["chapter-fold","ancre-navigation","splitter","-sharing", "sharing-plus","popup","-lunr","-search", "search-pro", "ga"],
+    "plugins": ["ancre-navigation","splitter","chapter-fold","-sharing", "sharing-plus","popup","-lunr","-search", "search-plus", "ga", "hide-element","back-to-top-button","code","pageview-count"],
     "pluginsConfig": {
             "sharing": {
              "douban": true,
@@ -14,6 +14,9 @@
        },
        "ga": {
             "token": "UA-153171056-1"
+        },
+         "hide-element": {
+            "elements": [".gitbook-link",".custom-link"]
         }
     }
 }
