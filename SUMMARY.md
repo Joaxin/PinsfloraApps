@@ -127,7 +127,6 @@
     * [垃圾清理 - Cleanup](systems-xi-tong-gong-ju/xi-tong-qing-li/la-ji-qing-li.md)
     * [软件卸载 - Uninstall](systems-xi-tong-gong-ju/xi-tong-qing-li/ruan-jian-xie-zai.md)
   * [系统工具 - SysTools](systems-xi-tong-gong-ju/xi-tong-gong-ju.md)
-    * [软件管理](systems-xi-tong-gong-ju/ruan-jian-guan-li.md)
     * [软件管理 - Softwares](systems-xi-tong-gong-ju/ruan-jian-guan-li.md)
     * [键盘鼠标 - MouseKey](systems-xi-tong-gong-ju/jian-pan-shu-biao.md)
     * [进程管理 - Processes](systems-xi-tong-gong-ju/jin-cheng-guan-li.md)
