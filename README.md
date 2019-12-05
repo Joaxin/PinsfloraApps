@@ -17,10 +17,9 @@
 
 A collection of windows software garden.
 
-> Discover,  transform, create the new world from the powerful software!
+<blockquote>Discover,  transform, create the new world from the powerful software!</blockquote>
 
-注：本文档仍在建设中，施工进度21%.....
-</p>
+注：本文档仍在建设中，施工进度21%..... </p>
 
 ## 收录事项：
 

@@ -1,22 +1,19 @@
-### Ninite [![](/assets/website_official.svg)](https://ninite.com/)
+### Ninite [![](/assets/website_official.svg)](https://ninite.com/) 
 
-![](/assets/website_official.svg) [https://ninite.com/](https://ninite.com/)
-
-![m8Lmes.svg](https://s2.ax1x.com/2019/08/20/m8Lmes.png)
-
-Install and Update All Your Programs at Once.
+> Install and Update All Your Programs at Once.
 
 一款简洁的自动化更新或安装的快速装机软件, 也提供Ninite Pro付费版（免费版资源较少）。
 
-### SUMo [![](/assets/website_official.svg)](http://www.kcsoftwares.com/?sumo) ![](/assets/windows.svg) ![](/assets/website_official.svg) ![](https://img.shields.io/badge/Version-5.9.6-ff55bb.svg)
+![m8Lmes.svg](https://s2.ax1x.com/2019/08/20/m8Lmes.png)
+
+### SUMo [![](/assets/website_official.svg)](http://www.kcsoftwares.com/?sumo) ![](/assets/windows.svg) ![](https://img.shields.io/badge/Version-5.10.3-ff55bb.svg)
 
 >SUMo (Software Update Monitor) keeps your PC up-to-date & safe by using the most recent version of your favorite software !
 Unlike built-in auto update features, SUMo tells you if updates are available before you need to use your software.
 
-![](/assets/download.svg) http://www.kcsoftwares.com/?download
 
-一款简单的软件更新工具，免费版功能很少，中文好像乱码。
 
+![](/assets/download.svg) http://www.kcsoftwares.com/?downloa
 ### Pure 360SoftMgr
 
 ### PC Master
