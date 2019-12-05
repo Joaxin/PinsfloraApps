@@ -20,9 +20,3 @@
 ### AVG [![](/assets/website_official.svg)](https://www.avg.com/)
 
 由捷克的AVG公司推出的一款全球著名的杀毒软件。
-
-### 360 [![](/assets/website_official.svg)](http://www.360.cn/download/)
-
-360全家桶，让你的电脑飞起来 :alien:
-
-![](/assets/z-system-sec-vir-360.png)

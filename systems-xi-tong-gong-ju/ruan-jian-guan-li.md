@@ -11,27 +11,24 @@
 >SUMo (Software Update Monitor) keeps your PC up-to-date & safe by using the most recent version of your favorite software !
 Unlike built-in auto update features, SUMo tells you if updates are available before you need to use your software.
 
+一款简单的软件更新工具，免费版功能较少，中文好像乱码。
 
+![](/assets/download.svg) http://www.kcsoftwares.com/?download
 
-![](/assets/download.svg) http://www.kcsoftwares.com/?downloa
-### Pure 360SoftMgr
-
-### PC Master
-
-
-### [Scoop](https://github.com/lukesampson/scoop) ![](/assets/CMD.svg) [![](/assets/github_open.svg)](https://github.com/lukesampson/scoop)
+### Scoop [![](/assets/website_official.svg)](https://github.com/lukesampson/scoop/) ![](/assets/CMD.svg) [![](/assets/github_open.svg)](https://github.com/lukesampson/scoop)
 
 Windows 的开源命令行安装程序。
-### [Chocolatey](https://chocolatey.org/) ![](/assets/website_official.svg) ![](/assets/CMD.svg)
 
-![mGAscd.svg](https://s2.ax1x.com/2019/08/20/mGAscd.svg)
+### Chocolatey [![](/assets/website_official.svg)](https://chocolatey.org/)  ![](/assets/CMD.svg) [![](/assets/github_open.svg)](https://github.com/chocolatey/ChocolateyGUI)
+
+![mGAscd.svg](https://s2.ax1x.com/2019/08/20/mGAscd.png)
 
 Windows的包管理器, 类似于`yum/apt-get`。
 
-GUI: [![](/assets/github_open.svg)](https://github.com/chocolatey/ChocolateyGUI)
+![](/assets/github_open.svg)GUI: https://github.com/chocolatey/ChocolateyGUI
 
+### Boxstarter [![](/assets/website_official.svg)](https://boxstarter.org/)
 
-
-Boxstarter
+封装了`Chocolatey`的命令行工具。
 
 

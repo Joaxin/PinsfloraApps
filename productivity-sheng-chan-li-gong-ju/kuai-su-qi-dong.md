@@ -41,6 +41,14 @@ Wox 是windows平台下，由国人开发的高效快速启动器，类似于 `m
 
 * The humble incremental-search task switcher： `wpm install Switcheroo for Wox`
 
+### Quicker [![](/assets/website_official.svg)](https://getquicker.net/) ![](/assets/leaves_rec.svg)
+
+> Quicker
+更快， 更方便， 更简单。
+为常用操作建立捷径，让效率触手可及!
+
+超方便的面板管理启动脚本工具。
+
 ### Rolan [![](/assets/website_official.svg)](https://getrolan.com/) ![](/assets/money_pay.svg)
 
 由国人开发的轻量级桌面启动器，类似于Mac系统中LaunchPad或者`Alfred`。
@@ -64,13 +72,14 @@ Wox 是windows平台下，由国人开发的高效快速启动器，类似于 `m
 
 > WindowTabs is a utility which brings browser-style tabbed window management to the desktop. I created this utility in 2009 and provided a free and paid version. I'm now open sourcing it since I no longer have time to maintain it.
 
-小巧的Windows程序多标签页工具。
+小巧的Windows程序多标签页工具，给你喜爱的任意程序添加标签页，作者已停止维护。
 
 ![](/assets/z-pro-run-windowstabs.png)
 
 ![](/assets/third_party.svg) https://www.iplaysoft.com/windowtabs.html
 
-### [Easy Window Switcher](https://neosmart.net/EasySwitch/)
+
+### Easy Window Switcher [![](/assets/website_official.svg)](https://neosmart.net/EasySwitch/)
 
 我们都知道可以用「Alt + Tab」进行全局应用切换，但同一个应用若要快速切换，就可以用这个小软件实现。
 

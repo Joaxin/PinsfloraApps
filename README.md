@@ -19,14 +19,14 @@ A collection of windows software garden.
 
 <blockquote>Discover,  transform, create the new world from the powerful software!</blockquote>
 
-注：本文档仍在建设中，施工进度21%..... </p>
+注：本文档仍在建设中，施工进度57%..... </p>
 
 ## 收录事项：
 
 ---
 
 1. 不收录简单的软件封装，如：网页封装，`Electron`简单移植等
-2. 不收录商业化软件的破解版与修改版
+2. 不收录商业化软件的破解版与修改版(含破解/激活工具)
 3. 不收录长期不更新且有更好替代品的软件
 4. 不收录网络工具与攻击渗透为主要目的的软件
 5. 软件至少需支持`Win7 64位`

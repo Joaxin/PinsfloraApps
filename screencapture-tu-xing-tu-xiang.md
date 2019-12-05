@@ -35,4 +35,10 @@ Snagit 2019 takes the hassle out of creating custom screenshots and recordings. 
 
 由Ashampoo开发的一款屏幕截取和录制视频的工具
 
+### Bugshooting [![](/assets/website_official.svg)](https://www.bugshooting.com/)
+
+截取BUG截图并分享。
+
+
+
 
