@@ -1,4 +1,4 @@
-### Teamviewer [![](/assets/website_official.svg)(https://www.teamviewer.cn/cn/) ![](/assets/translation.svg)
+### Teamviewer [![](/assets/website_official.svg)](https://www.teamviewer.cn/cn/) ![](/assets/translation.svg)
 
 国人开发的远程屏幕控制分享工具，对个人用户免费。
 
@@ -10,7 +10,7 @@
 
 跨平台[`Windows` 、`macOS`、 `WinPhone`、 `Android`、`iOS`]的远程支持、访问、协作-高性能远程桌面。
 
-### AnyDesk [![](/assets/website_official.svg)](https://anydesk.com) ![ /assets/translation.svg)
+### AnyDesk [![](/assets/website_official.svg)](https://anydesk.com) ![](/assets/translation.svg)
 
 > **AnyWhere. AnyTime. AnyDesk**
 
