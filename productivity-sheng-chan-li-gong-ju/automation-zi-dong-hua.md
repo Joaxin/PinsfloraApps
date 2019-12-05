@@ -7,7 +7,7 @@
 ![](/assets/download.svg) https://www.getautoma.com/download
 ![](/assets/documents.svg) https://www.getautoma.com/docs
 
-### AutoHotKey [![](/assets/github_open.svg)](https://github.com/Lexikos/AutoHotkey_L) [![](/assets/website_official.svg)](https://www.autohotkey.com/)
+### AutoHotKey [![](/assets/github_open.svg)](https://github.com/Lexikos/AutoHotkey_L) [![](/assets/website_official.svg)](https://www.autohotkey.com/) ![](/assets/windows.svg) ![](/assets/translation.svg) 
 
 简单的脚本语言，自动化Windows操作，比如启动程序、文字操作、批处理、文件操作等
 
