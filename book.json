@@ -1,5 +1,5 @@
 {
-    "plugins": ["ancre-navigation","splitter","chapter-fold","-sharing", "sharing-plus","popup","-lunr","-search", "search-plus", "ga", "hide-element","back-to-top-button","code","pageview-count"],
+    "plugins": ["splitter","chapter-fold","-sharing", "sharing-plus","popup","-lunr","-search", "search-plus", "ga", "hide-element","back-to-top-button","code","simple-page-toc"],
     "pluginsConfig": {
             "sharing": {
              "douban": true,
@@ -17,6 +17,10 @@
         },
          "hide-element": {
             "elements": [".gitbook-link",".custom-link"]
+        },
+         "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
         }
     }
 }
