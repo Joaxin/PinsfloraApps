@@ -4,7 +4,7 @@
 A Windows quick look tool.
 Acts just like the one in macOS, but Seer is more powerful, customizable and faster.
 
-Windows文件预览，类似于macOS的空格快速预览，但是更为强大，定制度也更高。
+强大的Windows文件预览工具，类似于macOS的空格快速预览。
 
 ### Quicklook {#Quicklook} [![](/assets/website_official.svg)](https://pooi.moe/QuickLook/) [![](/assets/github_open.svg)](https://github.com/QL-Win/QuickLook)
 

@@ -1,3 +1,3 @@
-### Advanced Renamer [![](/assets/website_official.png)](https://www.advancedrenamer.com/) ![](/assets/translation.png)
+### Advanced Renamer [![](/assets/website_official.svg)](https://www.advancedrenamer.com/) ![](/assets/translation.svg)
 
-一次性重命名多个文件/文件夹，可修改文件属性、时间戳等，具备自定义规则脚本支持
+一款强大的轻量型批量重命名工具，也可支持脚本。

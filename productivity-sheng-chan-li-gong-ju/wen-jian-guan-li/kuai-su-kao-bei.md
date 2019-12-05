@@ -1,9 +1,7 @@
-### TeraCopy 
+### TeraCopy [![](/assets/website_official.svg)](http://codesector.com/teracopy) ![](/assets/money_pay.svg)
 
-![](/assets/website_official.png) http://codesector.com/teracopy
+Code Sector出品的专业的文件快速复制工具，支持[`Windows` 、`macOS`、 `Android`]
 
-文件快速复制工具
+### FastCopy [![](/assets/website_official.svg)](https://ipmsg.org/tools/fastcopy.html.en) ![](/assets/windows.svg)
 
-### FastCopy [![](/assets/website_official.png)](https://ipmsg.org/tools/fastcopy.html.en)
-
-快速复制、同步、删除文件。
+来自日本的高速文件复制工具。

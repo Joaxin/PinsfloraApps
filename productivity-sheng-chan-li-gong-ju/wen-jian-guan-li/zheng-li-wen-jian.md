@@ -1,21 +1,20 @@
 ### SpaceMonger [![](/assets/website_official.svg)](https://www.stardock.com/products/spacemonger/)
 
-电脑存储空间分析。
+分析你的电脑存储空间，让你知道接下来要整理哪块儿。
 
 ![](/assets/download.svg) https://spacemonger.en.softonic.com/download
 
+### Duplicate Cleaner ![](/assets/translation.svg) [![](/assets/website_official.svg)](https://www.digitalvolcano.co.uk/duplicatecleaner.html) ![](/assets/leaves_rec.svg)
 
-### Duplicate Cleaner ![](/assets/translation.png) [![](/assets/website_official.png)](https://www.digitalvolcano.co.uk/duplicatecleaner.html)
+支持子目录搜索以及MD5搜索的专业重复文件排查工具。
 
-支持子目录搜索或MD5码搜索的重复文件查询工具
-
-### FileLocatorPro {#FileLocatorPro} [![](/assets/website_official.png)](https://www.mythicsoft.com/filelocatorpro/) ![](/assets/money_pay.png) ![](/assets/windows.png) ![](/assets/translation.png) 
+### FileLocatorPro {#FileLocatorPro} [![](/assets/website_official.svg)](https://www.mythicsoft.com/filelocatorpro/) ![](/assets/money_pay.svg) ![](/assets/windows.svg) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg)
 
 > Search software for professionals
 
 ![](/assets/z-pruductivity-file-filelocatorpro.jpg)
 
-支持多文件内容搜索，压缩包内文件搜索的极为强大文件内容搜索软件。
+一款极为强大的支持文件目录搜索，压缩包搜索、文件内容搜索的高级文件搜索软件。
 
 ### Link Shell Extension [![](/assets/website_official.svg)](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) ![](/assets/windows.svg)
 

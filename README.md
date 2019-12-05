@@ -13,11 +13,14 @@
 <a title="Total Apps" target="_blank" href="#" rel="nofollow"><img src="https://img.shields.io/badge/收录总数-待计算-00ccbb.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://t.me/pinsflora" rel="nofollow"><img src="https://img.shields.io/badge/☎️contact-Telegram-ff55bb.svg?style=flat-square"></a></p>
 
+<p align="center">
+
 A collection of windows software garden.
 
 > Discover,  transform, create the new world from the powerful software!
 
 注：本文档仍在建设中，施工进度21%.....
+</p>
 
 ## 收录事项：
 
