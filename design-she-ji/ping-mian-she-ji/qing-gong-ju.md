@@ -12,6 +12,10 @@ Adobe出品的专为社交媒体开发的多端设计软件，用于海报制作
 
 网页版：https://spark.adobe.com/sp/
 
+### Picosmos [![](/assets/website_official.svg)](http://www.picosmos.net)
+
+一个覆盖图片全功能的软件,包含特效,浏览,编辑,排版,分割,合并和屏幕录像截图的图片工厂。
+
 留空，加载中。。。。
 * Fontcreator
 * Image Triangulator
