@@ -10,17 +10,12 @@
 <img src="https://img.shields.io/github/repo-size/joaxin/Win_Apps.svg?style=flat-square"></a>
 <a title="LICENSE" target="_blank" href="#" rel="nofollow">
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"></a>
-<a title="Total Apps" target="_blank" href="#" rel="nofollow"><img src="https://img.shields.io/badge/收录总数-待计算-00ccbb.svg?style=flat-square"></a>
+<a title="Total Apps" target="_blank" href="#" rel="nofollow"><img src="https://img.shields.io/badge/收录总数-计算中(601)-00ccbb.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://t.me/pinsflora" rel="nofollow"><img src="https://img.shields.io/badge/☎️contact-Telegram-ff55bb.svg?style=flat-square"></a></p>
 
-<p align="center">
-
-A collection of windows software garden.
-
-<blockquote>Discover,  transform, create the new world from the powerful software!</blockquote>
-
-注：本文档仍在建设中，施工进度57%..... </p>
-
+<p align="center">A collection of windows software garden.</p>
+<p align="center">注：本文档仍在建设中，施工进度57%..... </p>
+<p align="center"><blockquote>Discover,  transform, create the new world from the powerful software!</blockquote></p>
 ## 收录事项：
 
 ---
