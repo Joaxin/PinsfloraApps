@@ -148,5 +148,5 @@
     * [硬件维护 - Maintenance](systems-xi-tong-gong-ju/ying-jian-xiang-guan/maintenance.md)
       * [分区 - Partition](systems-xi-tong-gong-ju/ying-jian-xiang-guan/maintenance/fen-qu-partition.md)
       * [修复 - Repair](systems-xi-tong-gong-ju/ying-jian-xiang-guan/maintenance/xiu-fu-repair.md)
-* [Suggestions - 使用建议](ying-jian-xiang-guan/cdgong-ju.md)
+* [Suggestions - 使用建议](suggestions.md)
 

@@ -16,7 +16,7 @@
 <p align="center">A collection of windows software garden.</p>
 <p align="center">注：本文档仍在建设中，施工进度57%..... </p>
 <p align="center"><blockquote>Discover,  transform, create the new world from the powerful software!</blockquote></p>
-## 收录事项：
+## 收录事项
 
 ---
 
@@ -30,7 +30,7 @@
 8. 软件分类以其主要开发及设计目的为主
 9. 支持多端同步的 会尽量注明 比如 [Windows, macOS, Linux, [Microsoft Store](https://www.microsoft.com/en-us/store/apps/windows) ]
 
-## 图标说明：
+## 图标说明
 ---
 
 1 [![](/assets/stop_sign_continue_Q.svg)](https://www.easyicon.net/language.en/1236272-stop_icon.html) 已经停更的，在花园里种植收录的，意味着暂时没有更好的替代品，如果你有好的，欢迎推荐
@@ -70,7 +70,7 @@
 18 [![](https://img.shields.io/badge/Version-0.0.0-ff55bb.svg)]() 收录时的最新版本号，不定期更新，大多偷懒，不做标记
 
 
-## 致谢：
+## 致谢
 ---
 
 ![](/assets/github_open.svg) [Amazing-Windows-App](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us
@@ -82,11 +82,11 @@
 
 ![](/assets/website_official.svg) 所有SVG图标均来自于 [Easyicon](https://www.easyicon.net), 链接已注明。
 
-![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
-
 若非特殊声明，文档中所有项目协议均为：
 
 [CC BY-NC-SA 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
 
 ## Contributors
 ---
