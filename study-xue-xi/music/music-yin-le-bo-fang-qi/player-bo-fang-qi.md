@@ -24,7 +24,7 @@
 
 ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) Chrome: https://github.com/listen1/listen1_chrome_extension
 
-开源、免费的播放器，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，支持[`Windows` 、`macOS`、 `Linux`、 `Android``]。
+开源、免费的播放器，可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，支援[`Windows` 、`macOS`、 `Linux`、 `Android`]平台。
 
 > 由于[QQ音乐的DMCA Takedown Notice](https://github.com/github/dmca/blob/master/2017/2017-11-17-Listen1.md),可能会关闭。
 

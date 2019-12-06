@@ -2,7 +2,11 @@
 
 ![](/assets/z-study-notes-markdown-typora.jpg)
 
-跨平台[`Windows` 、`macOS`、 `Linux`]的超棒本地MarkDown编辑写作工具。
+来自韩国更新频繁的超棒跨平台[`Windows` 、`macOS`、 `Linux`]本地MarkDown编辑写作工具，WYSIWYG(所见即所得)。
+
+![Typora](/assets/z-study-notes-markdown-typora.jpg)
+
+![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg)快捷键： https://support.typora.io/Shortcut-Keys/
 
 ### Markdown Plus [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://tylingsoft.com/markdown-plus/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/tylingsoft/markdown-plus)
 
@@ -13,7 +17,7 @@
 > Organizing your Markdown notes made simple.
 Jot down your daily hacking endeavors and increase your productivity.
 
-Markdown爱好者的笔记应用程序，60天试用。
+Markdown爱好者的笔记应用程序，60天试用，支持丰富的扩展插件。
  
  ### Yu Writer [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://ivarptr.github.io/yu-writer.site/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg)
  

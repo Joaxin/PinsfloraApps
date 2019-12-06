@@ -22,13 +22,13 @@ The palest ink is better than the best memory.
 
 支持 Markdown 的开源国产笔记应用，同步需付费
 
-### Simplenote [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://simplenote.com/)
+### Simplenote [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://simplenote.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 > The simplest way to keep notes.
 Light, clean, and free.
 Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 
-基于云同步的跨平台(`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`)的简单笔记应用。
+基于跨平台(`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`、`Web`)数据云同步的的免费笔记应用。
 
 ### EverNote [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://evernote.com) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
@@ -37,9 +37,19 @@ Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 >你的笔记。变得井井有条。轻松整理。
 随时随地记笔记。更快查找信息。和任何人分享观点。会议记录、网页、项目待办事项—有了 Evernote 笔记应用，确保毫无疏漏。
 
-大名鼎鼎的老牌跨平台笔记工具，建议使用国际版
+大名鼎鼎的老牌跨平台笔记工具，建议使用国际版。
 
-可以用 [马克飞象](https://maxiang.io/) 来进行markdwon创作
+可以用 [马克飞象](https://maxiang.io/) 来进行markdwon创作。
+
+### Boostnote  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://boostnote.io/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/BoostIO/Boostnote/e) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
+
+开源的跨平台[`Windows` 、`macOS`、 `Linux`]笔记应用，极客风格满满。
+
+### Cmd Markdown(作业部落) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.zybuluo.com/cmd/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
+
+很早的大概2014年的国产 Markdown笔记应用，支持[`Windows` 、`macOS`、 `Linux`、 `Web`]
+
+在线编辑: https://www.zybuluo.com/mdeditor
 
 ### Notion [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.notion.so/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
@@ -61,4 +71,8 @@ Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 专注于文档在线创作、协作和托管的文档写作平台。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.kancloud.cn/app
+
+#### 其他
+
+- [Laverna]:https://github.com/Laverna/laverna(已停止维护)
 

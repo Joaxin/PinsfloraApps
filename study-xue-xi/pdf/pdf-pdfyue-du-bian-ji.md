@@ -15,7 +15,6 @@
 
 ![](/assets/z-study-office-pdf-nitro.png.JPG)
 
-
 ### 文电通 Gaaiho PDF [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.gaaiho.com/index.php/en/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 > 直觉式PDF编辑功能
@@ -46,7 +45,11 @@
 编辑器![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)  https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html
 
 
+### XODO PDF Reader & Annotator [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.xodo.com/)
 
+一款免费的多功能pdf阅读和编辑工具，支持[`WinPhone` 、`Web`、 `Android`、`iOS`]。
+
+在线编辑: https://www.xodo.com/app/#/
 
 
 
