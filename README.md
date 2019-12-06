@@ -1,8 +1,5 @@
-<p align="center"><img alt="Windows Apps Garde" src="/assets/logo.png"></p>
-<h2 align="center">
-☙ Windows Apps Garden ☙
-</h2>
-
+<p align="center"><img alt="Windows Apps Garden" src="/assets/logo.png"></p>
+<h2 align="center">☙ Windows Apps Garden ☙</h2>
 <p align="center">
 <a title="Windows Apps Garden" target="_blank" href="#" rel="nofollow">
 <img src="https://img.shields.io/github/last-commit/joaxin/PinsfloraApps.svg?style=flat-square&color=FF9900"></a>
@@ -11,13 +8,12 @@
 <a title="LICENSE" target="_blank" href="#" rel="nofollow">
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"></a>
 <a title="Total Apps" target="_blank" href="#" rel="nofollow"><img src="https://img.shields.io/badge/收录总数-计算中(601)-00ccbb.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://t.me/pinsflora" rel="nofollow"><img src="https://img.shields.io/badge/☎️contact-Telegram-ff55bb.svg?style=flat-square"></a></p>
+<a title="Contact" target="_blank" href="https://t.me/pinsflora" rel="nofollow"><img src="https://img.shields.io/badge/☎️contact-Telegram-ff55bb.svg?style=flat-square"></a></p>
 
 <p align="center">A collection of windows software garden.</p>
 <p align="center">注：本文档仍在建设中，施工进度57%..... </p>
 <p align="center"><blockquote>Discover,  transform, create the new world from the powerful software!</blockquote></p>
 ## 收录事项
-
 ---
 
 1. 不收录简单的软件封装，如：网页封装，`Electron`简单移植等
@@ -33,7 +29,7 @@
 ## 图标说明
 ---
 
-1 [![stop_sign_continue](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/stop_sign_continue_Q.svg)](https://www.easyicon.net/language.en/1236272-stop_icon.html) 已经停更的，在花园里种植收录的，意味着暂时没有更好的替代品，如果你有好的，欢迎推荐
+1 [![stop_sign_continue](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/stop_sign_continue_Q.svg)](https://www.easyicon.net/language.en/1236272-stop_icon.html) 已经停更的，在花园里种植收录的，意味着暂时没有更好的替代品，如果你有好的，可引荐
 
 2 [![time_whathappened](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/time_whathappened.svg)](https://www.easyicon.net/language.en/1215615-time_icon.html) 疑似停止维护，长期不更
 
