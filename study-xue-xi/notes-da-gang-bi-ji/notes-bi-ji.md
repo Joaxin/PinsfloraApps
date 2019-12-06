@@ -2,7 +2,7 @@
 好记性不如烂笔头
 The palest ink is better than the best memory.
 
-### 为知笔记 [![](/assets/website_official.svg)](http://www.wiz.cn/index.html)
+### 为知笔记 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.wiz.cn/index.html)
 
 > 大脑是用来思考的，记录的事情交给我们
 
@@ -12,17 +12,17 @@ The palest ink is better than the best memory.
 
 一款跨平台(`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`)的国产笔记用，支持markdown。
 
-### 有道云笔记 [![](/assets/website_official.svg)](http://note.youdao.com/)
+### 有道云笔记 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://note.youdao.com/)
 
 网易旗下的跨平台[`Windows` 、`macOS`、`Android`、`iOS`]笔记工具，支持，文字、手写、录音、拍照多种记录方式，支持任意附件格式。
 
 ![](/assets/z-study-notes-notes-youdao.png)
 
-### Leanote 蚂蚁笔记 [![](/assets/website_official.svg)](https://leanote.com/) [![](/assets/github_open.svg)](https://github.com/leanote)
+### Leanote 蚂蚁笔记 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://leanote.com/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/leanote)
 
 支持 Markdown 的开源国产笔记应用，同步需付费
 
-### Simplenote [![](/assets/website_official.svg)](https://simplenote.com/)
+### Simplenote [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://simplenote.com/)
 
 > The simplest way to keep notes.
 Light, clean, and free.
@@ -30,7 +30,7 @@ Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 
 基于云同步的跨平台(`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`)的简单笔记应用。
 
-### EverNote [![](/assets/website_official.svg)](https://evernote.com) ![](/assets/leaves_rec.svg)
+### EverNote [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://evernote.com) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 ![mJt1W4.svg](https://s2.ax1x.com/2019/08/20/mJt1W4.png)
 
@@ -41,7 +41,7 @@ Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 
 可以用 [马克飞象](https://maxiang.io/) 来进行markdwon创作
 
-### Notion [![](/assets/website_official.svg)](https://www.notion.so/) ![](/assets/leaves_rec.svg)
+### Notion [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.notion.so/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 > A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team
 
@@ -49,16 +49,16 @@ Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 
 ![](/assets/z-study-notes-notes-notion.png)
 
-桌面版![](/assets/download.svg)： https://www.notion.so/desktop
-移动版![](/assets/download.svg)： https://www.notion.so/mobile
+桌面版![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)： https://www.notion.so/desktop
+移动版![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)： https://www.notion.so/mobile
 
-### OneNote [![](/assets/website_official.svg)](http://office.microsoft.com/zh-cn/onenote/)
+### OneNote [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://office.microsoft.com/zh-cn/onenote/)
 
 微软Office套件之一，与Office完美融合，有众多意想不到的功能。
 
-### 看云 [![](/assets/website_official.svg)](https://www.kancloud.cn/) ![](/assets/windows.svg)
+### 看云 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.kancloud.cn/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
 
 专注于文档在线创作、协作和托管的文档写作平台。
 
-![](/assets/download.svg) https://www.kancloud.cn/app
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.kancloud.cn/app
 

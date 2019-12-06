@@ -1,12 +1,12 @@
-### Everything [![](/assets/website_official.svg)](http://www.voidtools.com/) ![](/assets/leaves_rec.svg) ![](/assets/windows.svg) ![](/assets/translation.svg) {#Everything}
+### Everything [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.voidtools.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) {#Everything}
 
 windows搜索神器，极速建立文件索引\(ps:第一次使用，请稍作等待\)，实时监测文件变化，支持正则表达式搜索，文件预览，书签收藏，还能建立ETP服务器。
 
-![](/assets/documents.svg) [http://www.voidtools.com/support/everything/](http://www.voidtools.com/support/everything/)
+![documents](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/documents.svg) [http://www.voidtools.com/support/everything/](http://www.voidtools.com/support/everything/)
 
-![](/assets/download.svg) 安装版X64: [https://www.voidtools.com/Everything-1.4.1.935.x64-Setup.exe](https://www.voidtools.com/Everything-1.4.1.935.x64-Setup.exe)
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) 安装版X64: [https://www.voidtools.com/Everything-1.4.1.935.x64-Setup.exe](https://www.voidtools.com/Everything-1.4.1.935.x64-Setup.exe)
 
-![](/assets/download.svg) 便携版X64: [https://www.voidtools.com/Everything-1.4.1.935.x64.zip](https://www.voidtools.com/Everything-1.4.1.935.x64.zip)
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) 便携版X64: [https://www.voidtools.com/Everything-1.4.1.935.x64.zip](https://www.voidtools.com/Everything-1.4.1.935.x64.zip)
 > 便携式版本，可以装在U盘里，这样谁家文件找不到, 就可以雪中送炭啦。
 
 <details>
@@ -28,7 +28,7 @@ case:wholeword:Trees !flowers "D:\cocofiles\"
 </ul>
 </details>
 
-### FileLocatorPro {#FileLocatorPro} [![](/assets/website_official.svg)](https://www.mythicsoft.com/filelocatorpro/) ![](/assets/money_pay.svg) ![](/assets/windows.svg) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg)
+### FileLocatorPro {#FileLocatorPro} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.mythicsoft.com/filelocatorpro/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 > Search software for professionals
 
@@ -36,11 +36,11 @@ case:wholeword:Trees !flowers "D:\cocofiles\"
 
 一款极为强大的支持文件目录搜索，压缩包搜索、文件内容搜索的高级文件搜索软件。
 
-### Duplicate Cleaner ![](/assets/translation.svg) [![](/assets/website_official.svg)](https://www.digitalvolcano.co.uk/duplicatecleaner.html) ![](/assets/leaves_rec.svg)
+### Duplicate Cleaner ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.digitalvolcano.co.uk/duplicatecleaner.html) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 支持子目录搜索以及MD5搜索的专业重复文件排查工具。
 
-### Duplicate Cleaner Pro [![](/assets/website_official.svg)](https://www.digitalvolcano.co.uk/dcpro.html) ![](/assets/money_pay.svg)
+### Duplicate Cleaner Pro [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.digitalvolcano.co.uk/dcpro.html) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 由英国著名的 DigitalVolcano 软件公司开发的专业重复文件清理工具。
 

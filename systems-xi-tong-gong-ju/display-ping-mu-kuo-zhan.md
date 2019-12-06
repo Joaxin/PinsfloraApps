@@ -1,4 +1,4 @@
-### Spacedesk [![](/assets/website_official.svg)](http://www.spacedesk.net/)
+### Spacedesk [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.spacedesk.net/)
 
 > Windows network display monitor software 
 

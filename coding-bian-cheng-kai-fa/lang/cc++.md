@@ -1,4 +1,4 @@
-### CLion [![](/assets/website_official.svg)](https://www.jetbrains.com/clion/) ![](/assets/leaves_rec.svg) ![](/assets/money_pay.svg)
+### CLion [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/clion/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 > A cross-platform IDE for C and C++
 

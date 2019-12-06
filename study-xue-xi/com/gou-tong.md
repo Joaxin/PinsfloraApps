@@ -1,12 +1,12 @@
-### QQ [![](/assets/website_official.svg)](https://im.qq.com/)
+### QQ [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://im.qq.com/)
 
 家喻户晓的老牌即时聊天工具，前身为OICQ。
 
 支持[`Windows` 、`macOS`、 `Android`、`iOS`]
 
-![](/assets/download.svg) https://im.qq.com/pcqq/
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://im.qq.com/pcqq/
 
-### Tim [![](/assets/website_official.svg)](https://office.qq.com/) ![](/assets/leaves_rec.svg)
+### Tim [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://office.qq.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 腾讯出品的简洁轻聊、办公聊天软件，没有太多花哨的功能，提高你的日常效率。
 
@@ -14,9 +14,9 @@
 
 ![](/assets/z-study-com-im-tim.png)
 
-![](/assets/download.svg) https://office.qq.com/download.html
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://office.qq.com/download.html
 
-### Wechat [![](/assets/website_official.svg)](https://weixin.qq.com/)
+### Wechat [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://weixin.qq.com/)
 
 > 微信，是一个生活方式。
 
@@ -28,7 +28,7 @@
 
 英文版：https://www.wechat.com/en
 
-### Skype [![](/assets/website_official.svg)](https://www.skype.com/en/) ![](/assets/translation.svg)
+### Skype [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.skype.com/en/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 > 无论您身在何处，无论他们身在何处 － Skype让天涯变咫尺。
 
@@ -36,29 +36,29 @@
 
 中国版：http://skype.gmw.cn/
 
-### Line [![](/assets/website_official.svg)](https://line.me) ![](/assets/network.svg)
+### Line [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://line.me) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg)
 
 
 来自韩国的一款曾经很流行的即时通信软件，支持[`Windows` 、`macOS`、 `Android`、`iOS`]
 
-![](/assets/download.svg) https://line.me/en/download
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://line.me/en/download
 
-### Telegram [![](/assets/website_official.svg)](https://telegram.org/) ![](/assets/network.svg) ![](/assets/leaves_rec.svg)
+### Telegram [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://telegram.org/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 
 毛子开发的速度、安全、开源的即时通信软件，支持所有平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]。
 
 网页版：https://web.telegram.org/#/login
 
-![](/assets/download.svg) https://desktop.telegram.org/
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://desktop.telegram.org/
 
-### Viber [![](/assets/website_official.svg)](https://www.viber.com/) ![](/assets/network.svg) ![](/assets/translation.svg)
+### Viber [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.viber.com/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 跨平台的网络电话及即时通讯软件，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]
 
-![](/assets/download.svg) https://www.viber.com/download/
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.viber.com/download/
 
-### Discord [![](/assets/website_official.svg)](https://discordapp.com/) ![](/assets/network.svg)
+### Discord [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://discordapp.com/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg)
 
 > All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone. Stop paying for TeamSpeak servers and hassling with Skype. Simplify your life.
 
@@ -66,31 +66,31 @@
 
 ![](/assets/z-study-com-im-discord.png)
 
-![](/assets/download.svg) https://discordapp.com/download
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://discordapp.com/download
 
-### Messenger for Desktop [![](/assets/website_official.svg)](http://messengerfordesktop.com/) ![](/assets/leaves_rec.svg)
+### Messenger for Desktop [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://messengerfordesktop.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 Facebook messenger 的第三方桌面程序，支持[`Windows` 、`macOS`]。
 
-### Whatsapp [![](/assets/website_official.svg)](https://www.whatsapp.com/) ![](/assets/network.svg)
+### Whatsapp [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.whatsapp.com/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg)
 
 与海外客户交流的绝佳即时通信工具，支持[`Windows` 、`macOS`、 `Android`、`iOS`]。
 
-![](/assets/download.svg) https://www.whatsapp.com/download/
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.whatsapp.com/download/
 网页版：https://web.whatsapp.com/
 
 
-### Retroshare [![](/assets/website_official.svg)](http://retroshare.cc/) [![](/assets/github_open.svg)](https://github.com/RetroShare) ![](https://img.shields.io/badge/Version-0.6.5-ff55bb.svg)
+### Retroshare [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://retroshare.cc/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/RetroShare) ![](https://img.shields.io/badge/Version-0.6.5-ff55bb.svg)
 
 开源的去中心化匿名文件分享工具，可提供类似于Telegram的高强度加密安全通讯，可用于聊天、语音视频、分享文件、论坛等。
 
-![](/assets/download.svg) https://retroshare.cc/downloads.html
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://retroshare.cc/downloads.html
 
-### Hexchat [![](/assets/website_official.svg)](https://hexchat.github.io/) [![](/assets/github_open.svg)](https://github.com/hexchat/hexchat)
+### Hexchat [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://hexchat.github.io/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/hexchat/hexchat)
 
 基于XChat的IRC客户端,支持[`Windows` 、`macOS`、 `Linux`]
 
-![](/assets/download.svg) https://hexchat.github.io/downloads.html
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://hexchat.github.io/downloads.html
 
 
 

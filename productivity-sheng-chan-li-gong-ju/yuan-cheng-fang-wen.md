@@ -1,16 +1,16 @@
-### Teamviewer [![](/assets/website_official.svg)](https://www.teamviewer.cn/cn/) ![](/assets/translation.svg)
+### Teamviewer [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.teamviewer.cn/cn/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 国人开发的远程屏幕控制分享工具，对个人用户免费。
 
-### 向日葵远程控制 [![](/assets/website_official.svg)](https://sunlogin.oray.com/personal/)
+### 向日葵远程控制 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://sunlogin.oray.com/personal/)
 
 > 一款免费的集远程控制电脑,远程桌面连接,远程开机,远程管理,支持内网穿透的一体化远程控制管理工具软件
 
-### Splashtop [![](/assets/website_official.svg)](http://www.splashtop.com/)
+### Splashtop [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.splashtop.com/)
 
 跨平台[`Windows` 、`macOS`、 `WinPhone`、 `Android`、`iOS`]的远程支持、访问、协作-高性能远程桌面。
 
-### AnyDesk [![](/assets/website_official.svg)](https://anydesk.com) ![](/assets/translation.svg)
+### AnyDesk [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://anydesk.com) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 > **AnyWhere. AnyTime. AnyDesk**
 

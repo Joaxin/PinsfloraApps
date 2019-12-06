@@ -1,8 +1,8 @@
-### SmartDefrag [![](/assets/website_official.svg)](https://www.iobit.com/en/iobitsmartdefrag.php) ![](/assets/leaves_rec.svg)
+### SmartDefrag [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.iobit.com/en/iobitsmartdefrag.php) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 iobit出品的磁盘碎片整理程序。
 
-### Defraggler [![](/assets/website_official.svg)](https://www.piriform.com/defraggler) ![](/assets/leaves_rec.svg)
+### Defraggler [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.piriform.com/defraggler) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 > Defrag entire hard drives or individual files. Works with HDD and SSD and supports NTFS and FAT32 file systems!
 

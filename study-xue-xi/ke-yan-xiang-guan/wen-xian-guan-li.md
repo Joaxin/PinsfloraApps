@@ -1,4 +1,4 @@
-### Zotero [![](/assets/website_official.svg)](https://www.zotero.org/)
+### Zotero [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.zotero.org/)
 
 > Zotero is a free, easy-to-use tool to help you
 collect, organize, cite, and share research.
@@ -7,21 +7,21 @@ collect, organize, cite, and share research.
 
 ![](/assets/z-study-sci-paper-zotero.png)
 
-![](/assets/download.svg) https://www.zotero.org/download/
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.zotero.org/download/
 
-### Endnote [![](/assets/website_official.svg)](https://endnote.com/) ![](/assets/money_pay.svg) ![](/assets/translation.svg)
+### Endnote [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://endnote.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 > Research Smarter
 
 一款专业的文献管理软件,大量用于科研学术领域。
 
-### Mendeley [![](/assets/website_official.svg)](https://www.mendeley.com/)
+### Mendeley [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.mendeley.com/)
 
 > Mendeley brings your research to life, so you can make an impact on tomorrow
 
 由德国开发的一款免费跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]文献管理软件。
 
-### Citavi [![](/assets/website_official.svg)](https://www.citavi.com/en) ![](/assets/translation.svg) ![](/assets/money_pay.svg) ![](/assets/windows.svg)
+### Citavi [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.citavi.com/en) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
 
 > 一款专业的文献参考检索与管理软件,它整合了知识管理、任务计划等功能,在科研工作中堪称学术界中的瑞士军刀。
 

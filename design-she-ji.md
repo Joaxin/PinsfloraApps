@@ -5,7 +5,7 @@
 所有产品: https://www.adobe.com/creativecloud/catalog/desktop.html https://www.adobe.com/cn/creativecloud/catalog/desktop.html
 
 PS：可使用 Creative Cloud 安装所有Adobe应用程序。
-![](/assets/website_official.svg) [https://www.adobe.com/sea/creativecloud.html](https://www.adobe.com/sea/creativecloud.html)
+![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) [https://www.adobe.com/sea/creativecloud.html](https://www.adobe.com/sea/creativecloud.html)
 
 ![![](/assets/z-study-adobe-products.pn](/assets/z-design-adobe-products.png)
 

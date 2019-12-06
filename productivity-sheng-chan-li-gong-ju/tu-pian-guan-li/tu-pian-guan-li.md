@@ -1,22 +1,22 @@
-### Picasa {#Picasa} ![](/assets/stop_sign_continue_Q.svg)
+### Picasa {#Picasa} ![stop_sign_continue](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/stop_sign_continue_Q.svg)
 
 整理、修改并共享照片，已停止维护
 
 遗留的网址在这儿：http://picasa.google.com
 
-### ACDSee [![](/assets/website_official.svg)](https://www.acdsee.com)  ![](/assets/money_pay.svg)
+### ACDSee [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.acdsee.com)  ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 一款经典的，历史悠久的图片查看器，以前学校常用
 
-![](/assets/download.svg) https://www.acdsee.com/en/products/acdsee-free/
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.acdsee.com/en/products/acdsee-free/
 
-### Irfanview [![](/assets/website_official.svg)](https://www.irfanview.com/)  ![](/assets/translation.svg) ![](https://img.shields.io/badge/Version-4.5.3-ff55bb.svg)
+### Irfanview [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.irfanview.com/)  ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-4.5.3-ff55bb.svg)
 
 一款小巧的图形浏览器, 也可以播放视频与音频。
 
 > 大量图片整理，推荐使用 Adobe Bridge & Lightroom
 
-### Eagle [![](/assets/website_official.svg)](https://cn.eagle.cool/) ![](/assets/money_pay.svg)
+### Eagle [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://cn.eagle.cool/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 > Eagle 可以轻松管理大量图片素材，满足素材「收藏、整理、查找」的各种场景，支持 Windows 与 Mac 系统。
 

@@ -1,71 +1,71 @@
-### 迅雷 [![](/assets/website_official.svg)](https://www.xunlei.com/)
+### 迅雷 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.xunlei.com/)
 
 迅雷，老牌的经典p2p下载软件。
 
 Mac版：http://mac.xunlei.com/
 
-### EageleGet [![](/assets/website_official.svg)](http://www.eagleget.com/) ![](/assets/windows.svg) ![](/assets/translation.svg)
+### EageleGet [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.eagleget.com/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 > Easy your downloads, Get everything done!
 
 一个免费的、简洁的、强大的全能下载管理器。
 
-### FDM [![](/assets/website_official.svg)](https://www.freedownloadmanager.org) ![](/assets/translation.svg)
+### FDM [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.freedownloadmanager.org) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 免费强大的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android``]下载加速管理器。
 
-![](/assets/download.svg) https://www.freedownloadmanager.org/download.htm
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.freedownloadmanager.org/download.htm
 
-### IDM [![](/assets/website_official.svg)](http://www.internetdownloadmanager.com) ![](/assets/windows.svg) ![](/assets/money_pay.svg) ![](/assets/translation.svg) ![](/assets/leaves_rec.svg)
+### IDM [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.internetdownloadmanager.com) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 Internetdownloadmanager，业界下载百度云直链的工具，也支持整站下载，官网设计比较古老。
 
-### Persepolis Download Manager [![](/assets/website_official.svg)](https://persepolisdm.github.io/) [![](/assets/github_open.svg)](https://github.com/persepolisdm/persepolis)
+### Persepolis Download Manager [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://persepolisdm.github.io/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/persepolisdm/persepolis)
 
 封装 `Aria2`的GUI开源免费的下载工具，支持[`Windows` 、`macOS`、 `Linux`]，简称"PDM"
 
-### uGet [![](/assets/website_official.svg)](https://ugetdm.com/) ![](/assets/github_open.svg) ![](/assets/translation.svg)
+### uGet [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://ugetdm.com/) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 > \#1 Open Source Download Manager
 
 轻量级的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`]，开源多功能下载器,支持多种下载协议，支持`Aria2`与[`Curl`](https://github.com/curl/curl)。
 
-### μTorrent [![](/assets/website_official.svg)](https://www.utorrent.com/) ![](/assets/translation.svg)
+### μTorrent [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.utorrent.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 全功能的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`]BitTorrent客户端,免费版基本够用。
 
-![](/assets/download.svg) https://www.utorrent.com/desktop/
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.utorrent.com/desktop/
 
-### qBittorrent [![](/assets/github_open.svg)](https://sourceforge.net/projects/qbittorrent/) ![](/assets/translation.svg)
+### qBittorrent [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://sourceforge.net/projects/qbittorrent/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 µTorrent的开源替代品，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]
 
-![](/assets/website_official.svg)[https://www.qbittorrent.org/download.php](https://www.qbittorrent.org/download.php)
+![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)[https://www.qbittorrent.org/download.php](https://www.qbittorrent.org/download.php)
 
-### Deluge [![](/assets/website_official.svg)](https://dev.deluge-torrent.org) ![](/assets/github_open.svg) ![](/assets/translation.svg)
+### Deluge [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://dev.deluge-torrent.org) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 开源的BitTorrent客户端，支持[`Windows` 、`macOS`、 `Linux`、 `Android`]
 
 
-### WebTorrent [![](/assets/website_official.svg)](https://webtorrent.io) [![](/assets/github_open.svg)](https://github.com/webtorrent/webtorrent-desktop) ![](/assets/translation.svg)
+### WebTorrent [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://webtorrent.io) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/webtorrent/webtorrent-desktop) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 可在线播放bt种子的视频下载器, 支持[`Windows` 、`macOS`、 `Linux`]
 
-![![](/assets/website_official.svg)](/assets/download.svg) [https://webtorrent.io/desktop/](https://webtorrent.io/desktop/)
+![![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](/assets/download.svg) [https://webtorrent.io/desktop/](https://webtorrent.io/desktop/)
 
-### Httrack [![](/assets/website_official.svg)](https://www.httrack.com/) ![](/assets/github_open.svg) ![](/assets/translation.svg)
+### Httrack [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.httrack.com/) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 免费的超级网站整站下载器，进行离线浏览，支持[`Windows` 、`macOS`、 `Linux`]
 
-![](/assets/download.svg) [https://www.httrack.com/page/2/en/index.html](https://www.httrack.com/page/2/en/index.html)
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://www.httrack.com/page/2/en/index.html](https://www.httrack.com/page/2/en/index.html)
 
-### Youtube-dl [![](/assets/website_official.svg)](http://ytdl-org.github.io/youtube-dl/) [![](/assets/github_open.svg)](https://github.com/ytdl-org/youtube-dl) ![](/assets/CMD.svg)
+### Youtube-dl [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://ytdl-org.github.io/youtube-dl/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/ytdl-org/youtube-dl) ![CMD](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg)
 
 > youtube-dl - download videos from youtube.com or other video platforms
 
 可以下载youtube及其他视频网站的命令行工具
 
-### You-get [![](/assets/github_open.svg)](https://github.com/soimort/you-get) ![](/assets/CMD.svg) ![](/assets/leaves_rec.svg)
+### You-get [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/soimort/you-get) ![CMD](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 基于python的视频下载工具
 
