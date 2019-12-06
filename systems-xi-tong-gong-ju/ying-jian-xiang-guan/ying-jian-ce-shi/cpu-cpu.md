@@ -6,3 +6,7 @@
 
 一款计算圆周率的软件,用来测试CPU的稳定性。
 
+### prime95 [![](/assets/website_official.svg)](https://www.mersenne.org/download/)
+
+残酷的CPU稳定性测试软件。
+

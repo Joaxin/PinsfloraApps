@@ -2,16 +2,13 @@
 
 一款由国人开发的，支持多功能截图(包括涂鸦、马赛克、画画)的跨平台(`WindowsU` 、`macOS`)开源截图软件。
 
-
-![](/assets/website_official.svg) [](https://www.snipaste.com/)
-
 ![](/assets/download.svg) [https://dl.snipaste.com/win-x64](https://dl.snipaste.com/win-x64)
 
-### Pickpick {#Pickpick} [![](/assets/website_official.svg)](https://getgreenshot.org/) [![](/assets/website_official.svg)](https://picpick.app/) ![](/assets/translation.svg)
+### Pickpick {#Pickpick} [![](/assets/website_official.svg)](https://picpick.app/) ![](/assets/translation.svg)
 
 来自韩国的，全功能的屏幕截图工具,直观的图像编辑器,颜色选择器,颜色调色板,像素标尺,量角器,瞄准线和白板等等。
 
-### Greenshot [![](/assets/github_open.svg)](https://github.com/greenshot/greenshot) ![](/assets/translation.svg)
+### Greenshot  [![](/assets/website_official.svg)](https://getgreenshot.org/)  [![](/assets/github_open.svg)](https://github.com/greenshot/greenshot) ![](/assets/translation.svg)
 
 由Sourceforge 软件公司出品的，开源的屏幕捕获工具。
 
