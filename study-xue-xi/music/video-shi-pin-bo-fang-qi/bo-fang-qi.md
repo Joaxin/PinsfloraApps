@@ -1,8 +1,10 @@
 ### PotPlayer {#PotPlayer} [![](/assets/website_official.svg)](http://potplayer.daum.net/) ![](/assets/leaves_rec.svg) ![](/assets/translation.svg)
 
-出自KMPlayer 作者，支持几乎所有格式、支持硬件加速、支持美化 。
+出自KMPlayer作者的强大播放器，支持几乎所有格式、支持硬件加速、支持自定义配置美化 。
 
-多媒体播放器，具有广泛的编解码器集合，它还为用户提供大量配置选项。
+### MadVR [![](/assets/website_official.svg)](http://www.madvr.com/)
+
+一款极为强大的高清播放视频插件,配合譬如PotPlayer软件,可以实现PC 上播放高清视频的最强画质。
 
 ### VLC{#VLC} [![](/assets/website_official.svg)](http://www.videolan.org/vlc/) ![](/assets/website_official.svg) ![](/assets/translation.svg) [![](/assets/github_open.svg)](https://github.com/videolan/vlc)
 
@@ -31,7 +33,7 @@
 ### 5KPlayer [![](/assets/website_official.svg)](https://www.5kplayer.com/)
 支持 Airplay、广播电台与一些视频站点下载功能的通用多媒体播放器
 
-### mpv [![](/assets/website_official.svg)](http://mpv.io/) [![](/assets/github_open.svg)](https://github.com/mpv-player/mpv)
+### MPV  [![](/assets/website_official.svg)](http://mpv.io/) [![](/assets/github_open.svg)](https://github.com/mpv-player/mpv)
 
 > mpv is a media player based on MPlayer and mplayer2. It supports a wide variety of video file formats, audio and video codecs, and subtitle types.
 
@@ -52,8 +54,6 @@ MPV-EASY Player [![](/assets/website_official.svg)](http://www.rjno1.com/mpv-eas
 ### SMPlayer [![](/assets/website_official.svg)](https://sourceforge.net/projects/smplayer/) ![](/assets/github_open.svg)
 
 多媒体播放器，可针对不同视频保存不同的配置。
-
-### MadVR [![](/assets/website_official.svg)](http://www.madvr.com/)
 
 ### VR-X PLAYER [![](/assets/website_official.svg)](https://www.vegascreativesoftware.com/us/vr-x-player/)
 
