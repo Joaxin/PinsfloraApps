@@ -5,9 +5,9 @@
 
 <p align="center">
 <a title="Windows Apps Garden" target="_blank" href="#" rel="nofollow">
-<img src="https://img.shields.io/github/last-commit/joaxin/Win_Apps.svg?style=flat-square&color=FF9900"></a>
+<img src="https://img.shields.io/github/last-commit/joaxin/PinsfloraApps.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="#" rel="nofollow">
-<img src="https://img.shields.io/github/repo-size/joaxin/Win_Apps.svg?style=flat-square"></a>
+<img src="https://img.shields.io/github/repo-size/joaxin/PinsfloraApps.svg?style=flat-square"></a>
 <a title="LICENSE" target="_blank" href="#" rel="nofollow">
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"></a>
 <a title="Total Apps" target="_blank" href="#" rel="nofollow"><img src="https://img.shields.io/badge/收录总数-计算中(601)-00ccbb.svg?style=flat-square"></a>
@@ -91,7 +91,7 @@
 ## Contributors
 ---
 
-如果你有软件或文档方面更好的建议，欢迎提交`PR`或者通过`Issues`来讨论优化，以及联系Telegram群组。
+如果你有软件或文档方面更好的建议，欢迎提交`PR`以及通过`Issues`来讨论优化，或者联系Telegram群组。
 
 If you have any suggestions for software garden, you can mention them in issues or raise a pull request, or contact me on Telegram Group.
 
