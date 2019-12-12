@@ -8,8 +8,9 @@
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.virtualbox.org/wiki/Downloads
 
-### VMware Workstation Player [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.vmware.com/)
+### VMware Workstation [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.vmware.com/)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
 
 强大的商业化虚拟机应用。
+

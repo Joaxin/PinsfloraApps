@@ -3,3 +3,5 @@
 简单易用的绿色DirectX修复工具，重装系统后一般会用该工具跑一遍。
 
 ![third_party](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)(多特)： http://www.pc6.com/softview/SoftView_57945.html
+![third_party](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)(PCOnline)： 
+https://dl.pconline.com.cn/download/360074.html

@@ -8,3 +8,10 @@
 
 使用Mactype字体渲染，改善系统显示效果
 
+### Ougishi [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.ne.jp/asahi/o/o/ougishi/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
+
+神奇的毛笔字生成软件。
+
+![third_party](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)(心愿)： https://www.wishdown.com/soft/16114.html#a3
+
+![1576139701237](../../assets/z-design-graphic-fonts-ougishi.png)

@@ -13,6 +13,7 @@
 <p align="center">A collection of windows software garden.</p>
 <p align="center">注：本文档仍在建设中，施工进度57%..... </p>
 <p align="center"><blockquote>Discover,  transform, create the new world from the powerful software!</blockquote></p>
+<br/>
 ## 收录事项
 ---
 
@@ -24,9 +25,12 @@
 6. 你可以自己制作便携版本，所以此处不作标注
 7. 游戏相关的东西，另作收录
 8. 软件分类以其主要开发及设计目的为主
-9. 支持多端同步的 会尽量注明 比如 [Windows, macOS, Linux, [Microsoft Store](https://www.microsoft.com/en-us/store/apps/windows) ]
+9. 支持多端同步的 会尽量注明 比如 [`Windows`, `macOS`, `Linux`, [`UMP`](https://www.microsoft.com/en-us/store/apps/windows) ]
+
+[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]
 
 ## 图标说明
+
 ---
 
 1 [![stop_sign_continue](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/stop_sign_continue_Q.svg)](https://www.easyicon.net/language.en/1236272-stop_icon.html) 已经停更的，在花园里种植收录的，意味着暂时没有更好的替代品，如果你有好的，可引荐
@@ -88,6 +92,8 @@
 ---
 
 如果你有软件或文档方面更好的建议，欢迎提交`PR`以及通过`Issues`来讨论优化，或者联系Telegram群组。
+
+> 另：长期征集软件截图 👻
 
 If you have any suggestions for software garden, you can mention them in issues or raise a pull request, or contact me on Telegram Group.
 

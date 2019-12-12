@@ -1,6 +1,6 @@
 ### Sandboxie [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.sandboxie.com/)
 
-知名沙盒的隔离软件,貌似要开源。
+类似于[Windows Sandbox(Win10)](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/Windows-Sandbox/ba-p/301849)的知名沙盒的隔离软件,貌似要开源。
 
 ### Bitdefender [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.bitdefender.com/)
 

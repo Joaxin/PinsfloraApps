@@ -64,10 +64,6 @@ Wox 是windows平台下，由国人开发的高效快速启动器，类似于 `m
 
 为Windows键盘党贴省打造的快速启动器。
 
-### WGestures [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.yingdev.com/projects/wgestures) ![time_whathappened](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/time_whathappened.svg)
-
-国人开发的鼠标手势管理启动平台
-
 ### WindowsTabs ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/mauricef/WindowTabs) ![stop_sign_continue](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/stop_sign_continue_Q.svg)
 
 > WindowTabs is a utility which brings browser-style tabbed window management to the desktop. I created this utility in 2009 and provided a free and paid version. I'm now open sourcing it since I no longer have time to maintain it.

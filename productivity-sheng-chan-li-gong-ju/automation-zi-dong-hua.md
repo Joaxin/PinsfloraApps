@@ -17,8 +17,17 @@
 
 类`BASIC`脚本语言，用于Windows GUI的自动化, AutoHotKey的替代品
 
+### FastKeys [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.fastkeysautomation.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+
+功能强大的一体化Windows自动化软件，能够自动化包括文件扩展器、开始菜单、手势、和用户命令等, 从而自动执行计算机上任何操作。
+
 ### GestureSign [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://gesturesign.win) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/TransposonY/GestureSign)
 
 > GestureSign is a gesture recognition software for Windows. You can automate repetitive tasks by simply drawing a gesture with your fingers, pen or mouse.
 
 Windows平板专用的触摸屏手势软件
+
+### WGestures [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.yingdev.com/projects/wgestures) ![time_whathappened](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/time_whathappened.svg)
+
+国人开发的类似[Strokeit](https://www.tcbmi.com/strokeit/) 和 [strokesplus](https://www.strokesplus.com/)的鼠标手势管理启动平台
+

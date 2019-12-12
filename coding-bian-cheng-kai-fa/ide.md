@@ -14,15 +14,17 @@ JetBrain出品的IDE，用于iOS/macOS开发，支持`Objective-C, Swift, C and 
 JetBrain出品的跨平台[`Windows` 、`macOS`、 `Linux`]的PHP IDE。
 
 
-### RubyMine [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/ruby/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+### RubyMine [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/ruby/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) 
 
-JetBrain出品的跨平台的`Ruby`开发平台，支持多种框架。
+JetBrain出品的跨平台[`Windows` 、`macOS`、 `Linux`]的`Ruby`开发平台，支持多种框架。
 
-### Visual Studio [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.visualstudio.com/vs/)  ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+### Visual Studio [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.visualstudio.com/vs/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)  ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 微软出品的强大IDE，比较耗配置。
 
 ![plugins](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/plugins.svg)插件： http://vswebessentials.com/
+
+Vassistx：https://www.wholetomato.com/
 
 Coderush: https://www.devexpress.com/Products/CodeRush/
 

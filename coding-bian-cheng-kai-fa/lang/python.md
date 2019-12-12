@@ -1,4 +1,4 @@
-### Python [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.python.org/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-3.8.0-ff55bb.svg)
+### Python [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.python.org/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 > Python is powerful... and fast;
 plays well with others;
@@ -7,13 +7,18 @@ is friendly & easy to learn;
 is Open.
 
 
-> 人生苦短,我用python
+> 人生苦短,我用python.
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) Win: https://www.python.org/downloads/windows/
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) Mac: https://www.python.org/downloads/mac-osx/
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) Linux: https://www.python.org/downloads/source/
 
-- [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) 最新版：https://www.python.org/ftp/python/
+
+![1576137608259](../../assets/z-dev-lang-python-latest.jpg)
+
+- tesseract-ocr: [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
+- jupyter/JupyterLab : https://jupyter.org/
 
 ### Anaconda [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.anaconda.com)
 

@@ -18,6 +18,8 @@
 
 ### Eagle [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://cn.eagle.cool/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
-> Eagle 可以轻松管理大量图片素材，满足素材「收藏、整理、查找」的各种场景，支持 Windows 与 Mac 系统。
+> Eagle 可以轻松管理大量图片素材，满足素材「收藏、整理、查找」的各种场景。
 
-来自国人开发的跨平台[`Windows` 、`macOS`]图片管理软件,方便管理素材，支持云同步
+来自国人开发的跨平台[`Windows` 、`macOS`]图片管理软件, 类似于Mac上的`Inboard`和`Ember`, 方便管理素材，支持云同步，支持强大的标签管理，支持颜色找图与想法标注等。
+
+> 也可以用Adobe Bridge, 这里就不标注了。

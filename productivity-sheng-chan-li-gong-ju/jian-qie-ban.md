@@ -8,7 +8,7 @@
 
 ### Ditto [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://ditto-cp.sourceforge.net/) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)  ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![time_whathappened](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/time_whathappened.svg)
 
-知名的Windows剪贴板管理工具。
+知名的Windows剪贴板管理工具，支持快捷键呼出、即时搜索。
 
 ### ClipboardFusion [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.clipboardfusion.com/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 

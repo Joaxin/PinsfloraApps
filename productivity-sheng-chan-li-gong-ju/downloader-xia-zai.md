@@ -22,7 +22,7 @@ Internetdownloadmanager，业界下载百度云直链的工具，也支持整站
 
 ### Persepolis Download Manager [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://persepolisdm.github.io/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/persepolisdm/persepolis)
 
-封装 `Aria2`的GUI开源免费的下载工具，支持[`Windows` 、`macOS`、 `Linux`]，简称"PDM"
+封装 `Aria2`的GUI开源免费的下载工具，支持多线程和p2p下载,支持[`Windows` 、`macOS`、 `Linux`]，简称"PDM"
 
 ### uGet [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://ugetdm.com/) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 

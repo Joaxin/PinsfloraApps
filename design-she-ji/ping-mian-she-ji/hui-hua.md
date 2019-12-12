@@ -2,6 +2,12 @@
 
 由Adobe开发和发行的AI笔刷绘画应用。
 
+### SAI [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.systemax.jp/en/sai/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) 
+
+由日本SYSTEMAX公司出品的绘图软件。
+
+![third_party](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)(@Xelloss0618)： https://sai.yufan.me/
+
 ### Krita [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://krita.org/en) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 Krita（瑞典语的蜡笔、来自动词“rita”），一款开源的位图形编辑软件，支持[`Windows` 、`macOS`、 `Linux`]
