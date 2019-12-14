@@ -1,8 +1,8 @@
-### CrystalDiskInfo [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://crystalmark.info/software/CrystalDiskInfo/index-e.html) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-8.2.4-ff55bb.svg)
+### CrystalDiskInfo [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://crystalmark.info/software/CrystalDiskInfo/index-e.html) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![Version](https://img.shields.io/badge/Version-8.2.4-ff55bb.svg)
 
 > A HDD/SSD utility software which supports a part of USB, Intel RAID and NVMe.
 
-出自Crystal mark的 HDD/SSD 磁盘信息工具
+出自Crystal mark的 HDD/SSD 磁盘信息工具。
 
 ![crystaldiskinfo](/assets/z-hardwares-info-disk-crystaldiskinfo.JPG)
 
@@ -22,7 +22,7 @@
 
 ### SSD-Z [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://aezay.dk/aezay/ssdz/)
 
-显示SSD信息。
+显示SSD信息的固态硬盘检测软件。
 
-
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)(绿茶中文) http://www.33lc.com/soft/62781.html#download_addr
 

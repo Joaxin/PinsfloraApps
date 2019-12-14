@@ -38,9 +38,11 @@ Internetdownloadmanager，业界下载百度云直链的工具，也支持整站
 
 ### qBittorrent [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://sourceforge.net/projects/qbittorrent/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
-µTorrent的开源替代品，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]
+µTorrent的开源替代品，跨平台支持支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]
 
 ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)[https://www.qbittorrent.org/download.php](https://www.qbittorrent.org/download.php)
+
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)增强版：https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
 
 ### Deluge [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://dev.deluge-torrent.org) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
