@@ -20,9 +20,16 @@
 
 简单易用的硬盘检测工具。
 
+### AS SSD Benchmark [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.alex-is.de/PHP/fusion/downloads.php)
+
+来自德国的SSD专用测试软件, 通过测试连续读写速度、4KB随机读写等来评价SSD的综合性能。
+
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)(西西中文) http://www.33lc.com/soft/62781.html#download_addr
+
 ### SSD-Z [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://aezay.dk/aezay/ssdz/)
 
-显示SSD信息的固态硬盘检测软件。
+显示SSD信息的固态硬盘检测软件, 不过也支持检测HDD。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)(绿茶中文) http://www.33lc.com/soft/62781.html#download_addr
 
+https://www.cr173.com/soft/53396.html
