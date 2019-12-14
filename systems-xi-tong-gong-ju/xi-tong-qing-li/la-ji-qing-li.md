@@ -17,6 +17,13 @@ It protects your privacy and makes your computer faster and more secure!
 
 来自 piriform 梨子公司产品的多功能老牌清理优化软件，提供垃圾清理、出册表清理、重复文件清理等，免费版基本够用。
 
+### Dism++ [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.chuyu.me/zh-Hans/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
+
+基于微软API开发，小巧简洁的国产系统优化工具箱。
+
+![1576287798532](../../assets/z-system-customization-dism.jpg)
+
+
 ### Glary Utilities [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.glarysoft.com/)
 
 一款系统维护的瑞士军刀。

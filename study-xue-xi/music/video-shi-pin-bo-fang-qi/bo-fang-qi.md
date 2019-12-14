@@ -20,6 +20,10 @@
 * **Completely Free**
 * no spyware, no ads and no user tracking.
 
+### 爱奇艺万能播放器 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://store.iqiyi.com/web/iqiyi/detail/qisuyingyin.action)
+
+集成Kaku播放内核, 来自百度爱奇艺的视频播放器，支持几乎所有主流视频格式，支持截取gif以及强大的截图功能。
+
 ### 射手影音 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.splayer.org/)
 
 来自射手网，小巧开源，首创自动匹配字幕功能，可以智能翻译的播放器
@@ -27,8 +31,6 @@
 ### QQ影音 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://player.qq.com/)
 
 来自腾讯的视频播放器，用户群庞大，全格式、高清都是标配。
-
-![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) 
 
 ### 5KPlayer [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.5kplayer.com/)
 支持 Airplay、广播电台与一些视频站点下载功能的通用多媒体播放器

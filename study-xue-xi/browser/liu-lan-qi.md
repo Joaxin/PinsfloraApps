@@ -45,7 +45,7 @@ Opera GX, 世界第一款游戏浏览器
 
 ### Valvidi {#Valvidi} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://vivaldi.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-2.9-ff55bb.svg)
 
-由Opera联合创始人、前CEO谭咏文发布的一款个性化浏览器，基于 Blink 内核，自带笔记、截图等众多实用的功能，支持[`Windows` 、`macOS`、 `Linux`、 `Android`]。
+由Opera联合创始人、前CEO谭咏文发布的一款个性化定制浏览器，基于 Blink 内核，自带笔记(支持markdown)、截图等众多实用的功能，支持[`Windows` 、`macOS`、 `Linux`、 `Android`]。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)：https://vivaldi.com/download/
 
@@ -83,6 +83,7 @@ Why use a browser that treats you like one? Enjoy private, secure and fast brows
 ### 国内浏览器：
 
 - qq浏览器 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://browser.qq.com/)： 腾讯开发的良心浏览器。
+- 星愿浏览器 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.twinkstar.com/)： 简洁干净的时尚、好用、靠谱的浏览器，主打看漫画及去视频广告，支持灵活的个性化定制，名字起源于Twinkle, twinkle, little star，支持[`Windows` 、`macOS`]
 - 360浏览器[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://browser.360.cn/)：360开发的特别流行的浏览器。
 - 360极速浏览器[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://browser.360.cn/ee/)：360极速浏览器，前身为世界之窗(http://www.theworld.cn/)。
 - Maxthon [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.maxthon.cn/)：一款开始很好用的国人开发的双引擎浏览器，疑似停止更新
