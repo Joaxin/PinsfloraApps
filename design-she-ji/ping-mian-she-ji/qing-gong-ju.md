@@ -17,11 +17,15 @@ Adobe出品的专为社交媒体开发的多端设计软件，用于海报制作
 一个覆盖图片全功能的软件,包含特效,浏览,编辑,排版,分割,合并和屏幕录像截图的图片工厂。
 
 留空，加载中。。。。
+
+### inpaint [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.theinpaint.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+
+专业的图片去水印软件工具， 选定区域，自动擦除，类似于手机上的`Retouch`。
+
 * Fontcreator
 * Image Triangulator
 * PhotoZoom Pro
 * ShapeCollage \(Photos Collecting\)
-* Impaint （Watermark）
 * Pylon
 * VectorMagic
 * Ascgen2
