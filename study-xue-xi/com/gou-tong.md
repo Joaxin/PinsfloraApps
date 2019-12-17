@@ -85,7 +85,7 @@ Facebook messenger 的第三方桌面程序，支持[`Windows` 、`macOS`]。
 
 开源的跨平台[`Windows` 、`macOS`、 `Linux`]聊天神器，支持常见的messenger、whatsapp、skype、telegram、wechat等
 
-![img](../../assets/z-study-com-im-franz.png)
+![img](/assets/z-study-com-im-franz.png)
 
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.meetfranz.com/#download

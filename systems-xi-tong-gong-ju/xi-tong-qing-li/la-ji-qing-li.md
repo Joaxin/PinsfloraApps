@@ -21,7 +21,7 @@ It protects your privacy and makes your computer faster and more secure!
 
 基于微软API开发，小巧简洁的国产系统优化工具箱。
 
-![1576287798532](../../assets/z-system-customization-dism.jpg)
+![1576287798532](/assets/z-system-customization-dism.jpg)
 
 
 ### Glary Utilities [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.glarysoft.com/)

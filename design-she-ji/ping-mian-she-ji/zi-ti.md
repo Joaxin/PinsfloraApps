@@ -14,4 +14,4 @@
 
 ![third_party](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)(心愿)： https://www.wishdown.com/soft/16114.html#a3
 
-![1576139701237](../../assets/z-design-graphic-fonts-ougishi.png)
+![1576139701237](/assets/z-design-graphic-fonts-ougishi.png)

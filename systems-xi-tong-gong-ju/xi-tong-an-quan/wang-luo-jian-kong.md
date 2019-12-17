@@ -19,6 +19,10 @@ Protect your PC from viruses, malware, and hackers.
 
 一款控制应用程序连接情况，网络监视与防护软件。
 
+### Best Trace [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.netlimiter.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
+由ipip出品的 traceroute 请求可视图工具，支持全平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，支持批量PING，批量TRACE路由跟踪等。
+
+![Best Trace](/assets/z-system-network-ipip-besttrace.jpg)
 
 

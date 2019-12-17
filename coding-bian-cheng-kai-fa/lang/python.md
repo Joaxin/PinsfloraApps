@@ -15,7 +15,7 @@ is Open.
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) 最新版：https://www.python.org/ftp/python/
 
-![1576137608259](../../assets/z-dev-lang-python-latest.jpg)
+![1576137608259](/assets/z-dev-lang-python-latest.jpg)
 
 - tesseract-ocr: [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
 - jupyter/JupyterLab : https://jupyter.org/

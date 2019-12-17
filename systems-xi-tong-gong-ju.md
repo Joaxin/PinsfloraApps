@@ -1,4 +1,4 @@
-> 以下，后面的章节不重复收录。
+> 以下，后面的章节如非特殊情况暂不重复收录。
 
 ### Ugmfree [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.ugmfree.it/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
