@@ -45,7 +45,7 @@
 
 6 [![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)](https://www.easyicon.net/language.en/1227717-money_bag_icon.html) 完整版/Pro版/后续使用需付费，一般可以试用7-30天不等，若免费版够用的，暂不作标记
 
-7 [![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)](https://www.easyicon.net/language.en/1210167-windows_icon.html) [![linux](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/linux.svg)](https://www.easyicon.net/language.en/1212963-brand_brands_linux_logo_icon.html) [![mac](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/mac.svg)](https://www.easyicon.net/language.en/1225715-imac_icon.html) [![android](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/android.svg)](https://www.easyicon.net/language.en/1230947-android_icon.html) [![ios](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/ios.svg)](https://www.easyicon.net/language.en/1212959-apple_brand_brands_ios_logo_icon.html) [![web](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/browser.svg)](https://www.easyicon.net/language.en/1225421-page_web_icon.html) 支持平台，跨平台不作标记, 标记待后续完善
+7 [![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)](https://www.easyicon.net/language.en/1210167-windows_icon.html) [![linux](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/linux.svg)](https://www.easyicon.net/language.en/1212963-brand_brands_linux_logo_icon.html) [![mac](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/mac.svg)](https://www.easyicon.net/language.en/1225715-imac_icon.html) [![android](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/android.svg)](https://www.easyicon.net/language.en/1230947-android_icon.html) [![ios](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/ios.svg)](https://www.easyicon.net/language.en/1212959-apple_brand_brands_ios_logo_icon.html) [![web](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/browser.svg)](https://www.easyicon.net/language.en/1225421-page_web_icon.html) 平台支持，跨平台不作标记, 标记有待后续完善
 
 8 [![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)](https://www.easyicon.net/language.en/1230169-download_icon.html) 官方下载地址
 
@@ -97,5 +97,5 @@
 
 If you have any suggestions for software garden, you can mention them in issues or raise a pull request, or contact me on Telegram Group.
 
-Made with ❤ by Joaxin, ©2019 By Pinsflora.com
+Made with ❤ by Joaxin, ©2019 By apps.pinsflora.com
 

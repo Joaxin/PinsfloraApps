@@ -23,11 +23,11 @@
 
 ![](/assets/z-study-office-pdf-gaaiho.png.JPG)
 
-### 万兴PDF专家 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://pdf.wondershare.cn/)
+### PDFelement 万兴PDF专家 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://pdf.wondershare.cn/)
 
 > 一款易操作、更高效、功能全的PDF编辑软件让工作更轻松
 
-秒会的全能PDF编辑神器，跨平台支持[`Windows` 、`macOS`、 `Android`、`iOS`]
+由 万兴科技出品的全能PDF编辑神器，跨平台支持[`Windows` 、`macOS`、 `Android`、`iOS`]
 
 ### PDF-XChange Viewer [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.tracker-software.com/product/pdf-xchange-viewer) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-2.5.322-ff55bb.svg) 
 

@@ -114,7 +114,7 @@
     * [TidyUp - 文件整理](productivity-sheng-chan-li-gong-ju/wen-jian-guan-li/zheng-li-wen-jian.md)
   * [Photos - 图片管理](productivity-sheng-chan-li-gong-ju/tu-pian-guan-li.md)
     * [pTools - 图片工具](productivity-sheng-chan-li-gong-ju/tu-pian-guan-li/tu-pian-gong-ju.md)
-    * [ pManagement - 图片管理](productivity-sheng-chan-li-gong-ju/tu-pian-guan-li/tu-pian-guan-li.md)
+    * [ pManagement - 图片整理](productivity-sheng-chan-li-gong-ju/tu-pian-guan-li/tu-pian-zheng-li.md)
   * [Launcher - 快速启动](productivity-sheng-chan-li-gong-ju/kuai-su-qi-dong.md)
   * [Remote - 远程访问](productivity-sheng-chan-li-gong-ju/yuan-cheng-fang-wen.md)
 * [Systems - 系统](systems-xi-tong-gong-ju.md)

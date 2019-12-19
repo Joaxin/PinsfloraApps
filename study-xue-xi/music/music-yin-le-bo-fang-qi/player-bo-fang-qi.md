@@ -1,6 +1,6 @@
 ### AIMP [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.aimp.ru/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-4.6.0-ff55bb.svg)
 
-来自俄罗斯的跨平台，支持[`windows` `android`]的小巧本地播放器，可以切换皮肤，界面友好，可以修改音乐标签，管理音乐文件等。
+来自俄罗斯跨平台[`windows` `android`]的小巧本地播放器，可以切换皮肤，修改音乐标签，管理音乐文件等。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [http://www.aimp.ru/?do=download&os=windows](http://www.aimp.ru/?do=download&os=windows)
 
@@ -12,9 +12,11 @@
 
 由原Winamp开发公司Nullsoft成员Peter Pawlowski开发的高度可自定义，高保真度的播放器，同时含有支持生成媒体库、转换媒体文件编码、提取CD等功能。
 
-### Musicbee [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://getmusicbee.com/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
+### Musicbee [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://getmusicbee.com/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)  [![store](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/store.svg)](https://www.microsoft.com/en-us/p/musicbee/9p4clt2rj1rs)
 
-类似iTunes，但比iTunes更好用。
+> Free music manager and player with format converter and tag editor
+
+类似iTunes，但比iTunes更好用的音乐管理与收藏软件。
 
 ![](https://s2.ax1x.com/2019/05/20/ExVMZR.jpg)
 

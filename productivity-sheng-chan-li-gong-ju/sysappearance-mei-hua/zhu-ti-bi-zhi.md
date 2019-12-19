@@ -4,10 +4,10 @@
 
 unsplash 桌面壁纸应用，支持[`Windows` 、`macOS`]
 
-### Wallpaper Engine [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://store.steampowered.com/app/431960) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
+### Wallpaper Engine [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://store.steampowered.com/app/431960) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 
-Steam创意工坊，支持[`Steam`]
+Steam动态壁纸桌面，并在 Steam创意工坊中分享以及寻找其他用户的壁纸资源。
 
 ### 火萤 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://huoying666.com/)
 

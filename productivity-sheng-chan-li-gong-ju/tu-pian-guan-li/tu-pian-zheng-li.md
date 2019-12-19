@@ -4,6 +4,19 @@
 
 遗留的网址在这儿：http://picasa.google.com
 
+### Honeyview  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://en.bandisoft.com/honeyview/) 
+
+ 蜂蜜浏览器，出自著名韩国开发商bandisoft之手的一款轻量级图像浏览器。
+
+![img](../../assets/z-pro-photos-viewer-honeyview.png)
+
+### Picasa  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.acdsee.com) 
+
+整理、修改并共享照片，已停止维护
+
+遗留的网址在这儿：http://picasa.google.com
+
+
 ### ACDSee [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.acdsee.com)  ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 一款经典的，历史悠久的图片查看器，以前学校常用
