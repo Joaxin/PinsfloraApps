@@ -14,7 +14,10 @@
 <p align="center">注：本文档仍在建设中，施工进度61%..... </p>
 <p align="center"><blockquote>Discover,  transform, create the new world from the powerful software!</blockquote></p>
 <br/>
+
+
 ## 收录事项
+
 ---
 
 1. 不收录简单的软件封装，如：网页封装，`Electron`简单移植等
@@ -25,9 +28,7 @@
 6. 你可以自己制作便携版本，所以此处不作标注
 7. 游戏相关的东西，另作收录
 8. 软件分类以其主要开发及设计目的为主
-9. 支持多端同步的 会尽量注明 比如 [`Windows`, `macOS`, `Linux`, [`UMP`](https://www.microsoft.com/en-us/store/apps/windows) ]
-
-[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]
+9. 支持多端同步的 会尽量注明 比如[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`、`Web`、 [`UMP`](https://www.microsoft.com/en-us/store/apps/windows) ]
 
 ## 图标说明
 
@@ -43,7 +44,7 @@
 
 5 [![CMD](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg)](https://www.easyicon.net/language.en/1222586-terminal_icon.html) 命令行CLI
 
-6 [![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)](https://www.easyicon.net/language.en/1227717-money_bag_icon.html) 完整版/Pro版/后续使用需付费，一般可以试用7-30天不等，若免费版够用的，暂不作标记
+6 [![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)](https://www.easyicon.net/language.en/1227717-money_bag_icon.html) 完整版/Pro版/后续使用需付费，一般可以试用7-30天不等，若免费版够用的，不作标记
 
 7 [![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)](https://www.easyicon.net/language.en/1210167-windows_icon.html) [![linux](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/linux.svg)](https://www.easyicon.net/language.en/1212963-brand_brands_linux_logo_icon.html) [![mac](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/mac.svg)](https://www.easyicon.net/language.en/1225715-imac_icon.html) [![android](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/android.svg)](https://www.easyicon.net/language.en/1230947-android_icon.html) [![ios](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/ios.svg)](https://www.easyicon.net/language.en/1212959-apple_brand_brands_ios_logo_icon.html) [![web](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/browser.svg)](https://www.easyicon.net/language.en/1225421-page_web_icon.html) 平台支持，跨平台不作标记, 标记有待后续完善
 
@@ -70,6 +71,8 @@
 18 [![](https://img.shields.io/badge/Version-0.0.0-ff55bb.svg)]() 收录时的最新版本号，不定期更新，大多偷懒，不做标记
 
 > 注：所有SVG图标均来自于 [Easyicon](https://www.easyicon.net), 链接已注明。
+
+
 
 
 ## 致谢
