@@ -4,7 +4,7 @@
 
 如果你物尽其用，其实会员并不贵。
 
-![](/assets/download.png) http://pan.baidu.com/download
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)  http://pan.baidu.com/download
 
 ### 微云 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.weiyun.com/)
 

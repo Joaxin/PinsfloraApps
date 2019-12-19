@@ -5,8 +5,12 @@
 跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]的思维导图工具，带有免费的云端同步，免费版功能有限。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) XMind ZEN - https://www.xmind.net/download/zen
+
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) XMind 8 - https://www.xmind.net/download/xmind8
+
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) XMind mobile - https://www.xmind.net/download/mobile
+
+
 
 
 ![](/assets/z-study-notes-mindmap-xmind.png)

@@ -11,7 +11,7 @@
 <a title="Contact" target="_blank" href="https://t.me/pinsflora" rel="nofollow"><img src="https://img.shields.io/badge/☎️contact-Telegram-ff55bb.svg?style=flat-square"></a></p>
 
 <p align="center">A collection of windows software garden.</p>
-<p align="center">注：本文档仍在建设中，施工进度57%..... </p>
+<p align="center">注：本文档仍在建设中，施工进度61%..... </p>
 <p align="center"><blockquote>Discover,  transform, create the new world from the powerful software!</blockquote></p>
 <br/>
 ## 收录事项
@@ -45,7 +45,7 @@
 
 6 [![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)](https://www.easyicon.net/language.en/1227717-money_bag_icon.html) 完整版/Pro版/后续使用需付费，一般可以试用7-30天不等，若免费版够用的，暂不作标记
 
-7 [![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)](https://www.easyicon.net/language.en/1210167-windows_icon.html) 仅支持windows
+7 [![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)](https://www.easyicon.net/language.en/1210167-windows_icon.html) [![linux](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/linux.svg)](https://www.easyicon.net/language.en/1212963-brand_brands_linux_logo_icon.html) [![mac](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/mac.svg)](https://www.easyicon.net/language.en/1225715-imac_icon.html) [![android](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/android.svg)](https://www.easyicon.net/language.en/1230947-android_icon.html) [![ios](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/ios.svg)](https://www.easyicon.net/language.en/1212959-apple_brand_brands_ios_logo_icon.html) [![web](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/browser.svg)](https://www.easyicon.net/language.en/1225421-page_web_icon.html) 支持平台，跨平台不作标记, 标记待后续完善
 
 8 [![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)](https://www.easyicon.net/language.en/1230169-download_icon.html) 官方下载地址
 
@@ -69,6 +69,8 @@
 
 18 [![](https://img.shields.io/badge/Version-0.0.0-ff55bb.svg)]() 收录时的最新版本号，不定期更新，大多偷懒，不做标记
 
+> 注：所有SVG图标均来自于 [Easyicon](https://www.easyicon.net), 链接已注明。
+
 
 ## 致谢
 ---
@@ -79,8 +81,6 @@
 ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 
 ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) [Gitbook](https://gitbookio.gitbooks.io/documentation/index.html)
-
-![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) 所有SVG图标均来自于 [Easyicon](https://www.easyicon.net), 链接已注明。
 
 若非特殊声明，文档中所有项目协议均为：
 
@@ -97,5 +97,5 @@
 
 If you have any suggestions for software garden, you can mention them in issues or raise a pull request, or contact me on Telegram Group.
 
-Made with ❤ by Joaxin
+Made with ❤ by Joaxin, ©2019 By Pinsflora.com
 

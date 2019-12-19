@@ -6,6 +6,7 @@ Where brilliant ideas are captured, fleshed out, and realized.
 一款类似workflowy以及mac上Cloud Outliner Pro的大纲笔记软件。
 
 ![](/assets/z-study-notes-outline-dynalist.png)
+
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://dynalist.io/download
 
 ### Mubu {#Mubu} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://mubu.com/)

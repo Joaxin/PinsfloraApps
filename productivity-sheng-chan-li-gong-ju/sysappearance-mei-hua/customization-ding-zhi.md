@@ -24,13 +24,13 @@ Windows 10任务栏透明栏工具。
 
 法兰西Nurgo开发的Windows桌面窗口排列和布局管理工具
 
-### EarTrumpet   ![(/assets/github_open.svg)](https://github.com/File-New-Project/EarTrumpet)
+### EarTrumpet   [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/File-New-Project/EarTrumpet)  [![store](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/store.svg)](https://github.com/File-New-Project/EarTrumpet)
 
-应用商店 ![(/assets/download.svg)](https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp)
+应用商店 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)  https://www.microsoft.com/zh-cn/store/p/eartrumpet/9nblggh516xp
 
 一键调整win10应用的音量
 
-### Traymond  ![(/assets/github_open.svg)](https://github.com/fcFn/traymond)
+### Traymond  [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/fcFn/traymond) 
 
 将任意程序窗口最小化到后台托盘
 
