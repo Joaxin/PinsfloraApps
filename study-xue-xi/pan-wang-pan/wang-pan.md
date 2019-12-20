@@ -2,7 +2,7 @@
 
 百度公司出品的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]资源分享与在线存储平台。
 
-如果你物尽其用，其实会员并不贵。
+> 第三方下载已基本失效，其实如果你物尽其用，会员并不贵,。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)  http://pan.baidu.com/download
 
@@ -57,6 +57,14 @@ Google生态系统的云存储解决方案。
 ### Yandex Drive [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://disk.yandex.com/)
 
 俄罗斯yandex出品的免费良心网盘。
+
+### Raidrive  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.raidrive.com/)
+
+将网络网盘映射为本地磁盘，同时支持`webdav`、`FTP`、`SFTP`。
+
+![1576823632300](/assets/z-study-pan-sync-raidrive.png)
+
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)  https://www.raidrive.com/Download
 
 ### 360 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://yunpan.360.cn/)
 

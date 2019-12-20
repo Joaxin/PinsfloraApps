@@ -8,7 +8,7 @@
 
 ### FSCapture [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.faststone.org/FSCaptureDetail.htm) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![](https://img.shields.io/badge/Version-9.2-ff55bb.svg)
 
-一款集屏幕截图、图像编辑、视频录制于一身的小工具
+FastStone Capture, 一款集屏幕截图、图像编辑、视频录制于一身的小工具
 
 ![](/assets/z-pro-capture-screen-fscapture.jpg)
 
@@ -23,6 +23,8 @@
 ### CamtasiaStudio [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.techsmith.com/video-editor.html) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 一款全能的视频录制工具，支持基本的视频编辑和剪辑。
+
+
 
 
 

@@ -24,7 +24,7 @@ oh-my-zsh, 开源的bash增强工具, Shell中的极品。
 
 Windows上经典的强大终端模拟软件,免费版有所限制。
 
-### Babun [![babun](/assets/website_official.svg)](http://babun.github.io/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/babun/babun/)
+### Babun [![babun](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://babun.github.io/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/babun/babun/)
 
 > a Windows shell you will love!
 

@@ -43,11 +43,17 @@ Secure Enterprise File Sharing within your data center
 
 免费开源的跨平台[`Windows` 、`macOS`、 `Linux`]备份应用，支持同步本地存储，云存储服务和远程文件服务器。
 
-### FreeFileSync [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.freefilesync.org//) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
+### FreeFileSync [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.freefilesync.org/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 免费的、开源的文件夹比较和同步软件，双向同步备份重要资料。
 
 
+
+### **Tonido**  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.tonido.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
+
+打造私人硬盘服务器，存取/分享你的本地文件, 支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`、`Web`、`Windows Phone`]
+
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.tonido.com/tonidodesktop_downloads/
 
 
 

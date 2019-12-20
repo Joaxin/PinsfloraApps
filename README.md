@@ -100,5 +100,5 @@
 
 If you have any suggestions for software garden, you can mention them in issues or raise a pull request, or contact me on Telegram Group.
 
-Made with ❤ by Joaxin, ©2019 By apps.pinsflora.com
+Made with ❤ by Joaxin, Pinsflora.com ©2019 
 

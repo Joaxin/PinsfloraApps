@@ -24,6 +24,8 @@
 
 来自德国的SSD专用测试软件, 通过测试连续读写速度、4KB随机读写等来评价SSD的综合性能。
 
+![AS SSD Benchmark](/assets/z-system-hardware-disk-assdbenchmark.jpg)
+
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)(西西中文) http://www.33lc.com/soft/62781.html#download_addr
 
 ### SSD-Z [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://aezay.dk/aezay/ssdz/)
