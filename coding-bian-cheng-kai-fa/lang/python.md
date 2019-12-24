@@ -15,7 +15,13 @@ is Open.
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) 最新版：https://www.python.org/ftp/python/
 
-![1576137608259](/assets/z-dev-lang-python-latest.jpg)
+![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) 资源推荐
+
+- Packages: https://pypi.python.org/pypi
+- Awesome Python：https://github.com/vinta/awesome-python
+- Awesome Python(Chinese)：https://github.com/jobbole/awesome-python-cn
+
+![python-latest](/assets/z-dev-lang-python-latest.jpg)
 
 - tesseract-ocr: [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
 - jupyter/JupyterLab : https://jupyter.org/
