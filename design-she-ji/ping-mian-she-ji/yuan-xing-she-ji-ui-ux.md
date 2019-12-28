@@ -2,7 +2,7 @@
 
 美国Axure公司出品的最流行的快速原型设计工具，支持[`Windows` 、`macOS`]。
 
-![](/assets/z-design-graphic-uiux-axure.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-design-graphic-uiux-axure.png)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.axure.com/download
 
@@ -12,4 +12,4 @@
 
 由Adobe开发和发行的交互原型设计软件。
 
-![Adobe XD](/assets/z-design-graphic-adobexd.png)
+![Adobe XD](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-design-graphic-adobexd.png)

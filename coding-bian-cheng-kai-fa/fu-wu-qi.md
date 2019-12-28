@@ -18,7 +18,7 @@
 
 > 它家的其他产品，也挺有意思.
 
-![](/assets/z-pro-server-mamp-more.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pro-server-mamp-more.png)
 
 ### Open Server [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://ospanel.io/)
 

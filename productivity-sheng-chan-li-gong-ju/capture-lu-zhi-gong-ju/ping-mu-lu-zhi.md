@@ -2,7 +2,7 @@
 
 一款由[@code5](https://github.com/Code52)开发的，可以在屏幕录制期间, 显示按下的键位的开源辅助软件。
 
-![](/assets/z-pro-capture-screen-carnac.jpg)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pro-capture-screen-carnac.jpg)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://github.com/Code52/carnac/releases
 
@@ -10,7 +10,7 @@
 
 FastStone Capture, 一款集屏幕截图、图像编辑、视频录制于一身的小工具
 
-![](/assets/z-pro-capture-screen-fscapture.jpg)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pro-capture-screen-fscapture.jpg)
 
 ### Fraps [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.fraps.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 

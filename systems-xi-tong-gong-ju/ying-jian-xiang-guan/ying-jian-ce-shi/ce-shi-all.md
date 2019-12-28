@@ -2,7 +2,7 @@
 
 3Dmark公司出品的专业、权威、全面的老牌电脑性能测试软件，并主打图形性能测试。
 
-![img](..//assets/z-system-eva-3dmark.png)
+![img](../https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-eva-3dmark.png)
 
 ### 鲁大师 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.ludashi.com/) 
 

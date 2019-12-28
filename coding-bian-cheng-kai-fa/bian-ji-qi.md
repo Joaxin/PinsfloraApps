@@ -2,7 +2,7 @@
 
 跨平台的极客文本编辑器。
 
-![](/assets/z-dev-editor-atom.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-dev-editor-atom.png)
 
 ### Emacs [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.gnu.org/software/emacs/)
 
@@ -14,7 +14,7 @@ Vim的竞争对手，类似于php是最好的语言。
 
 即是Vi vi improved，Linux下最受欢迎的编辑器，被誉为编辑器之神，命令行操作。
 
-![](/assets/z-dev-editor-vim-joke.jpg)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-dev-editor-vim-joke.jpg)
 
 ### Neovim [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://neovim.io/)
 

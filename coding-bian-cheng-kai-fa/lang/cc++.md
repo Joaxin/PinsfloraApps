@@ -4,7 +4,7 @@
 
 JetBrain出品的跨平台[`Windows` 、`macOS`、 `Linux`]的IDE，支持C/C++开发，使用CMake构建。
 
-![](/assets/z-dev-ide-clion.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-dev-ide-clion.png)
 
 ### Dev-C++  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://sourceforge.net/projects/orwelldevcpp/)
 windows下一个简单经典的c/c++程序的开源集成开发环境。

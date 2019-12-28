@@ -13,7 +13,7 @@
 
 免费的PDF阅读器，同时提供一站式PDF解决方案。
 
-![](/assets/z-study-office-pdf-nitro.png.JPG)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-office-pdf-nitro.png.JPG)
 
 ### 文电通 Gaaiho PDF [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.gaaiho.com/index.php/en/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
@@ -21,7 +21,7 @@
 
 来自国人开发的的流行海外的PDF编辑阅读创作平台，提供企业PDF软件与解决方案。
 
-![](/assets/z-study-office-pdf-gaaiho.png.JPG)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-office-pdf-gaaiho.png.JPG)
 
 ### PDFelement 万兴PDF专家 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://pdf.wondershare.cn/)
 

@@ -21,7 +21,7 @@ It protects your privacy and makes your computer faster and more secure!
 
 基于微软API开发，小巧简洁的国产系统优化工具箱。
 
-![1576287798532](/assets/z-system-customization-dism.jpg)
+![1576287798532](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-customization-dism.jpg)
 
 
 ### Glary Utilities [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.glarysoft.com/)
@@ -38,7 +38,7 @@ It protects your privacy and makes your computer faster and more secure!
 
 一款易于使用的Windows电脑优化工具，帮助用户清洁、优化、加速和保护系统,以及保护用户的在线隐私。
 
-![](/assets/z-system-customization-iobit-series.jpg)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-customization-iobit-series.jpg)
 
 ### TuneUp Utilities [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.tuneup.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 

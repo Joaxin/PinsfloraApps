@@ -8,7 +8,7 @@ The palest ink is better than the best memory.
 
 > 一键收藏、全端全文检索、多级目录、Markdown
 
-![](/assets/z-study-notes-markdown-weizhinotes.jpg)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-markdown-weizhinotes.jpg)
 
 一款跨平台(`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`)的国产笔记用，支持markdown。
 
@@ -16,7 +16,7 @@ The palest ink is better than the best memory.
 
 网易旗下的跨平台[`Windows` 、`macOS`、`Android`、`iOS`]笔记工具，支持，文字、手写、录音、拍照多种记录方式，支持任意附件格式。
 
-![](/assets/z-study-notes-notes-youdao.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-notes-youdao.png)
 
 ### Leanote 蚂蚁笔记 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://leanote.com/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/leanote)
 
@@ -57,7 +57,7 @@ Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 
 来自国人Ivan的笔记应用和协作工具，强大到不行的Block模块以及支持动态富文本，支持[`Windows` 、`macOS`、`Android`、`iOS`]。
 
-![](/assets/z-study-notes-notes-notion.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-notes-notion.png)
 
 桌面版![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)： https://www.notion.so/desktop
 移动版![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)： https://www.notion.so/mobile

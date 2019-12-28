@@ -33,7 +33,7 @@ case:wholeword:Trees !flowers "D:\cocofiles\"
 
 > Search software for professionals
 
-![](/assets/z-pruductivity-file-filelocatorpro.jpg)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pruductivity-file-filelocatorpro.jpg)
 
 一款极为强大的支持文件目录搜索，压缩包搜索、文件内容搜索的高级文件搜索软件。
 

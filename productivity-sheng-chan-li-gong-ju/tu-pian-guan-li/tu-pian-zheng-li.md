@@ -8,7 +8,7 @@
 
  蜂蜜浏览器，出自著名韩国开发商bandisoft之手的一款轻量级图像浏览器。
 
-![img](../../assets/z-pro-photos-viewer-honeyview.png)
+![img](../..https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pro-photos-viewer-honeyview.png)
 
 ### Picasa  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.acdsee.com) 
 

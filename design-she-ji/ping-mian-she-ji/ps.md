@@ -17,7 +17,7 @@
 
 一个专业的图像处理软件以及一体化摄影照片管理应用。
 
-![](/assets/z-design-graphic-ps-luminar.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-design-graphic-ps-luminar.png)
 
 ### Aurora HDR [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://skylum.com/aurorahdr) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 

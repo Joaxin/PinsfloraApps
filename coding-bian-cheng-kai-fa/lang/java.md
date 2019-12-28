@@ -4,7 +4,7 @@ JetBrain出品，必属精品的跨平台[`Windows` 、`macOS`、 `Linux`]Java I
 
 > ENJOY PRODUCTIVE JAVA
 
-![](/assets/z-dev-ide-idea.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-dev-ide-idea.png)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.jetbrains.com/idea/download/#section=windows
 

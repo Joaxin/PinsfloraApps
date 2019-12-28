@@ -14,7 +14,7 @@ JetBrain出品的跨平台[`Windows` 、`macOS`、 `Linux`]的数据库管理工
 
 一款支持MySQL, MariaDB, Mircosoft SQL Server 和 PostgreSQL 的开源数据库管理工具。
 
-![](/assets/z-dev-databases-m-hedisql.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-dev-databases-m-hedisql.png)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.heidisql.com/download.php
 

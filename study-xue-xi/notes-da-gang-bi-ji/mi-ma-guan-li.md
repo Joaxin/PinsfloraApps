@@ -7,13 +7,13 @@
 
 一款跨平台的电脑手机账号密码管理工具软件，界面美观，UI舒服，功能齐全，支持[`Windows` 、`macOS`、 `Android`、`iOS`]。
 
-![](/assets/z-study-notes-password-1password.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-password-1password.png)
 
 ### Enpass [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.enpass.io/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 一款简洁优雅的密码管理软件，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]。
 
-![](/assets/z-study-notes-password-enpass.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-password-enpass.png)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.enpass.io/downloads/
 
@@ -21,7 +21,7 @@
 
 一款安全方便的密码管理产品，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`、`Chrome`]。
 
-![](/assets/z-study-notes-password-safeincloud.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-password-safeincloud.png)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) http://www.safe-in-cloud.com/en/#download
 
@@ -43,7 +43,7 @@ LastPass remembers all your passwords, so you don't have to.
 > **Solve your password management problems**
 The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data.
 
-![](/assets/z-study-notes-password-bitwarden.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-password-bitwarden.png)
 
 支持多端同步[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，开源以及docker部署的强大密码管理器。
 
@@ -54,4 +54,4 @@ The Password Manager You Deserve.
 
 来自芬兰的，基于Node.js和Webkit的，界面美观、安全、简单、免费的支持多端同步的轻量级开源密码管理器，可兼容Keepass等主流数据库，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`、`Chrome`]。
 
-![](/assets/z-study-notes-password-buttercup.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-password-buttercup.png)

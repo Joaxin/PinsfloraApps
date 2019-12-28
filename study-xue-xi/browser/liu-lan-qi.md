@@ -28,7 +28,7 @@ Opera， 13年放弃自家Presto内核转投WebKit，目前支持[`Windows` 、`
 
 Opera GX, 世界第一款游戏浏览器
 
-![](/assets/z-study-browser-operaGX.jpg)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-operaGX.jpg)
 
 ### Yandex {#Yandex} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://browser.yandex.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
@@ -55,7 +55,7 @@ Opera GX, 世界第一款游戏浏览器
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) 最新预览版下载：https://www.microsoftedgeinsider.com/en-us/
 
-![](/assets/z-study-browser-edgeinsider.jpg)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-edgeinsider.jpg)
 
 ### Internet Explorer ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
@@ -74,7 +74,7 @@ Why use a browser that treats you like one? Enjoy private, secure and fast brows
 
 来自日本的三引擎，也即是同时支持Trident(IE)、 Gecko(Firefox)和WebKit的三叉戟浏览器。
 
-![](/assets/z-study-browser-lunascape.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-lunascape.png)
 
 ### Tor ![law](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/zlaw.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.torproject.org) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 

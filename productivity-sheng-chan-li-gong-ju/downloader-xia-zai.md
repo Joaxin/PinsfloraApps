@@ -53,7 +53,7 @@ Internetdownloadmanager，业界下载百度云直链的工具，也支持整站
 
 可在线播放bt种子的视频下载器, 支持[`Windows` 、`macOS`、 `Linux`]
 
-![![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](/assets/download.svg) [https://webtorrent.io/desktop/](https://webtorrent.io/desktop/)
+![![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/download.svg) [https://webtorrent.io/desktop/](https://webtorrent.io/desktop/)
 
 ### Httrack [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.httrack.com/) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 

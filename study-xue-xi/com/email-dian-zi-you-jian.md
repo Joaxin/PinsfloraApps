@@ -10,7 +10,7 @@
 
 界面简洁漂亮，支持whatsapp，wechat，facebook等插件，支持触摸，免费版只能用一个邮箱地址
 
-![](/assets/z-study-com-mail-mailbird.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-com-mail-mailbird.png)
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://www.getmailbird.com/](https://www.getmailbird.com/)
 
 ### Mailspring ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Foundry376/Mailspring) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
@@ -21,7 +21,7 @@ Mailspring是`Nylas N1`的分支版本，有付费版本，界面简洁美观，
 
 ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)[https://getmailspring.com/](https://getmailspring.com/)
 
-![](/assets/z-study-com-mail-mailspring.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-com-mail-mailspring.png)
 ### Newton ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://newtonhq.com/)
 
 跨平台，支持[`Windows` 、`macOS`、`Android`、`iOS`]，界面统一、简洁、美观。
@@ -30,7 +30,7 @@ Mailspring是`Nylas N1`的分支版本，有付费版本，界面简洁美观，
 
 > Designed to delight, for all your email accounts, on all your devices
 
-![](/assets/z-study-com-mail-newton.svg)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-com-mail-newton.svg)
 
 ### Postbox ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.postbox-inc.com/)
 
@@ -38,7 +38,7 @@ Mailspring是`Nylas N1`的分支版本，有付费版本，界面简洁美观，
 
 简洁而优雅的邮件客户端，支持[`Windows` 、`macOS`]
 
-![](/assets/z-study-com-mail-postbox.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-com-mail-postbox.png)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.postbox-inc.com/download
 
@@ -50,7 +50,7 @@ Mailspring是`Nylas N1`的分支版本，有付费版本，界面简洁美观，
 
 强大的Microsoft Office 组件之一，邮件、联系、整理、完成工作，支持[`Windows` 、 `Android`]。
 
-![](/assets/z-study-com-mail-outlook.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-com-mail-outlook.png)
 
 ### 网易邮箱大师 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://mail.163.com/dashi/)
 

@@ -1,6 +1,6 @@
 ### QTranslate [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://quest-app.appspot.com) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![](https://img.shields.io/badge/Version-6.7.3-ff55bb.svg) 
 
-![](/assets/z-study-lang-q-translate.jpg)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-lang-q-translate.jpg)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://quest-app.appspot.com/download
 

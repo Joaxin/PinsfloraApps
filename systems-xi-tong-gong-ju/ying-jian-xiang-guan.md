@@ -2,7 +2,7 @@
 
 DIY爱好者的必备工具合集，可以获取计算机硬件信息，例如处理器信息、内存信息、主板信息、显卡信息等。
 
-![图吧工具箱](/assets/z-system-hardware-toolbox-tuba.gif)
+![图吧工具箱](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-hardware-toolbox-tuba.gif)
 
 
 

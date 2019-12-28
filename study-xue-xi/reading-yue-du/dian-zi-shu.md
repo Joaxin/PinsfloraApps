@@ -10,7 +10,7 @@
 
 来自日本的功能强大的电子书管理和转换软件或者电子书阅读器。
 
-![](/assets/z-study-read-book-kobo.jpg)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-book-kobo.jpg)
 
 
 ### iReader ![stop_sign_continue](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/stop_sign_continue_Q.svg)

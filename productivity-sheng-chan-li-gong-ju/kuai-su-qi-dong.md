@@ -70,7 +70,7 @@ Wox 是windows平台下，由国人开发的高效快速启动器，类似于 `m
 
 小巧的Windows程序多标签页工具，给你喜爱的任意程序添加标签页，作者已停止维护。
 
-![](/assets/z-pro-run-windowstabs.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pro-run-windowstabs.png)
 
 ![third_party](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg) https://www.iplaysoft.com/windowtabs.html
 

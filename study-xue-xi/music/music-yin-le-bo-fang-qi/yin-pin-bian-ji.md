@@ -17,15 +17,15 @@
 Edit & mix audio, compose original music\(such as midi\), and more
 
 
-### Goldwave![](/assets/money_24.632411067194px_1218498_easyicon.net.svg)
+### Goldwave![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/money_24.632411067194px_1218498_easyicon.net.svg)
 
-![](/assets/website.svg)[http://www.goldwave.com/](http://www.goldwave.com/)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/website.svg)[http://www.goldwave.com/](http://www.goldwave.com/)
 
-### Qtractor![](/assets/github_16px_1157868_easyicon.net.svg)
+### Qtractor![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/github_16px_1157868_easyicon.net.svg)
 
 多轨音序编辑器。
 
 -音频/MIDI多轨音序器。
 
-![](/assets/website.svg)[https://qtractor.sourceforge.io](https://qtractor.sourceforge.io/qtractor-screenshots.html)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/website.svg)[https://qtractor.sourceforge.io](https://qtractor.sourceforge.io/qtractor-screenshots.html)
 

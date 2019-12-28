@@ -5,7 +5,7 @@ collect, organize, cite, and share research.
 
 与EndNote相媲美的开源文献管理器，支持WebDAV，支持[`Windows` 、`macOS`、 `Linux`]。
 
-![](/assets/z-study-sci-paper-zotero.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-sci-paper-zotero.png)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.zotero.org/download/
 

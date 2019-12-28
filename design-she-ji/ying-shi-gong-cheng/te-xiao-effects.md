@@ -14,7 +14,7 @@ Adobe出品的顶尖特效制作软件,俗称"AE"。
 
 来自 Side Effects Software，常用于好莱坞大片，用于创作惊艳的视觉效果。
 
-![](/assets/z-design-video3d-effects-houdini.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-design-video3d-effects-houdini.png)
 
 ### Nuke [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.foundry.com/products/nuke) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) v![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 

@@ -2,7 +2,7 @@
 
 IObit出品的一系列系统优化小工具
 
-![](/assets/z-system-customization-iobit-series.jpg)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-customization-iobit-series.jpg)
 
 
 

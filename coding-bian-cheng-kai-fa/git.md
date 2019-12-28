@@ -23,7 +23,7 @@ Git Extensions [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.c
 ### GitKraken [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.gitkraken.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 优美的跨平台的 Git 客户端
 
-![](/assets/z-dev-git-gitkraken.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-dev-git-gitkraken.png)
 
 ### TortoiseGit [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://tortoisegit.org/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
 

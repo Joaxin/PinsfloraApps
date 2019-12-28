@@ -21,7 +21,7 @@ is Open.
 - Awesome Python：https://github.com/vinta/awesome-python
 - Awesome Python(Chinese)：https://github.com/jobbole/awesome-python-cn
 
-![python-latest](/assets/z-dev-lang-python-latest.jpg)
+![python-latest](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-dev-lang-python-latest.jpg)
 
 - tesseract-ocr: [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
 - jupyter/JupyterLab : https://jupyter.org/
@@ -41,3 +41,9 @@ JetBrain出品的跨平台的Python开发平台，有社区版本（免费）
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) Professional For Win:
 https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows
+
+## 常用模块
+
+- [openpyxl](https://openpyxl.readthedocs.io/en/stable/#)：处理excel表格
+- python-docx：处理word文档
+- 

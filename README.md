@@ -1,4 +1,4 @@
-<p align="center"><img alt="Windows Apps Garden" src="/assets/logo.png"></p>
+<p align="center"><img alt="Windows Apps Garden" src="https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/logo.png"></p>
 <h2 align="center">☙ Windows Apps Garden ☙</h2>
 <p align="center">
 <a title="Windows Apps Garden" target="_blank" href="#" rel="nofollow">

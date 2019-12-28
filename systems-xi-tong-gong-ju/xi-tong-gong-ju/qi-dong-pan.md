@@ -18,6 +18,6 @@
 
 #### MSDN：https://msdn.itellyou.cn/
 
-![1576485196014](/assets/z-system-pe-iso-msdn-.jpg)
+![1576485196014](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-pe-iso-msdn-.jpg)
 
 微软官方: https://www.microsoft.com/zh-cn/software-download

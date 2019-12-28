@@ -26,7 +26,7 @@ nattyware开发的只有11KB大小的颜色选取器。
 
 开源的图片放大与降噪工具，使用卷积神经网络对动漫风格的图片进行放大操作（支持照片）。
 
-![](/assets/z-dev-img-m-waifu2x.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-dev-img-m-waifu2x.png)
 
 
 

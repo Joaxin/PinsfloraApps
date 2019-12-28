@@ -1,10 +1,10 @@
 ### Typora [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.typora.io/) {#Typora}
 
-![](/assets/z-study-notes-markdown-typora.jpg)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-markdown-typora.jpg)
 
 来自韩国更新频繁的超棒跨平台[`Windows` 、`macOS`、 `Linux`]本地MarkDown编辑写作工具，WYSIWYG(所见即所得)。
 
-![Typora](/assets/z-study-notes-markdown-typora.jpg)
+![Typora](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-markdown-typora.jpg)
 
 ![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg)快捷键： https://support.typora.io/Shortcut-Keys/
 

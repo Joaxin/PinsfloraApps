@@ -39,7 +39,7 @@ Process Monitor v3.52: https://docs.microsoft.com/zh-cn/sysinternals/downloads/p
 
 360全家桶，让你的电脑飞起来 :alien:
 
-![](/assets/z-system-sec-vir-360.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-sec-vir-360.png)
 
 
 

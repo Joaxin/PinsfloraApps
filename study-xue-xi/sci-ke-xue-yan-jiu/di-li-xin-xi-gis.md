@@ -6,4 +6,4 @@
 
 ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) 中文版：http://www.google.cn/intl/zh-CN/earth/
 
-![](/assets/z-study-sci-gis-googleearth.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-sci-gis-googleearth.png)

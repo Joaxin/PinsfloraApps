@@ -4,7 +4,7 @@
 
 AutoCAD（Autodesk Computer Aided Design），一款由Autodesk公司于1982年开发的自动计算机辅助设计软件，用于二维绘图、详细绘制、设计文档和基本三维设计，目前广为流行的绘图工具。
 
-![](/assets/z-design-engineer-autodesk.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-design-engineer-autodesk.png)
 
 ### CREO [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.ptc.com/en/products/cad/creo) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) 
 

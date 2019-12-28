@@ -1,6 +1,6 @@
 ### Jetbains [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/)
 
-![](/assets/z-dev-ide-jetbains.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-dev-ide-jetbains.png)
 
 ### Velocity [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://velocity.silverlakesoftware.com/)
 

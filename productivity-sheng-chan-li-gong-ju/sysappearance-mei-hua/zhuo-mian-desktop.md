@@ -12,7 +12,7 @@
 
  国人开发的仿刀剑神域风格的SAO风格启动菜单。
 
-![from official website](/assets/z-pro-beau-desktop-saoutils.gif)
+![from official website](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pro-beau-desktop-saoutils.gif)
 
 
 
@@ -20,4 +20,4 @@
 
 国产的由比特实验室开发的类似于[objectdock](https://www.stardock.com/products/objectdock/)、[rockerdock](https://punklabs.com/)的dock停靠栏工具，功能及效果类似于使用快捷键`win + tab` 切换多任务加使用Win10 自带的任务栏仿dock, 包括文件夹分类、网页收藏、任务栏透明等实用功能。
 
-![bitdock](/assets/z-pro-beau-desktop-bitdock.png)
+![bitdock](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pro-beau-desktop-bitdock.png)

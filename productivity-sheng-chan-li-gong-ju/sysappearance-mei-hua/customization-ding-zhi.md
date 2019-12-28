@@ -4,7 +4,7 @@
 
 Windows10开始菜单增强工具, 恢复Windows 7风格的经典样式。
 
-![img](/assets/z-pro-beau-custom-startisblack.png)
+![img](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pro-beau-custom-startisblack.png)
 
 ### Start10  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.stardock.com/products/start10/)  ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
@@ -14,7 +14,7 @@ Windows10开始菜单增强工具, 恢复Windows 7风格的经典样式。
 
 一款免费的开始菜单和资源管理器增强软件。
 
-![](/assets/z-pro-beau-custom-startmenu.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pro-beau-custom-startmenu.png)
 
 ### 7+ Taskbar Tweaker [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://rammichael.com/7-taskbar-tweaker)
 

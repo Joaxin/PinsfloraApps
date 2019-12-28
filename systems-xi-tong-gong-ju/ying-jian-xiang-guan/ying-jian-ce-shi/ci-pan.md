@@ -4,9 +4,9 @@
 
 出自Crystal mark的 HDD/SSD 磁盘信息工具。
 
-![crystaldiskinfo](/assets/z-hardwares-info-disk-crystaldiskinfo.JPG)
+![crystaldiskinfo](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-hardwares-info-disk-crystaldiskinfo.JPG)
 
-![crystaldiskinfo shizuku](/assets/z-hardwares-info-disk-crystaldiskinfo-shizuku.JPG)
+![crystaldiskinfo shizuku](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-hardwares-info-disk-crystaldiskinfo-shizuku.JPG)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) http://crystalmark.info/en/download/#CrystalDiskInfo
 
@@ -24,7 +24,7 @@
 
 来自德国的SSD专用测试软件, 通过测试连续读写速度、4KB随机读写等来评价SSD的综合性能。
 
-![AS SSD Benchmark](/assets/z-system-hardware-disk-assdbenchmark.jpg)
+![AS SSD Benchmark](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-hardware-disk-assdbenchmark.jpg)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)(西西中文) http://www.33lc.com/soft/62781.html#download_addr
 

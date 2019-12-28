@@ -6,7 +6,7 @@
 
 > 或者是过了GRE才能用的数据库
 
-![](/assets/z-dev-databases-postgresql-catwrap.jpg)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-dev-databases-postgresql-catwrap.jpg)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) Win: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads#windows
 

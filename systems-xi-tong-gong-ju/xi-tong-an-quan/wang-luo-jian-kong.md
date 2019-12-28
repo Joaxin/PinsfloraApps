@@ -9,7 +9,7 @@ Protect your PC from viruses, malware, and hackers.
 
 > Detect hidden threats with GlassWire's Firewall
 
-![](/assets/z-system-network-glassware.jpg)
+![GlassWire](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-network-glassware.jpg)
 
 一款防火墙软件,也是网络流量即时监控工具和分析器，可视化网络分析工具,支持程序云查毒。
 
@@ -23,6 +23,6 @@ Protect your PC from viruses, malware, and hackers.
 
 由ipip出品的 traceroute 请求可视图工具，支持全平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，支持批量PING，批量TRACE路由跟踪等。
 
-![Best Trace](/assets/z-system-network-ipip-besttrace.jpg)
+![Best Trace](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-network-ipip-besttrace.jpg)
 
 

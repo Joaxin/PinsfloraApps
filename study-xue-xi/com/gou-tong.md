@@ -12,7 +12,7 @@
 
 支持[`Windows` 、 `Android`、`iOS`]
 
-![](/assets/z-study-com-im-tim.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-com-im-tim.png)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://office.qq.com/download.html
 
@@ -64,7 +64,7 @@
 
 适合游戏社区的跨平台语音和文本聊天客户端, 支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]。
 
-![](/assets/z-study-com-im-discord.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-com-im-discord.png)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://discordapp.com/download
 
@@ -85,7 +85,7 @@ Facebook messenger 的第三方桌面程序，支持[`Windows` 、`macOS`]。
 
 开源的跨平台[`Windows` 、`macOS`、 `Linux`]聊天神器，支持常见的messenger、whatsapp、skype、telegram、wechat等
 
-![img](/assets/z-study-com-im-franz.png)
+![img](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-com-im-franz.png)
 
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.meetfranz.com/#download

@@ -3,7 +3,7 @@
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://github.com/syncthing/syncthing/releases](https://github.com/syncthing/syncthing/releases)
 不依赖云服务器的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`]，可在多台计算机之间简单安全地同步文件。
 
-![](/assets/z-study-storage-file-synvthing.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-storage-file-synvthing.png)
 
 ### Seafile [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.seafile.com/home/) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)
 
@@ -25,13 +25,13 @@ Secure Enterprise File Sharing within your data center
 
 一个开源的私有云盘解决方案，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]同步，app是收费的。
 
-![](/assets/z-study-storage-file-owncloud.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-storage-file-owncloud.png)
 
 ### Arq [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.arqbackup.com/) 
 
 备份文件到以下云端账户，支持[`Windows` 、`macOS`]。
 
-![](/assets/z-study-pan-sunc-arq.png)
+![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-pan-sunc-arq.png)
 
 ### Bvckup 2 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://bvckup2.com/)
 
