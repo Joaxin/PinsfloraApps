@@ -6,7 +6,7 @@
 
 开源的文本比较工具。
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pro-file-comp-winmerge.png)
+![Winmerge](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pro-file-comp-winmerge.png)
 
 ### P4merge [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge)
 

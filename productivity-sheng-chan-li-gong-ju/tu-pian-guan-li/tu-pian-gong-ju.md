@@ -18,6 +18,8 @@ nattyware开发的只有11KB大小的颜色选取器。
 
 图像优化与压缩工具。
 
+![Riot](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-dev-img-riot.png)
+
 ### pngquant [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://pngquant.org/)
 
 近乎无损的png压缩工具。
@@ -26,7 +28,7 @@ nattyware开发的只有11KB大小的颜色选取器。
 
 开源的图片放大与降噪工具，使用卷积神经网络对动漫风格的图片进行放大操作（支持照片）。
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-dev-img-m-waifu2x.png)
+![waifu2x-caffe](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-dev-img-m-waifu2x.png)
 
 
 

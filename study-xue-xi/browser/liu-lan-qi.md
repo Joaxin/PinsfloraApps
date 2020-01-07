@@ -1,4 +1,4 @@
-## Chrome ![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.google.com/chrome//) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-78-ff55bb.svg)
+### Chrome ![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.google.com/chrome//) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-78-ff55bb.svg)
 
 无人不知，无人不晓的谷歌浏览器，无敌的存在。
 
@@ -16,7 +16,7 @@ Chrome64bit：https://www.chrome64bit.com/
 家族：
 - Chromium [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.chromium.org/Home) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://www.chromium.org/developers/how-tos/get-the-code) chrome的开源版
 
-## Opera [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.opera.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
+### Opera [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.opera.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 来自挪威的小众而精美的Opera浏览器 ，很多浏览器的功能譬如鼠标手势、页面缩放、快速拨号、多标签浏览都是从opera开始的，还有很久以前很好用的opera手机浏览器，是Nokia塞班的年代的流行，后被iOS，安卓拉下神坛。
 Opera， 13年放弃自家Presto内核转投WebKit，目前支持[`Windows` 、`macOS`、 `Linux`、 `Android`、~~iOS~~ ]，内置广告拦截器、货币汇价以及网络工具，侧边栏的` Whatsapp`、`Facebook Messenger`、`Telegram`也比较方便。
@@ -55,7 +55,7 @@ Opera GX, 世界第一款游戏浏览器
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) 最新预览版下载：https://www.microsoftedgeinsider.com/en-us/
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-edgeinsider.jpg)
+![Edge](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-edgeinsider.jpg)
 
 ### Internet Explorer ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
@@ -76,9 +76,16 @@ Why use a browser that treats you like one? Enjoy private, secure and fast brows
 
 ![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-lunascape.png)
 
+### Whale [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://whale.naver.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
+
+由韩国Naver开发的基于chrome内核的鲸鱼浏览器。
+
+![Whale](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-whale.png)
+
 ### Tor ![law](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/zlaw.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.torproject.org) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
-知名的洋葱浏览器，启用匿名加密通信，大家都懂。
+知名的洋葱浏览器，启用匿名加密通信。
+
 
 ### 国内浏览器：
 

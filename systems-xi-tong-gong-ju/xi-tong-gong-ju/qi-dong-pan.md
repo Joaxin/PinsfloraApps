@@ -14,6 +14,8 @@
 
 开源的USB启动盘创建工具。
 
+![Rufus](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-pe-iso-rufus-.png)
+
 ### 资源网站
 
 #### MSDN：https://msdn.itellyou.cn/

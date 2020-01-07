@@ -35,7 +35,7 @@ case:wholeword:Trees !flowers "D:\cocofiles\"
 
 ![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pruductivity-file-filelocatorpro.jpg)
 
-一款极为强大的支持文件目录搜索，压缩包搜索、文件内容搜索的高级文件搜索软件。
+一款极为强大的支持文件目录搜索，压缩包搜索、PDF、Excel等文件内容搜索等的高级文件搜索软件利器。
 
 ### Duplicate Cleaner ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.digitalvolcano.co.uk/duplicatecleaner.html) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 

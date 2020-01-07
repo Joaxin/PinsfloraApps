@@ -2,6 +2,8 @@
 
 分析你的电脑存储空间，让你知道接下来要整理哪块儿。
 
+![SpaceMonger](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pro-file-clean-spacemonger.png)
+
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://spacemonger.en.softonic.com/download
 
 ### WinDirStat [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://windirstat.net/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
