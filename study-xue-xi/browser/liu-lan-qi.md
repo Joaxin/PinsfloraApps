@@ -82,10 +82,6 @@ Why use a browser that treats you like one? Enjoy private, secure and fast brows
 
 ![Whale](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-whale.png)
 
-### Tor ![law](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/zlaw.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.torproject.org) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
-
-知名的洋葱浏览器，启用匿名加密通信。
-
 
 ### 国内浏览器：
 

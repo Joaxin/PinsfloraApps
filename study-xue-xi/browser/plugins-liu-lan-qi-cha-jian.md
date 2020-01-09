@@ -1,6 +1,6 @@
 > 以谷歌浏览器为例
 
-### 插件网站
+## 插件网站
 
 - 官网： https://chrome.google.com/webstore/category/extensions
 - CRX4Chrome：https://www.crx4chrome.com/
@@ -10,7 +10,7 @@
 - ChromeFor： https://www.chromefor.com/
 
 
-### ![plugins](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/plugins.svg) 插件推荐
+## ![plugins](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/plugins.svg) 插件推荐
 
 Chrome增强：
 
@@ -164,6 +164,10 @@ https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcme
 - Surfingkeys：快捷键工具，比vim好用
 https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc
 
+- Reggy : 保护隐私，随机生成用户密码邮箱地址并一键填表
+
+  https://chrome.google.com/webstore/detail/reggy/pnneajlgffpejnabhionnhdfhibijihe
+
 - Tab Resize - split screen layouts：Chrome分割屏幕布局
 https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc
 
@@ -218,4 +222,4 @@ https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkf
 
 
 
-### 插件安装![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg)
+## 插件安装![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg)

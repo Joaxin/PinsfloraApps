@@ -35,3 +35,7 @@
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)(绿茶中文) http://www.33lc.com/soft/62781.html#download_addr
 
 https://www.cr173.com/soft/53396.html
+
+### PrimoCache [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.romexsoftware.com/zh-cn/primo-cache/download.html)  ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
+
+一款可以把物理内存虚拟成硬盘缓存的硬盘优化软件。
