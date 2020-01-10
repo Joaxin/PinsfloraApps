@@ -21,10 +21,10 @@ https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajf
 https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
 
 - 谷歌上网助手 开发版
-![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)： http://googlehelper.net/
+![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)： http://googlehelper.net/ OR http://www.ggfwzs.com
 https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B-%E5%BC%80%E5%8F%91%E7%89%88/cieikaeocafmceoapfogpffaalkncpkc
 
-- Chrono下载管理器：替代谷歌浏览器的下载工具，貌似商店找不到了
+- Chrono下载管理器：替代谷歌浏览器的下载工具，貌似chrome商店找不到了
 https://www.chromefor.com/down/?wp_file=mciiogijehkdemklbdcbfkefimifhecn/chrono-download-manager_v0.10.0.crx&tdd=1574315909
 
 - 扩展管理器（Extension Manager）：一键管理所有扩展，快速开启/禁用
@@ -39,8 +39,11 @@ https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcm
 - Imagus：鼠标指针悬停在链接或缩略图上时直接在当前页面的弹出视图上显示这些图片、HTML5 视频/音频和内容专辑。
 https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab
 
+- Flash Player for Chrome：flash工具
+https://chrome.google.com/webstore/detail/flash-player-for-chrome/pdgcfajiagepadbifdlfgiamcjdegkfp
 
-学习娱乐：
+
+学习助手：
 
 - 沙拉查词-聚合词典划词翻译：超级好用且专业的划词翻译扩展
 https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg
@@ -53,9 +56,6 @@ https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakk
 
 - Comic++：一款改变你阅读方式的漫画阅读器，摈弃传统的翻页模式，直接采用滚动翻页模式等等
 https://chrome.google.com/webstore/detail/comic%2B%2B/mhekhlkmjaleehfnfjfpejhegjieaaef
-
-- Flash Player for Chrome：flash工具
-https://chrome.google.com/webstore/detail/flash-player-for-chrome/pdgcfajiagepadbifdlfgiamcjdegkfp
 
 - Honey： 自动寻找优惠券和促销码
 https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj
@@ -117,7 +117,7 @@ https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccoheja
 - Chrome Regex Search：使chrome支持正则表达式
 https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn
 
-- Amino: Live CSS Editor： 来自韩国的棒棒的CSS实时编辑器
+- Amino: Live CSS Editor： 来自韩国棒棒的CSS实时编辑器
 https://chrome.google.com/webstore/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf
 
 - Stylish-为任意网站自定义主题：由于隐私问题下架过，目前可选
@@ -198,6 +198,10 @@ https://chrome.google.com/webstore/detail/fast-emoji-search/kndccmeghdbaoobnmbbe
 - Favioli：给没有图标的网页添加emoji
 https://chrome.google.com/webstore/detail/favioli/pnoookpoipfmadlpkijnboajfklplgbe
 
+- SelectionSK： 文本选择加强
+
+  https://chrome.google.com/webstore/detail/selectionsk/npohodmlkdednnlbhfegpnhohpgckocf
+
 - Highlight or Hide Search Engine Results： 搜索结果相同域名颜色高亮
 https://chrome.google.com/webstore/detail/highlight-or-hide-search/ilopipickdimglkalhckioobifbiinbk
 
@@ -213,6 +217,10 @@ https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiok
 - Pushbullet： 文件传输工具
 https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd
 https://play.google.com/store/apps/details?id=com.pushbullet.android
+
+- bookmark organiser: 书签排序工具
+
+https://chrome.google.com/webstore/detail/bookmark-organiser/nkboakpdleaeljleohmndcmfofjlnpbd
 
 - 书签管理器快速拨号| Papaly
 https://chrome.google.com/webstore/detail/bookmark-manager-speed-di/pdcohkhhjbifkmpakaiopnllnddofbbn
