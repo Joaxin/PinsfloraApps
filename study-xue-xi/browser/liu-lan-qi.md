@@ -51,7 +51,10 @@ Opera GX, 世界第一款游戏浏览器
 
 ### Edge [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.microsoft.com/zh-cn/windows/microsoft-edge) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
-由微软开发的，基于chromium的，越来越好用的浏览器。
+由微软开发的，基于chromium的，越来越好用的浏览器, 一般下载BETA版即可，也提供了Dev和Canary版本供下载使用, 支持[`Windows` 、`macOS`、 `Windows Server`]。
+
+- Dev版是一周更新版本(**Updated weekly**)，比Canary更稳定；
+- Canary版本则几乎每天都会更新(**Updated daily**)，可以最先体验最新进展.
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) 最新预览版下载：https://www.microsoftedgeinsider.com/en-us/
 

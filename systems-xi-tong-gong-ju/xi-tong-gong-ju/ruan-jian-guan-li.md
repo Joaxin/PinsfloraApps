@@ -11,13 +11,13 @@
 >SUMo (Software Update Monitor) keeps your PC up-to-date & safe by using the most recent version of your favorite software !
 Unlike built-in auto update features, SUMo tells you if updates are available before you need to use your software.
 
-一款简单的软件更新工具，免费版功能较少，中文好像乱码。
+一款简单的软件更新工具，自动检测电脑内的软件是否有可用的新版本, 免费版功能较少，中文好像乱码。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) http://www.kcsoftwares.com/?download
 
 ### Scoop [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://github.com/lukesampson/scoop/) ![CMD](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/lukesampson/scoop)
 
-Windows 的开源命令行安装程序。
+Windows 上的开源命令行安装程序。
 
 ### Chocolatey [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://chocolatey.org/)  ![CMD](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/chocolatey/ChocolateyGUI)
 

@@ -24,7 +24,9 @@ Adobe出品的专为社交媒体开发的多端设计软件，用于海报制作
 
 ### PhotoZoom Pro
 
+Magic Bullet Looks
 
+avisynth
 
 * Fontcreator
 * Image Triangulator

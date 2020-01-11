@@ -15,7 +15,7 @@ Where brilliant ideas are captured, fleshed out, and realized.
 
 一款极简的大纲笔记应用，也可以一键生成思维导图，平台支持如下，
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-outline-mubu.png)
+![Mubu](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-outline-mubu.png)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://mubu.com/apps
 

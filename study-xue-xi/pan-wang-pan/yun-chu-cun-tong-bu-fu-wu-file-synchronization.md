@@ -47,7 +47,8 @@ Secure Enterprise File Sharing within your data center
 
 免费的、开源的文件夹比较和同步软件，双向同步备份重要资料。
 
-
+### FileGee  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://en.filegee.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
+一款优秀的企业文件同步备份系统,集文件备份、同步、加密、分割于一身。功能强大,有效提高工作效率, 免费版个人使用足矣。
 
 ### **Tonido**  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.tonido.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 

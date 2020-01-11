@@ -69,6 +69,7 @@
     * [解码转码 - Decode](design-she-ji/ying-shi-gong-cheng/jie-ma-decode.md)
     * [剪辑 - Video Editing](design-she-ji/ying-shi-gong-cheng/jian-ji-te-xiao-video-editing.md)
     * [特效 - Effects](design-she-ji/ying-shi-gong-cheng/te-xiao-effects.md)
+    * [工具插件 - Plugins](design-she-ji//ying-shi-gong-cheng/mv-tools-plugins.md)
 * [Dev Tools - 编程开发](coding-bian-cheng-kai-fa.md)
   * [IDE - 集成开发环境](coding-bian-cheng-kai-fa/ide.md)
   * [Editor - 编辑器 ](coding-bian-cheng-kai-fa/bian-ji-qi.md)

@@ -2,7 +2,7 @@
 
 > Cinematic visual effects and motion graphics. Make a big scene bigger.
 
-Adobe出品的顶尖特效制作软件,俗称"AE"。
+Adobe出品的顶尖特效制作软件,俗称`AE`。
 
 ### HitFilm [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://fxhome.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
