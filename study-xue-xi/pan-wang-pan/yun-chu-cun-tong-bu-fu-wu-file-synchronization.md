@@ -1,9 +1,22 @@
-### Syncthing [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://syncthing.net/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/syncthing) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
+### Syncthing [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://syncthing.net/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/syncthing) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)  ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
-![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://github.com/syncthing/syncthing/releases](https://github.com/syncthing/syncthing/releases)
 不依赖云服务器的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`]，可在多台计算机之间简单安全地同步文件。
 
 ![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-storage-file-synvthing.png)
+
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://github.com/syncthing/syncthing/releases](https://github.com/syncthing/syncthing/releases)
+
+### Resilio sync [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.resilio.com/)  ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg)  ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
+
+由 BitTorrent 公司开发的专有的对等网络数据同步工具, 跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，一般用来输入神KEY同步资源。
+
+![1578891603244](../../assets/z-study-storage-file-resiliosync.png)
+
+### 微力同步 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.verysync.com/)   ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
+
+一款简单易用的类似于Resilio sync的国产多平台文件同步软件，智能 P2P 技术加速同步，同时支持 AES 加密处理，支持所有平台。
+
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [http://www.verysync.com/download.html](http://www.verysync.com/download.html)
 
 ### Seafile [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.seafile.com/home/) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)
 
