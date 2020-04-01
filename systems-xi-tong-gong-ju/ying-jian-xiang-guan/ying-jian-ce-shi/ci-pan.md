@@ -20,6 +20,10 @@
 
 简单易用的硬盘检测工具。
 
+![HD Tune1](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-hardware-disk-hdtune01.png)
+
+![HD Tune2](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-hardware-disk-hdtune02.png)
+
 ### AS SSD Benchmark [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.alex-is.de/PHP/fusion/downloads.php)
 
 来自德国的SSD专用测试软件, 通过测试连续读写速度、4KB随机读写等来评价SSD的综合性能。

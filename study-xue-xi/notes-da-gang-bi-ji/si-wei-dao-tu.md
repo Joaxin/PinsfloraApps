@@ -24,6 +24,8 @@ Connect everything that matters in your work, to everywhere you are — and get 
 
 ### iMindMap [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://imindmap.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
-一款方便的手绘思维导图软件，捕捉您的最佳想法，可视化和理解数据，支持[`Windows` 、`macOS`]
+一款方便的手绘思维导图软件，捕捉您的最佳想法，可视化和理解数据，支持[`Windows` 、`macOS`]。
 
-。
+
+
+![compare](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-software-compare-zhihu.png)

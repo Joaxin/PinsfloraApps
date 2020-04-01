@@ -4,6 +4,8 @@
 
 谷歌公司开发的虚拟地球软件，可俯瞰全球，游览全世界，模拟飞行的谷歌地球，支持[`Windows` 、`macOS`、 `Android`、`iOS`]。
 
-![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) 中文版：http://www.google.cn/intl/zh-CN/earth/
+![google earth](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-sci-gis-googleearth_rings.png)
 
 ![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-sci-gis-googleearth.png)
+
+![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) 中文版：http://www.google.cn/intl/zh-CN/earth/
