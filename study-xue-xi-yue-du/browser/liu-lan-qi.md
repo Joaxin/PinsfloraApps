@@ -1,4 +1,4 @@
-### Chrome ![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.google.com/chrome//) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-78-ff55bb.svg)
+### Chrome ![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.google.com/chrome//) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-80-ff55bb.svg)
 
 无人不知，无人不晓的谷歌浏览器，无敌的存在。
 
@@ -28,7 +28,7 @@ Opera， 13年放弃自家Presto内核转投WebKit，目前支持[`Windows` 、`
 
 Opera GX, 世界第一款游戏浏览器
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-operaGX.jpg)
+![Opera GX](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-operaGX.jpg)
 
 ### Yandex {#Yandex} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://browser.yandex.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 

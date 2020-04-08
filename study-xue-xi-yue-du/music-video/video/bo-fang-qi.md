@@ -6,7 +6,7 @@
 
 一款极为强大的高清播放视频插件,配合譬如PotPlayer软件,可以实现PC 上播放高清视频的最强画质。
 
-### VLC{#VLC} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.videolan.org/vlc/) ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/videolan/vlc)
+### VLC{#VLC} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.videolan.org/vlc/)  ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/videolan/vlc)
 
 > VLC 是一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议。
 
@@ -19,6 +19,12 @@
 * Windows, Linux, Mac OS X, Unix, iOS, Android ...
 * **Completely Free**
 * no spyware, no ads and no user tracking.
+
+### **Splash** [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://mirillis.com/splash-requirements)  ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) 
+
+一款由波兰 Mirillis 软件公司出品的专为解码全高清(UltraHD)影片而打造的高级视频播放器, 界面简洁美观， 操作方便。
+
+![Splash Player](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-video-player-splash.png)
 
 ### 爱奇艺万能播放器 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://store.iqiyi.com/web/iqiyi/detail/qisuyingyin.action)
 

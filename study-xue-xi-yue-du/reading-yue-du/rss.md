@@ -14,7 +14,7 @@ RSS(Really Simple Syndication，简易信息聚合), 即是将新闻资讯、博
 
 支持 [`MacOS` `Windows`], 还可添加无 RSS 源的网站。
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-rss-irreader.jpg)
+![Irreader](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-rss-irreader.jpg)
 
 ### BlueReader [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://bluereader.org/)
 
@@ -36,7 +36,7 @@ bringing people together to talk about the world
 
 支持[`Web` 、 `Android`、`iOS`]的老牌RSS阅读器。
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-rss-newsblur.jpg)
+![NewsBlur](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-rss-newsblur.jpg)
 
 ### Feedly [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://feedly.com/i/welcome) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
@@ -44,7 +44,7 @@ bringing people together to talk about the world
 
 支持[`Web` 、 `Android`、`iOS`]的现代化老牌RSS阅读器。
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-rss-feedly.jpg)
+![Feedly](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-rss-feedly.jpg)
 
 ### Newsflow  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.microsoft.com/en-us/p/newsflow/9nblggh58s5r#activetab=pivot:overviewtab) 
 

@@ -2,7 +2,7 @@
 
 来自著名steinberg公司的专业功能强大音频处理编辑软件，用于创建，录制，编辑和制作音乐。
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-mv-music-making-cubase.png)
+![Cubase](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-mv-music-making-cubase.png)
 
 ### Nuendo [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://new.steinberg.net/nuendo/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
