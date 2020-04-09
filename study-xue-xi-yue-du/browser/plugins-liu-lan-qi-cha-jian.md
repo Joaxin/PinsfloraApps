@@ -173,6 +173,12 @@ https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcme
 - Surfingkeys：快捷键工具，比vim好用
 https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc
 
+- crxMouse Chrome™ 手势
+
+  Gestures for Chrome(TM)汉化版.方便,快捷,充分发掘鼠标的所有操作.功能包括:鼠标手势,超级拖曳,滚轮手势,摇杆手势,平滑滚动,标签页列表等.
+
+  https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo/related
+
 - Reggy : 保护隐私，随机生成用户密码邮箱地址并一键填表
 
   https://chrome.google.com/webstore/detail/reggy/pnneajlgffpejnabhionnhdfhibijihe

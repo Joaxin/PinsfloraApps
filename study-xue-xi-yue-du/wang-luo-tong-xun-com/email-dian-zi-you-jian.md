@@ -30,7 +30,7 @@ Mailspring是`Nylas N1`的分支版本，有付费版本，界面简洁美观，
 
 > Designed to delight, for all your email accounts, on all your devices
 
-![Newton](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-com-mail-newton.svg)
+![Newton](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-com-mail-newton.png)
 
 ### Postbox ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.postbox-inc.com/)
 
