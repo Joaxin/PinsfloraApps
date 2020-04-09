@@ -13,7 +13,7 @@
 
 
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-mindmap-xmind.png)
+![XMind](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-mindmap-xmind.png)
 
 ### Mindmanager [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.mindjet.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 

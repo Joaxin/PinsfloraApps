@@ -62,7 +62,7 @@ Google生态系统的云存储解决方案。
 
 将网络网盘映射为本地磁盘，同时支持`webdav`、`FTP`、`SFTP`。
 
-![1576823632300](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-pan-sync-raidrive.png)
+![Raidrive](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-pan-sync-raidrive.png)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)  https://www.raidrive.com/Download
 

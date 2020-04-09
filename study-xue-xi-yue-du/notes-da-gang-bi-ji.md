@@ -1,9 +1,3 @@
 > 管理知识
+>
 > 软件只是一种工具，重要的是你如何运用它们。
-
-### Instapaper
-https://www.instapaper.com
-
-### Pocket
-
-https://getpocket.com/

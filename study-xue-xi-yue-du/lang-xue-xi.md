@@ -1,4 +1,4 @@
-也许，你还在寻找要智能纠错，推荐两个：
+也许，你还在寻找要智能纠错，这里推荐两个：
 
 ### LanguageTool [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://languagetool.org/)
 

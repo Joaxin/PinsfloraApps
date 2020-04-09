@@ -7,11 +7,11 @@
 <img src="https://img.shields.io/github/repo-size/joaxin/PinsfloraApps.svg?style=flat-square"></a>
 <a title="LICENSE" target="_blank" href="#" rel="nofollow">
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"></a>
-<a title="Total Apps" target="_blank" href="#" rel="nofollow"><img src="https://img.shields.io/badge/收录总数-约616-00ccbb.svg?style=flat-square"></a>
+<a title="Total Apps" target="_blank" href="#" rel="nofollow"><img src="https://img.shields.io/badge/收录总数-约630-00ccbb.svg?style=flat-square"></a>
 <a title="Contact" target="_blank" href="https://t.me/pinsflora" rel="nofollow"><img src="https://img.shields.io/badge/☎️contact-Telegram-ff55bb.svg?style=flat-square"></a></p>
 
 <p align="center">A collection of windows software garden.</p>
-<p align="center">注：本文档仍在建设中，施工进度61%..... </p>
+<p align="center">注：本文档仍在建设中，施工进度75%..... </p>
 <p align="center"><blockquote>Discover,  transform, create the new world from the powerful software!</blockquote></p>
 <br/>
 
@@ -34,7 +34,7 @@
 
 ---
 
-1 [![stop_sign_continue](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/stop_sign_continue_Q.svg)](https://www.easyicon.net/language.en/1236272-stop_icon.html) 已经停更的，在花园里种植收录的，意味着暂时没有更好的替代品，如果你有好的，可引荐
+1 [![stop_sign_continue](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/stop_sign_continue_Q.svg)](https://www.easyicon.net/language.en/1236272-stop_icon.html) 已经停更的，在花园里收录的，意味着暂时没有更好的替代品，如果你有好的，可引荐
 
 2 [![time_whathappened](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/time_whathappened.svg)](https://www.easyicon.net/language.en/1215615-time_icon.html) 疑似停止维护，长期不更
 
@@ -94,11 +94,11 @@
 ## Contributors
 ---
 
-如果你有软件或文档方面更好的建议，欢迎提交`PR`以及通过`Issues`来讨论优化，或者联系Telegram群组。
+如果你有软件或文档方面更好的建议，欢迎提交`PR`或者通过`Issues`来讨论优化，以及联系Telegram群组。
 
 > 另：长期征集软件截图 👻
 
-If you have any suggestions for software garden, you can mention them in issues or raise a pull request, or contact me on Telegram Group.
+If you have any suggestions for improvement, questions, or concerns, please do not hesitate to mention them in issues or raise a pull request, or contact me on Telegram Group.
 
-Made with ❤ by Joaxin, Pinsflora.com ©2019 
+Made with ❤ by Joaxin, Pinsflora.com ©2020 
 

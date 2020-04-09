@@ -2,7 +2,7 @@
 
 不依赖云服务器的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`]，可在多台计算机之间简单安全地同步文件。
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-storage-file-synvthing.png)
+![Syncthing](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-storage-file-synvthing.png)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://github.com/syncthing/syncthing/releases](https://github.com/syncthing/syncthing/releases)
 
@@ -10,7 +10,7 @@
 
 由 BitTorrent 公司开发的专有的对等网络数据同步工具, 跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，一般用来输入神KEY同步资源。
 
-![1578891603244](../../assets/z-study-storage-file-resiliosync.png)
+![Resilio sync](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-storage-file-resiliosync.png)
 
 ### 微力同步 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.verysync.com/)   ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
