@@ -1,4 +1,11 @@
-### EMDB [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.emdb.eu//)
+### ZY-Player [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://zyplayer.fun)  ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)  [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Hunlongyu/ZY-Player)
+
+ ZY-Player 跨平台支持[`Windows` 、`macOS`、 `Linux`]的桌面端资源播放器.简洁无广告高颜值, 支持视频分类以及 收藏夹同步更新追剧等 。
+
+![ZY-Player](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-video-zhui-ju-zy-player.png)
+
+
+### EMDB [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.emdb.eu/)
 
 一款跟踪电影和电视连续剧以及进行收藏管理的应用。
 
