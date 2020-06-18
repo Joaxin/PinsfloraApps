@@ -71,14 +71,28 @@ https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj
 
 聚精会神：
 
-- AdBlock： 知名的广告过滤器https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
+- AdBlock： 知名的广告过滤器
+
+  https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
 
 - AdGuard 广告拦截器：广告拦截扩展
 https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg
 
-- 广告净化器：非常好用的广告过滤器，也能屏蔽优酷、爱奇艺、腾讯视频等的广告
-![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) https://www.yiclear.com/download/
-https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E5%87%80%E5%8C%96%E5%99%A8/ccjdmnikdhkffjkmbinbmbpaplkoihgp?hl=zh-CN
+- ~~广告净化器：挺好用的广告过滤器，也能屏蔽优酷、爱奇艺、腾讯视频等的广告~~
+  ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) https://www.yiclear.com/download/
+  https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E5%87%80%E5%8C%96%E5%99%A8/ccjdmnikdhkffjkmbinbmbpaplkoihgp?hl=zh-CN
+
+  > 原作者劫持推广链接, 被火绒投诉，已无法使用
+  >
+  > 参考: https://zhuanlan.zhihu.com/p/111522990
+
+- Adblock Plus - 免费的广告拦截器
+
+  [https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb](https://chrome.google.com/webstore/detail/adblock-—-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
+
+- 广告终结者
+
+  [https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl](https://chrome.google.com/webstore/detail/广告终结者/fpdnjdlbdmifoocedhkighhlbchbiikl)
 
 - 关灯看视频：心无旁骛看视频
 https://chrome.google.com/webstore/detail/turn-off-the-lights-for-y/bfbmjmiodbnnpllbbbfblcplfjjepjdn

@@ -56,9 +56,40 @@ Vim的竞争对手，类似于php是最好的语言。
 
 ### Visual Studio Code [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](ttps://code.visualstudio.com/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Microsoft/vscode) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
+> VS Code is an integrated IDE which was developed by MICROSOFT, but its unlike the other Microsoft software like office and windows , its completely free and open source, and runs in different platforms.
+
 ![plugins](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/plugins.svg)插件地址： https://marketplace.visualstudio.com/
+![Doc](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/documents.svg) https://code.visualstudio.com/docs#vscode
 
 微软出品的更新维护频繁的超好用的开源文本编辑器。
+
+常用插件:
+- Material Theme
+- Date & Time: Displays a clock and date information in the status bar.
+- vscode-faker: Generate fake data for name, address, lorem ipsum, commerce and much more
+- Python
+- Django
+- Javascript
+- XML Tools
+- JSON Tools
+- Color Info: Provides quick information about css colors 
+- ESLint: Integrates ESLint JavaScript into VS Code. 
+- jQuery Code Snippets
+- open in browser  
+- Quokka.js: Live Scratchpad for JavaScript
+- Semantic UI Snippets 
+- SVG Viewer 
+- vscode-icons  
+- Vetur: Vue tooling for VS Code 
+- VueHelper  
+- Markdown All in One:All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
+- Markdown+Math: LaTeX Math for Markdown
+
+![Keng](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/keng.svg) 
+
+- `Can not install any extensions from vs code`
+
+  需重置IE设置
 
 ### Emeditor {#Emeditor} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.emeditor.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 

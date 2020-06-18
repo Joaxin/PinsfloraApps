@@ -1,6 +1,4 @@
-> 素食则气不浊；独宿则神不浊；默坐则心不浊；读书则口不浊。——曾国藩
+Reading is a fulfilling, mind-enhancing journey. 
 
-
-
-> 粗缯大布裹生涯，腹有诗书气自华。胸藏文墨怀若谷，腹有诗书气自华。
-
+In reading, many positive values, world views, and philosophy of life would be carved.
+ If we want to progress and see a bit farther than some others, we'd better stand on the shoulders of giants, which inspire us to read more masterpieces of predecessors, and reading them is equivalent to communicating with men of great minds.

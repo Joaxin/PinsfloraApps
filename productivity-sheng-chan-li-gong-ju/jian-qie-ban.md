@@ -1,6 +1,6 @@
 ### COPYQ [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://hluk.github.io/CopyQ/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://sourceforge.net/projects/copyq/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
-毛子开发的开源的[`Windows` 、`macOS`、 `Linux``]强大剪贴板工具，支持连续粘贴。
+毛子开发的开源的[`Windows` 、`macOS`、 `Linux``]强大高级剪贴板管理器，支持连续粘贴, 保存的剪贴板内容可以在以后复制并直接粘贴到任何应用程序中。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://github.com/hluk/CopyQ/releases
 
@@ -21,6 +21,10 @@
 > ClipX is a tiny clipboard history manager. It is sweet, it is free, use it.
 
 体积很小的剪切板工具。
+
+
+
+> WIn10 自带：Win + V
 
 
 

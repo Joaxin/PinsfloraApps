@@ -1,4 +1,3 @@
-#
 ## Foxmail [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.foxmail.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 从 1997 年就有的邮件客户端， 现属于腾讯的中文邮件客户端,界面比较简洁与传统，支持win和Mac，与qq、gmail邮箱相容性不错。

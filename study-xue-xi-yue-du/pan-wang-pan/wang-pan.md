@@ -75,3 +75,4 @@ Google生态系统的云存储解决方案。
 
 - [Hubic](https://hubic.com/): 停止注册
 - 360个人版
+- [关于 Pandownload 和百度网盘，你想知道的都在这里了](https://zhuanlan.zhihu.com/p/135888532)

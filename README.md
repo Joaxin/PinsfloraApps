@@ -84,6 +84,8 @@
 
 ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) [Gitbook](https://gitbookio.gitbooks.io/documentation/index.html)
 
+![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) https://alternativeto.net/
+
 若非特殊声明，文档中所有项目协议均为：
 
 [CC BY-NC-SA 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
