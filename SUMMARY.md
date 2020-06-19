@@ -81,6 +81,7 @@
     * [R](coding-bian-cheng-kai-fa/lang/r.md)
     * [Python](coding-bian-cheng-kai-fa/lang/python.md)
     * [C/C++](coding-bian-cheng-kai-fa/lang/cc++.md)
+    * [Go](coding-bian-cheng-kai-fa/lang/go.md)
     * [Javascript](coding-bian-cheng-kai-fa/lang/javascript.md)
     * [Java](coding-bian-cheng-kai-fa/lang/java.md)
     * [.Net](coding-bian-cheng-kai-fa/lang/net.md)

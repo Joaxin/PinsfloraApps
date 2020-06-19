@@ -1,4 +1,4 @@
-### Node.js {#Node-js} ![](https://img.shields.io/badge/LTS-12.13.1-ff55bb.svg) ![](https://img.shields.io/badge/Latest-13.2-ff55bb.svg)
+### Node.js {#Node-js} ![](https://img.shields.io/badge/LTS-12.18.1-ff55bb.svg) ![](https://img.shields.io/badge/Latest-14.4.0-ff55bb.svg)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
