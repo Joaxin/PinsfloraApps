@@ -1,4 +1,4 @@
-### Chrome ![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.google.com/chrome//) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-80-ff55bb.svg)
+### Chrome ![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.google.com/chrome//) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-84-ff55bb.svg)
 
 无人不知，无人不晓的谷歌浏览器，无敌的存在。
 

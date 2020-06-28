@@ -4,8 +4,10 @@
 实用—— 占用资源少兼容性强，办公、游戏更流畅
 安静 —— 尽职尽责分内之事，默默守护不扰用户更贴心
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-secruity-virus-huorong.jpg)
+![火绒](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-secruity-virus-huorong.jpg)
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.huorong.cn/person5.html
+
+![火绒2](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-system-secruity-virus-huorong2.jpg)
 
 ### Avast [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.avast.com)
 
