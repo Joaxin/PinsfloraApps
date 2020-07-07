@@ -9,8 +9,9 @@
 
 - ![third_party](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)
 飞蚂蚁纯净下载站：http://www.chrome.hk.cn/
-- ![third_party](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)
-Chrome64bit：https://www.chrome64bit.com/
+- Chromeliulanqi: http://www.chromeliulanqi.com/
+- Chromedownloads: https://www.chromedownloads.net/
+- Chrome64bit：https://www.chrome64bit.com/
 
 
 家族：

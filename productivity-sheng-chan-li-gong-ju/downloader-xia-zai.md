@@ -75,8 +75,15 @@ Internetdownloadmanager，业界下载百度云直链的工具，也支持整站
 
 #### 其他
 
+<https://github.com/aria2/aria2> (多线程下载工具)
+
+<https://github.com/mayswind/AriaNg> （Ari2c的webui）
+
+<https://github.com/weolar/miniblink49> （一个小巧、轻量的浏览器内核）
+
 ~~硕鼠~~
 Transmission: 过久未维护
 
+~~https://github.com/proxyee-down-org/proxyee-down~~
 
-
+~~https://github.com/GangZhuo/BaiduPCS~~

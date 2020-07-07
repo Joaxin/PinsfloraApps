@@ -2,7 +2,7 @@
 
 百度公司出品的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]资源分享与在线存储平台。
 
-> 第三方下载已基本失效，其实如果你物尽其用，会员并不贵,。
+> 第三方下载例如[PANDOWNLOAD](http://pandownload.com/)、 [SpeedPan](https://www.speedpan.com/)、已基本失效，其实如果你物尽其用，会员并不贵,。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)  http://pan.baidu.com/download
 

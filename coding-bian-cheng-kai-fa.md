@@ -39,3 +39,5 @@
 豆瓣pypi：https://pypi.doubanio.com/
 
 淘宝NPM：https://npm.taobao.org/
+
+Fedora 中文社区软件源：https://zh.fedoracommunity.org/repo/

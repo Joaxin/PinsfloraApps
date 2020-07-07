@@ -137,6 +137,10 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 - 暴力猴：油猴的替代品
 https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
 
+- Octotree: github增强
+
+  https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/related
+
 - Chrome Regex Search：使chrome支持正则表达式
 https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn
 
@@ -261,7 +265,7 @@ https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkf
 
 # 第三方插件安装![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg)
 
-1. 以Chrono插件为例，首先在第三方插件下载站搜索并下载该crx插件。
+1. 以Chrono插件为例，首先在第三方插件下载站搜索并下载该crx插件，或者在chrome商店(若有)复制链接并在https://chrome-extension-downloader.com/下载crx安装包。
 2. 如果直接在开发者模式安装会显示`程序包无效："CRX_HEADER_INVALID`，所以需要将crx文件扩展名改为zip，然后拖拽安装即可。
 3. 该方法在chrome80下测试通过。
 
