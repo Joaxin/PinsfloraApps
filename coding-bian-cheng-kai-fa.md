@@ -1,3 +1,9 @@
+> So what is the most important thing to engage in the coding lifestyle?
+
+Yes, **A computer** either running Windows, macOS, or Linux ( you can use phone / Tab also, though not convenient, e.g. *C4droid* *Termux*) and use a nice and powerful **software** would greatly improve your working efficiency.
+
+And here I only listed the Windows Softwares I have used.
+
 ### Jetbains [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/)
 
 ![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-dev-ide-jetbains.png)

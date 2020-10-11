@@ -51,7 +51,9 @@
 
 在线编辑: https://www.xodo.com/app/#/
 
+### Bookxnote [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.bookxnote.com/)![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
 
+支持打开PDF和EPUB两种格式的电子书，一边阅读一边划重点，提供多种划重点笔记工具的PDF阅读笔记工具。
 
 
 

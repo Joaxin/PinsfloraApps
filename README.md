@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/repo-size/joaxin/PinsfloraApps.svg?style=flat-square"></a>
 <a title="LICENSE" target="_blank" href="#" rel="nofollow">
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"></a>
-<a title="Total Apps" target="_blank" href="#" rel="nofollow"><img src="https://img.shields.io/badge/收录总数-约630-00ccbb.svg?style=flat-square"></a>
+<a title="Total Apps" target="_blank" href="#" rel="nofollow"><img src="https://img.shields.io/badge/收录总数-约635-00ccbb.svg?style=flat-square"></a>
 <a title="Contact" target="_blank" href="https://t.me/pinsflora" rel="nofollow"><img src="https://img.shields.io/badge/☎️contact-Telegram-ff55bb.svg?style=flat-square"></a></p>
 
 <p align="center">A collection of windows software garden.</p>
@@ -90,12 +90,12 @@
 
 [CC BY-NC-SA 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
+![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
 
 ## Contributors
 ---
 
-如果你有软件或文档方面更好的建议，欢迎提交`PR`或者通过`Issues`来讨论优化，以及联系Telegram群组。
+如果你有软件或文档方面更好的建议，欢迎提交`PR`或者通过`Issues`来讨论优化，以及联系Telegram群组, 欢迎Star本项目 ♪(^∇^*)。
 
 > 另：长期征集软件截图 👻
 

@@ -1,3 +1,9 @@
+- **A version control system**, to manage files on servers, collaborate on a project with a team, share code and assets, and avoid editing conflicts. 
+
+  [GitHub](https://github.com/) code hosting service, based on [Git](http://git-scm.com/).
+
+- **An automation system,** like [Grunt](http://gruntjs.com/) or [Gulp](http://gulpjs.com/) to automatically perform repetitive tasks, such as minifying code and running tests.
+
 ### Github [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://desktop.github.com/) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)
 
 > Extend your GitHub workflow beyond your browser with GitHub Desktop, completely redesigned with Electron. Get a unified cross-platform experience that’s completely open source and ready to customize.

@@ -1,6 +1,8 @@
-### AIDA64 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.aida64.com/)
+### AIDA64 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.aida64.com/) ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
-查看系统信息。
+一款功能强大的实用工具，用于识别和测试计算机上的几乎所有的组件，可提供有关硬件和软件的详细信息。
+
+-  [![third_party](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)](https://www.easyicon.net/language.en/1192054-Download_icon.html) https://www.xitmi.com/2410.html
 
 ### Open Hardware Monitor [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://openhardwaremonitor.org/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/openhardwaremonitor/openhardwaremonitor)
 
@@ -14,7 +16,7 @@
 
 ### HWMonitor [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.cpuid.com/softwares/hwmonitor.html)
 
-一款电脑硬件(如主板、CPU、显卡和硬盘等)以及电压、温度和风扇转速等信息实时监控器。
+由CPUZ厂商CPUID出品的一款电脑硬件(如主板、CPU、显卡和硬盘等)以及电压、温度和风扇转速等信息实时监控器。
 
 ### SysGauge [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.sysgauge.com/)
 

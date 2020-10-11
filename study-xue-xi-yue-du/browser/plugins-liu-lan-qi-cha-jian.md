@@ -9,10 +9,9 @@
 - 173应用：https://173app.com/chrome-ext
 - ChromeFor： https://www.chromefor.com/
 
-
 # ![plugins](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/plugins.svg) 插件推荐
 
-Chrome增强：
+## Chrome增强
 
 - Infinity New Tab (Pro)：自定义你的新标签页，支持云同步
 https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh
@@ -39,6 +38,13 @@ https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcm
 - Imagus：鼠标指针悬停在链接或缩略图上时直接在当前页面的弹出视图上显示这些图片、HTML5 视频/音频和内容专辑。
 https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab
 
+- 二箱: 多引擎以图搜图
+
+  ```
+  https://github.com/AInoob/NooBox
+  ```
+  https://chrome.google.com/webstore/detail/noobox/kidibbfcblfbbafhnlanccjjdehoahep
+
 - Charset: 网页默认编码切换
 
   https://chrome.google.com/webstore/detail/charset/oenllhgkiiljibhfagbfogdbchhdchml
@@ -51,8 +57,16 @@ https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaa
 - Flash Player for Chrome：flash工具
 https://chrome.google.com/webstore/detail/flash-player-for-chrome/pdgcfajiagepadbifdlfgiamcjdegkfp
 
+## 隐私防护
 
-学习助手：
+- WebRTC Leak Prevent：WebRTC开关，推荐！！！
+  https://chrome.google.com/webstore/detail/webrtc-leak-prevent/eiadekoaikejlgdbkbdfeijglgfdalml
+  
+- Reggy : 保护隐私，随机生成用户密码邮箱地址并一键填表(对react等框架无效)，推荐！！！
+  
+  https://chrome.google.com/webstore/detail/reggy/pnneajlgffpejnabhionnhdfhibijihe
+
+## 学习助手
 
 - 沙拉查词-聚合词典划词翻译：超级好用且专业的划词翻译扩展
 https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg
@@ -63,13 +77,17 @@ https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdin
 - Grammarly for Chrome： 语法纠错
 https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen
 
+- Linguix Grammar and Spell Checker： 语法纠错
+
+  https://chrome.google.com/webstore/detail/linguix-grammar-and-spell/ndgklmlnheedegipcohgcbjhhgddendc
+
 - Comic++：一款改变你阅读方式的漫画阅读器，摈弃传统的翻页模式，直接采用滚动翻页模式等等
 https://chrome.google.com/webstore/detail/comic%2B%2B/mhekhlkmjaleehfnfjfpejhegjieaaef
 
 - Honey： 自动寻找优惠券和促销码
 https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj
 
-聚精会神：
+## 聚精会神
 
 - AdBlock： 知名的广告过滤器
 
@@ -97,8 +115,7 @@ https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenael
 - 关灯看视频：心无旁骛看视频
 https://chrome.google.com/webstore/detail/turn-off-the-lights-for-y/bfbmjmiodbnnpllbbbfblcplfjjepjdn
 
-
-探索世界：
+## 探索世界
 
 - Google学术搜索按钮
 https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn
@@ -112,6 +129,10 @@ https://chrome.google.com/webstore/detail/black-menu-for-google/eignhdfgaldabila
 - Enhanced Steam：steam增强工具
 https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg
 
+- Btools: 以B站为主增强网站功能，优化网站浏览体验。致力于简洁实用方便,比如找回失效视频。
+
+  https://chrome.google.com/webstore/detail/btools/codgofkgobbmgglciccjabipdlgefnch
+
 - Notion Web Clipper：Notion剪藏工具
 https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk
 
@@ -122,14 +143,15 @@ https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefih
 https://chrome.google.com/webstore/detail/rarbg-monitor/kkgcfdmlnfpdjmnheeojdlgpmhaeekga
 
 - 一叶：和浏览相同网页的人实时聊天，发弹幕！
-https://chrome.google.com/webstore/detail/same-page-2/bldcellajihanglphncgjmceklbibjkk
+  https://chrome.google.com/webstore/detail/same-page-2/bldcellajihanglphncgjmceklbibjkk
+
 - SEOquake： 强大的SEO工具
 https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc
 
 - 西方媒体查一查：中文-媒体倾向评价
 https://chrome.google.com/webstore/detail/%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93%E6%9F%A5%E4%B8%80%E6%9F%A5/bpejcaojjipcgcnjkfmnkhokdpimcmij
 
-开发工具：
+## 开发工具
 
 - Tampermonkey：大名鼎鼎的油猴脚本
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
@@ -171,9 +193,6 @@ https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojj
 - Quick Javascript Switcher：Javascript开关
 https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje
 
-- WebRTC Leak Prevent：WebRTC开关
-https://chrome.google.com/webstore/detail/webrtc-leak-prevent/eiadekoaikejlgdbkbdfeijglgfdalml
-
 - WEB前端助手(FeHelper)：Awesome，All In One的一个工具，包含多个独立小应用，比如：Json工具、代码美化、代码压缩、二维码、Postman、markdown、网页油猴、便签笔记、信息加密与解密、随机密码生成、Crontab等等！
 https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad
 
@@ -183,7 +202,7 @@ https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanh
 - fonts infos：显示网页所有字体
 https://chrome.google.com/webstore/detail/fonts-infos/dcmemojljgjdnjfckdmffgkcnooejahg
 
-生产力工具：
+## 生产力工具
 
 - Vimium：老牌的键盘操作插件
 https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
@@ -196,10 +215,6 @@ https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglf
   Gestures for Chrome(TM)汉化版.方便,快捷,充分发掘鼠标的所有操作.功能包括:鼠标手势,超级拖曳,滚轮手势,摇杆手势,平滑滚动,标签页列表等.
 
   https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo/related
-
-- Reggy : 保护隐私，随机生成用户密码邮箱地址并一键填表
-
-  https://chrome.google.com/webstore/detail/reggy/pnneajlgffpejnabhionnhdfhibijihe
 
 - Tab Resize - split screen layouts：Chrome分割屏幕布局
 https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc
@@ -253,7 +268,7 @@ https://play.google.com/store/apps/details?id=com.pushbullet.android
 
 - bookmark organiser: 书签排序工具
 
-https://chrome.google.com/webstore/detail/bookmark-organiser/nkboakpdleaeljleohmndcmfofjlnpbd
+​       https://chrome.google.com/webstore/detail/bookmark-organiser/nkboakpdleaeljleohmndcmfofjlnpbd
 
 - 书签管理器快速拨号| Papaly
 https://chrome.google.com/webstore/detail/bookmark-manager-speed-di/pdcohkhhjbifkmpakaiopnllnddofbbn

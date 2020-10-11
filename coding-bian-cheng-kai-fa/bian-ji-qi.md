@@ -63,34 +63,6 @@ Vim的竞争对手，类似于php是最好的语言。
 
 微软出品的更新维护频繁的超好用的开源文本编辑器。
 
-常用插件:
-- Material Theme
-- Date & Time: Displays a clock and date information in the status bar.
-- vscode-faker: Generate fake data for name, address, lorem ipsum, commerce and much more
-- Python
-- Django
-- Javascript
-- XML Tools
-- JSON Tools
-- Color Info: Provides quick information about css colors 
-- ESLint: Integrates ESLint JavaScript into VS Code. 
-- jQuery Code Snippets
-- open in browser  
-- Quokka.js: Live Scratchpad for JavaScript
-- Semantic UI Snippets 
-- SVG Viewer 
-- vscode-icons  
-- Vetur: Vue tooling for VS Code 
-- VueHelper  
-- Markdown All in One:All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
-- Markdown+Math: LaTeX Math for Markdown
-
-![Keng](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/keng.svg) 
-
-- `Can not install any extensions from vs code`
-
-  需重置IE设置
-
 ### Emeditor {#Emeditor} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.emeditor.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 支持宏，Unicode，最好用的强大超大文件编辑器。

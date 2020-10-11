@@ -1,4 +1,4 @@
-### Chrome ![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.google.com/chrome//) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-84-ff55bb.svg)
+### Chrome ![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.google.com/chrome//) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-85-ff55bb.svg)
 
 无人不知，无人不晓的谷歌浏览器，无敌的存在。
 
@@ -50,7 +50,7 @@ Opera GX, 世界第一款游戏浏览器
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)：https://vivaldi.com/download/
 
-### Edge [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.microsoft.com/zh-cn/windows/microsoft-edge) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
+### Edge [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](ttps://www.microsoft.com/en-us/edge) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 由微软开发的，基于chromium的，越来越好用的浏览器, 一般下载BETA版即可，也提供了Dev和Canary版本供下载使用, 支持[`Windows` 、`macOS`、 `Windows Server`]。
 
@@ -60,6 +60,8 @@ Opera GX, 世界第一款游戏浏览器
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) 最新预览版下载：https://www.microsoftedgeinsider.com/en-us/
 
 ![Edge](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-edgeinsider.jpg)
+
+
 
 ### Internet Explorer ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
