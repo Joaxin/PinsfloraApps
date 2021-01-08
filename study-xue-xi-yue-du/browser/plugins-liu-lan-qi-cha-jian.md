@@ -23,8 +23,12 @@ https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgk
 ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)： http://googlehelper.net/ OR http://www.ggfwzs.com
 https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B-%E5%BC%80%E5%8F%91%E7%89%88/cieikaeocafmceoapfogpffaalkncpkc
 
-- Chrono下载管理器：替代谷歌浏览器的下载工具，貌似chrome商店找不到了，作者也放弃更新了
-https://www.crx4chrome.com/crx/1008/
+- Chrono下载管理器：超好用的替代谷歌浏览器的下载工具，貌似chrome商店找不到了，作者也放弃更新了
+  https://www.crx4chrome.com/crx/1008/
+
+  2021新年，TA回来了！！！！
+
+  https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn
 
 - 扩展管理器（Extension Manager）：一键管理所有扩展，快速开启/禁用
 https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco

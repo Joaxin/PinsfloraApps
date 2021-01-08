@@ -10,6 +10,8 @@ nattyware开发的只有11KB大小的颜色选取器。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://github.com/Molunerfinn/PicGo/releases](https://github.com/Molunerfinn/PicGo/releases)
 
+https://github.com/PicGo/Awesome-PicGo
+
 ### ImageMagick [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.imagemagick.org/script/index.php) ![CMD](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg)
 
 一个免费的创建、编辑、合成图片的软件, 支持命令行

@@ -15,6 +15,10 @@ collect, organize, cite, and share research.
 
 一款专业的文献管理软件,大量用于科研学术领域。
 
+### NoteExpress [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.inoteexpress.com/aegean/)![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+
+一款由北京爱琴海软件公司开发的专业级别的文献检索与管理系统，其核心功能涵盖“知识采集，管理，应用，挖掘”的知识管理的所有环节，是学术研究，知识管理的必备工具，发表论文的好帮手。
+
 ### Mendeley [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.mendeley.com/)
 
 > Mendeley brings your research to life, so you can make an impact on tomorrow

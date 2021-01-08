@@ -5,8 +5,7 @@
 ![资源站点](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/browser.svg) 资源站点：
 - https://bbs.rainmeter.cn/
 - http://tieba.baidu.com/f?kw=rainmeter
-
-
+- https://www.deviantart.com/rainmeter/gallery/
 
 ### SAO-Utils [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.gpbeta.com/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
 
@@ -21,3 +20,6 @@
 国产的由比特实验室开发的类似于[objectdock](https://www.stardock.com/products/objectdock/)、[rockerdock](https://punklabs.com/)的dock停靠栏工具，功能及效果类似于使用快捷键`win + tab` 切换多任务加使用Win10 自带的任务栏仿dock, 包括文件夹分类、网页收藏、任务栏透明等实用功能。
 
 ![bitdock](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-pro-beau-desktop-bitdock.png)
+
+
+

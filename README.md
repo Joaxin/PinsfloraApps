@@ -7,8 +7,9 @@
 <img src="https://img.shields.io/github/repo-size/joaxin/PinsfloraApps.svg?style=flat-square"></a>
 <a title="LICENSE" target="_blank" href="#" rel="nofollow">
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"></a>
-<a title="Total Apps" target="_blank" href="#" rel="nofollow"><img src="https://img.shields.io/badge/收录总数-约635-00ccbb.svg?style=flat-square"></a>
+<a title="Total Apps" target="_blank" href="#" rel="nofollow"><img src="https://img.shields.io/badge/收录总数-约655-00ccbb.svg?style=flat-square"></a>
 <a title="Contact" target="_blank" href="https://t.me/pinsflora" rel="nofollow"><img src="https://img.shields.io/badge/☎️contact-Telegram-ff55bb.svg?style=flat-square"></a></p>
+
 
 <p align="center">A collection of windows software garden.</p>
 <p align="center"><blockquote>Discover,  transform, create the new world from the powerful software!</blockquote></p>
@@ -85,6 +86,16 @@
 ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) [Gitbook](https://gitbookio.gitbooks.io/documentation/index.html)
 
 ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) https://alternativeto.net/
+
+Zhihu: 
+
+[Windows 10 深度美化有什么技巧?](https://www.zhihu.com/question/39002007)
+
+[如何优雅地使用 Windows？](https://www.zhihu.com/question/20491886)
+
+[如何优雅地使用 Windows 10 ？](https://www.zhihu.com/question/32129337)
+
+[Windows 平台有哪些值得推荐的常用软件？](https://www.zhihu.com/question/22109444)
 
 若非特殊声明，文档中所有项目协议均为：
 

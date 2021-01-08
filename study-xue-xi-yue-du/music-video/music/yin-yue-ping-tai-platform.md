@@ -4,7 +4,11 @@
 
 ### Xiami - 虾米音乐
 
+虾米音乐是专业音乐内容发现平台,依托专业曲库内容和精准推荐算法,带你发现音乐惊喜,提升音乐审美。平台致力于扶持原创音乐,2014年启动原创音乐扶持项目——寻光计划。
+
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://emumo.xiami.com/apps/mobile](https://emumo.xiami.com/apps/mobile)
+
+> 由于业务调整，虾米音乐播放器业务将于2021年2月5日0点正式停止服务。 
 
 ### Kugou - 酷狗音乐
 

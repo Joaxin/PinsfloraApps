@@ -1,3 +1,9 @@
+### DeepL[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.deepl.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)  ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)   
+
+由大名鼎鼎DeepL开发的桌面端翻译神器。
+
+Win & Mac: https://www.deepl.com/app/
+
 ### QTranslate [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://quest-app.appspot.com) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![](https://img.shields.io/badge/Version-6.7.3-ff55bb.svg) 
 
 ![QTranslate](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-lang-q-translate.jpg)
