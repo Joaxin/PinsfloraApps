@@ -23,7 +23,7 @@
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.acdsee.com/en/products/acdsee-free/
 
-### Irfanview [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.irfanview.com/)  ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-4.5.4-ff55bb.svg)
+### Irfanview [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.irfanview.com/)  ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-4.5.x-ff55bb.svg)
 
 一款小巧的图形浏览器, 也可以播放视频与音频。
 

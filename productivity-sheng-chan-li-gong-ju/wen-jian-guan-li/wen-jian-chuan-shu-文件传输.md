@@ -1,3 +1,5 @@
+## 软件
+
 ### Dukto R6 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.msec.it/blog/dukto/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://sourceforge.net/projects/dukto/)
 
 一款开源的跨平台的局域网文件传输工具
@@ -11,15 +13,17 @@ I happen to be the best local file transfer app on Earth.
 
 ### Send Anywhere  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://send-anywhere.com) 
 
-来自韩国免费的专业跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`、`Web`]文件传输工具，支持 P2P 直接传输等。
+来自韩国免费的专业跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`、`Web`]文件传输工具，支持 P2P 直接传输等，注意必须要有网才能传输文件。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)  https://send-anywhere.com/file-transfer
 
 ### Pushbullet [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.autohotkey.com/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg)
 
-一款可以快速在手机电脑间传送消息/图片的工具。
+一款可以快速在手机电脑间传送消息/图片的工具, 注意需要 Google、Facebook 账号登陆使。
 
-另外，出自pushbullet团队的还有另一个叫Portal的应用，专注传输大文件。打开网址`portal.pushbullet.com`即可。
+另外，出自pushbullet团队的还有另一个叫Portal的应用，专注传输大文件。
+
+打开网址 https://portal.pushbullet.com即可。
 
 ### Clipber [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://clipber.com)
 
@@ -47,19 +51,23 @@ Http File Server， 用于快速搭建http文件下载服务器系统。
 
 类似于HFS，功能不多但小巧的http文件下载管理分享工具。
 
-### 网页传输工具
+## 网页传输工具
 
 > For 异地远程文件传输
 
+- Xender：http://web.xender.com/ 支持Android、 iOS、 Windows Phone app 、网页开启，无需网络。
 - Cowtransfer: https://cowtransfer.com/ (国内的临时文件中转站服务)
 - Mirrored: https://www.mirrored.to/
-- Dewdrop:  http://dewdrop.io/
-- Send-anywhere : https://send-anywhere.com/
+- AirMore(爱莫助手)：https://airmore.com/ 可以把 Android or IOS 手机屏幕操作画面即时投影到 Windows、 Mac、 Linux 等任何电脑，需网络连接。
+- ba.net: https://ba.net/screen/ 网页画面实时传输
+- Dewdrop:  http://dewdrop.io/ 
+-  Snapdrop: https://snapdrop.net/  让 Windows 与 Android 用户也可以使用类似 Apple AirDrop 快速跨设备传输功能。无需安装、注册、登入、设定，需保持设备在同一个无线网络环境下。
 - Wikifortio：http://www.wikifortio.com/
 - Anonfile: https://anonfile.com/
 - Up-4ever: https://www.up-4ever.org/
 - Firefox: https://send.firefox.com/ (完全开源免费)
 - Wetranfer: https://wetransfer.com/ （国外的专注邮箱文件的传输工具 ）
 - Transfer.sh: https://transfer.sh/ (![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg) )
+- ~~fileai~~(fileai.com has been discontinued)
 
 

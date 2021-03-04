@@ -59,7 +59,11 @@ https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaa
   ```
 
 - Flash Player for Chrome：flash工具
-https://chrome.google.com/webstore/detail/flash-player-for-chrome/pdgcfajiagepadbifdlfgiamcjdegkfp
+  https://chrome.google.com/webstore/detail/flash-player-for-chrome/pdgcfajiagepadbifdlfgiamcjdegkfp
+
+  > 因flash不再受支持，已下架
+  >
+  > 推荐使用Ruffle：https://ruffle.rs/ (将 Flash 重新带回网络)替代
 
 ## 隐私防护
 
