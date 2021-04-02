@@ -35,8 +35,3 @@ e. 以上，若仍造成安装后(桌面)文件凌乱不堪，亦或系统莫名
 ### HashTab [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://implbits.com/products/hashtab/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 在Windows资源管理器的文件属性窗口中添加一个叫做"文件校验"标签，以比对文件哈希值。
-
-
-
-
-
