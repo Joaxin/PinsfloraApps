@@ -1,7 +1,5 @@
 ### Typora [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.typora.io/) {#Typora}
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-markdown-typora.jpg)
-
 来自韩国更新频繁的超棒跨平台[`Windows` 、`macOS`、 `Linux`]本地MarkDown编辑写作工具，WYSIWYG(所见即所得)。
 
 ![Typora](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-markdown-typora.jpg)
@@ -18,7 +16,7 @@
 Jot down your daily hacking endeavors and increase your productivity.
 
 Markdown爱好者的笔记应用程序，60天试用，支持丰富的扩展插件。
- 
+
  ### Yu Writer [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://ivarptr.github.io/yu-writer.site/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg)
- 
+
  由国人开发的跨平台[`Windows` 、`macOS`]markdown写作软件，支持版本回溯、多格式导出等功能。

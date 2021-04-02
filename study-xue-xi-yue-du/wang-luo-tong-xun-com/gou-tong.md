@@ -24,9 +24,13 @@
 
 支持[`Windows` 、`macOS`、 `Android`、`iOS`]
 
+PC版: https://windows.weixin.qq.com/    |    https://pc.weixin.qq.com/
+
 网页版：https://web.wechat.com/
 
 英文版：https://www.wechat.com/en
+
+Linux下可用: https://github.com/trazyn/weweChat (已停更)
 
 ### Skype [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.skype.com/en/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 

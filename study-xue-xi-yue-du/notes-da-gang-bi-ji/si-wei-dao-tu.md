@@ -29,3 +29,7 @@ Connect everything that matters in your work, to everywhere you are — and get 
 
 
 ![compare](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-notes-software-compare-zhihu.png)
+
+### 在线版
+
+百度脑图: https://naotu.baidu.com/home

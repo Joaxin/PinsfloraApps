@@ -30,3 +30,6 @@ Windows下强大的免费翻译工具，支持的翻译引擎：
 
 一款python开发的翻译`po`文件的工具，支持[`Windows` 、`macOS`、 `Linux`]
 
+### Dango-Translator[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://github.com/PantsuDango/Dango-Translator) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) 
+
+团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器

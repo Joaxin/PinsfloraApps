@@ -29,6 +29,7 @@
 7. 游戏相关的东西，另作收录
 8. 软件分类以其主要开发及设计目的为主
 9. 支持多端同步的 会尽量注明 比如[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`、`Web`、 [`UMP`](https://www.microsoft.com/en-us/store/apps/windows) ]
+10. 在BONUS章节，会收录部分软件的APP版与网页版
 
 ## 图标说明
 
@@ -112,5 +113,5 @@ Zhihu:
 
 If you have any suggestions for improvement, questions, or concerns, please do not hesitate to mention them in issues or raise a pull request, or contact me on Telegram Group.
 
-Made with ❤ by Joaxin, Pinsflora.com ©2020 
+Made with ❤ by Joaxin, Pinsflora.com ©2021
 

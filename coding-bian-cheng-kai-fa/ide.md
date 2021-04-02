@@ -30,7 +30,7 @@ Coderush: https://www.devexpress.com/Products/CodeRush/
 
 VB&C#：http://converter.telerik.com/
 
-### Dreamweaver [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.adobe.com/products/premiere.html) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2020-ff55bb.svg)
+### Dreamweaver [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.adobe.com/products/premiere.html) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2021-ff55bb.svg)
 
 > Design and develop modern, responsive websites.
 

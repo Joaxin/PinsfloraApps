@@ -1,4 +1,4 @@
-### Adobe Fresco [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.adobe.com/products/fresco.html) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2020-ff55bb.svg)
+### Adobe Fresco [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.adobe.com/products/fresco.html) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2021-ff55bb.svg)
 
 由Adobe开发和发行的AI笔刷绘画应用。
 

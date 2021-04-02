@@ -1,10 +1,10 @@
-### Photoshop [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.adobe.com/products/photoshop.html) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2020-ff55bb.svg)
+### Photoshop [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.adobe.com/products/photoshop.html) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2021-ff55bb.svg)
 
 > Creativity is everywhere.
 
 由Adobe Systems开发和发行的图像处理软件，在桌面上编辑、合成和创建精美的图像、图形和艺术作品,简称“PS”，您的一生相伴。
 
-### Lightroom [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.adobe.com/products/photoshop-lightroom-classic.html) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2020-ff55bb.svg)
+### Lightroom [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.adobe.com/products/photoshop-lightroom-classic.html) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![](https://img.shields.io/badge/Version-CC 2021-ff55bb.svg)
 
 > The next page in layout design.
 
