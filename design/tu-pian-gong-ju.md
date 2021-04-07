@@ -52,7 +52,7 @@ _Canva_可画提供了海量的免费设计模板,涵盖海报、简历、宣传
 
 装逼生成器: [http://zb.yuanrenbang.com/](http://zb.yuanrenbang.com/)
 
-![&#x5728;&#x7EBF;&#x88C5;&#x903C;&#x751F;&#x6210;&#x5668;](https://i.imgur.com/uuia2U3.png)
+![装逼生成器](https://i.imgur.com/uuia2U3.png)
 
 #### 图片特效制作
 
@@ -132,7 +132,7 @@ GIF倒放生成器: [https://lab.bangbang93.com/gif-reverse](https://lab.bangban
 
 > 二维码生成、美化、制作、统计等
 
-![&#x8349;&#x6599;\)](https://i.imgur.com/NqIFL7t.png)
+![草料二维码](https://i.imgur.com/NqIFL7t.png)
 
 二维工场：[www.2weima.com](www.2weima.com)
 
