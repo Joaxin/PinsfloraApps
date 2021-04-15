@@ -1,6 +1,6 @@
 ### 迅雷 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.xunlei.com/)
 
-迅雷，老牌的经典p2p下载软件。
+迅雷，老牌的经典p2p下载软件，下载磁力链接、种子、电驴链接的神奇，就是资源容易被河蟹。
 
 Mac版：http://mac.xunlei.com/
 
@@ -18,7 +18,7 @@ Mac版：http://mac.xunlei.com/
 
 ### IDM [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.internetdownloadmanager.com) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
-Internetdownloadmanager，业界下载百度云直链的工具，也支持整站下载，官网设计比较古老。
+IDM是Internet Download Manager的简称，曾经业界用于下载百度云直链的工具，支持多线程，也支持整站下载，官网设计比较古老，支持网页插件进行资源嗅探。
 
 ### Persepolis Download Manager [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://persepolisdm.github.io/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/persepolisdm/persepolis)
 
@@ -75,13 +75,17 @@ Internetdownloadmanager，业界下载百度云直链的工具，也支持整站
 
 #### 其他
 
+冰点下载器: ~~http://www.bingdian001.com/~~ （支持百度文库vvv、豆丁文库、丁香文库、MBA智库等，下载完为PDF文件）
+
+> 由于日积月累的免费下载行为，可能触犯了以百度文库为首的文库网站的利益，冰点官网已与2021年2月发布声明由于各种压力需要停止冰点软件的维护和下载，但你还可以在网上找到下载器的最后一个版本
+
 <https://github.com/aria2/aria2> (多线程下载工具)
 
 <https://github.com/mayswind/AriaNg> （Ari2c的webui）
 
 <https://github.com/weolar/miniblink49> （一个小巧、轻量的浏览器内核）
 
-~~硕鼠~~
+~~硕鼠~~: 已停止
 Transmission: 过久未维护
 
 ~~https://github.com/proxyee-down-org/proxyee-down~~

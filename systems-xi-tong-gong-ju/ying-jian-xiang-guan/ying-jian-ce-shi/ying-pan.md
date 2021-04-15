@@ -43,3 +43,7 @@ https://www.cr173.com/soft/53396.html
 ### PrimoCache [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.romexsoftware.com/zh-cn/primo-cache/download.html)  ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
 
 一款可以把物理内存虚拟成硬盘缓存的硬盘优化软件。
+
+### MyDiskTest
+
+U盘扩容检测工具, 提供了快速扩容测试、数据完整性校验、读写速度测试三种测试方式，能够检测U盘的完整性。

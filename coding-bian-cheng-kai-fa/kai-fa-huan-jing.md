@@ -14,7 +14,14 @@
 
 强大的商业化虚拟机应用。
 
+### VMware Fusion [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.vmware.com/) ![$](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+
+> VMware Fusion delivers the best way to run Windows on the Mac, and the ultimate development and testing tool for building apps to run on any platform.
+
+能让你在 Mac 苹果电脑上运行 Windows 或 Linux 系统或者使用非 Mac 平台的软件。
+
 ### Genymotion [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.genymotion.com/) ![$](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+
 安卓虚拟机, 支持[`Windows` 、`macOS`、 `Linux`]，支持启动多个模拟器，支持传感器管理，如电池状态，GPS，Accelerator加速器，支持shell控制模拟器，支持参数设置、设备管理、传感器管理。
 
 ### Bluestacks [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.bluestacks.com/)

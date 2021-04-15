@@ -2,7 +2,7 @@
 
 百度公司出品的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]资源分享与在线存储平台。
 
-> 第三方下载例如[PANDOWNLOAD](http://pandownload.com/)、 [SpeedPan](https://www.speedpan.com/)、已基本失效，其实如果你物尽其用，会员并不贵,。
+> 第三方下载例如[PANDOWNLOAD](http://pandownload.com/)、 [SpeedPan](https://www.speedpan.com/)、已基本失效
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)  http://pan.baidu.com/download
 
@@ -16,13 +16,19 @@
 
 ### 坚果云 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jianguoyun.com/)
 
-![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) [](https://www.jianguoyun.com/)
+![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) [坚果云](https://www.jianguoyun.com/)
 
 一款便捷、安全的专业的跨平台低调网盘产品，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，支持`WebDAV`，ta就像书房一样，陪伴你左右。
 
-### 蓝奏云 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.lanzou.com/)
+### 蓝奏云 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.lanzou.com/)
 
 免费的云盘存储，主要用作软件，分享平台，用户体验极佳, 仅支持web, 暂不支持客户端。
+
+### 天翼云盘  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://cloud.189.cn/)
+
+由中国电信出品的良心网盘，在登录情况下，可以不用客户端直接下载，比如使用IDM进行下载，跨平台支持[`Windows` 、`macOS`、 `TV`、 `Android`、`iOS`]。
+
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://cloud.189.cn/template/download-client/index.html
 
 ### Box [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.box.com/home)
 
