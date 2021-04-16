@@ -1,5 +1,3 @@
-# 图片工具
-
 ### 视觉游戏
 
 Silk – Interactive Generative Art: [http://weavesilk.com/](http://weavesilk.com/)
@@ -99,6 +97,8 @@ ACG Waifu照片生成器\*
 #### Giphy
 
 [https://giphy.com/](https://giphy.com/)
+
+制作工具：https://giphy.com/create/gifmaker
 
 全球最大的gif搜索网站
 
