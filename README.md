@@ -7,8 +7,9 @@
 <img src="https://img.shields.io/github/repo-size/joaxin/PinsfloraApps.svg?style=flat-square"></a>
 <a title="LICENSE" target="_blank" href="#" rel="nofollow">
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"></a>
-<a title="Total Apps" target="_blank" href="#" rel="nofollow"><img src="https://img.shields.io/badge/收录总数-约655-00ccbb.svg?style=flat-square"></a>
+<a title="Total Apps" target="_blank" href="#" rel="nofollow"><img src="https://img.shields.io/badge/收录总数-约690-00ccbb.svg?style=flat-square"></a>
 <a title="Contact" target="_blank" href="https://t.me/pinsflora" rel="nofollow"><img src="https://img.shields.io/badge/☎️contact-Telegram-ff55bb.svg?style=flat-square"></a></p>
+
 
 
 <p align="center">A collection of windows software garden.</p>
@@ -29,7 +30,6 @@
 7. 游戏相关的东西，另作收录
 8. 软件分类以其主要开发及设计目的为主
 9. 支持多端同步的 会尽量注明 比如[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`、`Web`、 [`UMP`](https://www.microsoft.com/en-us/store/apps/windows) ]
-10. 在BONUS章节，会收录部分软件的APP版与网页版
 
 ## 图标说明
 
