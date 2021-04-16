@@ -10,9 +10,11 @@
 
 免费的开源文档转换器，支持[`Windows` 、`macOS`、 `Linux`]
 
-### Formatfactory [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.pcgeshi.com/index.html)
+## 格式工厂(Formatfactory) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.pcgeshi.com/index.html) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
-多功能的多媒体格式转换软件。
+国产老牌的多功能格式转换软件，支持几乎所有类型多媒体格式。
+
+![Formatfactory](http://www.pcgeshi.com/img/index.png)
 
 
 ### XnConvert [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.autohotkey.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)

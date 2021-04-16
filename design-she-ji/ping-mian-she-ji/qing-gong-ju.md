@@ -18,7 +18,7 @@ Adobe出品的专为社交媒体开发的多端设计软件，用于海报制作
 
 留空，加载中。。。。
 
-### inpaint [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.theinpaint.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+### Inpaint [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.theinpaint.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 一款专业强大的图片去水印软件工具， 选定区域，涂抹几下，水印自动擦除，类似于手机上的`Retouch`。
 

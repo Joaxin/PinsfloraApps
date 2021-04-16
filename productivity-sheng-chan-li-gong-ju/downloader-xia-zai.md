@@ -1,6 +1,6 @@
 ### 迅雷 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.xunlei.com/)
 
-迅雷，老牌的经典p2p下载软件，下载磁力链接、种子、电驴链接的神奇，就是资源容易被河蟹。
+迅雷，老牌的经典p2p下载软件，下载磁力链接、种子、电驴链接的神奇，就是资源容易被河蟹, 此时只能通过更换没有被屏蔽的链接资源，推荐下载迅雷精简版。
 
 Mac版：http://mac.xunlei.com/
 

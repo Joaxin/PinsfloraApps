@@ -1,6 +1,6 @@
 ### Snipaste {#Snipaste} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.snipaste.com) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Snipaste)
 
-一款由国人开发的，支持多功能截图(包括涂鸦、马赛克、画画)的跨平台(`WindowsU` 、`macOS`)开源截图软件。
+一款由国人开发的，支持多功能截图(包括涂鸦、马赛克、画画)的跨平台(`WindowsU` 、`macOS`、`UWP`)开源截图软件。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://dl.snipaste.com/win-x64](https://dl.snipaste.com/win-x64)
 
@@ -36,6 +36,9 @@ Snagit 2019 takes the hassle out of creating custom screenshots and recordings. 
 
 截取BUG截图并分享。
 
+### 其他截图工具
 
+- QQ截图
+- Win10快捷键: **Win + Shift + S**
 
 

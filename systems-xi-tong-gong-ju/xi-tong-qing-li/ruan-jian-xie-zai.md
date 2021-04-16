@@ -1,6 +1,6 @@
 ### GeekUninstaller [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.geekuninstaller.com/)
 
-一款专为Geek打造的卸载工具。
+一款专为Geek打造的纯净简洁的卸载工具。
 
 ### Iobit Uninstaller [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.iobit.com/en/advanceduninstaller.php#)
 

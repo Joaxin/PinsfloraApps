@@ -19,6 +19,3 @@ PDF（Portable Document Format），由Adobe公司开发的跨平台便携文档
 完全免费、易于使用、丰富的PDF处理工具，包括：合并、拆分、压缩、转换、旋转和解锁PDF文件，以及给PDF文件添加水印的工具等。仅需几秒钟即可完成。
 
 ![ilovepdf ](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-office-pdf-online-ilovepdf.JPG)
-
-
-在线OCR工具：

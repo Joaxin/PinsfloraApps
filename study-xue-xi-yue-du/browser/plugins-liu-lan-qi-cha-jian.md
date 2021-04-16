@@ -108,7 +108,7 @@ https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenael
   ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) https://www.yiclear.com/download/
   https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E5%87%80%E5%8C%96%E5%99%A8/ccjdmnikdhkffjkmbinbmbpaplkoihgp?hl=zh-CN
 
-  > 原作者劫持推广链接, 被火绒投诉，已无法使用
+  > 曾经原作者劫持推广链接, 被火绒投诉，已无法使用，不过又复活了
   >
   > 参考: https://zhuanlan.zhihu.com/p/111522990
 
@@ -140,6 +140,10 @@ https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecgh
 - Btools: 以B站为主增强网站功能，优化网站浏览体验。致力于简洁实用方便,比如找回失效视频。
 
   https://chrome.google.com/webstore/detail/btools/codgofkgobbmgglciccjabipdlgefnch
+
+- 哔哩哔哩下载助手：增强B站网站功能，提供下载视频，音频、弹幕等
+
+  或者使用PC端唧唧Down:  http://client.jijidown.com/
 
 - Notion Web Clipper：Notion剪藏工具
 https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk

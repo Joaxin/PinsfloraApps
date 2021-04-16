@@ -30,7 +30,7 @@ Windows10开始菜单增强工具, 恢复Windows 7风格的经典样式。
 
 ### TranslucentTB [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://github.com/TranslucentTB/TranslucentTB) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/TranslucentTB/TranslucentTB)
 
-一款开源的Windows任务栏美化软件，主要作用是Windows 10任务栏透明栏工具。
+一款开源的Windows任务栏美化软件，主要作用是Windows 10任务栏透明栏工具, 打开Windows应用商店搜索即可。
 
 ### AquaSnap [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.nurgo-software.com/products/aquasnap)
 
@@ -61,7 +61,7 @@ Windows10开始菜单增强工具, 恢复Windows 7风格的经典样式。
 
 ![腾讯桌面整理](/assets/z-pro-beau-desktop-tecent%E8%85%BE%E8%AE%AF%E6%A1%8C%E9%9D%A2%E6%95%B4%E7%90%86.gif)
 
-## Fences [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.stardock.com/products/fences/)![money_pay](../../../Norra/source/imgs/arts/history/money_pay.svg)
+## Fences [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.stardock.com/products/fences/)![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 一款由stardock开发的实用的桌面整理软件，你可以使用它在桌面上创建桌面分区，并且给他们命名，然后根据分类或者其他的方式把软件图标分别放在不同的位置，从而可以让我们更轻松地找到自己想要使用的文档或者软件。
 
