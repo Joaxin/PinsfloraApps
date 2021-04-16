@@ -22,13 +22,13 @@ _Canva_可画提供了海量的免费设计模板,涵盖海报、简历、宣传
 
 **创客贴**
 
-[www.chuangkit.com](https://github.com/Joaxin/PinsfloraURLs/tree/189328ace9b340e50051fc5889fc3f28d717a5b1/design/www.chuangkit.com)
+[www.chuangkit.com](https://github.com/Joaxin/PinsfloraURLs/tree/6a64b1e0e8d012b1b4a72263a382964b0f1f8184/design/www.chuangkit.com)
 
 国内的线上图形设计器
 
 **稿定设计**
 
-[www.gaoding.com](https://github.com/Joaxin/PinsfloraURLs/tree/189328ace9b340e50051fc5889fc3f28d717a5b1/design/www.gaoding.com)
+[www.gaoding.com](https://github.com/Joaxin/PinsfloraURLs/tree/6a64b1e0e8d012b1b4a72263a382964b0f1f8184/design/www.gaoding.com)
 
 专为电商运营者、新媒体运营人员和作图爱好者打造的在线智能化平面设计工具。
 
@@ -100,6 +100,8 @@ ACG Waifu照片生成器\*
 
 [https://giphy.com/](https://giphy.com/)
 
+制作工具：[https://giphy.com/create/gifmaker](https://giphy.com/create/gifmaker)
+
 全球最大的gif搜索网站
 
 > Search All the GIFs & Make Your Own Animated GIF
@@ -134,11 +136,11 @@ GIF倒放生成器: [https://lab.bangbang93.com/gif-reverse](https://lab.bangban
 
 ![&#x8349;&#x6599;&#x4E8C;&#x7EF4;&#x7801;](https://i.imgur.com/NqIFL7t.png)
 
-二维工场：[www.2weima.com](https://github.com/Joaxin/PinsfloraURLs/tree/189328ace9b340e50051fc5889fc3f28d717a5b1/design/www.2weima.com)
+二维工场：[www.2weima.com](https://github.com/Joaxin/PinsfloraURLs/tree/6a64b1e0e8d012b1b4a72263a382964b0f1f8184/design/www.2weima.com)
 
 > 二维码生成、营销以及签到等。
 
-第九工场：[www.9thws.com](https://github.com/Joaxin/PinsfloraURLs/tree/189328ace9b340e50051fc5889fc3f28d717a5b1/design/www.9thws.com)
+第九工场：[www.9thws.com](https://github.com/Joaxin/PinsfloraURLs/tree/6a64b1e0e8d012b1b4a72263a382964b0f1f8184/design/www.9thws.com)
 
 > 死磕艺术二维码
 

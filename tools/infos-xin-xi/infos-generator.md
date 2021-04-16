@@ -41,6 +41,10 @@ Fake Name Generator： [https://www.fakenamegenerator.com/](https://www.fakename
 
 [https://www.freeonlinephone.org/](https://www.freeonlinephone.org/)
 
+[https://yunjiema.net/](https://yunjiema.net/)
+
+freephonenum：[https://freephonenum.com/](https://freephonenum.com/)
+
 ### 在线邮箱接收
 
 [http://24mail.chacuo.net/enus](http://24mail.chacuo.net/enus)
