@@ -4,8 +4,6 @@ description: Colors Tools
 
 # 颜色工具
 
-## 
-
 ## 颜色
 
 ### 日本の伝統色
@@ -15,8 +13,6 @@ description: Colors Tools
 ### 中国传统颜色
 
 {% embed url="http://zhongguose.com/" %}
-
-
 
 ## 配色
 
@@ -64,13 +60,11 @@ description: Colors Tools
 
 ## 颜色工具
 
-### Discover Art & Design Inspiration
+### 图片灵感
 
-从图片中获取颜色灵感
+Discover Art & Design Inspiration 从图片中获取颜色灵感
 
 {% embed url="http://www.colorhunter.com/" %}
-
-
 
 {% embed url="http://colrd.com/" %}
 
@@ -82,13 +76,9 @@ description: Colors Tools
 
 颜色转换工具RGB，CMYK ， HSV等
 
+{% embed url="https://www.colorhexa.com/" %}
+
 {% embed url="https://www.spycolor.com/" %}
-
-#### [https://www.colorhexa.com/](https://www.colorhexa.com/)
-
-#### 
-
-#### 
 
 #### HTML Color
 
