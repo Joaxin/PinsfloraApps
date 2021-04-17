@@ -27,6 +27,6 @@
 
 由德国Maxon Computer研发的强大，专业的3D软件，大量适用于电影特效模型制作领域，在品牌VI，UI设计，包装设计等领域也有极佳表现。
 
-### UG [![website_official](D:\OneDrive - assedu\Website\JJR\products\website_official.svg)](https://www.plm.automation.siemens.com/global/en/products/nx/) ![translation](D:\OneDrive - assedu\Website\JJR\products\translation.svg) ![leaves_recommend](D:\OneDrive - assedu\Website\JJR\products\leaves_rec.svg) ![money_pay](D:\OneDrive - assedu\Website\JJR\products\money_pay.svg) 
+### UG [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.plm.automation.siemens.com/global/en/products/nx/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) 
 
 UG（Unigraphics NX）是Siemens PLM Software公司出品的一款模具行业的三维设计软件，为用户的产品设计及加工过程提供了数字化造型和验证手段。

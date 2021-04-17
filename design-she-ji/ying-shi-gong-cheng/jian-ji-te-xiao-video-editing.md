@@ -32,7 +32,7 @@ Adobe出品的符合行业标准的专业视频和电影编辑软件。
 
 ### DaVinci Resolve(达芬奇调色)   [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.blackmagicdesign.com/products/davinciresolve/)  ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
-大名鼎鼎的达芬奇调色，集剪辑、**调色**、专业音频后期制作于一身的后期工作流程。
+大名鼎鼎的达芬奇调色，集剪辑、**调色**、专业音频后期制作于一身的后期工作流程, 虽然付费，但免费版的剪辑和基础调色基本够用。
 
 ![From official website](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-design-videoeffects-davinci.jpg)
 

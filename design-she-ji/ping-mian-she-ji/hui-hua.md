@@ -18,7 +18,7 @@
 
 一款由的Autodesk开发的免费画图软件，功能强大，仿手绘效果逼真，支持[`Windows` 、`macOS`、 `UWP`、 `Android`、`iOS`]。
 
-![download](D:\OneDrive - assedu\Website\JJR\products\download.svg)https://www.autodesk.com/products/sketchbook/free-download
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)https://www.autodesk.com/products/sketchbook/free-download
 
 ### Krita [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://krita.org/en) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 

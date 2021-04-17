@@ -22,17 +22,34 @@ Adobe出品的专为社交媒体开发的多端设计软件，用于海报制作
 
 一款专业强大的图片去水印软件工具， 选定区域，涂抹几下，水印自动擦除，类似于手机上的`Retouch`。
 
-### PhotoZoom Pro
+### PhotoZoom Pro [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.benvista.com/photozoompro/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
-Magic Bullet Looks
+由benvista开发的一款功能强大的图像无损放大软件,采用优化算法,尽可能地提高放大图片的质量和品质.
 
-avisynth
+### VectorMagic  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://vectormagic.com/)  ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
-* Fontcreator
-* Image Triangulator
-* 
-* ShapeCollage \(Photos Collecting\)
-* Pylon
-* VectorMagic
-* Ascgen2
-* Colorpix
+ 一款优秀的矢量图像转换处理工具, 格式可与AI、Corel等程序无缝衔接, 支持[`Windows` 、`macOS`]。
+
+在线处理: https://vectormagic.com/
+
+![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)https://vectormagic.com/desktop
+
+### 小工具
+
+* Fontcreator: 一款专业的可用来制作字体(TTF)的专业字体设计软件。
+
+  ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) https://www.high-logic.com/font-editor/fontcreator
+
+* Image Triangulator: 免费生成彩色低多边形特效矢量图片的制作工具, 基于 Java 开发,跨平台支持 Windows 与Mac
+
+* ShapeCollage \(Photos Collecting\)： 拼图软件，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，已停滞开发。
+
+  http://www.shapecollage.com/
+
+  ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) http://www.shapecollage.com/download
+
+* Ascgen2: 图片转字符画生成器。
+
+  https://ascgendotnet.jmsoftware.co.uk/
+
+* Colorpix: 一款体积小巧功能超强的屏幕取色软件。
