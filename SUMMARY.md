@@ -2,7 +2,9 @@
 
 * [项目简介](README.md)
 * [设计](design-she-ji/README.md)
-  * [图片工具](design-she-ji/design-tu-pian-gong-ju.md)
+  * [设计工具](design-she-ji/design-tu-pian-gong-ju/README.md)
+    * [颜色工具](design-she-ji/design-tu-pian-gong-ju/yan-se-gong-ju.md)
+    * [设计游戏](design-she-ji/design-tu-pian-gong-ju/she-ji-you-xi.md)
   * [资源网站集合](design-she-ji/zi-yuan-wang-zhan-ji-he.md)
   * [艺术网站](design-she-ji/design-arts.md)
   * [建筑设计](design-she-ji/jian-zhu-she-ji.md)
