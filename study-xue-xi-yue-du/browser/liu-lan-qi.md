@@ -1,4 +1,4 @@
-### Chrome ![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.google.com/chrome//) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-85-ff55bb.svg)
+### Chrome ![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.google.com/chrome//) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![chrome version](https://img.shields.io/badge/Version-90-ff55bb.svg)
 
 无人不知，无人不晓的谷歌浏览器，无敌的存在。
 
@@ -38,15 +38,17 @@ Opera GX, 世界第一款游戏浏览器
 ### Firefox {#Firefox} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.firefox.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 
-由Mozallia开发的开源网页浏览器，使用自家gecko内核，最早流行于开发者圈子的一只美丽的狐狸，将 IE 拉下垄断神坛的第一个对手，性能基本与谷歌浏览器持平，高度扩展性并尊重用户隐私，对开发者友好（比如:很早的Firebug），支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]。
+由Mozallia开发的开源网页浏览器，中文名叫“火狐”, 使用自家gecko内核，最早流行于开发者圈子的一只美丽的狐狸，将 IE 拉下垄断神坛的第一个对手，性能基本与谷歌浏览器持平，高度扩展性并尊重用户隐私，对开发者友好（比如:很早的Firebug），支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]。
 
 ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) mozilla-mobile：https://github.com/mozilla-mobile
 
-家族：
+firefox家族：
 
-### Valvidi {#Valvidi} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://vivaldi.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-2.9-ff55bb.svg)
+### Valvidi {#Valvidi} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://vivaldi.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-3.8-ff55bb.svg)
 
 由Opera联合创始人、前CEO谭咏文发布的一款个性化定制浏览器，基于 Blink 内核，自带笔记(支持markdown)、截图等众多实用的功能，支持[`Windows` 、`macOS`、 `Linux`、 `Android`]。
+
+![Valvidi](https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/download/desktop_opt.webp)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)：https://vivaldi.com/download/
 
@@ -91,10 +93,10 @@ Why use a browser that treats you like one? Enjoy private, secure and fast brows
 
 ### 国内浏览器：
 
-- qq浏览器 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://browser.qq.com/)： 腾讯开发的良心浏览器。
+- qq浏览器 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://browser.qq.com/)： 由企鹅家开发的良心浏览器。
 - 星愿浏览器 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.twinkstar.com/)： 简洁干净的时尚、好用、靠谱的浏览器，主打看漫画及去视频广告，支持灵活的个性化定制，名字起源于Twinkle, twinkle, little star，支持[`Windows` 、`macOS`]
 - 360浏览器[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://browser.360.cn/)：360开发的特别流行的浏览器。
-- 360极速浏览器[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://browser.360.cn/ee/)：360极速浏览器，前身为世界之窗(http://www.theworld.cn/)。
+- 360极速浏览器[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://browser.360.cn/ee/)：360极速浏览器，前身为世界之窗( http://www.theworld.cn/ )。
 - Maxthon [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.maxthon.cn/)：一款开始很好用的国人开发的双引擎浏览器，疑似停止更新
 - 搜狗浏览器 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://ie.sogou.com/)：一款开始很好用的搜狗浏览器
 - 猎豹安全浏览器 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.liebao.cn/): 由猎豹移动公司开发的双引擎浏览器。

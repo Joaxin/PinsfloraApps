@@ -45,10 +45,13 @@
 
 > mpv is a media player based on MPlayer and mplayer2. It supports a wide variety of video file formats, audio and video codecs, and subtitle types.
 
+MPV是著名开源播放器mplayer和mplayer2的一个分支。
+
 免费开源跨平台媒体播放器
 
-MPV-EASY Player [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.rjno1.com/mpv-easy-player.html)
-易于使用的 mpv GUI 封装，最大限度地保留了原有的 mpv 外观
+### MPV-EASY Player [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.rjno1.com/mpv-easy-player.html) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/422658476/MPV-EASY-Player)
+
+一个易于使用,基于MPV的播放器，最大限度地保留了原有的 mpv 外观
 
 ### MPC-BE [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://sourceforge.net/projects/mpcbe/)
 
