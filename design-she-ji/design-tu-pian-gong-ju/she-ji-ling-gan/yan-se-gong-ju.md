@@ -24,7 +24,7 @@ description: Colors Tools
 
 [https://color.adobe.com/zh/create/color-wheel/](https://color.adobe.com/zh/create/color-wheel/)
 
-![https://color.adobe.com/zh/create/color-wheel/](../../.gitbook/assets/image%20%282%29.png)
+![https://color.adobe.com/zh/create/color-wheel/](../../../.gitbook/assets/image%20%282%29.png)
 
 ### Paletton
 
@@ -42,7 +42,7 @@ description: Colors Tools
 
 [https://www.materialpalette.com](https://www.materialpalette.com/blue/light-blue)
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../../.gitbook/assets/image%20%283%29.png)
 
 ### Hamburgers by Jonathan Suh
 
@@ -50,7 +50,7 @@ description: Colors Tools
 
 {% embed url="https://jonsuh.com/hamburgers/" %}
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../../.gitbook/assets/image%20%284%29.png)
 
 ### Flat UI
 
