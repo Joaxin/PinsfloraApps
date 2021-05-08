@@ -46,7 +46,7 @@
 
 [https://www.stickpng.com/](https://www.stickpng.com/)
 
-![](https://i.postimg.cc/rsGCC5HW/stickpng.png)
+![Stickpng](https://i.postimg.cc/rsGCC5HW/stickpng.png)
 
 #### **觅元素**
 
