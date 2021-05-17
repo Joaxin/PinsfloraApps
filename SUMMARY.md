@@ -37,6 +37,7 @@
     * [音乐解析](books-movies-music/yin-yue-music/yin-le-jie-xi.md)
 * [游戏](games-you-xi.md)
 * [计算机](it-ji-suan-ji/README.md)
+  * [占位符](it-ji-suan-ji/zhan-wei-fu.md)
   * [计算机资讯](it-ji-suan-ji/ji-suan-ji-zi-xun.md)
   * [编程语言](it-ji-suan-ji/bian-cheng-yu-yan.md)
 * [隐私保护](privacy/README.md)
