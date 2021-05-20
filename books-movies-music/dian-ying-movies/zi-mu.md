@@ -1,24 +1,8 @@
 # 字幕组
 
-### 
-
-### 
-
-### 
-
-### 
-
 ### **FIX字幕侠**
 
-{% embed url="https://www.zimuxia.cn/" %}
-
-
-
-### 
-
-### 
-
-### 
+{% embed url="https://www.zimuxia.cn/" caption="https://www.zimuxia.cn/" %}
 
 ### 人人字幕组
 

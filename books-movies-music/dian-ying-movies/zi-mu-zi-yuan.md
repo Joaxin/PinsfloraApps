@@ -12,5 +12,13 @@
 
 {% embed url="https://sub.eastgame.org/" %}
 
+### Opentitles
+
+{% embed url="https://www.opensubtitles.org/" %}
+
+### Subscene
+
+{% embed url="https://subscene.com/" %}
+
 
 
