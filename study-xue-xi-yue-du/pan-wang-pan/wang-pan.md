@@ -14,9 +14,15 @@
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.weiyun.com/download.html
 
+### 阿里云 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.aliyundrive.com/)
+
+阿里出品的一款大容量、不限速、不打扰、够安全、易于分享的网盘，你可以在这里存储、管理和探索内容，尽情打造丰富的数字世界, 支持[`web`、`Windows` 、 `Android`、`iOS`]。
+
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)https://www.aliyundrive.com/download
+
 ### 坚果云 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jianguoyun.com/)
 
-![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) [坚果云](https://www.jianguoyun.com/)
+![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) https://www.jianguoyun.com/
 
 一款便捷、安全的专业的跨平台低调网盘产品，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，支持`WebDAV`，ta就像书房一样，陪伴你左右。
 
@@ -59,6 +65,10 @@ Google生态系统的云存储解决方案。
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://onedrive.live.com/about/en-us/download/
 
 微软提供的最佳云存储解决方案，支持[`Windows` 、`macOS`、 `XBOX`、 `Android`、`iOS`]。
+
+[OneDrive不能连接到Windows？解决方法就在这里](https://zhuanlan.zhihu.com/p/54385077)
+
+[如何修复OneDrive连接错误代码0x8004de40](https://jingyan.baidu.com/album/46650658f7f592f549e5f83f.html)
 
 ### Yandex Drive [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://disk.yandex.com/)
 

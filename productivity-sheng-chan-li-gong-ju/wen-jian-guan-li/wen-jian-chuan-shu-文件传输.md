@@ -11,6 +11,8 @@ I happen to be the best local file transfer app on Earth.
 
 一款优秀的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`、`Web`]的局域网文件传输工具，支持TLS 加密，WiFi 热点直连，WebShare (网页共享)等, 免费版够用。
 
+> Tips: 删除C:\Users\Administrator\AppData\Roaming\FeePerfect\Feem下的app.db可快速删除历史记录, 手机版则在应用数据下清除即可。
+
 ### Send Anywhere  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://send-anywhere.com) 
 
 来自韩国免费的专业跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`、`Web`]文件传输工具，支持 P2P 直接传输等，注意必须要有网才能传输文件。

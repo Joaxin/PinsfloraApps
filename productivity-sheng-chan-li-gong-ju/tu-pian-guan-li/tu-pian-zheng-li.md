@@ -2,7 +2,7 @@
 
 老牌的图片浏览工具，还可进行图片编辑，占用资源小，打开格式非常多，功能强大。
 
-![XnView](https://www.xnview.com/assets/img/screenshots/xnviewmp-win-01.png)
+![XnView](https://www.xnview.com/img/screenshots/xnview-win-01.webp)
 
 ### Honeyview  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://en.bandisoft.com/honeyview/) 
 
@@ -16,6 +16,9 @@
 
 遗留的网址在这儿：http://picasa.google.com
 
+### Zoner Photo Studio  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.zoner.com/)  ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+
+Zoner Photo Studio(数码照片管理工具)是一款非常实用的数码照片管理及编辑工具。软件为用户提供管理、编辑、分享等一站式照片处理功能.
 
 ### ACDSee [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.acdsee.com)  ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 

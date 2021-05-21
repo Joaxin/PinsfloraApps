@@ -1,5 +1,9 @@
 ### Microsoft Office [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.office.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
+https://www.office.com/
+
+Account: https://portal.office.com/account
+
 来自微软开发的举世闻名的office套装，包含：
 
 基本三件套：
