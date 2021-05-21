@@ -1,8 +1,18 @@
 # 主流影视网站
 
+## 国内
+
 {% embed url="https://w.mgtv.com/" caption="芒果TV" %}
 
-{% embed url="https://www.tvmao.com/" caption="电视猫" %}
+## 国外
+
+### Netflix
+
+{% embed url="https://www.netflix.com/" caption="Netflix" %}
+
+
+
+
 
 
 
