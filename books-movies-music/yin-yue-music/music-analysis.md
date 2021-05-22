@@ -1,4 +1,4 @@
-# 音乐解析
+# 音乐下载与解析
 
 ### Musictool
 
@@ -7,6 +7,14 @@
 [http://www.musictool.top/](http://www.musictool.top/)
 
 ![&#x591A;&#x7AD9;&#x5408;&#x4E00;&#x97F3;&#x4E50;&#x641C;&#x7D22;&#x89E3;&#x51B3;&#x65B9;&#x6848;,](../../.gitbook/assets/image%20%281%29.png)
+
+Soundcloud下载: [https://soundcloudmp3.org/](https://soundcloudmp3.org/)
+
+无损音乐下载: [http://www.51ape.com/](http://www.51ape.com/)
+
+老牌音乐下载: [https://beemp3s.net/](https://beemp3s.net/)
+
+MusicJuice: [https://mp3juices.net/](https://mp3juices.net/)
 
 
 

@@ -1,4 +1,4 @@
-# 博客
+# 资源站点
 
 清新范\(QXFUN.COM\): [http://www.qxfun.com/](http://www.qxfun.com/)
 

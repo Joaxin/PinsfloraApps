@@ -14,3 +14,9 @@
 
 ![](../../.gitbook/assets/image.png)
 
+### 场库
+
+{% embed url="https://www.vmovier.com/" %}
+
+~~AnimeTaste（品赏艾尼莫）: [http://animetaste.net/](http://animetaste.net/)~~
+

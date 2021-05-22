@@ -6,6 +6,12 @@
 
 ## 国外
 
+### Vimeo
+
+{% embed url="https://vimeo.com/" %}
+
+
+
 ### Netflix
 
 {% embed url="https://www.netflix.com/" caption="Netflix" %}
