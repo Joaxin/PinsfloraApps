@@ -1,6 +1,14 @@
 # 字幕资源
 
-###  **射手网\(伪\)**
+##  字幕出处
+
+### \*\*\*\*[**http://www.subzin.com/**](http://www.subzin.com/)\*\*\*\*
+
+### [http://www.quodb.com/](http://www.quodb.com/)
+
+## 字幕网站
+
+### **射手网\(伪\)**
 
 {% embed url="https://secure.assrt.net/" %}
 

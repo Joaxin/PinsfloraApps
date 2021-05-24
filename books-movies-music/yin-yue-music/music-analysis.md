@@ -26,5 +26,7 @@ Soundcloud下载: [https://soundcloudmp3.org/](https://soundcloudmp3.org/)
 
 MusicJuice: [https://mp3juices.net/](https://mp3juices.net/)
 
+### 使用软件
 
+MusicTool: [http://tool.yijingying.com/musictools/](http://tool.yijingying.com/musictools/)
 
