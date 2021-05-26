@@ -10,11 +10,19 @@
 
 Canva可画提供了海量的免费设计模板,涵盖海报、简历、宣传单页、名片、邀请函、贺卡、Logo、PPT模板、二维码、Banner等数十种设计场景等.
 
+支持浏览器，iOS，Android
+
 ### Snappa
 
 线上制作任何种类的图片，如制作或发布社交媒体图片等。
 
 [https://snappa.com/](https://snappa.com/)
+
+### Vectr 
+
+[https://vectr.com/](https://vectr.com/)
+
+一款优秀的设计工具，包括 Logo，卡片，甚至网站原型和 PPT 等
 
 ### **创客贴**
 

@@ -30,6 +30,10 @@ PornHub Logo 生成器
 
 > [https://app.brandmark.io/v3/](https://app.brandmark.io/v3/)
 
+Smartmockups：[https://smartmockups.com/](https://smartmockups.com/)
+
+免费的图片合成工具，把任何图片或者在线图片无缝融合到特定的图片里。
+
 ### 条纹
 
 苏格兰格子纹生成器：[http://www.tartanmaker.com/](http://www.tartanmaker.com/)
