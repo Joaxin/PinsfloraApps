@@ -2,7 +2,7 @@
 
 ## 在线图片制作
 
-### **canva**
+### **Canva**
 
 [https://www.canva.com/](https://www.canva.com/)
 
@@ -74,27 +74,5 @@ Canva可画提供了海量的免费设计模板,涵盖海报、简历、宣传�
 
 > 图像合成, 主体+风格
 
-## 头像
-
-头像生成器: [https://diy.jiuwa.net/cate/all](https://diy.jiuwa.net/cate/all)
-
-卡通头像生成器\*
-
-> avataaars generator is a free online avatar generator for anyone to make their beautiful personal avatar easily! If you have no idea what kind of style you want, you can hit the random button at the very top of page until you find something you want.
-
-[https://getavataaars.com](https://getavataaars.com)
-
-接头霸王:[https://lab.bangbang93.com/kyaru-head](https://lab.bangbang93.com/kyaru-head)
-
-动漫少女生成器\*
-
-[https://www.thiswaifudoesnotexist.net/](https://www.thiswaifudoesnotexist.net/)
-
-ACG Waifu生成器
-
-[https://reed-chan.github.io/Random-waifu-generater/](https://reed-chan.github.io/Random-waifu-generater/)
-
-ACG Waifu照片生成器\*
-
-[https://make.girls.moe/\#/](https://make.girls.moe/#/)
+## 
 

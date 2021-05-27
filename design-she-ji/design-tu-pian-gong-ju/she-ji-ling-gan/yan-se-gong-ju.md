@@ -28,7 +28,7 @@ description: Colors Tools
 
 ### Paletton
 
-### [https://paletton.com/](https://paletton.com/)
+[https://paletton.com/](https://paletton.com/)
 
 ### uiGradients
 
@@ -56,7 +56,9 @@ description: Colors Tools
 
 {% embed url="https://flatuicolors.com/" %}
 
+### AI 配色工具
 
+[https://brandmark.io/color-wheel/](https://brandmark.io/color-wheel/)
 
 ## 颜色工具
 
@@ -84,7 +86,7 @@ Discover Art & Design Inspiration 从图片中获取颜色灵感
 
 HTML颜色
 
-{% embed url="https://html-color-codes.info/" %}
+{% embed url="https://html-color-codes.info/" caption="https://html-color-codes.info/" %}
 
 {% embed url="https://www.0to255.com/" %}
 

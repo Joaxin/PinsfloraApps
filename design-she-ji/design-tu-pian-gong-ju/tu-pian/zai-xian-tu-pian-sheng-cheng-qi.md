@@ -1,4 +1,4 @@
-# 在线图片生成器
+# 在线图片工具
 
 纸迷宫生成器: [http://www.mazegenerator.net](http://www.mazegenerator.net)
 
@@ -18,7 +18,7 @@
 
 > 死磕艺术二维码
 
-### Logo
+### 品牌标志 - Brands & Logos
 
 某樱花的图片生成\(超科学的电磁炮\) : [http://to-a.ru/](http://to-a.ru/)
 
@@ -26,13 +26,49 @@ PornHub Logo 生成器
 
 > [https://lab.bangbang93.com/porn-hub](https://lab.bangbang93.com/porn-hub) / [https://logoly.pro/\#/](https://logoly.pro/#/)
 
+Free logo Design: [https://www.freelogodesign.org/](https://www.freelogodesign.org/)
+
+logo文本: [https://flamingtext.com/](https://flamingtext.com/) \(比较艺术字\)
+
 深度学习LOGO生成
 
 > [https://app.brandmark.io/v3/](https://app.brandmark.io/v3/)
 
+Logo评分: [https://brandmark.io/logo-rank/](https://brandmark.io/logo-rank/)
+
+Logo无损放大: [https://brandmark.io/logo-crunch/](https://brandmark.io/logo-crunch/)
+
 Smartmockups：[https://smartmockups.com/](https://smartmockups.com/)
 
 免费的图片合成工具，把任何图片或者在线图片无缝融合到特定的图片里。
+
+logopond：[https://logopond.com/](https://logopond.com/)
+
+Logo, Brand & Identity Inspiration
+
+### 头像生成
+
+头像生成器: [https://diy.jiuwa.net/cate/all](https://diy.jiuwa.net/cate/all)
+
+卡通头像生成器\*
+
+> avataaars generator is a free online avatar generator for anyone to make their beautiful personal avatar easily! If you have no idea what kind of style you want, you can hit the random button at the very top of page until you find something you want.
+
+[https://getavataaars.com](https://getavataaars.com)
+
+接头霸王:[https://lab.bangbang93.com/kyaru-head](https://lab.bangbang93.com/kyaru-head)
+
+动漫少女生成器\*
+
+[https://www.thiswaifudoesnotexist.net/](https://www.thiswaifudoesnotexist.net/)
+
+ACG Waifu生成器
+
+[https://reed-chan.github.io/Random-waifu-generater/](https://reed-chan.github.io/Random-waifu-generater/)
+
+ACG Waifu照片生成器\*
+
+[https://make.girls.moe/\#/](https://make.girls.moe/#/)
 
 ### 条纹
 
