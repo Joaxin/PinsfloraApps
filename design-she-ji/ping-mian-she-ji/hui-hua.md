@@ -22,7 +22,7 @@
 
 ### Krita [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://krita.org/en) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
-Krita（瑞典语的蜡笔、来自动词`rita`），一款开源的位图形编辑软件，支持[`Windows` 、`macOS`、 `Linux`]
+Krita（瑞典语的蜡笔、来自动词`rita`），一款自由、免费、开源的专业绘画软件以及位图形编辑软件，适用于概念美术设计、插画、漫画等等，支持[`Windows` 、`macOS`、 `Linux`]
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://krita.org/en/download/krita-desktop/
 

@@ -11,8 +11,13 @@ Adobe出品的矢量图形和插图软件。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://inkscape.org/en/download/source/
 
-免费的跨平台[`Windows` 、`macOS`、 `Linux``]矢量图形设计软件。
+一款开源的免费矢量图形设计软件，支持 SVG、open XML 等格式, 跨平台支持[`Windows` 、`macOS`、 `Linux`]。
 
+### Gravit Designer [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.designer.io/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) 
+
+一款界面简单、易操作、快速上手的矢量绘画排版软件， 被誉为21世纪的跨平台设计工具, 可以在线改稿，满足矢量绘画、排版、界面、原型设计等多种功能。也可导出 PDF、SVG、bitmap 等文件格式等等, 跨平台支持[`Windows` 、`macOS`、 `Linux`]。
+
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.designer.io/en/download/
 
 ### 图标库
 

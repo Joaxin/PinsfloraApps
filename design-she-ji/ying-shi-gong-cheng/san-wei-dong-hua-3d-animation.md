@@ -30,3 +30,9 @@
 ### UG [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.plm.automation.siemens.com/global/en/products/nx/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) 
 
 UG（Unigraphics NX）是Siemens PLM Software公司出品的一款模具行业的三维设计软件，为用户的产品设计及加工过程提供了数字化造型和验证手段。
+
+### VRoid Studio [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://vroid.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) 
+
+![VRoid](https://i.postimg.cc/TYCK4f6G/image.png)
+
+由p站开发的一款免费3D角色绘制软件，可以用来制作3D CG动画、游戏、VR/AR、3D角色建模等。
