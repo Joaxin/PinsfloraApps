@@ -1,14 +1,10 @@
+---
+description: Placeholder
+---
+
 # 占位符
 
-### 格式化
-
-JS格式化：[http://jsnice.org/](http://jsnice.org/)
-
-### 兼容性
-
-Can I Use: [https://caniuse.com](https://caniuse.com) 检查浏览器兼容性，比如es6：[https://caniuse.com/?search=es6](https://caniuse.com/?search=es6)
-
-### Placeholder
+Placeholder
 
 #### 图片
 
@@ -75,5 +71,7 @@ menhear酱： [https://api.ixiaowai.cn/mcapi/mcapi.php](https://api.ixiaowai.cn/
 
 #### 文字
 
-一言语录: [https://api.ixiaowai.cn/ylapi/index.php](https://api.ixiaowai.cn/ylapi/index.php) 舔狗日记：[https://api.ixiaowai.cn/tgrj/index.php](https://api.ixiaowai.cn/tgrj/index.php)
+一言语录: [https://api.ixiaowai.cn/ylapi/index.php](https://api.ixiaowai.cn/ylapi/index.php) 
+
+舔狗日记：[https://api.ixiaowai.cn/tgrj/index.php](https://api.ixiaowai.cn/tgrj/index.php)
 
