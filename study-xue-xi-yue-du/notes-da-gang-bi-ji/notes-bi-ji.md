@@ -22,6 +22,14 @@ The palest ink is better than the best memory.
 
 支持 Markdown 的开源国产笔记应用，同步需付费
 
+### Obsidian [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://obsidian.md/)![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
+
+Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+
+> The human brain is non-linear: we jump from idea to idea, all the time. Your second brain should work the same.
+
+免费的双向链笔记软件。
+
 ### Simplenote [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://simplenote.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 > The simplest way to keep notes.
@@ -61,6 +69,18 @@ Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 
 桌面版![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)： https://www.notion.so/desktop
 移动版![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)： https://www.notion.so/mobile
+
+
+### Roam Research [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://roamresearch.com/)
+
+> As easy to use as a document. As powerful as a graph database.
+Roam helps you organize your research for the long haul.
+
+一款创新、颠覆型的笔记应用，付费。
+
+![img](https://roamresearch.com/assets/images/Roam-Group-min.png)
+
+参考：[Roam Reserach 到底好在哪儿？](https://zhuanlan.zhihu.com/p/145384101)
 
 ### OneNote [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://office.microsoft.com/zh-cn/onenote/)
 

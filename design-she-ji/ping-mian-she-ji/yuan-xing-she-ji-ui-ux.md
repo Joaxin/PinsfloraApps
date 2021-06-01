@@ -13,3 +13,12 @@
 由Adobe开发和发行的交互原型设计软件。
 
 ![Adobe XD](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-design-graphic-adobexd.png)
+
+### Figma[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.figma.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
+
+跨平台UI设计原型工具
+
+![Figma](https://i.postimg.cc/G9wLM7bQ/image.png)
+
+
+
