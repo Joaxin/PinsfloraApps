@@ -20,6 +20,7 @@
   * [艺术网站](design-she-ji/design-arts.md)
   * [建筑设计](design-she-ji/jian-zhu-she-ji.md)
 * [资源](resources/README.md)
+  * [综合资源](resources/zong-he-zi-yuan.md)
   * [设计资源](resources/she-ji-zi-yuan.md)
   * [影视资源](resources/ying-shi-zai-xian/README.md)
     * [欧美剧](resources/ying-shi-zai-xian/ou-mei-ju.md)
@@ -67,6 +68,7 @@
   * [计算机资讯](it-ji-suan-ji/ji-suan-ji-zi-xun.md)
   * [编程语言](it-ji-suan-ji/bian-cheng-yu-yan.md)
 * [隐私保护](privacy/README.md)
-  * [匿名](privacy/ni-ming.md)
+  * [网络信息](privacy/wang-luo-xin-xi.md)
+  * [匿名信息](privacy/ni-ming.md)
   * [注册信息生成](privacy/infos-generator.md)
 
