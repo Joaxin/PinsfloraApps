@@ -8,6 +8,8 @@
       * [设计游戏](design-she-ji/design-tu-pian-gong-ju/she-ji-ling-gan/she-ji-you-xi.md)
       * [颜色工具](design-she-ji/design-tu-pian-gong-ju/she-ji-ling-gan/yan-se-gong-ju.md)
     * [图片](design-she-ji/design-tu-pian-gong-ju/tu-pian/README.md)
+      * [以图搜图](design-she-ji/design-tu-pian-gong-ju/tu-pian/yi-tu-sou-tu.md)
+      * [图片识别](design-she-ji/design-tu-pian-gong-ju/tu-pian/tu-pian-shi-bie.md)
       * [在线图片编辑](design-she-ji/design-tu-pian-gong-ju/tu-pian/zai-xian-tu-pian-bian-ji.md)
       * [在线图片制作](design-she-ji/design-tu-pian-gong-ju/tu-pian/zai-xian-tu-pian-zhi-zuo.md)
       * [在线图片工具](design-she-ji/design-tu-pian-gong-ju/tu-pian/zai-xian-tu-pian-sheng-cheng-qi.md)
