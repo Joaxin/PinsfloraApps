@@ -18,6 +18,8 @@
 
 > 死磕艺术二维码
 
+微微二维码: https://www.wwei.cn/
+
 ### 品牌标志 - Brands & Logos
 
 某樱花的图片生成\(超科学的电磁炮\) : [http://to-a.ru/](http://to-a.ru/)
