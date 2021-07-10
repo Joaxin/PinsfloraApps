@@ -64,6 +64,7 @@
 * [游戏](games-you-xi/README.md)
   * [音乐游戏](games-you-xi/yin-le-you-xi.md)
 * [计算机](it-ji-suan-ji/README.md)
+  * [比较工具](it-ji-suan-ji/bi-jiao-gong-ju.md)
   * [前端](it-ji-suan-ji/qian-duan/README.md)
     * [格式化工具](it-ji-suan-ji/qian-duan/ge-shi-hua-gong-ju.md)
   * [占位符](it-ji-suan-ji/zhan-wei-fu.md)
