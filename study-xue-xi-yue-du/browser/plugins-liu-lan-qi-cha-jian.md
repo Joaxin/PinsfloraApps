@@ -49,6 +49,10 @@
   chrome商店：https://chrome.google.com/webstore/detail/charset/oenllhgkiiljibhfagbfogdbchhdchml
 
   GitHub 开源地址：https://github.com/jinliming2/Chrome-Charset
+  
+- 简悦 - SimpRead：让你瞬间进入沉浸式阅读的 Chrome 扩展，类似 Safari 的阅读模式。
+
+  https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll
 
 ### 标签工具
 
@@ -226,14 +230,23 @@ chrome商店：https://chrome.google.com/webstore/detail/grammarly-for-chrome/kb
 
 - Highlight or Hide Search Engine Results： 搜索结果相同域名颜色高亮
   https://chrome.google.com/webstore/detail/highlight-or-hide-search/ilopipickdimglkalhckioobifbiinbk
+  
 - IP Whois & Flags Chrome & Websites Rating：网站信息分析工具
   https://chrome.google.com/webstore/detail/ip-whois-flags-chrome-web/kmdfbacgombndnllogoijhnggalgmkon
+  
+- SimilarWeb - 网站流量来源和排名: 通过SimilarWeb扩展程序查看真实的深入网站参与、流量来源和网站排名信息
+
+  https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp
+
 - SEOquake： 强大的SEO工具
   https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc
+  
 - Email Extractor：方便的email提取工具
   https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc
+  
 - Hunter: Find email addresses in seconds：email工具，与上配合使用
   https://chrome.google.com/webstore/detail/hunter-find-email-address/hgmhmanijnjhaffoampdlllchpolkdnj
+  
 - 西方媒体查一查：中文-媒体倾向评价
   https://chrome.google.com/webstore/detail/%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93%E6%9F%A5%E4%B8%80%E6%9F%A5/bpejcaojjipcgcnjkfmnkhokdpimcmij
 
@@ -242,6 +255,12 @@ chrome商店：https://chrome.google.com/webstore/detail/grammarly-for-chrome/kb
 - RARBG Monitor: 强大的资源匹配工具
   https://chrome.google.com/webstore/detail/rarbg-monitor/kkgcfdmlnfpdjmnheeojdlgpmhaeekga
 
+- 豆瓣电影放映厅：帮助你收藏关注豆瓣的影视类网站相关资料，提供点播，字幕，BT相关资源的链接地址
+  
+  https://chrome.google.com/webstore/detail/%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1%E6%94%BE%E6%98%A0%E5%8E%85/fdpginkdbfpppjeoncmgejpmgdnlimpe
+  
+  > 暂时失效，显示国内资源都带着小姨子跑路了
+  
 - Honey： 自动寻找优惠券和促销码
 
   官网：https://www.joinhoney.com/
