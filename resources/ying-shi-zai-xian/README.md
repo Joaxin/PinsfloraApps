@@ -1,9 +1,5 @@
 # 影视资源
 
-
-
-
-
 ## 老牌BT下载站
 
 阳光电影: [http://www.ygdy8.com/](http://www.ygdy8.com/)
@@ -24,13 +20,11 @@ RARBG: [http://rarbg.to/](http://rarbg.to/)
 
 电影蜜蜂: [https://www.idybee.com/](https://www.idybee.com/)
 
-1905： https://www.1905.com/ (电影老片推荐)
+1905： [https://www.1905.com/](https://www.1905.com/) \(电影老片推荐\)
 
 雷姆拉姆: [https://www.leimulamu.com/](https://www.leimulamu.com/) （付费）
 
 ### Lookmovie
 
 {% embed url="https://lookmovie.io/" caption="Watch latest movies and episodes free in high definition 1080p. " %}
-
-
 

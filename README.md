@@ -4,7 +4,7 @@ description: About
 
 # 项目简介
 
-A collection of website collections garden.
+A curated collection of internet website garden.
 
 
 

@@ -2,7 +2,7 @@
 
 纸迷宫生成器: [http://www.mazegenerator.net](http://www.mazegenerator.net)
 
-### 二维码
+## 二维码
 
 二维码生成器：[https://mh.cli.im/](https://mh.cli.im/)
 
@@ -18,9 +18,9 @@
 
 > 死磕艺术二维码
 
-微微二维码: https://www.wwei.cn/
+微微二维码: [https://www.wwei.cn/](https://www.wwei.cn/)
 
-### 品牌标志 - Brands & Logos
+## 品牌标志 - Brands & Logos
 
 某樱花的图片生成\(超科学的电磁炮\) : [http://to-a.ru/](http://to-a.ru/)
 
@@ -48,7 +48,7 @@ logopond：[https://logopond.com/](https://logopond.com/)
 
 Logo, Brand & Identity Inspiration
 
-### 头像生成
+## 头像生成
 
 头像生成器: [https://diy.jiuwa.net/cate/all](https://diy.jiuwa.net/cate/all)
 
@@ -72,7 +72,7 @@ ACG Waifu照片生成器\*
 
 [https://make.girls.moe/\#/](https://make.girls.moe/#/)
 
-### 条纹
+## 条纹
 
 苏格兰格子纹生成器：[http://www.tartanmaker.com/](http://www.tartanmaker.com/)
 
