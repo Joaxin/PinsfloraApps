@@ -12,6 +12,16 @@ Canva可画提供了海量的免费设计模板,涵盖海报、简历、宣传�
 
 支持浏览器，iOS，Android
 
+#### FotoJet
+
+[https://www.fotojet.com/](https://www.fotojet.com/)  
+快速和简单的手段来编辑和创建图像, 特别是拼图.
+
+图片编辑: [https://www.fotojet.com/cn/features/graphic-design/](https://www.fotojet.com/cn/features/graphic-design/)
+
+海报设计: [https://www.fotojet.com/cn/features/poster/](https://www.fotojet.com/cn/features/poster/)  
+照片拼图:  [https://www.fotojet.com/cn/features/photo-collage/](https://www.fotojet.com/cn/features/photo-collage/)
+
 ### Snappa
 
 线上制作任何种类的图片，如制作或发布社交媒体图片等。
@@ -23,6 +33,12 @@ Canva可画提供了海量的免费设计模板,涵盖海报、简历、宣传�
 [https://vectr.com/](https://vectr.com/)
 
 一款优秀的设计工具，包括 Logo，卡片，甚至网站原型和 PPT 等
+
+#### Designcap
+
+在线图形设计软件。它提供大量专业模板,使你能轻松自定义自己喜欢的设计。现在就来尝试设计你的信息图表、传单、社交媒体图片和其他图形吧!
+
+[https://www.designcap.com/](https://www.designcap.com/)
 
 ### **创客贴**
 
@@ -41,22 +57,6 @@ Canva可画提供了海量的免费设计模板,涵盖海报、简历、宣传�
 [https://818ps.com](https://818ps.com)
 
 帮你做设计，提供海量图片模板，通过替换修改文字来完成图片设计。
-
-## 恶搞图片
-
-诺基亚短信图片生成器：[https://zzkia.noddl.me](https://zzkia.noddl.me)
-
-赛博朋克2077 沙雕图生成器
-
-[https://heliumoctahelide.github.io/cyberpunk.html](https://heliumoctahelide.github.io/cyberpunk.html)
-
-[https://unlucky.ninja/cyberpunk2077-mememaker/](https://unlucky.ninja/cyberpunk2077-mememaker/)
-
-奥利奥生成器：[http://ljl.li/oreooo/](http://ljl.li/oreooo/)
-
-装逼生成器: [http://zb.yuanrenbang.com/](http://zb.yuanrenbang.com/)
-
-![&#x88C5;&#x903C;&#x751F;&#x6210;&#x5668;](https://i.imgur.com/uuia2U3.png)
 
 ## 图片特效制作
 
