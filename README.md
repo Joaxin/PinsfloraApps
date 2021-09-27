@@ -1,5 +1,5 @@
 ---
-description: About
+description: About this project
 ---
 
 # 项目简介
