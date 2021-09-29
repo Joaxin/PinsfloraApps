@@ -16,9 +16,7 @@ pixiv is an illustration communication service where people can post, read, and 
 
 {% embed url="https://www.pixiv.net/" caption="https://www.pixiv.net/" %}
 
-国内站点
 
-[https://pixiv.moe/](https://pixiv.moe/)
 
 
 
