@@ -2,13 +2,15 @@
 
 ### FlexClip
 
-{% embed url="https://www.flexclip.com/" caption="https://www.flexclip.com/" %}
+{% embed url="https://www.flexclip.com/" %}
+https://www.flexclip.com/
+{% endembed %}
 
 在线视频制作工具, 支持商业视频免费制作和个人视频免费制作, 海量视频模板, 支持上传各种格式的视频或图片进行视频编辑.
 
 ### Promo
 
-The world's \#1 online video maker
+The world's #1 online video maker
 
 提供视频剪辑、音乐，内置视频编辑模板和样式
 
@@ -43,4 +45,3 @@ https://www.shakr.com/
 链接https://www.renderforest.com/
 
 线上免费视频编辑器，可制作PPT、视频，Logo 动画制作等。
-

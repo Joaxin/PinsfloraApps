@@ -2,7 +2,6 @@
 
 ### 唤醒食物
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](<../.gitbook/assets/image (9).png>)
 
-[https://www.foodwake.com/](https://www.foodwake.com/)
-
+[https://www.foodwake.com/](https://www.foodwake.com)

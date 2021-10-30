@@ -6,15 +6,15 @@
 由于版权原因，通常这类网站存活时间不长或者经常变换网址，以下网址仅作参考, 失效的会定期删除。
 {% endhint %}
 
-![](../../.gitbook/assets/ai-qi-yi-teng-xun-shi-pin-you-ku-ge-shi-.png)
+![](<../../.gitbook/assets/爱奇艺 腾讯视频 优酷格式.png>)
 
 ### IIILab
 
-[https://weibo.iiilab.com/](https://weibo.iiilab.com/) 支持 **微博**、**秒拍**、**绿洲**、**小咖秀**、**哔哩哔哩**、**AcFun**、**视频号**、**YouTube**、**Twitter**、**Instagram**、**网易云音乐**、**最右**、**微视**、**全民K歌**、**全民小视频**、**陌陌**、**美拍**、**Facebook**、**Vimeo**、**Tumblr**、**趣头条**、**映客**、**小影**、**梨视频**、**淘宝**等平台的视频的解析下载。
+[https://weibo.iiilab.com/](https://weibo.iiilab.com) 支持 **微博**、**秒拍**、**绿洲**、**小咖秀**、**哔哩哔哩**、**AcFun**、**视频号**、**YouTube**、**Twitter**、**Instagram**、**网易云音乐**、**最右**、**微视**、**全民K歌**、**全民小视频**、**陌陌**、**美拍**、**Facebook**、**Vimeo**、**Tumblr**、**趣头条**、**映客**、**小影**、**梨视频**、**淘宝**等平台的视频的解析下载。
 
 ### 唧唧
 
-在这里你可以下载到对应AV号\(B站视频编号\)的视频\(包括福利\)、MP3和弹幕文件
+在这里你可以下载到对应AV号(B站视频编号)的视频(包括福利)、MP3和弹幕文件
 
 {% embed url="http://www.jijidown.com/" %}
 
@@ -39,4 +39,3 @@
 {% embed url="https://onlinevideoconverter.com/" %}
 
 [https://www.clipconverter.cc/2/](https://www.clipconverter.cc/2/)
-

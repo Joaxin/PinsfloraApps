@@ -24,11 +24,11 @@ description: Colors Tools
 
 [https://color.adobe.com/zh/create/color-wheel/](https://color.adobe.com/zh/create/color-wheel/)
 
-![https://color.adobe.com/zh/create/color-wheel/](../../.gitbook/assets/image%20%282%29.png)
+![https://color.adobe.com/zh/create/color-wheel/](<../../.gitbook/assets/image (2).png>)
 
 ### Paletton
 
-[https://paletton.com/](https://paletton.com/)
+[https://paletton.com/](https://paletton.com)
 
 ### uiGradients
 
@@ -42,7 +42,7 @@ description: Colors Tools
 
 [https://www.materialpalette.com](https://www.materialpalette.com/blue/light-blue)
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](<../../.gitbook/assets/image (3).png>)
 
 ### Hamburgers by Jonathan Suh
 
@@ -50,7 +50,7 @@ description: Colors Tools
 
 {% embed url="https://jonsuh.com/hamburgers/" %}
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](<../../.gitbook/assets/image (4).png>)
 
 ### Flat UI
 
@@ -66,11 +66,17 @@ description: Colors Tools
 
 Discover Art & Design Inspiration 从图片中获取颜色灵感
 
-{% embed url="http://www.colorhunter.com/" caption="http://www.colorhunter.com/" %}
+{% embed url="http://www.colorhunter.com/" %}
+http://www.colorhunter.com/
+{% endembed %}
 
-{% embed url="http://colrd.com/" caption="http://colrd.com/" %}
+{% embed url="http://colrd.com/" %}
+http://colrd.com/
+{% endembed %}
 
-{% embed url="https://www.colourlovers.com/" caption="https://www.colourlovers.com/" %}
+{% embed url="https://www.colourlovers.com/" %}
+https://www.colourlovers.com/
+{% endembed %}
 
 ### 颜色转换工具
 
@@ -84,9 +90,9 @@ Discover Art & Design Inspiration 从图片中获取颜色灵感
 
 HTML颜色
 
-{% embed url="https://html-color-codes.info/" caption="https://html-color-codes.info/" %}
+{% embed url="https://html-color-codes.info/" %}
+https://html-color-codes.info/
+{% endembed %}
 
 {% embed url="https://www.0to255.com/" %}
-
-
 

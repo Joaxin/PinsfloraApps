@@ -2,7 +2,7 @@
 
 Instagram stories viewer and downloader
 
-{% embed url="https://gramho.com/" caption="https://gramho.com/" %}
-
-
+{% embed url="https://gramho.com/" %}
+https://gramho.com/
+{% endembed %}
 

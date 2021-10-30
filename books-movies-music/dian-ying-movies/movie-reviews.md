@@ -10,19 +10,23 @@
 
 ### 时光网
 
-{% embed url="http://www.mtime.com/" caption="时光网 http://www.mtime.com/" %}
+{% embed url="http://www.mtime.com/" %}
+时光网 http://www.mtime.com/
+{% endembed %}
 
 国内著名的电影资讯网、提供海量电影资讯、电影预告、以及影评。
 
 ### IMDb
 
-{% embed url="https://www.imdb.com/" caption="IMDB http://www.imdb.com/" %}
+{% embed url="https://www.imdb.com/" %}
+IMDB http://www.imdb.com/
+{% endembed %}
 
-_IMDb_ is the world's most popular and authoritative source for movie, TV and celebrity content. 
+_IMDb_ is the world's most popular and authoritative source for movie, TV and celebrity content.&#x20;
 
 知名的互联网电影资料库
 
-### 烂番茄\(ROTTEN TOMATOES\)
+### 烂番茄(ROTTEN TOMATOES)
 
 美国一个著名电影评论网站，以提供电影相关评论、资讯和新闻为主。
 
@@ -30,7 +34,8 @@ _IMDb_ is the world's most popular and authoritative source for movie, TV and ce
 
 ### Metacritic
 
-{% embed url="https://www.metacritic.com/" caption="Metacritic https://www.metacritic.com/" %}
+{% embed url="https://www.metacritic.com/" %}
+Metacritic https://www.metacritic.com/
+{% endembed %}
 
-知名评分机构Metacritic\(MC站\)，关于电影、电视节目、音乐专辑、游戏等评论与评分的网站。
-
+知名评分机构Metacritic(MC站)，关于电影、电视节目、音乐专辑、游戏等评论与评分的网站。

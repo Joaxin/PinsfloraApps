@@ -1,4 +1,4 @@
-# 影视
+# 🎬 影视
 
 ### Neets
 
@@ -14,5 +14,4 @@
 
 ![](../../.gitbook/assets/image.png)
 
-~~AnimeTaste（品赏艾尼莫）: [http://animetaste.net/](http://animetaste.net/)~~
-
+\~\~AnimeTaste（品赏艾尼莫）: [http://animetaste.net/](http://animetaste.net)\~\~

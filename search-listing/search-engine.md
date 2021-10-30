@@ -2,23 +2,25 @@
 description: Search Engine
 ---
 
-# 搜索引擎
+# 🔍 搜索引擎
 
-###  百度
+### &#x20;百度
 
 全球领先的中文搜索引擎
 
-PC版: [http://baidu.com/](https://www.baidu.com/)
+PC版: [http://baidu.com/](https://www.baidu.com)
 
-网页版: [http://m.baidu.com/](http://m.baidu.com/)
+网页版: [http://m.baidu.com/](http://m.baidu.com)
 
 ### 谷歌
 
 全球最大的搜索引擎
 
-{% embed url="https://www.google.com" caption="https://www.google.com/" %}
+{% embed url="https://www.google.com" %}
+https://www.google.com/
+{% endembed %}
 
-谷粉搜搜 [https://gfsoso.99lb.net/](https://gfsoso.99lb.net/)
+谷粉搜搜 [https://gfsoso.99lb.net/](https://gfsoso.99lb.net)
 
 ![](https://i.loli.net/2021/08/13/mEA5CqbDikcLX7y.png)
 
@@ -28,9 +30,11 @@ PC版: [http://baidu.com/](https://www.baidu.com/)
 
 ![](https://i.loli.net/2021/08/13/5PsoetjdhVBklmR.png)
 
-{% embed url="http://scholar.hedasudi.com/" caption="http://scholar.hedasudi.com/" %}
+{% embed url="http://scholar.hedasudi.com/" %}
+http://scholar.hedasudi.com/
+{% endembed %}
 
-虫部落: [http://chongbuluo.99lb.net/](http://chongbuluo.99lb.net/)
+虫部落: [http://chongbuluo.99lb.net/](http://chongbuluo.99lb.net)
 
 ### 必应
 
@@ -48,17 +52,16 @@ DuckDuckGo Privacy Essentials: [https://chrome.google.com/webstore/detail/duckdu
 
 ### **Magi**
 
- 知识搜索引擎, 比较像IBM Watson或Wolfram Alpha, 帮助我们了解搜索结果的关联性。
+&#x20;知识搜索引擎, 比较像IBM Watson或Wolfram Alpha, 帮助我们了解搜索结果的关联性。
 
 {% embed url="https://magi.com/" %}
 
 ### 其他搜索引擎
 
-韩国: [https://www.naver.com/](https://www.naver.com/)
+韩国: [https://www.naver.com/](https://www.naver.com)
 
-> 已暂停服务:
+> 已暂停服务:&#x20;
 
- ~~~多吉搜索~~
+&#x20;\~~~多吉搜索~~
 
 ~~~~
-

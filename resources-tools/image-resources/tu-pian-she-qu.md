@@ -2,7 +2,9 @@
 
 ### Pinterest
 
-{% embed url="https://www.pinterest.com/" caption="https://www.pinterest.com/" %}
+{% embed url="https://www.pinterest.com/" %}
+https://www.pinterest.com/
+{% endembed %}
 
 ### **花瓣网**
 
@@ -14,9 +16,9 @@
 
 pixiv is an illustration communication service where people can post, read, and view illustrations, manga, and novels.
 
-{% embed url="https://www.pixiv.net/" caption="https://www.pixiv.net/" %}
-
-
+{% embed url="https://www.pixiv.net/" %}
+https://www.pixiv.net/
+{% endembed %}
 
 
 

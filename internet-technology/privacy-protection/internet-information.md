@@ -16,11 +16,11 @@ Google搜索： my ip
 
 > IP地址、ISP
 
-ip-tracker（详细）： [https://www.ip-tracker.org/](https://www.ip-tracker.org/)
+ip-tracker（详细）： [https://www.ip-tracker.org/](https://www.ip-tracker.org)
 
-whatismyipaddress（定位可精确到县市）：[https://whatismyipaddress.com/](https://whatismyipaddress.com/)
+whatismyipaddress（定位可精确到县市）：[https://whatismyipaddress.com/](https://whatismyipaddress.com)
 
-IPlocation：[https://www.iplocation.net/](https://www.iplocation.net/)
+IPlocation：[https://www.iplocation.net/](https://www.iplocation.net)
 
 Xmyip（定位可精确到县市）： [https://www.xmyip.com](https://www.xmyip.com)
 
@@ -43,7 +43,7 @@ Xmyip（定位可精确到县市）： [https://www.xmyip.com](https://www.xmyip
 4. ping.aizhan.com 爱站的测试工具，但测试点比较少
 5. www.webluker.com 做CDN的公司，网站上提供ping测试
 
-[~~https://torch.njs.app/~~](https://torch.njs.app/) ~~（已失效）~~
+[~~https://torch.njs.app/~~](https://torch.njs.app)~~ （已失效）~~
 
 ### Host
 
@@ -58,9 +58,8 @@ CheckHost 支持TCP/UDP端口测试： [https://check-host.net](https://check-ho
 
 ### 其他测试
 
-* [IPv6 TEST](http://test-ipv6.com/)
+* [IPv6 TEST](http://test-ipv6.com)
 * 检查是否WebRTC泄露或者使用VPN：
   * [https://www.xmyip.com/webrtc-leak-test](https://www.xmyip.com/webrtc-leak-test)
   * [https://whatismyipaddress.com/webrtc-test](https://whatismyipaddress.com/webrtc-test)
 * 是否使用Tor：[https://www.xmyip.com/tor-ip-check](https://www.xmyip.com/tor-ip-check)
-
