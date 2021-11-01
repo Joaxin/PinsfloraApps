@@ -10,7 +10,7 @@ description: 有趣的生成器网站
 
 > 粉丝们花式吹捧自己的偶像，浑身是宝，全是优点，字面意思为就连偶像放屁都能把它出口成章面不改色的吹成是彩虹。
 
-[https://chp.shadiao.app/](https://chp.shadiao.app/)
+[https://chp.shadiao.app/](https://chp.shadiao.app)
 
 #### CP短打生成器
 
@@ -18,19 +18,19 @@ description: 有趣的生成器网站
 
 [https://mxh-mini-apps.github.io/mxh-cp-stories/](https://mxh-mini-apps.github.io/mxh-cp-stories/)
 
-[https://desolate-escarpment-96939.herokuapp.com/](https://desolate-escarpment-96939.herokuapp.com/)
+[https://desolate-escarpment-96939.herokuapp.com/](https://desolate-escarpment-96939.herokuapp.com)
 
 #### 骂人宝典
 
-[https://nmsl.shadiao.app/](https://nmsl.shadiao.app/)
+[https://nmsl.shadiao.app/](https://nmsl.shadiao.app)
 
-祖安：[https://zuanbot.com/](https://zuanbot.com/)
+祖安：[https://zuanbot.com/](https://zuanbot.com)
 
 #### 朋友圈文案生成器/毒鸡汤文案生成器
 
-朋友圈文案:[https://pyq.shadiao.app/](https://pyq.shadiao.app/)
+朋友圈文案:[https://pyq.shadiao.app/](https://pyq.shadiao.app)
 
-毒鸡汤文案: [https://du.shadiao.app/](https://du.shadiao.app/)
+毒鸡汤文案: [https://du.shadiao.app/](https://du.shadiao.app)
 
 #### 能不能好好说话
 
@@ -46,7 +46,7 @@ Github: [https://github.com/itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)
 
 #### 抽象话
 
-抽象话生成器：[https://chouxiang.ml/](https://chouxiang.ml/)
+抽象话生成器：[https://chouxiang.ml/](https://chouxiang.ml)
 
 #### 成语
 
@@ -62,7 +62,7 @@ Github: [https://github.com/itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)
 
 舔狗日记生成器
 
-[https://we.dog/](https://we.dog/)
+[https://we.dog/](https://we.dog)
 
 #### 已关闭
 
@@ -110,7 +110,7 @@ Github: [https://github.com/menzi11/BullshitGenerator](https://github.com/menzi1
 
 玄派网是网络小说创作辅助平台，致力于让网络小说创作更加顺畅、快捷，节省时间，让小说创作者将更多的精力和时间放在情节构思当中。 玄派网的很多工具，都是对小说创作理论的具体实践，我们参考和搜集了中外小说理论家们所总结出来的创作技巧和方法，尽最大努力将其工具化，从而让创作者能够更好地应用这些理论，创作出理想的作品。
 
-[https://www.xuanpai.com/](https://www.xuanpai.com/)
+[https://www.xuanpai.com/](https://www.xuanpai.com)
 
 #### 其他
 
@@ -120,43 +120,12 @@ Github: [https://github.com/menzi11/BullshitGenerator](https://github.com/menzi1
 
 GPT-2文章生成器项目地址:
 
-[https://colab.research.google.com/github/imcaspar/gpt2-ml/blob/master/pretrained\_model\_demo.ipynb](https://colab.research.google.com/github/imcaspar/gpt2-ml/blob/master/pretrained_model_demo.ipynb)
+[https://colab.research.google.com/github/imcaspar/gpt2-ml/blob/master/pretrained\_model\_demo.ipynb](https://colab.research.google.com/github/imcaspar/gpt2-ml/blob/master/pretrained\_model\_demo.ipynb)
 
 [https://github.com/imcaspar/gpt2-ml](https://github.com/imcaspar/gpt2-ml)
 
-### 字体
-
-彩虹字生成器
-
-[https://www.qqxiuzi.cn/zh/caihongzi/index.htm](https://www.qqxiuzi.cn/zh/caihongzi/index.htm)
-
-乱码文字生成器
-
-[https://www.qqxiuzi.cn/zh/luanma/](https://www.qqxiuzi.cn/zh/luanma/)
-
-翻转文字生成器
-
-[http://www.fliptext.org/](http://www.fliptext.org/)
-
-花里胡哨字体生成器\(字母\)
-
-[https://nickfinder.com/fancy-text](https://nickfinder.com/fancy-text)
-
-[https://nickfinder.com/make-it-fancy](https://nickfinder.com/make-it-fancy)
-
-[https://nickfinder.com/fancy-writer](https://nickfinder.com/fancy-writer)
-
-艺术字体在线生成器
-
-[http://www.akuziti.com/](http://www.akuziti.com/)
-
-花样字体生成器 ： [https://www.jiuwa.net/hywz/](https://www.jiuwa.net/hywz/) \(九娃工具箱\)
-
-花藤字体在线生成器: [https://www.jiuwa.net/htt/](https://www.jiuwa.net/htt/)
-
 ### 生活
 
-需要我帮你Baidu么: [https://lmbtfy.cn/](https://lmbtfy.cn/)
+需要我帮你Baidu么: [https://lmbtfy.cn/](https://lmbtfy.cn)
 
 请假条在线生成器: [https://www.woyaoqingjia.com/zxsc/](https://www.woyaoqingjia.com/zxsc/)
-

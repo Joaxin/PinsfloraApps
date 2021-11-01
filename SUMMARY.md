@@ -28,6 +28,7 @@
     * [设计师灵感](design-editing/design-inspiration/designer-inspiration.md)
     * [设计博客](design-editing/design-inspiration/design-blog.md)
     * [设计软件](design-editing/design-inspiration/design-software.md)
+  * [🖋 字体](design-editing/fonts.md)
 * [🛠 资源与工具](resources-tools/README.md)
   * [格式转换](resources-tools/web-conversiom/README.md)
     * [综合转换](resources-tools/web-conversiom/conversion-all.md)
