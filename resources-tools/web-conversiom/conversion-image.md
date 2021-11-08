@@ -1,44 +1,53 @@
-# 图片转换
+# 文件压缩
+
+压缩GIF? 看这一篇就够了: [https://zhuanlan.zhihu.com/p/110177159](https://zhuanlan.zhihu.com/p/110177159)
+
+Docsmall:
+
+GIF压缩：[https://docsmall.com/gif-compress](https://docsmall.com/gif-compress)
+
+图片压缩: [https://docsmall.com/image-compress](https://docsmall.com/image-compress)
+
+PDF压缩：[https://docsmall.com/pdf-compress](https://docsmall.com/pdf-compress)
 
 ### GIF Compressor
 
-* gif格式压缩及转换, 最大支持50M, 最多 选择20个要压缩的GIF文件
+*   gif格式压缩及转换, 最大支持50M, 最多 选择20个要压缩的GIF文件
 
-  [https://gifcompressor.com/](https://gifcompressor.com/)
+    [https://gifcompressor.com/](https://gifcompressor.com)
 
-  [https://giftomp4.com/](https://giftomp4.com/)
+    [https://giftomp4.com/](https://giftomp4.com)
 
-  🔗 [https://mp4togif.com/](https://mp4togif.com/)
+    🔗 [https://mp4togif.com/](https://mp4togif.com)
 
-  [https://giftopng.com/](https://giftopng.com/)
+    [https://giftopng.com/](https://giftopng.com)
 
-  [https://pngtogif.com/](https://pngtogif.com/)
+    [https://pngtogif.com/](https://pngtogif.com)
+*   矢量格式压缩及转换
 
-* 矢量格式压缩及转换
+    [https://svgtopng.com/](https://svgtopng.com)
 
-  [https://svgtopng.com/](https://svgtopng.com/)
+    [https://svgtojpg.com/](https://svgtojpg.com)
 
-  [https://svgtojpg.com/](https://svgtojpg.com/)
+    [https://pdftosvg.com/](https://pdftosvg.com)
 
-  [https://pdftosvg.com/](https://pdftosvg.com/)
+    [https://svgtopdf.com/](https://svgtopdf.com)
 
-  [https://svgtopdf.com/](https://svgtopdf.com/)
+    [https://epstosvg.com/](https://epstosvg.com)
 
-  [https://epstosvg.com/](https://epstosvg.com/)
+    [https://epstopng.com/](https://epstopng.com)
 
-  [https://epstopng.com/](https://epstopng.com/)
+    [https://svgoptimizer.com/](https://svgoptimizer.com)
 
-  [https://svgoptimizer.com/](https://svgoptimizer.com/)
-
-  [https://vectorizer.com/](https://vectorizer.com/)
+    [https://vectorizer.com/](https://vectorizer.com)
 
 ### EZGif
 
 几乎全能的在线图片工具, 特别针对gif, webp, apng, avif格式的处理.
 
-[https://ezgif.com/](https://ezgif.com/)
+[https://ezgif.com/](https://ezgif.com)
 
-* 图片压缩优化: [https://ezgif.com/optimize](https://ezgif.com/optimize) \(最大支持35M\)
+* 图片压缩优化: [https://ezgif.com/optimize](https://ezgif.com/optimize) (最大支持35M)
 
 ![](https://i.loli.net/2021/09/04/k7WftxwnEPs2gZu.png)
 
@@ -46,7 +55,7 @@
 
 ### iLoveIMG
 
-Gif压缩\(不支持自定义压缩, 无上传大小限制\): [https://www.iloveimg.com/compress-image/compress-gif](https://www.iloveimg.com/compress-image/compress-gif)
+Gif压缩(不支持自定义压缩, 无上传大小限制): [https://www.iloveimg.com/compress-image/compress-gif](https://www.iloveimg.com/compress-image/compress-gif)
 
 ### Apowersoft
 
@@ -54,7 +63,7 @@ Gif压缩\(不支持自定义压缩, 无上传大小限制\): [https://www.ilove
 
 > Compress video, picture and PDF free and quickly
 
-视频图片pdf压缩工具, 同时也是在线免费高清录屏工具\([https://www.apowersoft.cn/free-online-screen-recorder](https://www.apowersoft.cn/free-online-screen-recorder)\).
+视频图片pdf压缩工具, 同时也是在线免费高清录屏工具([https://www.apowersoft.cn/free-online-screen-recorder](https://www.apowersoft.cn/free-online-screen-recorder)).
 
 ### 万兴优转
 
@@ -68,24 +77,22 @@ Gif压缩\(不支持自定义压缩, 无上传大小限制\): [https://www.ilove
 
 ### 其他工具
 
-* Compress-Or-Die
+*   Compress-Or-Die
 
-   [https://compress-or-die.com/gif](https://compress-or-die.com/gif)
+    &#x20;[https://compress-or-die.com/gif](https://compress-or-die.com/gif)
 
-   Gif图片压缩,但最大只支持8M
-
+    &#x20;Gif图片压缩,但最大只支持8M
 * Shortpixel [https://shortpixel.com/online-image-compression](https://shortpixel.com/online-image-compression) JPEG、PNG或GIF格式的图像压缩。最大支持10MB, 需登录解除该限制。
-* Youcompress
+*   Youcompress
 
-  [https://www.youcompress.com/videos/](https://www.youcompress.com/videos/)
+    [https://www.youcompress.com/videos/](https://www.youcompress.com/videos/)
 
 ​ Compress MP4, MOV, MP3, PDF, PNG, JPG, JPEG, GIF files online for free.
 
-​ 有文件大小5M限制\( Error: File is too big, limit is 5 MB\), 不推荐.
+​ 有文件大小5M限制( Error: File is too big, limit is 5 MB), 不推荐.
 
-* 不推荐的soogif\(需登录加付费, 压缩质量差\)
+* 不推荐的soogif(需登录加付费, 压缩质量差)
 
 ### 其他窍门
 
 * imgur会自动把上传的gif转换为压缩过后的mp4
-
