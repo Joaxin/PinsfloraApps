@@ -9,3 +9,8 @@ coverY: 0
 
 A curated collection of internet website garden.
 
+### 项目参考
+
+[https://github.com/PanJiaChen/awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks) / [https://panjiachen.github.io/awesome-bookmarks/](https://panjiachen.github.io/awesome-bookmarks/)\
+
+
