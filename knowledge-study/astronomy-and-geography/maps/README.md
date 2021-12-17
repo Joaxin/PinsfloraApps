@@ -32,4 +32,5 @@
 
 地图选择器：[http://datav.aliyun.com/tools/atlas/index.html#\&lat=33.521903996156105\&lng=104.29849999999999\&zoom=3](http://datav.aliyun.com/tools/atlas/index.html#\&lat=33.521903996156105\&lng=104.29849999999999\&zoom=3)
 
-地图数据：[https://hxkj.vip/demo/echartsMap/](https://hxkj.vip/demo/echartsMap/)
+地图数据：[https://hxkj.vip/demo/echartsMap/](https://hxkj.vip/demo/echartsMap/)\
+百度地图开放平台：[https://lbsyun.baidu.com/](https://lbsyun.baidu.com)

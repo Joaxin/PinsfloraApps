@@ -14,4 +14,4 @@ Anime TV：[https://streamanimetv.net/](https://streamanimetv.net)
 
 ACG Fans：[http://acgfans.net/](http://acgfans.net)
 
-~~ACG调查小队: ~~[~~https://acgso1.com/~~](https://acgso1.com)~~~~
+~~ACG调查小队:~~ [~~https://acgso1.com/~~](https://acgso1.com)~~~~

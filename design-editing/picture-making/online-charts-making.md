@@ -8,4 +8,4 @@ description: Online charts making
 
 Infogram: [https://infogram.com/](https://infogram.com)
 
-~~Visual.ly：~~[~~https://visual.ly/~~](https://visual.ly)~~ (已转型)~~
+~~Visual.ly：~~[~~https://visual.ly/~~](https://visual.ly) ~~(已转型)~~

@@ -43,7 +43,7 @@ Xmyip（定位可精确到县市）： [https://www.xmyip.com](https://www.xmyip
 4. ping.aizhan.com 爱站的测试工具，但测试点比较少
 5. www.webluker.com 做CDN的公司，网站上提供ping测试
 
-[~~https://torch.njs.app/~~](https://torch.njs.app)~~ （已失效）~~
+[~~https://torch.njs.app/~~](https://torch.njs.app) ~~（已失效）~~
 
 ### Host
 
