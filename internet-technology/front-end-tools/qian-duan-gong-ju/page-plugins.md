@@ -4,4 +4,6 @@
 
 Super fast and easy Social Media Sharing Buttons. No JavaScript. No tracking.
 
-[https://sharingbuttons.io/](https://sharingbuttons.io)\
+[https://sharingbuttons.io/](https://sharingbuttons.io)
+
+\

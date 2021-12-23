@@ -1,76 +1,136 @@
 # 前端工具
 
-### 网站
+####
 
-以下网站强烈推荐：
+jQuery Easing： [https://gsgd.co.uk/sandbox/jquery/easing/](https://gsgd.co.uk/sandbox/jquery/easing/)
 
-MDN: [https://developer.mozilla.org](https://developer.mozilla.org)
+Github: [https://github.com/gdsmith/jquery.easing](https://github.com/gdsmith/jquery.easing)
 
-#### JS
+* jQuery Validation
+* jQuery Treeview
+* jQuery Autocomplete
+* jQuery UI
 
-[https://javascript.info/](https://javascript.info)
+#### SweetAlert
 
-> Github组织: [https://github.com/javascript-tutorial](https://github.com/javascript-tutorial)
+![](https://camo.githubusercontent.com/660eafa4becb88fe001da15ad17d788f451cc5a48222c581b89f4666e407281d/68747470733a2f2f7261772e6769746875622e636f6d2f7377656574616c657274322f7377656574616c657274322f6d61737465722f6173736574732f7377656574616c657274322e676966)
 
-State of JS（JS技术统计网站）：[https://stateofjs.com/](https://stateofjs.com)
+{% tabs sweetalert %} \<!-- tab sweetalert@fas fa-forward-->
 
-ECMAscript： [https://tc39.es/ecma262/](https://tc39.es/ecma262/)
+Github： [https://github.com/sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
+
+> A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 
 ```
- $ npm install -g es-checker $ es-checker
+ npm install --save sweetalert2
 ```
 
-你不需要Jqery: [http://youmightnotneedjquery.com/](http://youmightnotneedjquery.com)
+Or grab from [jsdelivr CDN](https://www.jsdelivr.com/package/npm/sweetalert2) :
 
-插件开发: [https://developer.chrome.com/docs/extensions/reference/](https://developer.chrome.com/docs/extensions/reference/)
+```
+ <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+```
 
-#### CSS
+中文文档: [http://mishengqiang.com/sweetalert2/](http://mishengqiang.com/sweetalert2/)
 
-[https://css-tricks.com/](https://css-tricks.com)
+英文文档: [https://sweetalert2.github.io/](https://sweetalert2.github.io)
 
-[http://tympanus.net/codrops/](http://tympanus.net/codrops/)
+\<!-- endtab -->
 
-#### Github
+\<!-- tab For Django@fas fa-ellipsis-h -->
 
-You Don't Need系列:
+[https://github.com/Atrox/sweetify-django](https://github.com/Atrox/sweetify-django)
 
-[https://github.com/you-dont-need](https://github.com/you-dont-need)
+[https://docs.djangoproject.com/en/3.1/ref/contrib/messages/](https://docs.djangoproject.com/en/3.1/ref/contrib/messages/)
 
-[https://github.com/you-dont-need/You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need)
+\<!-- endtab -->
 
-> People choose popular projects, often not because it applies to their problems.
+\<!-- tab Old Version@fas fa-ban -->
 
-You-Dont-Need-JavaScript：[https://github.com/you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
+旧版本: A beautiful replacement for JavaScript's "alert"
 
-You-Dont-Need-Momentjs: [https://github.com/you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+[https://github.com/t4t5/sweetalert](https://github.com/t4t5/sweetalert)
 
-You-Dont-Need-Lodash-Underscore：[https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+[https://sweetalert.js.org/docs/](https://sweetalert.js.org/docs/)
 
-You-Dont-Need-Loops: [https://github.com/you-dont-need/You-Dont-Need-Loops](https://github.com/you-dont-need/You-Dont-Need-Loops)
+\<!-- endtab --> {% endtabs %}
 
-You-Dont-Need-GUI: [https://github.com/you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
+#### Clipboard.js
 
-You-Dont-Need-jQuery(你或许并不需要JQuery): [https://github.com/nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
+✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋
 
-### 书籍
+Github: [https://zenorocha.github.io/clipboard.js](https://zenorocha.github.io/clipboard.js)
 
-#### Book
+官网和文档：[https://clipboardjs.com/](https://clipboardjs.com)
 
-_Jon Duckett_ - HTML and CSS: Design and Build Websites
+```
+ <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script> <script src="https://unpkg.com/clipboard@2/dist/clipboard.min.js"></script>
+```
 
-Speaking JS: [http://speakingjs.com/](http://speakingjs.com)
+#### Mark.js
 
-#### Website
+关键词搜索高亮插件
 
-Exploring JS: JavaScript books for programmers: [http://exploringjs.com/](http://exploringjs.com)
+JavaScript keyword highlighting. Mark text with with options that fit every application. Also available as jQuery plugin.
 
-sitepoint: [https://www.sitepoint.com/](https://www.sitepoint.com)
+官网: [https://markjs.io/](https://markjs.io)
 
-#### Github
+Demo: [https://markjs.io/configurator.html](https://markjs.io/configurator.html)
 
-You-Dont-Know-JS： [https://github.com/getify/You-Dont-Know-JS/tree/1st-ed](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+Github: [https://github.com/julmot/mark.js](https://github.com/julmot/mark.js)
 
-Vanilla JS in 30 days (注册登录) ： [https://javascript30.com/](https://javascript30.com)
+#### Scrollreveal
 
-* [x] 材料：[https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
-* [x] 参考： [https://github.com/soyaine/JavaScript30](https://github.com/soyaine/JavaScript30)
+ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. It was designed to be robust and flexible, but hopefully you’ll be surprised below at how easy it is to pick up.
+
+官网： [https://scrollrevealjs.org/](https://scrollrevealjs.org)
+
+Github: [https://github.com/jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal)
+
+```
+ <script src="https://cdn.bootcdn.net/ajax/libs/scrollReveal.js/4.0.9/scrollreveal.min.js"></script> <script src="https://unpkg.com/scrollreveal"></script>
+```
+
+***
+
+{% hideToggle 过时的插件 %}
+
+[Waypoints](http://imakewebthings.com/waypoints/)：[https://github.com/imakewebthings/waypoints](https://github.com/imakewebthings/waypoints) (this library is may out dated.)
+
+Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.
+
+```
+ <script src='https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js'/>
+```
+
+***
+
+[stellar.js](https://github.com/markdalgleish/stellar.js): [https://github.com/markdalgleish/stellar.js](https://github.com/markdalgleish/stellar.js) (this library is may out dated.)
+
+视差滚动（Parallax Scrolling）
+
+> Stellar.js - Parallax scrolling made easy
+
+{% endhideToggle %}
+
+#### Dropzone.js
+
+可拖拽文件上传API
+
+Dropzone.js is one of the most popular drag and drop JavaScript libraries. It is free, fully open source, and makes it easy for you to handle dropped files on your website.
+
+It's meant to look good by default, and is highly customizable.
+
+官网: [https://www.dropzone.dev/js/](https://www.dropzone.dev/js/)
+
+文档: [https://docs.dropzone.dev/](https://docs.dropzone.dev)
+
+#### tocbot
+
+[http://tscanlin.github.io/tocbot/#get-started](http://tscanlin.github.io/tocbot/#get-started)
+
+Build a table of contents from headings in an HTML document.
+
+Github: [https://github.com/tscanlin/tocbot](https://github.com/tscanlin/tocbot)
+
+[**TodoMVC**](http://todomvc.com): A project which offers the same Todo application implemented using MV\* concepts in most of the popular JavaScript MV\* frameworks of today
