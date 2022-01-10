@@ -2,13 +2,21 @@
 
 
 
-### 网站
+## 网站
 
 以下网站强烈推荐：
 
-MDN: [https://developer.mozilla.org](https://developer.mozilla.org)
+MDN: The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.
 
-#### JS
+[https://developer.mozilla.org](https://developer.mozilla.org)
+
+alligator：Front-End Web Development,Chewed Up
+
+https://alligator.io/
+
+Google Web Developers：https://developers.google.com/web
+
+### JS
 
 [https://javascript.info/](https://javascript.info)
 
@@ -22,17 +30,17 @@ ECMAscript： [https://tc39.es/ecma262/](https://tc39.es/ecma262/)
  $ npm install -g es-checker $ es-checker
 ```
 
-你不需要Jqery: [http://youmightnotneedjquery.com/](http://youmightnotneedjquery.com)
+你不需要jQuery: [http://youmightnotneedjquery.com/](http://youmightnotneedjquery.com)
 
-插件开发: [https://developer.chrome.com/docs/extensions/reference/](https://developer.chrome.com/docs/extensions/reference/)
+Web插件开发: [https://developer.chrome.com/docs/extensions/reference/](https://developer.chrome.com/docs/extensions/reference/)
 
-#### CSS
+### CSS
 
-[https://css-tricks.com/](https://css-tricks.com)
+css-tricks：[https://css-tricks.com/](https://css-tricks.com)
 
 [http://tympanus.net/codrops/](http://tympanus.net/codrops/)
 
-#### Github
+### Github
 
 You Don't Need系列:
 
@@ -54,7 +62,11 @@ You-Dont-Need-GUI: [https://github.com/you-dont-need/You-Dont-Need-GUI](https://
 
 You-Dont-Need-jQuery(你或许并不需要JQuery): [https://github.com/nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
 
-### 书籍
+## 资源
+
+Free hand-picked HTML, CSS and JavaScript (jQuery, React, Vue) code examples, tutorials and articles：https://freefrontend.com/
+
+## 书籍
 
 #### Book
 
@@ -87,6 +99,6 @@ Vanilla JS in 30 days (注册登录) ： [https://javascript30.com/](https://jav
 * [x] 材料：[https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
 * [x] 参考： [https://github.com/soyaine/JavaScript30](https://github.com/soyaine/JavaScript30)
 
-### 文章
+## 文章
 
 * [**A More Seamless Workflow — Style Guides for Better Design and Development**](https://medium.com/@AshConnolly/a-more-seamless-workflow-style-guides-for-better-design-and-development-639fc55be28c): Ash Connolly explains what styles guides are and which benefits they bring to designers and developers.

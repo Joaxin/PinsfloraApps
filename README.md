@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# 项目简介
+## 项目简介
 
 A curated collection of internet website garden.
 
@@ -16,5 +16,4 @@ awesome-bookmarks:
 [https://github.com/PanJiaChen/awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks)
 
 [https://panjiachen.github.io/awesome-bookmarks/](https://panjiachen.github.io/awesome-bookmarks/)\
-
 

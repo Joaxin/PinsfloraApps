@@ -1,6 +1,8 @@
 # 格式化工具
 
-JS正则表达式：
+CleanCSS：https://www.cleancss.com/
+
+## 正则表达式
 
 [https://regexr.com/](https://regexr.com)
 
@@ -8,12 +10,20 @@ JS正则表达式：
 
 [https://www.regextester.com/](https://www.regextester.com)
 
-## 格式化
+## 格式与压缩
 
 Babel：[https://babeljs.io/repl/](https://babeljs.io/repl/)
 
-JS格式化：[http://jsnice.org/](http://jsnice.org)\
+JS压缩：https://www.cleancss.com/javascript-minify/
+
+JS格式化：
+
+- [http://jsnice.org/](http://jsnice.org)
+- https://www.cleancss.com/javascript-beautify/
+
 STATISTICAL RENAMING, TYPE INFERENCE AND DEOBFUSCATION
+
+JS混淆与解码：https://www.cleancss.com/javascript-obfuscate/
 
 ## CSS
 
