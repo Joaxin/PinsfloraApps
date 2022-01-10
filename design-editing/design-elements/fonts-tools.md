@@ -1,14 +1,8 @@
+---
+description: Fonts
+---
+
 # 🖋 字体
-
-
-
-Matrix of fonts bundled with Mac and Windows operating systems, Microsoft Office and Adobe Creative Suite: [http://media.24ways.org/2007/17/fontmatrix.html](http://media.24ways.org/2007/17/fontmatrix.html)
-
-### Typography
-
-[https://www.typetester.org/](https://www.typetester.org)
-
-> Design Beautiful Typography One of the most popular applications for web designers is now a full-blown typography editor.
 
 ### 字体识别
 
@@ -35,6 +29,46 @@ AI字体推荐: [https://brandmark.io/font-generator/](https://brandmark.io/font
 站长字体下载-分享PS字体、免费字体、商业字体库：[https://font.chinaz.com/](https://font.chinaz.com)
 
 FontSpace：[https://www.fontspace.com/](https://www.fontspace.com)
+
+### 字体生成
+
+Stylish letters, symbols & cool fonts online 😍：[https://coolsymbol.com/cool-fancy-text-generator.html](https://coolsymbol.com/cool-fancy-text-generator.html)
+
+Instagram Fonts Generator (𝓬𝓸𝓹𝔂 𝕒𝕟𝕕 𝓅𝒶𝓈𝓉𝑒) ― IGFonts.io: [https://igfonts.io/](https://igfonts.io)
+
+第一字体转换
+
+名章篆刻生成：[https://hanzi.unihan.com.cn/Signet](https://hanzi.unihan.com.cn/Signet)
+
+* 泼墨字体转换器在线生成器: [http://www.diyiziti.com/Builder/129](http://www.diyiziti.com/Builder/129)
+
+彩虹字生成器
+
+[https://www.qqxiuzi.cn/zh/caihongzi/index.htm](https://www.qqxiuzi.cn/zh/caihongzi/index.htm)
+
+乱码文字生成器
+
+[https://www.qqxiuzi.cn/zh/luanma/](https://www.qqxiuzi.cn/zh/luanma/)
+
+翻转文字生成器
+
+[http://www.fliptext.org/](http://www.fliptext.org)
+
+花里胡哨字体生成器(字母)
+
+[https://nickfinder.com/fancy-text](https://nickfinder.com/fancy-text)
+
+[https://nickfinder.com/make-it-fancy](https://nickfinder.com/make-it-fancy)
+
+[https://nickfinder.com/fancy-writer](https://nickfinder.com/fancy-writer)
+
+艺术字体在线生成器
+
+[http://www.akuziti.com/](http://www.akuziti.com)
+
+花样字体生成器 ： [https://www.jiuwa.net/hywz/](https://www.jiuwa.net/hywz/) (九娃工具箱)
+
+花藤字体在线生成器: [https://www.jiuwa.net/htt/](https://www.jiuwa.net/htt/)
 
 ### WEB字体
 
@@ -72,44 +106,10 @@ Google Fonts: [https://www.google.com/fonts/](https://www.google.com/fonts/)
 
 > Google Fonts makes it quick and easy for everyone to use web fonts. Our goal is to create a directory of web fonts for the world to use. Our API service makes it easy to add Google Fonts to a website in seconds.
 
-### 字体生成
+### Typography
 
-Stylish letters, symbols & cool fonts online 😍：[https://coolsymbol.com/cool-fancy-text-generator.html](https://coolsymbol.com/cool-fancy-text-generator.html)
+[https://www.typetester.org/](https://www.typetester.org)
 
-Instagram Fonts Generator (𝓬𝓸𝓹𝔂 𝕒𝕟𝕕 𝓅𝒶𝓈𝓉𝑒) ― IGFonts.io: [https://igfonts.io/](https://igfonts.io)
+> Design Beautiful Typography One of the most popular applications for web designers is now a full-blown typography editor.
 
-第一字体转换
-
-名章篆刻生成：[https://hanzi.unihan.com.cn/Signet](https://hanzi.unihan.com.cn/Signet)
-
-* 泼墨字体转换器在线生成器: [http://www.diyiziti.com/Builder/129](http://www.diyiziti.com/Builder/129)
-
-### 字体
-
-彩虹字生成器
-
-[https://www.qqxiuzi.cn/zh/caihongzi/index.htm](https://www.qqxiuzi.cn/zh/caihongzi/index.htm)
-
-乱码文字生成器
-
-[https://www.qqxiuzi.cn/zh/luanma/](https://www.qqxiuzi.cn/zh/luanma/)
-
-翻转文字生成器
-
-[http://www.fliptext.org/](http://www.fliptext.org)
-
-花里胡哨字体生成器(字母)
-
-[https://nickfinder.com/fancy-text](https://nickfinder.com/fancy-text)
-
-[https://nickfinder.com/make-it-fancy](https://nickfinder.com/make-it-fancy)
-
-[https://nickfinder.com/fancy-writer](https://nickfinder.com/fancy-writer)
-
-艺术字体在线生成器
-
-[http://www.akuziti.com/](http://www.akuziti.com)
-
-花样字体生成器 ： [https://www.jiuwa.net/hywz/](https://www.jiuwa.net/hywz/) (九娃工具箱)
-
-花藤字体在线生成器: [https://www.jiuwa.net/htt/](https://www.jiuwa.net/htt/)
+系统自带字体库 Matrix of fonts bundled with Mac and Windows operating systems, Microsoft Office and Adobe Creative Suite: [http://media.24ways.org/2007/17/fontmatrix.html](http://media.24ways.org/2007/17/fontmatrix.html)
