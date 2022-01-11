@@ -1,12 +1,32 @@
-# 🏒 设计游戏
+# 🏐 设计游戏
 
-### Silk&#x20;
+## The Bézier Game
 
-&#x20;Interactive Generative Art: [http://weavesilk.com/](http://weavesilk.com)
+http://bezier.method.ac/
+
+## SHAPE TYPE
+
+a letter shaping game
+
+https://shape.method.ac/
+
+## KERNTYPE
+
+https://type.method.ac/
+
+## Pixel Game
+
+https://pixact.ly/
+
+## WeaveSilk
+
+&#x20;Interactive Generative Art
+
+[http://weavesilk.com/](http://weavesilk.com)
 
 > 对称科幻风，画画涂鸦艺术
 
-### Tensorflow轮廓画图
+## Tensorflow轮廓画图
 
 [https://affinelayer.com/pixsrv/](https://affinelayer.com/pixsrv/)
 

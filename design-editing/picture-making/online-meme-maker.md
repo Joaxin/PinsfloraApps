@@ -1,6 +1,12 @@
 # Meme在线制作
 
-### 恶搞图片
+## 综合网址
+
+### 彩字秀
+
+https://www.czxiu.com/
+
+## 恶搞图片
 
 诺基亚短信图片生成器：[https://zzkia.noddl.me](https://zzkia.noddl.me)
 
@@ -14,9 +20,11 @@
 
 装逼生成器: [http://zb.yuanrenbang.com/](http://zb.yuanrenbang.com/)
 
-![&#x88C5;&#x903C;&#x751F;&#x6210;&#x5668;](https://i.imgur.com/uuia2U3.png)
+![装逼生成器](https://i.imgur.com/uuia2U3.png)
 
-### Giphy
+万能证件制作：http://www.ssbbww.com/b/k1.aspx
+
+## Giphy
 
 [https://giphy.com/](https://giphy.com/)
 
@@ -26,9 +34,17 @@
 
 > Search All the GIFs & Make Your Own Animated GIF
 
-### 表情包生成
+## 表情包生成
 
 GIF倒放生成器: [https://lab.bangbang93.com/gif-reverse](https://lab.bangbang93.com/gif-reverse)
+
+imgflip：https://imgflip.com/memegenerator/99232680/Art-gallery
+
+> Art gallery Meme Generator
+
+Gickr：http://gickr.com/
+
+> Create a gif animation from uploaded pictures
 
 表情生成：[https://www.fakenamegenerator.com/smiley-generator.php](https://www.fakenamegenerator.com/smiley-generator.php)
 
@@ -43,4 +59,3 @@ GIF倒放生成器: [https://lab.bangbang93.com/gif-reverse](https://lab.bangban
 [https://jichou.shadiao.app/\#](https://jichou.shadiao.app/#)
 
 [https://lab.bangbang93.com/weidao](https://lab.bangbang93.com/weidao)
-

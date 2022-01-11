@@ -2,11 +2,26 @@
 description: Image Stitching and Composition
 ---
 
-# 图片拼接与合成
+# 背景去除
+## remove the background
+https://www.remove.bg/
+## PhotoScissors
+Automatically Remove Background from Image - PhotoScissors
+https://photoscissors.com/
+
+## Clippingmagic
+
+https://clippingmagic.com/
+
+---
+
+ 稿定设计也可以，网址为https://www.gaoding.com/koutu/，但需账号登陆
+
+# 图片编辑
 
 ## BeFunky
 
-{% embed url="https://www.befunky.com/" caption="" %}
+{% embed url="https://www.befunky.com/" caption="BeFunky" %}
 
 支持多种滤镜、照片编辑，以及图片拼接
 
@@ -22,17 +37,17 @@ description: Image Stitching and Composition
 
 [https://www.fotojet.com/](https://www.fotojet.com/)
 
+## Polarr
+
+professional free online photo editor.
+
+https://photoeditor.polarr.com/
+
 ## Picmyna
 
 图片拼接
 
 {% embed url="https://www.picmyna.com/online-photo-grid-maker.html" %}
 
-## 图像合成
-
-**Ostagram**
-
-[https://www.ostagram.me/](https://www.ostagram.me/)
-
-> 图像合成, 主体+风格
+> 
 

@@ -34,6 +34,7 @@ Xmyip（定位可精确到县市）： [https://www.xmyip.com](https://www.xmyip
 
 * [https://www.xmyip.com/iplookup](https://www.xmyip.com/iplookup)
 * [https://whatismyipaddress.com/ip-lookup](https://whatismyipaddress.com/ip-lookup)
+* https://www.ipaddress.my/
 
 ### Ping
 

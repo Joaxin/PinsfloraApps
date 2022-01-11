@@ -9,6 +9,14 @@ coverY: 0
 
 A curated collection of internet website garden.
 
+## Gitbook语法
+
+```jinja2
+{% embed url="http://nipponcolors.com/" %}
+```
+
+
+
 ### 项目参考
 
 awesome-bookmarks:

@@ -4,8 +4,6 @@ description: Online image editor
 
 # 在线图片制作
 
-## 在线图片制作
-
 ### **Canva**
 
 [https://www.canva.com/](https://www.canva.com/)
@@ -68,9 +66,7 @@ Canva可画提供了海量的免费设计模板,涵盖海报、简历、宣传�
 
 [https://photofunia.com](https://photofunia.com)
 
-![&#x56FE;&#x7247;&#x7279;&#x6548;&#x751F;&#x6210;&#x5668;](https://i.imgur.com/PmUJJQw.png)
+![图片特效制作](https://i.imgur.com/PmUJJQw.png)
 
 工地海报生成器：[https://m.photofunia.com/categories/all\_effects/reconstruction](https://m.photofunia.com/categories/all_effects/reconstruction)
-
-## 
 
