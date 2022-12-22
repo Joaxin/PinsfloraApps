@@ -36,3 +36,10 @@ Eyekey: 智能识别引擎, 支持检查两张人脸、指纹、虹膜的相似�
 
 网易易盾: [https://dun.163.com/trial/image](https://dun.163.com/trial/image)
 
+---
+
+现在又计算机的图像识别模型来做这些东西，大家还停留在肉眼看的角度上，实际上在一些人眼看不到的地方，比如低权值的色度值，其都是有规律的，一旦PS后，必然会出现部分区域与图片的整体特征不同。还是很容易被识别出来的。
+贴几个链接：
+https://zhuanlan.zhihu.com/p/54454961
+https://jishuin.proginn.com/p/763bfbd2fc55
+https://zhuanlan.zhihu.com/p/110093560

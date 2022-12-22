@@ -17,6 +17,8 @@ https://acg.中国
 * [https://konachan.net/post](https://konachan.net/post)
 * [https://www.52dmtp.com/](https://www.52dmtp.com)
 
+Nigwa: https://ngiwa.blogspot.com/
+
 彼岸桌面壁纸： [http://www.netbian.com/](http://www.netbian.com)
 
 极简壁纸: [https://bz.zzzmh.cn/index](https://bz.zzzmh.cn/index)
@@ -26,5 +28,3 @@ wallhaven: 在图片详情页面可以使用 "Crop & Scale" 工具将图片裁�
 [https://wallhaven.cc/](https://wallhaven.cc)
 
 WALLPAPER ABYSS: [https://wall.alphacoders.com/](https://wall.alphacoders.com)
-
-\

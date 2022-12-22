@@ -1,6 +1,13 @@
 # 网盘下载
 
-迷失网盘: [http://www.mubaiwp.com/](http://www.mubaiwp.com/)
+## UP云搜
 
+https://www.upyunso.com/
 
+含有大量电子书及其他资源, 可以通过阿里云盘下载，完全免费、不需要关注某某号,
 
+## 猫狸盘搜
+
+https://alipansou.com/
+
+丰富的资源搜索与下载, 包括电影、电视剧、电子书及其他资源

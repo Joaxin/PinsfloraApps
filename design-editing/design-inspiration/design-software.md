@@ -4,7 +4,19 @@ description: design-software
 
 # 设计软件
 
-### **VECTARY**
+## 酷家乐
+
+> 室内装修效果图在线设计
+
+https://www.kujiale.com/
+
+## 躺平设计家
+
+> 室内装修效果图3D云设计平台
+
+https://www.shejijia.com/
+
+## VECTARY
 
 {% embed url="https://www.vectary.com" %}
 Vectary

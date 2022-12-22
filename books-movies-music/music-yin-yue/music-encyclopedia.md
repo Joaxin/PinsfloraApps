@@ -6,7 +6,7 @@ description: Music Encyclopedia
 
 ### 音乐类型
 
-[https://www.musicgenreslist.com/](https://www.musicgenreslist.com/)
+音乐类型列表：[https://www.musicgenreslist.com/](https://www.musicgenreslist.com/)
 
 ### 古典乐
 

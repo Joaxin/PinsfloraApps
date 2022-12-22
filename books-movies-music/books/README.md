@@ -1,13 +1,14 @@
 # 📘 书籍
 
-### Google图书
+Reading is a fulfilling, mind-enhancing journey. 
 
-{% embed url="https://books.google.com" %}
-[https://books.google.com/](https://books.google.com)
-{% endembed %}
+In reading, many positive values, world views, and philosophy of life would be carved.
+ If we want to progress and see a bit farther than some others, we'd better stand on the shoulders of giants, which inspire us to read more masterpieces of predecessors, and reading them is equivalent to communicating with men of great minds.
 
-### Books Ngram Viewer
+作品研究: https://www.gradesaver.com/ (英文)
 
-以图示形式显示/对比查询词在1800-2000年间图书中的词频，包括英、法、德、俄、西、汉六种文字。
 
-[https://books.google.com/ngrams/graph?content=Albert+Einstein%2CSherlock+Holmes%2CFrankenstein\&year\_start=1800\&year\_end=2019\&corpus=26\&smoothing=3](https://books.google.com/ngrams/graph?content=Albert+Einstein%2CSherlock+Holmes%2CFrankenstein\&year\_start=1800\&year\_end=2019\&corpus=26\&smoothing=3)
+
+
+
+

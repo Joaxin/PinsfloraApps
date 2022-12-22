@@ -6,7 +6,7 @@ APESK经典心理测试题集：https://www.apesk.com/xinliceshi/
 
 MBTI：<http://www.apesk.com/mbtihd/mbti_all.html>
 
-
+MBTI database: https://www.personality-database.com
 
 THE TYPEFINDER® PERSONALITY TEST：https://www.truity.com/test/type-finder-personality-test-new
 

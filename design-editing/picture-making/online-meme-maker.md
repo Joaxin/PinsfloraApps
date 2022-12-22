@@ -24,7 +24,9 @@ https://www.czxiu.com/
 
 万能证件制作：http://www.ssbbww.com/b/k1.aspx
 
-## Giphy
+## 表情包搜索
+
+### Giphy
 
 [https://giphy.com/](https://giphy.com/)
 
@@ -59,3 +61,7 @@ Gickr：http://gickr.com/
 [https://jichou.shadiao.app/\#](https://jichou.shadiao.app/#)
 
 [https://lab.bangbang93.com/weidao](https://lab.bangbang93.com/weidao)
+
+滑稽表情包：http://lvmaojun.com/huaji/
+
+PetPet: https://benisland.neocities.org/petpet/

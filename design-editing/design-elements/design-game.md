@@ -31,3 +31,11 @@ https://pixact.ly/
 [https://affinelayer.com/pixsrv/](https://affinelayer.com/pixsrv/)
 
 > Tensorflow轮廓画图，比如根据轮廓画猫、画房子、画鞋子
+
+## 大转盘
+
+https://wheelofnames.com/
+
+https://pickerwheel.com/
+
+https://spinnerwheel.com/

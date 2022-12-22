@@ -4,7 +4,7 @@ description: Internet Information
 
 # 网络信息
 
-
+狗狗综合查询结果: https://www.ggcx.com/main/integrated
 
 ### IP地址
 
@@ -60,7 +60,25 @@ CheckHost 支持TCP/UDP端口测试： [https://check-host.net](https://check-ho
 ### 其他测试
 
 * [IPv6 TEST](http://test-ipv6.com)
+
 * 检查是否WebRTC泄露或者使用VPN：
   * [https://www.xmyip.com/webrtc-leak-test](https://www.xmyip.com/webrtc-leak-test)
   * [https://whatismyipaddress.com/webrtc-test](https://whatismyipaddress.com/webrtc-test)
+  
 * 是否使用Tor：[https://www.xmyip.com/tor-ip-check](https://www.xmyip.com/tor-ip-check)
+
+* 判断IP或断口被墙？
+
+  - 最简单的是在命令行窗口上测试，比如ping命令，也可以用在线服务：http://ping.chinaz.com/ 
+
+    > 如果国内和国外都ping不通，则是海外服务器的问题
+    > 如果国内ping不通，国外能ping通，那么IP被封了
+
+  - 使用telnet命令测试端口:  telnet ip port
+
+    在线检测域名或者ip的端口是否开放:http://coolaf.com/tool/port 或者https://tool.chinaz.com/port/
+
+    使用国外网站测试ssr服务器端口是否连通：Port Forwarding Tester:https://www.yougetsignal.com/tools/open-ports/
+
+    > 如果国内和国外都不能连通，是服务器问题
+    > 如果国内不能连通，国外能连通，那么端口被封了

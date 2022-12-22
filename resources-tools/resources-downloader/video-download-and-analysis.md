@@ -32,10 +32,19 @@
 
 ### YouTube下载
 
-[https://en.savefrom.net/1-youtube-video-downloader-9/](https://en.savefrom.net/1-youtube-video-downloader-9/)
-
-[https://www.y2mate.com/en13/download-youtube](https://www.y2mate.com/en13/download-youtube)
-
-{% embed url="https://onlinevideoconverter.com/" %}
+https://onlinevideoconverter.com/
 
 [https://www.clipconverter.cc/2/](https://www.clipconverter.cc/2/)
+
+
+
+~~https://www.y2mate.com/en13/download-youtube~~
+
+> Our service has been discontinued as of August 1, 2019.
+
+~~Savefrom: https://en.savefrom.net~~
+
+> As you may have heard, our industry has been under strenuous attacks by certain US copyright holders. Because of these attacks, it has become financially impractical for Savefrom to continue to provide services in the United States.
+>
+> Accordingly, Savefrom will be terminating its services in the United States as of April 28, 2020.
+

@@ -8,7 +8,15 @@ AGE动漫: [https://www.agefans.net/](https://www.agefans.net)
 
 樱花动漫：[http://www.imomoe.la/](http://www.imomoe.la)
 
+备用：http://www.yhdmh.com/
+
 > 强烈推荐，在线播放
+
+樱花风车：https://www.youganba.com/
+
+奇奇吧动漫：https://www.qiqi8.net/
+
+> 更新快，推荐
 
 Anime TV：[https://streamanimetv.net/](https://streamanimetv.net)
 

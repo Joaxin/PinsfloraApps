@@ -49,5 +49,8 @@ https://photoeditor.polarr.com/
 
 {% embed url="https://www.picmyna.com/online-photo-grid-maker.html" %}
 
-> 
+## 改图宝
 
+可以在线修改图片像素及尺寸、裁剪、压缩文件大小及处理各类考试网上报名照片及证件照
+
+https://www.gaitubao.com/

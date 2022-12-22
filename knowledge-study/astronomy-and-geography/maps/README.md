@@ -8,11 +8,14 @@
 
 ### 标准地图服务
 
-{% embed url="http://bzdt.ch.mnr.gov.cn/" %}
+http://bzdt.ch.mnr.gov.cn/
+
+Quick Maps：https://www.theodora.com/maps/abc_world_maps.html
 
 
 
-Geo中国地图集网 https://www.osgeo.cn/map/m046d
+
+Geo中国地图集网 https://www.osgeo.cn/map/m046d
 
 
 

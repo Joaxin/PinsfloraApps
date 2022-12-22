@@ -20,6 +20,13 @@ Fake Name Generator： [https://www.fakenamegenerator.com/](https://www.fakename
 
 欧美姓名生成: [https://homepage.net/name\_generator/](https://homepage.net/name_generator/)
 
+---
+
+例子：Jayson Spencer
+2491 Historic, U.S. Rte 66, Santa Rosa, NM 88435
+
+Company：Jakubowski Inc
+
 ### ID
 
 身份证号码生成器: [https://www.dute.org/fake-id-card-number](https://www.dute.org/fake-id-card-number)
