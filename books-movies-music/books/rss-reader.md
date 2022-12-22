@@ -14,7 +14,7 @@ RSS(Really Simple Syndication，简易信息聚合), 即是将新闻资讯、博
 
 支持 [`MacOS` `Windows`], 还可添加无 RSS 源的网站。
 
-![Irreader](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-rss-irreader.jpg)
+![Irreader](../../.gitbook/assets/z-study-read-rss-irreader.jpg)
 
 ### BlueReader [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://bluereader.org/)
 
@@ -36,7 +36,7 @@ RSS(Really Simple Syndication，简易信息聚合), 即是将新闻资讯、博
 
 支持[`Web` 、 `Android`、`iOS`]的老牌RSS阅读器。
 
-![NewsBlur](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-rss-newsblur.jpg)
+![NewsBlur](../../.gitbook/assets/z-study-read-rss-newsblur.jpg)
 
 ### Feedly [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://feedly.com/i/welcome) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
@@ -44,13 +44,13 @@ RSS(Really Simple Syndication，简易信息聚合), 即是将新闻资讯、博
 
 支持[`Web` 、 `Android`、`iOS`]的现代化老牌RSS阅读器。
 
-![Feedly](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-rss-feedly.jpg)
+![Feedly](../../.gitbook/assets/z-study-read-rss-feedly.jpg)
 
 ### Newsflow  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.microsoft.com/en-us/p/newsflow/9nblggh58s5r#activetab=pivot:overviewtab) 
 
 被誉为UMP上最好的RSS阅读器。
 
-![newsflow](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-rss-newsflow.jpg)
+![newsflow](../../.gitbook/assets/z-study-read-rss-newsflow.jpg)
 
 ## 常用稳定订阅源
 
@@ -64,7 +64,7 @@ RSS Source: https://rss-source.com/
 
 RSSHub: https://docs.rsshub.app/
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-rss-rsshub.jpg)
+![](../../.gitbook/assets/z-study-read-rss-rsshub.jpg)
 
 ## 已挂的类似服务
 

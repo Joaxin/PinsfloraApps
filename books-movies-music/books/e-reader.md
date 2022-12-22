@@ -12,7 +12,7 @@
 
 来自日本的功能强大的电子书管理和转换软件或者电子书阅读器。
 
-![Kobo](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-book-kobo.jpg)
+![Kobo](../../.gitbook/assets/z-study-read-book-kobo.jpg)
 
 ### 稻壳阅读器 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.daokeyuedu.com/)
 
@@ -22,13 +22,13 @@
 
 Icecream出品的强大电子书阅读器，支持epub、mobi等，打开大文件慢/中文可能乱码.
 
-![Ebook Reader](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-book-ebook-reader.jpg)
+![Ebook Reader](../../.gitbook/assets/z-study-read-book-ebook-reader.jpg)
 
 ### 京东阅读 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://cread.jd.com/custom/custom_pcDownload.action)
 
 京东出品的精美电子书阅读器，支持epub。
 
-![京东阅读](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-read-book-jdreader.jpg)
+![京东阅读](../../.gitbook/assets/z-study-read-book-jdreader.jpg)
 
 ## iReader ![stop_sign_continue](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/stop_sign_continue_Q.svg)
 

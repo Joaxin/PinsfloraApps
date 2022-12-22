@@ -434,4 +434,4 @@ https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiom
 2. 如果直接在开发者模式安装会显示`程序包无效："CRX_HEADER_INVALID`，所以需要将crx文件扩展名改为zip，然后拖拽安装即可。
 3. 该方法在chrome Ver.90下测试通过。
 
-![Chrono](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-plugins-chrono.png)
+![Chrono](../../.gitbook/assets/z-study-browser-plugins-chrono.png)

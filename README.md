@@ -5,13 +5,13 @@ cover: >-
 coverY: 0
 ---
 
-<p align="center"><img alt="Windows Apps Garden" src="https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/logo.png"></p>
+<p align="center"><img alt="Windows Apps Garden" src="../../.gitbook/assets/logo.png"></p>
 <h2 align="center">☙ Windows Apps Garden ☙</h2>
 <p align="center">
 <a title="Windows Apps Garden" target="_blank" href="#" rel="nofollow">
-<img src="https://img.shields.io/github/last-commit/joaxin/PinsfloraApps.svg?style=flat-square&color=FF9900"></a>
+<img src="https://img.shields.io/github/last-commit/joaxin/PinsfloraURLs.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="#" rel="nofollow">
-<img src="https://img.shields.io/github/repo-size/joaxin/PinsfloraApps.svg?style=flat-square"></a>
+<img src="https://img.shields.io/github/repo-size/joaxin/PinsfloraURLs.svg?style=flat-square"></a>
 <a title="LICENSE" target="_blank" href="#" rel="nofollow">
 <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"></a>
 <a title="Total Apps" target="_blank" href="#" rel="nofollow"><img src="https://img.shields.io/badge/收录总数-约700-00ccbb.svg?style=flat-square"></a>

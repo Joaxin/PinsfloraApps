@@ -29,7 +29,7 @@ Opera， 13年放弃自家Presto内核转投WebKit，目前支持[`Windows` 、`
 
 Opera GX, 世界第一款游戏浏览器
 
-![Opera GX](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-operaGX.jpg)
+![Opera GX](../../.gitbook/assets/z-study-browser-operaGX.jpg)
 
 ### Yandex {#Yandex} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://browser.yandex.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
@@ -61,7 +61,7 @@ firefox家族：
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) 下载：https://www.microsoft.com/en-us/edge
 
-![Edge](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-edgeinsider.jpg)
+![Edge](../../.gitbook/assets/z-study-browser-edgeinsider.jpg)
 
 
 
@@ -82,13 +82,13 @@ Why use a browser that treats you like one? Enjoy private, secure and fast brows
 
 来自日本的三引擎，也即是同时支持Trident(IE)、 Gecko(Firefox)和WebKit的三叉戟浏览器。
 
-![](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-lunascape.png)
+![](../../.gitbook/assets/z-study-browser-lunascape.png)
 
 ### Whale [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://whale.naver.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 由韩国Naver开发的基于chrome内核的鲸鱼浏览器。
 
-![Whale](https://cdn.jsdelivr.net/gh/joaxin/PinsfloraApps/assets/z-study-browser-whale.png)
+![Whale](../../.gitbook/assets/z-study-browser-whale.png)
 
 
 ### 国内浏览器：
