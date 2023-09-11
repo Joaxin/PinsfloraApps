@@ -10,7 +10,7 @@ https://z-lib.org/ 或者 https://zh.art1lib.com/(需挂梯子, 但也有可能�
 
 Zlibrary 最新入口: https://find.looks.wang/
 
-> 全球最大电子图书馆z-library被美国警方查封，目前已无法访问 2022.11
+> 全球最大电子图书馆z-library被美国警方查封，目前已无法访问 2022.11,需用特殊方法
 
 ### 鸠摩搜书
 
@@ -88,7 +88,7 @@ Github：[https://github.com/howie6879/owllook](https://github.com/howie6879/owl
 
 ### 阅小说
 
-有客户端
+阅小说有客户端
 
 [http://yuenov.com/](http://yuenov.com)
 
@@ -96,11 +96,11 @@ Github：[https://github.com/yuenov](https://github.com/yuenov)
 
 ## 英文书籍
 
-古登堡计划: 一家免费电子书提供商，提供版权过期（Public domain）的电子书，免费、合法、无需注册: Project Gutenberg is a library of over 60,000 free eBooks
+**古登堡计划:** 一家免费电子书提供商，提供版权过期（Public domain）的电子书，免费、合法、无需注册: Project Gutenberg is a library of over 60,000 free eBooks
 
 https://www.gutenberg.org/
 
-Manybooks: 专门提供免费(FREE)和打折(DISCOUNTED)电子书下载的网站，
+**Manybooks:** 专门提供免费(FREE)和打折(DISCOUNTED)电子书下载的网站，
 
 https://manybooks.net/
 
@@ -108,27 +108,27 @@ Forgotten Books: Forgotten Books is a London-based book publisher specializing i
 
 https://www.forgottenbooks.com/en
 
-Library Genesis: 一个学术论文和出版书籍的搜索引擎
+**Library Genesis:** 一个学术论文和出版书籍的搜索引擎
 
 可搜: Non-fiction / Sci-tech	 /  Fiction / 	Scientific articles / 	Magazines
 
 http://libgen.rs/
 
-bookyards: 电子书下载和搜索
+**bookyards**: 电子书下载和搜索
 
 https://www.bookyards.com/en/welcome
 
- DigiLibraries.com: https://digilibraries.com/ 免费电子书图书馆
+ **DigiLibraries.com**: https://digilibraries.com/ 免费电子书图书馆
 
 https://www.pdfdrive.com/: 提供大量英文原版PDF资源
 
-Obooko: https://www.obooko.com/
+**Obooko:** https://www.obooko.com/
 
-Planet e-book(公版书资源的网): https://www.planetebook.com/
+**Planet e-book(公版书资源的网)**: https://www.planetebook.com/
 
 http://www.freebookcentre.net/: 免费下载计算机科学,编程,移动技术,物理学,医学等类别等技术类图书
 
-美国国家学术出版社：https://nap.nationalacademies.org/
+**美国国家学术出版社**：https://nap.nationalacademies.org/
 
 
 

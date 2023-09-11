@@ -1,27 +1,39 @@
 # 慕课MOOC
 
-### 中国大学MOOC
+## 中国大学MOOC
 
 [http://www.icourse163.org/](http://www.icourse163.org)
 
-### 学堂在线
+## 学堂在线
 
 [http://www.xuetangx.com/](http://www.xuetangx.com)
 
-### Udacity
+## Udacity
 
 [https://www.udacity.com/](https://www.udacity.com)
 
-### Khan Academy
+Udacity AI学院：https://www.udacity.com/school/school-of-ai
+
+## Khan Academy
 
 [https://www.khanacademy.org/](https://www.khanacademy.org)
 
-### edX
+## Coursera
+
+https://www.coursera.org/
+
+Machine Learning & AI：https://www.coursera.org/collections/best-machine-learning-ai
+
+## edX
 
 [https://www.edx.org/](https://www.edx.org)
 
-### boundlesscourses
+## 其他在线资源
 
-[https://courses.lumenlearning.com/catalog/boundlesscourses](https://courses.lumenlearning.com/catalog/boundlesscourses)
+boundlesscourses：[https://courses.lumenlearning.com/catalog/boundlesscourses](https://courses.lumenlearning.com/catalog/boundlesscourses)
 
-~~MOOC学院：~~[~~http://mooc.guokr.com/~~](http://mooc.guokr.com)
+AI大学堂： https://www.aidaxue.com/
+
+已关闭：
+
+~~果壳MOOC学院：http://mooc.guokr.com/~~

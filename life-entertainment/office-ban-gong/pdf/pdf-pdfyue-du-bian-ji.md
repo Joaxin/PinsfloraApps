@@ -13,7 +13,7 @@
 
 免费的PDF阅读器，同时提供一站式PDF解决方案。
 
-![](../../.gitbook/assets/z-study-office-pdf-nitro.png.JPG)
+![](../../.gitbook/assets/z-study-office-pdf-nitro.JPG)
 
 ### 文电通 Gaaiho PDF [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.gaaiho.com/index.php/en/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
@@ -21,7 +21,7 @@
 
 来自国人开发的的流行海外的PDF编辑阅读创作平台，提供企业PDF软件与解决方案。
 
-![](../../.gitbook/assets/z-study-office-pdf-gaaiho.png.JPG)
+![](../../.gitbook/assets/z-study-office-pdf-gaaiho.JPG)
 
 ### PDFelement 万兴PDF专家 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://pdf.wondershare.cn/)
 
@@ -52,6 +52,8 @@
 在线编辑: https://www.xodo.com/app/#/
 
 ### Bookxnote [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.bookxnote.com/)![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
+
+> 笔记整理交给我，一心只读圣贤书。
 
 支持打开PDF和EPUB两种格式的电子书，一边阅读一边划重点，提供多种划重点笔记工具的PDF阅读笔记工具。
 

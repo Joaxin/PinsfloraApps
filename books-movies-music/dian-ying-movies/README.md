@@ -1,10 +1,6 @@
 # 🎬 影视
 
-### Neets
-
-{% embed url="http://neets.cc/" %}
-
-
+[acg人物网](http://www.acgrenwu.cn/)：http://www.acgrenwu.cn/
 
 ### 影猫MVCAT
 
@@ -18,8 +14,8 @@
 
 https://tmioe.com/
 
+## 已关闭
 
+\~\~AnimeTaste（品赏艾尼莫，全球动画精选）: [http://animetaste.net/](http://animetaste.net)\~\~
 
-已关闭：
-
-\~\~AnimeTaste（品赏艾尼莫）: [http://animetaste.net/](http://animetaste.net)\~\~
+~~Neets： 追剧神器 影视剧资源聚合站  http://neets.cc/~~

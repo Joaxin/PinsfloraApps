@@ -100,9 +100,5 @@ http://www.resdc.cn/
 
 
 
-世界实时空气质量指数
 
-
-
-http://waqi.info/
 

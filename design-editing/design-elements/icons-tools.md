@@ -16,13 +16,26 @@ loading.io - Your SVG + GIF + PNG Ajax Loading Icons
 
 [https://loading.io/](https://loading.io)
 
+### 标小智
+
+智能LOGO设计生成器
+
+https://www.logosc.cn/
+
 ### 图标下载
 
 #### icons8
 
-{% embed url="https://icons8.com" %}
+ [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://icons8.com/app)
+
+一款使用方便且优雅的离线图标库
 [https://icons8.com/](https://icons8.com)
-{% endembed %}
+
+https://icons8.com/bgremover
+
+https://icons8.com/goprod (MAC版本)
+
+Icons8 Smart Upscaler：https://icons8.com/upscaler
 
 #### Easyicon
 
@@ -55,6 +68,12 @@ Worldvectorlogo — Brand logos free to download
 Seeklogo\
 \
 [https://seeklogo.com/](https://seeklogo.com)
+
+#### Icofx [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://icofx.ro/)
+
+> The only tool you will need to edit icons and cursors.
+
+图标设计
 
 ### WEB图标
 

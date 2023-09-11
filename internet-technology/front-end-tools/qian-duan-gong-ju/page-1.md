@@ -1,6 +1,6 @@
 # Page 1
 
-#### faker.js
+## faker.js
 
 > generate massive amounts of realistic fake data in Node.js and the browser
 
@@ -24,7 +24,7 @@ Doc: [http://marak.github.io/faker.js/](http://marak.github.io/faker.js/)
 
 {% endhideToggle %}
 
-#### Socket.io
+## Socket.io
 
 > Bidirectional and low-latency communication for every platform
 
@@ -34,18 +34,6 @@ Create a basic chat application: [https://socket.io/get-started/chat](https://so
 
 Get-started: [https://socket.io/get-started/](https://socket.io/get-started/)
 
-#### Feathers.js
 
-> Feathers is a lightweight web-framework for creating real-time applications and REST APIs using JavaScript or TypeScript.
 
-[https://feathersjs.com/](https://feathersjs.com)
 
-Doc: [https://docs.feathersjs.com/](https://docs.feathersjs.com)
-
-Awesome Feather.js: [https://github.com/feathersjs/awesome-feathersjs](https://github.com/feathersjs/awesome-feathersjs)
-
-#### Babel
-
-JavaScript 的编译器。
-
-在线编辑: [https://babeljs.io/repl/](https://babeljs.io/repl/)

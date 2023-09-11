@@ -6,13 +6,15 @@ RSS(Really Simple Syndication，简易信息聚合), 即是将新闻资讯、博
 
 在碎片化的信息爆炸时代里，信息不仅需要过滤，更需要有价值地传递给用户。
 
-### Irreader [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://irreader.fatecore.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![Irreader](https://img.shields.io/badge/Version-1.6.2-ff55bb.svg)
+### Irreader
+
+###  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://irreader.fatecore.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![Irreader](https://img.shields.io/badge/Version-1.6.11-ff55bb.svg)
 
 > 订阅网页、RSS和Podcast，具备急速的阅读体验，
 > 高品质、免费、无广告、多平台的阅读器。
-> 泛用型Podcast播放器。
+> 泛用型Podcast播放器，支持订阅播客和有声媒体。
 
-支持 [`MacOS` `Windows`], 还可添加无 RSS 源的网站。
+支持 [`MacOS` `Windows`], 还可添加无 RSS 源的网站(支持自定义RSS订阅源)。
 
 ![Irreader](../../.gitbook/assets/z-study-read-rss-irreader.jpg)
 
@@ -65,6 +67,8 @@ RSS Source: https://rss-source.com/
 RSSHub: https://docs.rsshub.app/
 
 ![](../../.gitbook/assets/z-study-read-rss-rsshub.jpg)
+
+
 
 ## 已挂的类似服务
 

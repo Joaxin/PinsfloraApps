@@ -1,14 +1,15 @@
 # 图片转换与压缩
 
-> 本章参考
+> 本章参考： 1. 压缩GIF? 看这一篇就够了: [https://zhuanlan.zhihu.com/p/110177159](https://zhuanlan.zhihu.com/p/110177159)
 >
-> 压缩GIF? 看这一篇就够了: [https://zhuanlan.zhihu.com/p/110177159](https://zhuanlan.zhihu.com/p/110177159)
 
 ## 综合站点
 
 ### Docsmall
 
 GIF压缩：[https://docsmall.com/gif-compress](https://docsmall.com/gif-compress)
+
+> 压缩效果不错，值得推荐，但有25M文件大小限制
 
 图片压缩: [https://docsmall.com/image-compress](https://docsmall.com/image-compress)
 
@@ -30,17 +31,11 @@ PDF压缩：[https://docsmall.com/pdf-compress](https://docsmall.com/pdf-compres
 
 不推荐的：
 
-soogif
+soogif ：需登录加付费, 质量差
 
-- 需登录加付费, 质量差
+图好快：https://www.tuhaokuai.com/， 需登录加付费, 质量一般
 
-图好快：https://www.tuhaokuai.com/
-
-- 需登录加付费, 质量一般
-
-压缩图：https://www.yasuotu.com/
-
-- 需登录加付费, 质量一般
+压缩图：https://www.yasuotu.com/， 需登录加付费, 质量一般
 
 ## 图片尺寸
 
@@ -54,7 +49,7 @@ Bigjpg - 图片无损放大：http://bigjpg.com/
 
 ### GIF压缩
 
-gif格式压缩及转换, 最大支持50M, 最多选择20个要压缩的GIF文件
+gif格式压缩及转换, 最大支持50M, 最多选择20个要压缩的GIF文件（国外服务器，下载会比较慢）
 
 [https://gifcompressor.com/](https://gifcompressor.com)
 
@@ -93,6 +88,8 @@ https://tinypng.com/
 
 
 ### GIF格式转换
+
+https://www.veed.io/ ： 视频编辑网站， Gif转MP4, 可极限压缩gif
 
 [https://giftopng.com/](https://giftopng.com)
 

@@ -1,6 +1,10 @@
+> EMAIL 工具导航：http://www.emailcamel.com
+
 ## Email Generator | 邮件内容
 
-邮件模板Templates： https://reallygoodemails.com/
+邮件模板Templates1： https://reallygoodemails.com/
+
+邮件模板Templates2：https://www.writeexpress.com/
 
 邮件签名 Signature：https://www.hubspot.com/email-signature-generator
 
@@ -67,12 +71,10 @@ https://www.ip-adress.com/trace-email-address
 
 ## 其他工具
 
-Send Big File； https://www.sendtransfer.com/
+Send Big File； https://www.sendtransfer.com/ （send large files via email）
 
 Email Convert： http://scr.im/
 
 http://www.emailcamel.com/links
-
-https://250ok.com/
 
 常见免费邮箱域名列表: https://gitlab.com/synappio/free-email-domains

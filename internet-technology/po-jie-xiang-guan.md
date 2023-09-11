@@ -10,3 +10,12 @@
 
 一款强大的资源查看器,编译和反编译工具，方便修改.exe文件
 
+## AI代码检查
+
+AI Code Reviewer：https://ai-code-reviewer.com/
+
+Codiga：https://www.codiga.io/，代码实时分析
+
+JamGPT：https://jam.dev/jamgpt，Debug调试助手
+
+CodiumAI: https://www.codium.ai/, AI代码测试工具

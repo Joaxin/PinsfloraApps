@@ -4,48 +4,59 @@ Yes, **A computer** either running Windows, macOS, or Linux ( you can use phone 
 
 And here I only listed the Windows Softwares I have used.
 
-### Jetbains [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/)
+## Jetbains家族
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/)
 
 ![](../../assets/.gitbook/assets/z-dev-ide-jetbains.png)
 
-### Velocity [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://velocity.silverlakesoftware.com/)
+### inteliJ IDEA
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/idea/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
-  离线的API文档工具. \(类似macOS上的[Dash](https://kapeli.com/dash)\)
+JetBrain出品，必属精品的跨平台[`Windows` 、`macOS`、 `Linux`]Java IDE，被公认为最好的java开发工具，由社区版可供免费下载与使用。
 
+> ENJOY PRODUCTIVE JAVA
 
-### 常用镜像
+![](../../.gitbook/assets/z-dev-ide-idea.png)
 
-网易镜像：http://mirrors.163.com/
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.jetbrains.com/idea/download/#section=windows
 
-阿里镜像：https://opsx.alibaba.com/mirror
+### WebStorm
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/webstorm/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
-搜狐镜像：http://mirrors.sohu.com/
+JetBrain出品的WEB开发平台。
 
-首都在线科技股份有限公司：http://mirrors.yun-idc.com/
+### CLion
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/clion/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
-中国科技大学：https://mirrors.ustc.edu.cn/
+> A cross-platform IDE for C and C++
 
-清华大学：https://mirrors.tuna.tsinghua.edu.cn/
+JetBrain出品的跨平台[`Windows` 、`macOS`、 `Linux`]的IDE，支持C/C++开发，使用CMake构建。
 
-兰州大学：http://mirror.lzu.edu.cn/
+![](../../.gitbook/assets/z-dev-ide-clion.png)
 
-上海交通大学：http://ftp.sjtu.edu.cn/
+### PyCharm
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/pycharm) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
-浙江大学：http://mirrors.zju.edu.cn/
+JetBrain出品的跨平台的Python开发平台，有社区版本（免费）
 
-厦门大学：http://mirrors.xmu.edu.cn/
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) Community For Win: https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
 
-华中科技大学：http://mirror.hust.edu.cn/
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) Professional For Win:
+https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows
 
----
+### Rider
 
-豆瓣pypi：https://pypi.doubanio.com/
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/rider/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
-淘宝NPM：https://npm.taobao.org/
+> Fast & powerful, cross platform .NET IDE
+> Develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications on Windows, Mac, Linux
 
-Fedora 中文社区软件源：https://zh.fedoracommunity.org/repo/
+JetBrain出品的跨平台[`Windows` 、`macOS`、 `Linux`]的用于.NET/Mono开发的IDE.
 
-### AppCode [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/objc/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+![plugins](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/plugins.svg) Resharper：http://www.jetbrains.com/resharper/
+
+### AppCode
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/objc/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 > Smart IDE for iOS/macOS development
 
@@ -53,21 +64,21 @@ JetBrain出品的IDE，用于iOS/macOS开发，支持`Objective-C, Swift, C and 
 
 > 仅支持 MAC，但还是收录了。
 
-
-
-### PhpStorm [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/phpstorm/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
-
+### PhpStorm
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/phpstorm/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 JetBrain出品的跨平台[`Windows` 、`macOS`、 `Linux`]的PHP IDE。
 
-
-### RubyMine [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/ruby/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) 
+### RubyMine
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/ruby/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) 
 
 JetBrain出品的跨平台[`Windows` 、`macOS`、 `Linux`]的`Ruby`开发平台，支持多种框架。
 
 ### Visual Studio [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.visualstudio.com/vs/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)  ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 微软出品的强大IDE，比较耗配置。
+
+Visual Studio IntelliCode: https://visualstudio.microsoft.com/zh-hans/services/intellicode/, Visual Studio AI辅助开发
 
 ![plugins](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/plugins.svg)插件： http://vswebessentials.com/
 

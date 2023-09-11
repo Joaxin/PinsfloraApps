@@ -33,3 +33,7 @@
 一款经典、权威、免费的词典软件，或者叫爱词霸，支持[`Windows` 、`macOS`、 `Android`、`iOS`]
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) http://cp.iciba.com/
+
+## 在线词典
+
+剑桥词典: [https://dictionary.cambridge.org/](https://dictionary.cambridge.org)

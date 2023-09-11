@@ -68,8 +68,7 @@ Http File Server， 用于快速搭建http文件下载服务器系统。
 -  Snapdrop: https://snapdrop.net/  让 Windows 与 Android 用户也可以使用类似 Apple AirDrop 快速跨设备传输功能。无需安装、注册、登入、设定，需保持设备在同一个无线网络环境下。
 - Wikifortio：http://www.wikifortio.com/
 - Anonfile: https://anonfile.com/
-- Up-4ever: https://www.up-4ever.org/
-- Firefox: https://send.firefox.com/ (完全开源免费)
+- Up-4ever: https://www.up-4ever.org/ 下载有广告
 - Wetranfer: https://wetransfer.com/ （国外的专注邮箱文件的传输工具 ）
 - Transfer.sh: https://transfer.sh/ (![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg) )
 - ~~fileai~~(fileai.com has been discontinued)

@@ -16,11 +16,17 @@ RARBG: [http://rarbg.to/](http://rarbg.to)
 
 酷片网: [http://www.kupian.cc/](http://www.kupian.cc)
 
+看片狂人: https://www.kpkuang.vip/
+
 冬瓜电影网: [http://www.dgyytv.com/](http://www.dgyytv.com)
 
 电影蜜蜂: [https://www.idybee.com/](https://www.idybee.com)
 
 厂长资源：https://www.qianoo.cn/
+
+蛋蛋赞影院: https://www.dandanzan.com/
+
+苹果CMS（开心影院）：http://www.mdtxzx.com/
 
 1905： [https://www.1905.com/](https://www.1905.com) (电影老片推荐)
 

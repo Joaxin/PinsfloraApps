@@ -1,4 +1,4 @@
-# 影评
+# 影视资料
 
 ### 豆瓣电影
 
@@ -16,11 +16,9 @@
 
 国内著名的电影资讯网、提供海量电影资讯、电影预告、以及影评。
 
-### IMDb
+### IMDB
 
-{% embed url="https://www.imdb.com/" %}
-IMDB http://www.imdb.com/
-{% endembed %}
+### http://www.imdb.com/
 
 _IMDb_ is the world's most popular and authoritative source for movie, TV and celebrity content.&#x20;
 

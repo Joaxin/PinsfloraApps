@@ -1,9 +1,11 @@
-## Foxmail [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.foxmail.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
+### Foxmail
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.foxmail.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 从 1997 年就有的邮件客户端， 现属于腾讯的中文邮件客户端,界面比较简洁与传统，支持win和Mac，与qq、gmail邮箱相容性不错。
 
 
-### Mailbird ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.getmailbird.com/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
+### Mailbird
+![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.getmailbird.com/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 > We strive to make your email experience fly
 
@@ -12,7 +14,8 @@
 ![Mailbird](../../.gitbook/assets/z-study-com-mail-mailbird.png)
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://www.getmailbird.com/](https://www.getmailbird.com/)
 
-### Mailspring ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Foundry376/Mailspring) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
+### Mailspring
+![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Foundry376/Mailspring) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 Mailspring是`Nylas N1`的分支版本，有付费版本，界面简洁美观，原来的Nylas已经停止维护。
 
@@ -21,7 +24,8 @@ Mailspring是`Nylas N1`的分支版本，有付费版本，界面简洁美观，
 ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)[https://getmailspring.com/](https://getmailspring.com/)
 
 ![](../../.gitbook/assets/z-study-com-mail-mailspring.png)
-### Newton ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://newtonhq.com/)
+### Newton
+![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://newtonhq.com/)
 
 跨平台，支持[`Windows` 、`macOS`、`Android`、`iOS`]，界面统一、简洁、美观。
 
@@ -31,7 +35,8 @@ Mailspring是`Nylas N1`的分支版本，有付费版本，界面简洁美观，
 
 ![Newton](../../.gitbook/assets/z-study-com-mail-newton.png)
 
-### Postbox ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.postbox-inc.com/)
+### Postbox
+![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.postbox-inc.com/)
 
 > Simple, Clear and Powerful With Beautiful UI
 
@@ -41,30 +46,35 @@ Mailspring是`Nylas N1`的分支版本，有付费版本，界面简洁美观，
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.postbox-inc.com/download
 
-### Thunderbird ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.thunderbird.net) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
+### Thunderbird
+![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.thunderbird.net) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 雷鸟，老牌的免费开源电子邮件客户端，配置简单，界面一般，出自 Mozilla，支持[`Windows` 、`macOS`、 `Linux`]。
 
-### Outlook [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
+### Outlook
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 强大的Microsoft Office 组件之一，邮件、联系、整理、完成工作，支持[`Windows` 、 `Android`]。
 
 ![Outlook](../../.gitbook/assets/z-study-com-mail-outlook.png)
 
-### 网易邮箱大师 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://mail.163.com/dashi/)
+### 网易邮箱大师
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://mail.163.com/dashi/)
 
 > 心无旁骛，专注办公
 > 网易邮箱大师 专业的全平台邮箱客户端
 
 网易出品的跨平台邮件 ，支持[`Windows` 、`macOS`、 `Android`、`iOS`]，以前叫网易闪电邮
 
-### DreamMail [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.cy-email.com/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
+### DreamMail
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.cy-email.com/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
 
 强悍、纯净、稳定的邮件客户端，以及vuepress的帮助文档，十分便捷。
 
 ![documents](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/documents.svg) http://help.cy-email.com/
 
-### Yomail ![time_whathappened](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/time_whathappened.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.nextechat.com/)
+### Yomail
+![time_whathappened](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/time_whathappened.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.nextechat.com/)
 
 优雅简洁高效的邮箱客户端，疑似公司跑路，停止维护
 

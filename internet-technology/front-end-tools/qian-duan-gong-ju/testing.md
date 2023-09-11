@@ -6,7 +6,11 @@
 
 https://github.com/chalk/chalk
 
+#### Babel
 
+JavaScript 的编译器。
+
+在线编辑: [https://babeljs.io/repl/](https://babeljs.io/repl/)
 
 #### Cross Browser
 

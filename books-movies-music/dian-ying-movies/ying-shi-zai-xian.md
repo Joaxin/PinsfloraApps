@@ -38,6 +38,8 @@ RARBG: [http://rarbg.to/](http://rarbg.to/)
 
 电影蜜蜂: [https://www.idybee.com/](https://www.idybee.com/)
 
+蛋蛋影视：https://cddys.vip/
+
 雷姆拉姆: [https://www.leimulamu.com/](https://www.leimulamu.com/) （付费）
 
 ### Lookmovie

@@ -28,6 +28,8 @@ Visio
 
 ![hole](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/keng.svg) 与 Office存在极小的兼容性问题
 
+WPS AI：https://ai.wps.cn/
+
 ### FreeOffice [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.freeoffice.com/en/)
 
 office的替代办公软件之一，永久免费，支持[`Windows` 、`macOS`、 `Linux`、 `Android`]。

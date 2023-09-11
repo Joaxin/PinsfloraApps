@@ -1,4 +1,4 @@
-# WEB网站
+## WEB编程学习
 
 以下网站强烈推荐：
 
@@ -16,7 +16,7 @@ https://developers.google.com/web
 
 Web插件开发: https://developer.chrome.com/docs/extensions/reference/
 
-## JS
+### JS
 
 javascript.info: [https://javascript.info/](https://javascript.info)
 
@@ -38,13 +38,13 @@ ECMAscript： [https://tc39.es/ecma262/](https://tc39.es/ecma262/)
 
 State of JS（JS技术统计网站）：[https://stateofjs.com/](https://stateofjs.com)
 
-## CSS
+### CSS
 
 css-tricks：[https://css-tricks.com/](https://css-tricks.com)
 
 [http://tympanus.net/codrops/](http://tympanus.net/codrops/)
 
-## Github
+### Github
 
 Github javascript-tutorial 组织: [https://github.com/javascript-tutorial](https://github.com/javascript-tutorial)
 
@@ -72,11 +72,11 @@ You-Dont-Need-GUI: [https://github.com/you-dont-need/You-Dont-Need-GUI](https://
 
 You-Dont-Need-jQuery(你或许并不需要JQuery): [https://github.com/nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
 
-# WEB资源
+### WEB资源
 
 Free hand-picked HTML, CSS and JavaScript (jQuery, React, Vue) code examples, tutorials and articles：https://freefrontend.com/
 
-# WEB书籍
+### WEB书籍
 
 Jon Duckett - HTML and CSS: Design and Build Websites
 
@@ -91,13 +91,5 @@ sitepoint: [https://www.sitepoint.com/](https://www.sitepoint.com)
 > Choose from hundreds of books, courses, and tech talks on web development. Learn HTML, CSS, and JavaScript to React, Docker, and Python.
 
 
-# WEB文章
-
-* [**A More Seamless Workflow — Style Guides for Better Design and Development**](https://medium.com/@AshConnolly/a-more-seamless-workflow-style-guides-for-better-design-and-development-639fc55be28c): Ash Connolly explains what styles guides are and which benefits they bring to designers and developers.
-
-* Atomic Design discusses the importance of crafting robust design systems, and introduces a methodology for which to create smart, deliberate interface systems.
-
-​		[https://atomicdesign.bradfrost.com/table-of-contents/](https://atomicdesign.bradfrost.com/table-of-contents/)&#x20;
-
-​		[**Atomic Docs**](http://atomicdocs.io): Atomic Docs is a styleguide generator and component manager. Atomic Docs is built in PHP. Inspired by Brad Frost's Atomic Design principles.
+### 
 

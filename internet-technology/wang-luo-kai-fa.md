@@ -25,7 +25,7 @@ Finally, a REST client you'll love
 
 一款开源的网络请求测试工具, 支持`GraphQL`
 
-### IPIP [![](../../.gitbook/assets/website_official.png)](https://www.ipip.net)
+### IPIP [![](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.ipip.net)
 
 跨平台的[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]的IPv4 免费地址库 & 客户端工具
 

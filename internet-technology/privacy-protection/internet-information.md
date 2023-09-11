@@ -24,6 +24,8 @@ IPlocation：[https://www.iplocation.net/](https://www.iplocation.net)
 
 Xmyip（定位可精确到县市）： [https://www.xmyip.com](https://www.xmyip.com)
 
+IP Address Fraud Check: https://scamalytics.com/
+
 > API
 
 * [https://www.myip.com/api-docs/](https://www.myip.com/api-docs/)
@@ -38,7 +40,7 @@ Xmyip（定位可精确到县市）： [https://www.xmyip.com](https://www.xmyip
 
 ### Ping
 
-1. ping.chinaz.com 站长之家ping测试工具，比较权威
+1. https://ping.chinaz.com/:  站长之家ping测试工具，比较权威
 2. just-ping.com 国外比较出名的ping测试站点
 3. 17ce.com 测试节点较多，测试结果还比较不错
 4. ping.aizhan.com 爱站的测试工具，但测试点比较少

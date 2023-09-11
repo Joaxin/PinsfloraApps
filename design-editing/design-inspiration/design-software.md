@@ -18,8 +18,6 @@ https://www.shejijia.com/
 
 ## VECTARY
 
-{% embed url="https://www.vectary.com" %}
-Vectary
-{% endembed %}
+Vectary：https://www.vectary.com
 
 浏览器线上编辑建模神器**，**界面简单，容易上手，内置模型、icon、材质等强大的资源库。

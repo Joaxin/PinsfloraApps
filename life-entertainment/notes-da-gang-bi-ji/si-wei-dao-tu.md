@@ -15,6 +15,8 @@
 
 ![XMind](../../.gitbook/assets/z-study-notes-mindmap-xmind.png)
 
+Xmind Copilot：https://xmind.ai/
+
 ### Mindmanager [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.mindjet.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 > The World's Most Powerful Mind Mapping Software
@@ -30,6 +32,30 @@ Connect everything that matters in your work, to everywhere you are — and get 
 
 ![compare](../../.gitbook/assets/z-study-notes-software-compare-zhihu.png)
 
-### 在线版
+## 在线版
+
+ChatMind：https://www.chatmind.tech/
+
+Whimsical：https://whimsical.com/ai-mind-maps
+
+AmyMind：https://amymind.com/
+
+Ayoa Ultimate：https://www.ayoa.com/ultimate/
+
+Taskade：https://www.taskade.com/
+
+Miro AI：https://miro.com/mind-map/
+
+Jambot：Figma团队推出的FigJam AI白板插件，可快速进行头脑风暴、思维导图生成等， https://www.figma.com/community/widget/1274481464484630971
+
+博思AI白板：https://boardmix.cn/ai-whiteboard/
 
 百度脑图: https://naotu.baidu.com/home
+
+GitMind思乎：https://gitmind.cn/
+
+妙办画板： https://imiaoban.com/ai/mind
+
+TreeMind：https://shutu.cn/
+
+亿图脑图：万兴科技旗下产品万兴科技旗下产品，https://www.edrawsoft.cn/mindmaster/?AI-bot

@@ -1,4 +1,4 @@
-# User-interface-components
+# UI/UX
 
 ## Images
 

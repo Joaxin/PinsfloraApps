@@ -58,3 +58,13 @@ Doc: [https://reactjs.org/docs/hello-world.html](https://reactjs.org/docs/hello-
  *Angular*JS诞生于2009年，由Misko Hevery 等人创建，是一款构建用户界面的前端框架，后为Google所收购。
 
 官网: https://angular.io/
+
+## Feathers.js
+
+> Feathers is a lightweight web-framework for creating real-time applications and REST APIs using JavaScript or TypeScript.
+
+[https://feathersjs.com/](https://feathersjs.com)
+
+Doc: [https://docs.feathersjs.com/](https://docs.feathersjs.com)
+
+Awesome Feather.js: [https://github.com/feathersjs/awesome-feathersjs](https://github.com/feathersjs/awesome-feathersjs)

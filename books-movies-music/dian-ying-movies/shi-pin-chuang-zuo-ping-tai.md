@@ -2,13 +2,15 @@
 
 ### 场库
 
-{% embed url="https://www.vmovier.com/" %}
+> V电影，到场库，到Vmovier，再到新片场
+
+https://www.xinpianchang.com/
 
 ### Gaiamount
 
-电影创作者家园 
+> 电影创作者家园 
 
-{% embed url="https://gaiamount.com/" %}
+https://gaiamount.com/
 
 ### 艾墨镇
 

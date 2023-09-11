@@ -2,10 +2,6 @@
 description: Placeholder
 ---
 
-# 占位符
-
-Placeholder
-
 ## 图片
 
 ### holderjs

@@ -12,6 +12,7 @@ Picard is a cross-platform music tagger written in Python.
 
 
 
+### Aegisub [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Aegisub/Aegisub)
 
-
+*Aegisub*(读音：/ˈiːdʒisʌb/)是一个免费、开源、跨平台的字幕编辑软件。它被广泛应用于字幕组，是用来制作翻译非官方非商业性质的字幕作品，提供给不同领域的爱好者。
 

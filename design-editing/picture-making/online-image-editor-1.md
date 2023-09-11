@@ -14,6 +14,10 @@ Canva可画提供了海量的免费设计模板,涵盖海报、简历、宣传�
 
 支持浏览器，iOS，Android
 
+> 已集成Magic Write AI文案工具，
+
+Magic Design:  https://www.canva.com/magic-design/
+
 ### FotoJet
 
 [https://www.fotojet.com/](https://www.fotojet.com/)  
@@ -53,6 +57,8 @@ Canva可画提供了海量的免费设计模板,涵盖海报、简历、宣传�
 [www.gaoding.com](https://github.com/Joaxin/PinsfloraURLs/tree/6a64b1e0e8d012b1b4a72263a382964b0f1f8184/design/www.gaoding.com)
 
 专为电商运营者、新媒体运营人员和作图爱好者打造的在线智能化平面设计工具。
+
+https://qiye.gaoding.com/
 
 ### **图怪兽**
 

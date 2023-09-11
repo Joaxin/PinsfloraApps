@@ -54,9 +54,17 @@ Xtreme Download Manager , 一款功能强大，内置视频转换器的开源免
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)增强版：https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
 
-**Trackers 获取地址：**
+**BitTorrent Trackers获取地址：**
 
-- [GitHub - ngosang/trackerslist: An updated list of public BitTorrent trackers](https://link.zhihu.com/?target=https%3A//github.com/ngosang/trackerslist)
+> 精选列表：(128 个)
+> https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/best.txt
+> 完整列表：(196 个)
+> https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/all.txt
+> HTTP(S)列表：(73 个)
+> https://jsd.cdn.zzko.cn/gh/XIU2/TrackersListCollection/http.txt
+
+- BitTorrent Tracker 列表 2023年:https://www.devgox.com/archives/940.html
+- Github Trackers列表: [GitHub - ngosang/trackerslist: An updated list of public BitTorrent trackers](https://link.zhihu.com/?target=https%3A//github.com/ngosang/trackerslist)
 - [TrackersListCollection: 每天更新！全网热门公共 BitTorrent Tracker 列表](https://link.zhihu.com/?target=https%3A//trackerslist.com/all.txt)
 - [Stable Trackers List - newTrackon](https://link.zhihu.com/?target=https%3A//newtrackon.com/list)
 - [ACG领域的开放式Tracker](https://link.zhihu.com/?target=https%3A//acgtracker.com)
@@ -89,7 +97,9 @@ Xtreme Download Manager , 一款功能强大，内置视频转换器的开源免
 
 > youtube-dl - download videos from youtube.com or other video platforms
 
-可以下载youtube及其他视频网站的命令行工具
+可以下载youtube及其他视频网站（Facebook，Twitter，LiveLeak 和许多其他网站)的命令行工具, 可以一次下载整个播放列表、提取音频等。
+
+Windows GUI版本：https://mrs0m30n3.github.io/youtube-dl-gui/
 
 ### You-get [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/soimort/you-get) ![CMD](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 

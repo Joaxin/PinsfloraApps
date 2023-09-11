@@ -8,6 +8,8 @@
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)  http://pan.baidu.com/download
 
+云一朵：https://pan.baidu.com/aipan/welcome
+
 ### 微云 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.weiyun.com/)
 
 > 微云是腾讯公司为用户精心打造的一项智能云服务, 您可以通过微云方便地在手机和电脑之间,同步文件、推送照片和传输数据。
@@ -46,11 +48,13 @@
 
 ### Dropbox [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.dropbox.com/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg)
 
-国外流行著名的简单，优雅的同步、备份、共享云存储软件，支持[`Windows` 、`macOS`、 `Android`、`iOS`]。
+国外流行著名的简单，优雅的同步、备份、共享云存储软件，支持[`Windows` 、`macOS`、 `Android`、`iOS`]， 支持匿名分享。
 
 ### Google Drive [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.google.com/drive/) 
 
 Google生态系统的云存储解决方案。
+
+Download a large file from Google Drive (curl/wget fails because of the security notice)： https://github.com/wkentaro/gdown
 
 ### Mega [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.mega.co.nz/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg)
 

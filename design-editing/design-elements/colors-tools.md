@@ -96,13 +96,19 @@ Flat UI Colors 2 features 13 more color palettes for COPY / PASTE for your next 
 
 ### 颜色工具
 
+#### 颜色转换工具
+
 颜色转换工具RGB，CMYK ， HSV等 colorhexa：https://www.colorhexa.com/
 
 {% embed url="https://www.colorhexa.com/" %}
 
 spycolor：https://www.spycolor.com/
 
+> Color conversion tools RGB, CMYK, HSV & more
+
 {% embed url="https://www.spycolor.com/" %}
+
+CMYK工具：https://eng.fontke.com/tool/cmyk/
 
 #### HTML Color
 
@@ -119,3 +125,7 @@ https://html-color-codes.info/
 {% embed url="https://www.0to255.com/" %}
 https://www.0to255.com/
 {% endembed %}
+
+#### 配色教程
+
+[https://www.uisdc.com/tag/配色技巧](https://www.uisdc.com/tag/%E9%85%8D%E8%89%B2%E6%8A%80%E5%B7%A7)
