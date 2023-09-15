@@ -1,18 +1,18 @@
 ## 多维度查词
 
-### 万词王
+## 万词王
 
 由清华大学自然语言处理实验室THUNLP开发的开源在线反向词典，使用深度学习算法，可以让用户通过描述意思来查询词语。
 
 {% embed url="https://wantwords.thunlp.org" %}
 
-### 易搜搭
+## 易搜搭
 
 http://www.esoda.org/
 
 清华HCI Lab工作室出品的一款适合国人专业英文论文的写作助手
 
-### Thesaurus
+## Thesaurus
 
 词汇宝藏： https://www.thesaurus.com/
 

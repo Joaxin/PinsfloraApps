@@ -1,24 +1,10 @@
-## fast.ai
+fast.ai：https://www.fast.ai/， 免费开源的深度学习和AI学习网站
 
-免费开源的深度学习和AI学习网站
+DeepLearning.AI：https://www.deeplearning.ai/
 
-https://www.fast.ai/
+Google AI：https://ai.google/
 
-## DeepLearning.AI
-
-https://www.deeplearning.ai/
-
-## Google AI
-
-https://ai.google/
-
-## ML for Beginners
-
-https://microsoft.github.io/ML-For-Beginners/#/
-
-微软推出的免费开源的机器学习课程
-
-## 其他网站
+ML for Beginners：https://microsoft.github.io/ML-For-Beginners/， 微软推出的免费开源的机器学习课程
 
 MachineLearningMastery： https://machinelearningmastery.com/
 

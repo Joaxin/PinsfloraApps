@@ -179,7 +179,7 @@ Github: [https://github.com/primefaces/primeng](https://github.com/primefaces/pr
 
 The Most Complete Angular UI Component Library
 
-## 其他
+## 其他UI
 
 [Pure.css](http://purecss.io): A set of small, responsive CSS modules that you can use in every web project.
 

@@ -4,9 +4,19 @@
 
 网易云小工具：https://github.com/nondanee/UnblockNeteaseMusic
 
+网易云音乐历史版本：https://orilight.top/archives/15 或者
+
+https://d1.music.126.net/dmusic/cloudmusicsetup 版本号.Build.exe
+
 ## Kugou - 酷狗音乐
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [http://download.kugou.com/](http://download.kugou.com/)
+
+Kugou 5sing: http://5sing.kugou.com/index.html
+
+## 酷我kuwo
+
+
 
 ## QQ音乐
 
@@ -58,10 +68,28 @@
 
 高质量的独立音乐平台。
 
-## Xiami - 虾米音乐
+## 电子音乐网站
 
-虾米音乐是专业音乐内容发现平台,依托专业曲库内容和精准推荐算法,带你发现音乐惊喜,提升音乐审美。平台致力于扶持原创音乐,2014年启动原创音乐扶持项目——寻光计划。
+![www.beatport.com](https://s2.ax1x.com/2019/02/25/k5NzoF.jpg)
 
-![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://emumo.xiami.com/apps/mobile](https://emumo.xiami.com/apps/mobile)
+Beatport：https://www.beatport.com/
+
+Discogs：https://www.discogs.com/
+
+Di.fm：https://www.di.fm/
+
+## 已关闭音乐网站
+
+Xiami - 虾米音乐：https://www.xiami.com 虾米音乐是专业音乐内容发现平台,依托专业曲库内容和精准推荐算法,带你发现音乐惊喜,提升音乐审美。平台致力于扶持原创音乐,2014年启动原创音乐扶持项目——寻光计划。
 
 > 由于业务调整，虾米音乐播放器业务将于2021年2月5日0点正式停止服务。 
+
+备份：https://www.lovexiamiforever.com/
+
+落网: [http://www.luoo.net/](http://www.luoo.net/)
+
+山阴路: [http://ww1.shanyinlu.com/](http://ww1.shanyinlu.com/)
+
+Songtaste: [http://www.songtaste.co/](http://www.songtaste.co/)(不是本来的)
+
+Muxiv： [https://muxiv.com/](https://muxiv.com/) 仿网易云的海外版

@@ -1,6 +1,6 @@
 # 地质年代
 
-### Ancient Earth
+## Ancient Earth
 
 地球的历史
 

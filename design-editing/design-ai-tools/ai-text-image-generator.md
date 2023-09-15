@@ -30,6 +30,8 @@ Stable Diffusion Prompt Book: https://openart.ai/promptbook
 
 5. 运行代码第四段输入相关文字得到图像。
 
+6. 使用Stable Diffusion秋叶整合包
+
 **参考视频：**
 
 AI 文字生成图片（Stable Diffusion）22.8
@@ -54,7 +56,7 @@ LORA：https://chilloutai.com/guofeng
 
   https://civitai.com/models/12597/moxin?modelVersionId=14856（需要构图Lora，推荐基础模型为ChilloutMix、国风3.2）
 
-### Stable Diffusion Online
+## Stable Diffusion Online
 
 Disco Diffusion：可在Google的corlab上直接部署
 
@@ -66,7 +68,7 @@ https://replicate.com/stability-ai/stable-diffusion
 
 Graviti Diffus: https://www.diffus.graviti.com/
 
-### Stable Diffusion Like
+## Stable Diffusion Like
 
 https://stability.ai/ (测试地址：https://beta.dreamstudio.ai/home, 大图只支持1024; 展示地址：https://clipdrop.co/tools)
 
@@ -264,3 +266,5 @@ https://convert.leiapix.com/
 https://pixia.ai/
 
 https://replicate.com/pixray/text2image
+
+Segement Anything Gui

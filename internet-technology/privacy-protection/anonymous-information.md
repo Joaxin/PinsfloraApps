@@ -4,7 +4,7 @@ description: Anonymous information
 
 # 匿名信息
 
-### 阅后即焚
+## 阅后即焚
 
 打开链接会有提示
 

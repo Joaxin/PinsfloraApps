@@ -77,6 +77,14 @@ ClipDrop Remove Background：  https://clipdrop.co/remove-background
 
 ## 图片尺寸编辑
 
+**图片无损放大软件**
+
+PhotoZoom Pro [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.benvista.com/photozoompro/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+
+由benvista开发的一款功能强大的图像无损放大软件,采用优化算法,尽可能地提高放大图片的质量和品质.
+
+pinga：图片无损压缩
+
 **图片无损放大**
 
 BigJPG：https://bigjpg.com/
@@ -133,7 +141,11 @@ restorePhotos.io：老照片修复，https://www.restorephotos.io/
 
 Cutout.Pro老照片上色：https://www.cutout.pro/zh-CN/photo-colorizer-black-and-white
 
+ Ashampoo Photo Optimizer: 图像自动优化
+
 ## 图片物体抹除
+
+Inpaint：[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.theinpaint.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) 一款专业强大的图片去水印软件工具， 选定区域，涂抹几下，水印自动擦除，类似于手机上的`Retouch`。
 
 Hama: 在线抹除图片中不想要的物体, https://www.hama.app/zh
 
@@ -156,4 +168,14 @@ Fotojet：一款免费的线上图片拼接编辑器, https://www.fotojet.com/
 
 Picmyna：图片拼接，https://www.picmyna.com/online-photo-grid-maker.html
 
+ShapeCollage \(Photos Collecting\)： 拼图软件，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，已停滞开发。
 
+http://www.shapecollage.com/
+
+![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) http://www.shapecollage.com/download
+
+## 图片漂白工具
+
+原本
+
+Picture Cleaner

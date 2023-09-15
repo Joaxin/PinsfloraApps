@@ -33,21 +33,21 @@ https://www.heywhale.com/about/
 
 ## AI公司模型
 
-### Micosoft AI
+## Micosoft AI
 
 DeepSpeed：https://www.deepspeed.ai/
 
-### Google AI
+## Google AI
 
 PaLM 2：https://ai.google/discover/palm2，AI大语言模型
 
-### Meta AI
+## Meta AI
 
 LLaMA：https://github.com/facebookresearch/llama，AI大语言模型
 
 Segment Anything（SAM）：AI图像分割模型，https://segment-anything.com/
 
-### OpenAI
+## OpenAI
 
 > OpenAI和微软有合作关系
 
@@ -57,7 +57,7 @@ DALL·E 2：https://openai.com/dall-e-2/
 
 GPT-4:  https://openai.com/gpt-4
 
-### StabilityAI
+## StabilityAI
 
 Stable Diffusion: https://stablediffusionweb.com/
 
@@ -77,7 +77,7 @@ Evidently AI：https://www.evidentlyai.com/
 
 > Evaluate, test, and monitor ML models from validation to production.
 
-Scale AI: https://scale.com/,  标注训练平台
+Scale AI: https://scale.com/,  标注训练平台, Tagging AI
 
 Watsonx.ai: https://www.ibm.com/products/watsonx-ai
 
@@ -85,5 +85,5 @@ Lamini ai：https://www.lamini.ai/
 
 Cohere: https://cohere.com/
 
-
+炼丹家：https://www.liandanjia.com/
 

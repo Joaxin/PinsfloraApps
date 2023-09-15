@@ -1,4 +1,4 @@
-> 以谷歌浏览器为例，Edge也可直接安装谷歌浏览器插件
+> 以谷歌浏览器为例，Edge等也可直接安装谷歌浏览器插件
 
 # 插件网站
 
@@ -12,11 +12,9 @@
 
 ---
 
-插件搜索：https://www.crxsoso.com/
+浏览器插件搜索：https://www.crxsoso.com/
 
 # ![plugins](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/plugins.svg) 插件推荐
-
-## Chrome增强
 
 ### 基本功能增强
 
@@ -68,6 +66,14 @@
 
   chrome商店：https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll
   
+  类似工具: WechatDownloader / SingleFile / Circle
+  
+- Just Read：https://chrome.google.com/webstore/detail/just-read/dgmanlpmmkibanfdgjocnabmcaclkmod
+
+  https://justread.link/，类似简悦 - SimpRead
+
+  Github：https://github.com/ZachSaucier/Just-Read
+
 - NaturalReader: Read aloud any text with realistic AI voices, compatible with webpages, kindle Ebooks, Google Docs, PDF, Emails, and more.
 
   chrome商店：https://chrome.google.com/webstore/detail/naturalreader-ai-text-to/kohfgcgbkjodfcfkcackpagifgbcmimk
@@ -105,6 +111,16 @@
 
   - Tab Resize - split screen layouts：Chrome分割屏幕布局
     chrome商店：https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc
+    
+  - WeTab-AI新标签页：Wetab是一款可以亲手打造属于自己的高颜值主页的小组件新标签页插件，跟Infinity New Tab新标签页一样美观大气，跟iTab iTab新标签页一样主打小组件功能。iOS苹果小组件卡片设计，内置倒计时、纪念日、天气、热搜、计算器、等超酷小组件，让信息一目了然，标签页整洁美观。
+
+    https://wetab.link/
+
+    https://chrome.google.com/webstore/detail/wetab-ai%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/aikflfpejipbpjdlfabpgclhblkpaafo
+    
+- monknow 
+
+- iTab
 
 ### 快捷操作
 
@@ -242,18 +258,6 @@ chrome商店：https://chrome.google.com/webstore/detail/grammarly-for-chrome/kb
 - Google 输入工具: 网页版的语言输入工具
   chrome商店：https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab
 
-### 同步文档笔记
-
-- Notion Web Clipper：Notion剪藏工具
-  https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk
-
-- Evernote Web Clipper：Evernote剪藏工具
-  https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc
-
-- Pushbullet： 文件传输工具 https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd 
-
-  https://play.google.com/store/apps/details?id=com.pushbullet.android
-
 ### 探索世界
 
 - Black Menu for Google™：探索 Google 的世界从未如此简单
@@ -261,7 +265,7 @@ chrome商店：https://chrome.google.com/webstore/detail/grammarly-for-chrome/kb
 - Google学术搜索按钮
   chrome商店：https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn
 - Unpaywall：合法下载文献
-  chrome商店：https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha、
+  chrome商店：https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha
 
 ## 生活助手
 
@@ -329,24 +333,26 @@ chrome商店：https://chrome.google.com/webstore/detail/grammarly-for-chrome/kb
 - Fast Emoji Search：emoji搜索
   https://chrome.google.com/webstore/detail/fast-emoji-search/kndccmeghdbaoobnmbbeamggokchejln
 
+### 文件传输工具
+
+- Pushbullet： 文件传输工具 https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd 
+
+  https://play.google.com/store/apps/details?id=com.pushbullet.android
+
 ### 回忆过去
 
 - Ruffle: 一个用 Rust 语言开发的 Adobe Flash Player 模拟器, 支持chrome插件安装
 
   https://ruffle.rs/ (将 Flash 重新带回网络)
 
-  ~~Flash Player for Chrome：flash工具
-  ~~https://chrome.google.com/webstore/detail/flash-player-for-chrome/pdgcfajiagepadbifdlfgiamcjdegkfp~~
-
 - IE Tab：以IE内核显示网页。快捷、强健、可靠
   chrome商店：https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd
 
 - ~~云盘万能钥匙：自动填写百度网盘 & 蓝奏云提取密码，但会收集用户信息，请谨慎下载！
-  https://chrome.google.com/webstore/detail/%E4%BA%91%E7%9B%98%E4%B8%87%E8%83%BD%E9%92%A5%E5%8C%99/anlllmnpjodopgbkbpnghnjlelnogfjc~~
   
 - ~~一叶：和浏览相同网页的人实时聊天，发弹幕！~~
 
-  ~~官网：http://yiyechat.com/~~
+  ~~官网：http://yiyechat.com/~~ ， 服务已挂
 
   ~~https://chrome.google.com/webstore/detail/same-page-2/bldcellajihanglphncgjmceklbibjkk~~
 
@@ -400,6 +406,8 @@ chrome商店：https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkh
 - Tampermonkey：大名鼎鼎的油猴脚本
 
   https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+  篡改猴测试版：https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf
 
 - 暴力猴：油猴的替代品
   https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag

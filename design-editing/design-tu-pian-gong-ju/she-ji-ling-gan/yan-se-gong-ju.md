@@ -6,37 +6,37 @@ description: Colors Tools
 
 ## 颜色
 
-### 日本の伝統色
+## 日本の伝統色
 
 {% embed url="http://nipponcolors.com/" %}
 
-### 中国传统颜色
+## 中国传统颜色
 
 {% embed url="http://zhongguose.com/" %}
 
 ## 配色
 
-### 色見本と配色サイト
+## 色見本と配色サイト
 
 {% embed url="https://www.color-sample.com/" %}
 
-### Adobe Color CC
+## Adobe Color CC
 
 [https://color.adobe.com/zh/create/color-wheel/](https://color.adobe.com/zh/create/color-wheel/)
 
 ![https://color.adobe.com/zh/create/color-wheel/](../../../.gitbook/assets/image%20%282%29.png)
 
-### Paletton
+## Paletton
 
 [https://paletton.com/](https://paletton.com/)
 
-### uiGradients
+## uiGradients
 
 渐变色搭配
 
 {% embed url="https://uigradients.com" %}
 
-### Materialpalette
+## Materialpalette
 
 设计配色MD
 
@@ -44,7 +44,7 @@ description: Colors Tools
 
 ![](../../../.gitbook/assets/image%20%283%29.png)
 
-### Hamburgers by Jonathan Suh
+## Hamburgers by Jonathan Suh
 
 网页CSS配色
 
@@ -52,17 +52,17 @@ description: Colors Tools
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
-### Flat UI
+## Flat UI
 
 {% embed url="https://flatuicolors.com/" %}
 
-### AI 配色工具
+## AI 配色工具
 
 [https://brandmark.io/color-wheel/](https://brandmark.io/color-wheel/)
 
 ## 颜色工具
 
-### 图片灵感
+## 图片灵感
 
 Discover Art & Design Inspiration 从图片中获取颜色灵感
 
@@ -74,7 +74,7 @@ Discover Art & Design Inspiration 从图片中获取颜色灵感
 
 
 
-### 颜色转换工具
+## 颜色转换工具
 
 颜色转换工具RGB，CMYK ， HSV等
 
@@ -82,7 +82,7 @@ Discover Art & Design Inspiration 从图片中获取颜色灵感
 
 {% embed url="https://www.spycolor.com/" %}
 
-#### HTML Color
+### HTML Color
 
 HTML颜色
 

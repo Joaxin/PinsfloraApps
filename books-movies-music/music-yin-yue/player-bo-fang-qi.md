@@ -1,18 +1,24 @@
-### AIMP [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.aimp.ru/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-4.6.0-ff55bb.svg)
+## AIMP
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.aimp.ru/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-5.11.0-ff55bb.svg)
 
 来自俄罗斯跨平台[`windows` `android`]的小巧本地播放器，可以切换皮肤，修改音乐标签，管理音乐文件等。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [http://www.aimp.ru/?do=download&os=windows](http://www.aimp.ru/?do=download&os=windows)
 
-### Dopamine [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.digimezzo.com/software/dopamine/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/digimezzo/Dopamine) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) 
+## Dopamine
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.digimezzo.com/software/dopamine/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/digimezzo/Dopamine) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) 
 
 一款干净，漂亮的本地音乐播放器。
 
-### Foobar2000  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.foobar2000.org/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)  ![](https://img.shields.io/badge/Version-1.5-ff55bb.svg)
+## Foobar2000
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.foobar2000.org/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)  ![](https://img.shields.io/badge/Version-2.0-ff55bb.svg)
 
 由原Winamp开发公司Nullsoft成员Peter Pawlowski开发的高度可自定义，高保真度的播放器，同时含有支持生成媒体库、转换媒体文件编码、提取CD等功能。
 
-### Musicbee [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://getmusicbee.com/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)  [![store](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/store.svg)](https://www.microsoft.com/en-us/p/musicbee/9p4clt2rj1rs)
+下载地址：https://www.foobar2000.org/download
+
+## Musicbee
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://getmusicbee.com/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)  [![store](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/store.svg)](https://www.microsoft.com/en-us/p/musicbee/9p4clt2rj1rs)
 
 > Free music manager and player with format converter and tag editor
 
@@ -22,7 +28,15 @@
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://getmusicbee.com/downloads/
 
-### Listen1 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://listen1.github.io/listen1) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](http://listen1.github.io/listen1/)
+## YesPlayMusic
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://music.qier222.com/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/qier222/YesPlayMusic)
+
+高颜值的第三方网易云播放器，支持 Windows / macOS / Linux
+
+第三方网页：https://music.fairysen.com/
+
+## Listen1
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://listen1.github.io/listen1) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](http://listen1.github.io/listen1/)
 
 ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg) Chrome: https://github.com/listen1/listen1_chrome_extension
 
@@ -30,15 +44,27 @@
 
 > [QQ音乐的DMCA Takedown Notice](https://github.com/github/dmca/blob/master/2017/2017-11-17-Listen1.md)
 
-### TTKMusicplayer [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Greedysky/TTKMusicplayer)
+## TTKMusicplayer
+[![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Greedysky/TTKMusicplayer)
 
 开源、免费的播放器，支持网易云音乐、QQ音乐、虾米音乐、酷我音乐、酷狗音乐、百度音乐等等，支持[`Windows` 、`macOS`、 `Linux`、 `Android`]
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://github.com/Greedysky/TTKMusicplayer#download
 
-### mStream [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://mstream.io)  [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/IrosTheBeggar/mStream) ![CMD](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg)
+## mStream
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://mstream.io)  [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/IrosTheBeggar/mStream) ![CMD](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg)
 
 开源的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`Raspbian`]的音乐播放器
+
+## 洛雪音乐助手
+
+一个基于 electron 的音乐软件，支持电脑和手机版
+
+Github：https://github.com/lyswhut/lx-music-desktop / https://github.com/lyswhut/lx-music-mobile
+
+https://lxmusic.toside.cn/
+
+手机版下载d地址：https://github.com/lyswhut/lx-music-mobile/releases
 
 
 

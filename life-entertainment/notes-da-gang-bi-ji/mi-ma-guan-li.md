@@ -1,15 +1,18 @@
-### KeePass [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.keepass.info/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-2.4.3-ff55bb.svg)
+## KeePass
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.keepass.info/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-2.5.4-ff55bb.svg)
 
 免费、开源、易用的老牌密码管理软件，界面比较简陋，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`].
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://keepass.info/download.html
-### 1Password [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://1password.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+## 1Password
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://1password.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 一款跨平台的电脑手机账号密码管理工具软件，界面美观，UI舒服，功能齐全，支持[`Windows` 、`macOS`、 `Android`、`iOS`]。
 
 ![](../../.gitbook/assets/z-study-notes-password-1password.png)
 
-### Enpass [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.enpass.io/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+## Enpass
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.enpass.io/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 一款简洁优雅的密码管理软件，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]。
 
@@ -17,7 +20,8 @@
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.enpass.io/downloads/
 
-### Safeincloud [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.safe-in-cloud.com/en/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+## Safeincloud
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.safe-in-cloud.com/en/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 一款安全方便的密码管理产品，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`、`Chrome`]。
 
@@ -25,20 +29,23 @@
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) http://www.safe-in-cloud.com/en/#download
 
-### Roboform [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.roboform.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+## Roboform
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.roboform.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 一款网页填写和密码管理工具，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.roboform.com/download
 
-### Lastpass [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.lastpass.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
+## Lastpass
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.lastpass.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 > Simplify your life.
 LastPass remembers all your passwords, so you don't have to.
 
 免费的老牌跨S平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]云同步的密码管理器。
 
-### Bitwarden [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://bitwarden.com/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/bitwarden)
+## Bitwarden
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://bitwarden.com/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/bitwarden)
 
 > **Solve your password management problems**
 The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data.
@@ -47,7 +54,8 @@ The easiest and safest way for individuals, teams, and business organizations to
 
 支持多端同步[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，开源以及docker部署的强大密码管理器。
 
-### Buttercup [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://buttercup.pw/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/buttercup) ![](https://img.shields.io/badge/Version-1.17.3-ff55bb.svg)
+## Buttercup
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://buttercup.pw/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/buttercup) ![](https://img.shields.io/badge/Version-1.17.3-ff55bb.svg)
 
 > **Buttercup**
 The Password Manager You Deserve.

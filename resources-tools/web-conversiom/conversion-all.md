@@ -2,7 +2,7 @@
 
 ## i2
 
-### iTex2Img
+## iTex2Img
 
 Latex在线工具
 
@@ -10,25 +10,25 @@ Latex在线工具
 
 ![](<../../.gitbook/assets/image (6).png>)
 
-### i2Symbol
+## i2Symbol
 
 图片工具网站
 
 {% embed url="https://www.i2symbol.com/" %}
 
-### i2OCR
+## i2OCR
 
 [https://www.i2ocr.com/](https://www.i2ocr.com)\
 Ocr识别. 支持多国语言
 
-### i2PDF
+## i2PDF
 
 PDF工具箱
 [https://www.i2pdf.com/](https://www.i2pdf.com)
 
 ![](<../../.gitbook/assets/image (7).png>)
 
-### Sciweavers
+## Sciweavers
 
 [http://www.sciweavers.org/free-online-pdf-split](http://www.sciweavers.org/free-online-pdf-split)
 
@@ -36,7 +36,7 @@ PDF工具箱
 
 ![](<../../.gitbook/assets/image (8).png>)
 
-### i2style
+## i2style
 
 CSS文字样式生成器
 

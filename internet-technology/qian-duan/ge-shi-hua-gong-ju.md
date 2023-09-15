@@ -8,6 +8,8 @@ JS正则表达式：
 
 [https://www.regextester.com/](https://www.regextester.com/)
 
+其他正则工具: RegexBuddy / regester / 正则小助手 / 正则表达式生成器 / word正则 / Excel正则
+
 ## 格式化
 
 Babel：[https://babeljs.io/repl/](https://babeljs.io/repl/)

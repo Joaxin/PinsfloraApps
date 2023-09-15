@@ -1,12 +1,12 @@
 # 报刊杂志
 
-### &#x20;读览天下
+## &#x20;读览天下
 
 [http://www.dooland.com/](http://www.dooland.com)
 
-### 国外杂志
+## 国外杂志
 
-#### 英国卫报
+### 英国卫报
 
 {% embed url="https://www.theguardian.com" %}
 

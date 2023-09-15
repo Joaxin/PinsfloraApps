@@ -10,7 +10,7 @@ Microsoft Designer: 微软推出的在线设计海报和宣传图工具, https:/
 
 Fabrie AI: 在线白板协作平台Fabrie推出的AI设计助手，支持多种渲染模式, https://www.fabrie.cn/ai/imagine
 
-### App图标/LOGO生成器
+## App图标/LOGO生成器
 
 IconifyAI: App图标生成器, https://www.iconifyai.com/
 

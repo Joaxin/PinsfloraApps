@@ -1,10 +1,10 @@
 ## Chrome
-![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.google.com/chrome//) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![chrome version](https://img.shields.io/badge/Version-90-ff55bb.svg)
+![leaves_use](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.google.com/chrome//) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![chrome version](https://img.shields.io/badge/Version116-ff55bb.svg)
 
-无人不知，无人不晓的强大的谷歌浏览器，无敌的存在。
+谷歌浏览器，无人不知，无人不晓。
 - 自带自动翻译各国语言，让你的语言不再是阻碍，让你轻松融入不同的文化。
 - 支持插件，让你的浏览器无所不能。
-对了，还有一个小技巧，打开浏览器后，你可以在地址栏随便输入一些奇怪的字符，然后按回车，它会带你去一个神秘的地方，那里有各种有趣的小游戏，甚至还有驾驶火箭的机会！
+- 对了，还有一个小技巧，打开浏览器后，你可以在地址栏随便输入一些奇怪的字符，然后按回车，它会带你去一个神秘的地方，那里有各种有趣的小游戏，甚至还有驾驶火箭的机会！
 
 
 浏览器支持全平台，包括[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]
@@ -22,10 +22,12 @@
 Chrome浏览器家族：
 - Chromium [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.chromium.org/Home) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://www.chromium.org/developers/how-tos/get-the-code) chrome的开源版
 
+Speedfox: 浏览器优化,  https://crystalidea.com/speedyfox (Boost Firefox, Skype, Chrome, Thunderbird in a Single Click!)
+
 ## Microsoft Edge
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](ttps://www.microsoft.com/en-us/edge) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
-由微软开发的，基于chromium的，现在越来越好用的浏览器, 一般下载BETA版即可，也提供了Dev和Canary版本供下载使用, 支持[`Windows` 、`macOS`、 `iOS`、`Android`、`Windows Server`]。
+由微软开发的，基于chromium的，现在越来越好用的浏览器, 提供了Dev和Canary版本供下载使用, 支持[`Windows` 、`macOS`、 `iOS`、`Android`、`Windows Server`]。
 
 - Dev版是一周更新版本(**Updated weekly**)，比Canary更稳定；
 - Canary版本则几乎每天都会更新(**Updated daily**)，可以最先体验最新进展.
@@ -40,7 +42,7 @@ Chrome浏览器家族：
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) ： https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads
 
-一款令开发者痛恨的浏览器，一款有着古早历史的浏览器。现在除了访问某些特殊网站（特别是自在中国），基本已被淘汰。
+一款令开发者痛恨的浏览器，有着古早历史的浏览器。现在除了访问某些特殊网站（特别是在中国），基本已被淘汰。
 IE的速度可能比一只蜗牛还要慢一些，但它的耐用性可是相当不错，就算哪天你的电脑被外星人劫走了，IE也能和你生死不离，继续陪伴着你的网上冒险之旅。
 
 ## Opera
@@ -60,7 +62,7 @@ Opera GX, 世界第一款游戏浏览器
 ## Yandex
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://browser.yandex.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
-毛子开发的功能十分强大的红裤衩浏览器，手机端唯一完善支持chrome插件及tampermonkey脚本的浏览器，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]
+毛子开发的功能十分强大的红裤衩浏览器，手机端可以完善支持chrome插件及tampermonkey脚本的浏览器，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]
 
 ## Firefox
  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.firefox.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
@@ -71,9 +73,11 @@ Opera GX, 世界第一款游戏浏览器
 
 firefox家族：
 
+- 
+
 ## Valvidi
 
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://vivaldi.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-3.8-ff55bb.svg)
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://vivaldi.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) 
 
 由Opera联合创始人、前CEO谭咏文发布的一款个性化定制浏览器，基于 Blink 内核，自带笔记(支持markdown)、截图等众多实用的功能，支持[`Windows` 、`macOS`、 `Linux`、 `Android`]。
 
@@ -116,7 +120,10 @@ Why use a browser that treats you like one? Enjoy private, secure and fast brows
 - Maxthon [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.maxthon.cn/)：一款开始很好用的国人开发的双引擎浏览器，疑似停止更新
 - 搜狗浏览器 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://ie.sogou.com/)：一款开始很好用的搜狗浏览器
 - 猎豹安全浏览器 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.liebao.cn/): 由猎豹移动公司开发的双引擎浏览器。
+- 百分浏览器
 - blablabla
+
+## 手机浏览器
 
 
 

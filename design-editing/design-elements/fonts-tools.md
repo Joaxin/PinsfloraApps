@@ -4,6 +4,12 @@ description: Fonts
 
 # 🖋 字体
 
+## 字体软件
+
+Font字体创建: FontForge / FontCreator
+
+字体管理：nexusfont
+
 ## 字体网站
 
 ### Fontke

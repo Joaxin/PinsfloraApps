@@ -10,7 +10,7 @@ GIF压缩：[https://docsmall.com/gif-compress](https://docsmall.com/gif-compres
 
 PDF压缩：[https://docsmall.com/pdf-compress](https://docsmall.com/pdf-compress)
 
-### GIF Compressor
+## GIF Compressor
 
 *   gif格式压缩及转换, 最大支持50M, 最多 选择20个要压缩的GIF文件
 
@@ -41,7 +41,7 @@ PDF压缩：[https://docsmall.com/pdf-compress](https://docsmall.com/pdf-compres
 
     [https://vectorizer.com/](https://vectorizer.com)
 
-### EZGif
+## EZGif
 
 几乎全能的在线图片工具, 特别针对gif, webp, apng, avif格式的处理.
 
@@ -53,11 +53,11 @@ PDF压缩：[https://docsmall.com/pdf-compress](https://docsmall.com/pdf-compres
 
 ![](https://i.loli.net/2021/09/04/tbZzAUw81BQChoW.png)
 
-### iLoveIMG
+## iLoveIMG
 
 Gif压缩(不支持自定义压缩, 无上传大小限制): [https://www.iloveimg.com/compress-image/compress-gif](https://www.iloveimg.com/compress-image/compress-gif)
 
-### Apowersoft
+## Apowersoft
 
 [https://www.apowersoft.com/compress-file-online](https://www.apowersoft.com/compress-file-online)
 
@@ -65,7 +65,7 @@ Gif压缩(不支持自定义压缩, 无上传大小限制): [https://www.iloveim
 
 视频图片pdf压缩工具, 同时也是在线免费高清录屏工具([https://www.apowersoft.cn/free-online-screen-recorder](https://www.apowersoft.cn/free-online-screen-recorder)).
 
-### 万兴优转
+## 万兴优转
 
 图像至GIF: [https://www.media.io/image-to-gif.html](https://www.media.io/image-to-gif.html)
 
@@ -75,7 +75,7 @@ Gif压缩(不支持自定义压缩, 无上传大小限制): [https://www.iloveim
 
 > ! 注意超过5 MB的图像文件需登录
 
-### 其他工具
+## 其他工具
 
 *   Compress-Or-Die
 
@@ -93,6 +93,6 @@ Gif压缩(不支持自定义压缩, 无上传大小限制): [https://www.iloveim
 
 * 不推荐的soogif(需登录加付费, 压缩质量差)
 
-### 其他窍门
+## 其他窍门
 
 * imgur会自动把上传的gif转换为压缩过后的mp4

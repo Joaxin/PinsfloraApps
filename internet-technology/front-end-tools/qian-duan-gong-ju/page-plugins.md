@@ -1,6 +1,6 @@
 ## Page
 
-### Scrollreveal
+## Scrollreveal
 
 ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. It was designed to be robust and flexible, but hopefully you’ll be surprised below at how easy it is to pick up.
 
@@ -34,17 +34,17 @@ https://docs.dropzone.dev)
 
 ## Animation
 
-### Animate.css
+## Animate.css
 
 https://animate.style/
 
-### Spinkit
+## Spinkit
 
 A collection of loading indicators animated with CSS
 
 > https://tobiasahlin.com/spinkit/
 
-### Anime.js
+## Anime.js
 
 https://github.com/juliangarnier/anime
 
@@ -52,7 +52,7 @@ Anime is a flexible yet lightweight JavaScript animation library. It works with 
 
 https://animejs.com/
 
-### tween.js
+## tween.js
 
  JavaScript tweening engine for easy animations, incorporating optimised Robert Penner’s equations.
 
@@ -60,11 +60,11 @@ https://github.com/tweenjs/tween.js
 
 http://tweenjs.github.io/tween.js/
 
-### Vivify
+## Vivify
 
 https://github.com/Martz90/vivify
 
-### Magic
+## Magic
 
 https://github.com/miniMAC/magic
 
@@ -72,13 +72,13 @@ CSS3 Animations with special effects
 
 https://www.minimamente.com/project/magic/
 
-### Textillate
+## Textillate
 
 https://github.com/jschr/textillate
 
 A jquery plugin for CSS3 text animations.
 
-### jQuery Easing
+## jQuery Easing
 
 [https://gsgd.co.uk/sandbox/jquery/easing/](https://gsgd.co.uk/sandbox/jquery/easing/)
 

@@ -2,7 +2,7 @@
 
 [acg人物网](http://www.acgrenwu.cn/)：http://www.acgrenwu.cn/
 
-### 影猫MVCAT
+## 影猫MVCAT
 
 富有设计感，非常强大和精准的电影推荐网站，挽救你的片荒，提供手机APP下载，也提供视频观看链接。
 
@@ -10,11 +10,11 @@
 
 ![](../../.gitbook/assets/image.png)
 
-### 杂铺
+## 杂铺
 
 https://tmioe.com/
 
-## 已关闭
+## 已关闭网站
 
 \~\~AnimeTaste（品赏艾尼莫，全球动画精选）: [http://animetaste.net/](http://animetaste.net)\~\~
 

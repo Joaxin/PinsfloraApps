@@ -1,6 +1,6 @@
 # 歌词Lyrics
 
-### Genius :satellite\_orbital:&#x20;
+## Genius&#x20;
 
 &#x20;_Genius_ is the world's biggest collection of song _lyrics_ and musical knowledge.
 
@@ -10,31 +10,31 @@
 Genius
 {% endembed %}
 
-### Lyrics
+## Lyrics
 
 Song video, artist biography, translations and more!
 
 {% embed url="https://www.lyrics.com/" %}
 
-### Songlyrics
+## Songlyrics
 
 [http://www.songlyrics.com/](http://www.songlyrics.com)
 
-### Metrolyrics
+## Metrolyrics
 
 {% embed url="https://www.metrolyrics.com/" %}
 
-### Lyricstranslate
+## Lyricstranslate
 
 国外的英语翻译网站
 
 {% embed url="https://lyricstranslate.com/" %}
 
-### AZlyrics
+## AZlyrics
 
 {% embed url="https://www.azlyrics.com/" %}
 
-### 日语歌词
+## 日语歌词
 
 {% embed url="https://hiraganalyrics.com/" %}
 

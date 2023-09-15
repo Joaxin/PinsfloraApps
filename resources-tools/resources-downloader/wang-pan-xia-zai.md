@@ -11,3 +11,11 @@ https://www.upyunso.com/
 https://alipansou.com/
 
 丰富的资源搜索与下载, 包括电影、电视剧、电子书及其他资源
+
+## 找资源
+
+找资源 - 阿里云盘资源搜索引擎
+
+> TG交流群：@aliyunpanba
+
+https://zhaoziyuan.pw/

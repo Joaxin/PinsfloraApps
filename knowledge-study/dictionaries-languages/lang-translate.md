@@ -66,6 +66,20 @@ Github：https://copytranslator.github.io/
 
 下载安装： https://copytranslator.github.io/download/
 
+### Xtranslator
+
+文档地址：https://www.yuque.com/xtranslator/help
+
+Xtranslator：https://www.nexusmods.com/skyrimspecialedition/mods/134
+
+XTranslate：https://chrome.google.com/webstore/detail/xtranslate/gfgpkepllngchpmcippidfhmbhlljhoo
+
+### 知云文献翻译
+
+支持网页、pdf word、.caj等多翻译引藥切换，支持中英互译特有学术引擎优化质量好！
+
+https://www.zhiyunwenxian.cn/
+
 ## AI翻译工具
 
 象寄翻译：https://www.xiangjifanyi.com/home/
@@ -110,3 +124,4 @@ https://transmart.qq.com/zh-CN/index
 
 沙拉查词-聚合词典划词翻译
 
+词典软件

@@ -1,6 +1,7 @@
 > Win+R：最原生、最不消耗资源，但也可能是最难看的快速启动方式。
 
-### Listary [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.listary.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) {#Listary} ![](https://img.shields.io/badge/Version-5.00.2843-ff55bb.svg)
+## Listary
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.listary.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) {#Listary} ![](https://img.shields.io/badge/Version-5.00.2843-ff55bb.svg)
 
 > **Listary** is a revolutionary search utility for Windows
 that makes finding your files and launching applications blazing fast, for casual and power users alike!
@@ -19,7 +20,8 @@ that makes finding your files and launching applications blazing fast, for casua
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) 便携版：[https://www.listary.com/download/ListaryPortable.zip?version=5.00.2843](https://www.listary.com/download/ListaryPortable.zip?version=5.00.2843)
 
-### Wox [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Wox-launcher/Wox) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) {#Wox}
+## Wox
+[![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Wox-launcher/Wox) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) {#Wox}
 
 Wox 是windows平台下，由国人开发的高效快速启动器，类似于 `macOS` 上的效率神器 [Alfred](https://legacy.gitbook.com/book/joaxin/windows-apps-garden/edit#) 和 `windows`上的[`Launchy`](http://www.launchy.net/).
 
@@ -41,7 +43,8 @@ Wox 是windows平台下，由国人开发的高效快速启动器，类似于 `m
 
 * The humble incremental-search task switcher： `wpm install Switcheroo for Wox`
 
-### Quicker [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://getquicker.net/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
+## Quicker
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://getquicker.net/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 > Quicker
 更快， 更方便， 更简单。
@@ -49,41 +52,43 @@ Wox 是windows平台下，由国人开发的高效快速启动器，类似于 `m
 
 超方便的面板管理启动脚本工具。
 
-### Rolan [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://getrolan.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+## RunAny
+
+【RunAny】一劳永逸的快速启动软件，拥有三键启动、一键直达、规则启动、批量搜索、全局热键、短语输出、热键映射、脚本插件等功能
+
+Github：https://github.com/hui-Zz/RunAny
+
+Doc: https://hui-zz.gitee.io/runany/#/
+
+## Rolan
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://getrolan.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 由国人开发的轻量级桌面启动器，类似于Mac系统中LaunchPad或者`Alfred`。
 
 
-### RunZ ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/goreliu/runz) ![time_whathappened](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/time_whathappened.svg)
+## RunZ
+![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/goreliu/runz) ![time_whathappened](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/time_whathappened.svg)
 
 简单朴素的基于AHK的快速启动小工具，貌似停止维护。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)[https://github.com/goreliu/runz/releases](https://github.com/goreliu/runz/releases)
 
-### Keypirinha [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://keypirinha.com/)
+## Keypirinha
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://keypirinha.com/)
 
 为Windows键盘党贴省打造的快速启动器。
 
-### WindowsTabs ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/mauricef/WindowTabs) ![stop_sign_continue](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/stop_sign_continue_Q.svg)
-
-> WindowTabs is a utility which brings browser-style tabbed window management to the desktop. I created this utility in 2009 and provided a free and paid version. I'm now open sourcing it since I no longer have time to maintain it.
-
-小巧的Windows程序多标签页工具，给你喜爱的任意程序添加标签页，作者已停止维护。
-
-![](../../.gitbook/assets/z-pro-run-windowstabs.png)
-
-![third_party](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg) https://www.iplaysoft.com/windowtabs.html
 
 
-### Easy Window Switcher [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://neosmart.net/EasySwitch/)
+## Lucy launcher
 
-我们都知道可以用「Alt + Tab」进行全局应用切换，但同一个应用若要快速切换，就可以用这个小软件实现。
+http://lucylauncher.epizy.com
 
-### Wintop {#Wintop} ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
+----
 
-小巧的任意窗口置顶器。
+Maya-launcher: https://github.com/arubertoson/maya-launcher (已于2016停止开发)
 
-![third_party](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg) http://www.wmzhe.com/soft-4351.html
+
 
 
 

@@ -2,7 +2,7 @@
 
 
 
-### IP地址
+## IP地址
 
 > IP地址（Internet Protocol Address）是指互联网协议地址，又译为网际协议地址。IP地址是IP协议提供的一种统一的地址格式，它为互联网上的每一个网络和每一台主机分配一个逻辑地址，以此来屏蔽物理地址的差异。
 
@@ -26,12 +26,12 @@ Xmyip（定位可精确到县市）： [https://www.xmyip.com](https://www.xmyip
 * [http://geoiplookup.net/xml-api/](http://geoiplookup.net/xml-api/)
 * [https://fullip.info/Service/API](https://fullip.info/Service/API)
 
-#### IP查询
+### IP查询
 
 * [https://www.xmyip.com/iplookup](https://www.xmyip.com/iplookup)
 * [https://whatismyipaddress.com/ip-lookup](https://whatismyipaddress.com/ip-lookup)
 
-### Ping
+## Ping
 
 1. ping.chinaz.com 站长之家ping测试工具，比较权威
 2. just-ping.com 国外比较出名的ping测试站点
@@ -41,18 +41,18 @@ Xmyip（定位可精确到县市）： [https://www.xmyip.com](https://www.xmyip
 
 [~~https://torch.njs.app/~~](https://torch.njs.app/) ~~（已失效）~~
 
-### Host
+## Host
 
 CheckHost 支持TCP/UDP端口测试： [https://check-host.net](https://check-host.net)
 
 [https://www.scamadviser.com/check-website](https://www.scamadviser.com/check-website)
 
-### 网速测试
+## 网速测试
 
 * [https://www.xmyip.com/speed-test](https://www.xmyip.com/speed-test)
 * [https://whatismyipaddress.com/speed-test](https://whatismyipaddress.com/speed-test)
 
-### 其他测试
+## 其他测试
 
 * [IPv6 TEST](http://test-ipv6.com/)
 * 检查是否WebRTC泄露或者使用VPN：

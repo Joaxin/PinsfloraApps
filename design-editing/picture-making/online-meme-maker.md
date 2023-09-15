@@ -2,7 +2,7 @@
 
 ## 综合网址
 
-### 彩字秀
+## 彩字秀
 
 https://www.czxiu.com/
 
@@ -26,7 +26,7 @@ https://www.czxiu.com/
 
 ## 表情包搜索
 
-### Giphy
+## Giphy
 
 [https://giphy.com/](https://giphy.com/)
 
@@ -48,7 +48,7 @@ Gickr：http://gickr.com/
 
 > Create a gif animation from uploaded pictures
 
-表情生成：[https://www.fakenamegenerator.com/smiley-generator.php](https://www.fakenamegenerator.com/smiley-generator.php)
+像素表情EMOJI生成：[https://www.fakenamegenerator.com/smiley-generator.php](https://www.fakenamegenerator.com/smiley-generator.php)
 
 沙雕兔子生成器
 
@@ -61,6 +61,8 @@ Gickr：http://gickr.com/
 [https://jichou.shadiao.app/\#](https://jichou.shadiao.app/#)
 
 [https://lab.bangbang93.com/weidao](https://lab.bangbang93.com/weidao)
+
+xx是什么味道来着 生成器: https://lab.bangbang93.com/weidao
 
 滑稽表情包：http://lvmaojun.com/huaji/
 

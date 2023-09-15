@@ -1,18 +1,18 @@
 # Testing
 
-### chalk
+## chalk
 
 🖍 Terminal string styling done right
 
 https://github.com/chalk/chalk
 
-#### Babel
+### Babel
 
 JavaScript 的编译器。
 
 在线编辑: [https://babeljs.io/repl/](https://babeljs.io/repl/)
 
-#### Cross Browser
+### Cross Browser
 
 **Normalize.css**
 
@@ -50,11 +50,11 @@ Modernizr: [https://modernizr.com/](https://modernizr.com)
 
 Just the polyfills you need for your site, tailored to each browser.
 
-#### html-inspector
+### html-inspector
 
 [https://www.npmjs.org/package/html-inspector](https://www.npmjs.org/package/html-inspector) HTML Inspector is a code quality tool to help you and your team write better markup. It's written in JavaScript and runs in the browser, so testing your HTML has never been easier.
 
-#### html-minifier
+### html-minifier
 
 [https://www.npmjs.com/package/html-minifier](https://www.npmjs.com/package/html-minifier)
 

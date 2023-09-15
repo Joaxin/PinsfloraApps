@@ -4,15 +4,8 @@
 
 - **An automation system,** like [Grunt](http://gruntjs.com/) or [Gulp](http://gulpjs.com/) to automatically perform repetitive tasks, such as minifying code and running tests.
 
-### Github [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://desktop.github.com/) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)
-
-> Extend your GitHub workflow beyond your browser with GitHub Desktop, completely redesigned with Electron. Get a unified cross-platform experience that’s completely open source and ready to customize.
-
-Github的官方客户端。
-
-Git Extensions [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://gitextensions.github.io/)： Git的官方图像增强工具。
-
-### SourceTree [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.sourcetreeapp.com/) ![](https://img.shields.io/badge/Version-3.1.3-ff55bb.svg)
+## SourceTree
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.sourcetreeapp.com/) ![](https://img.shields.io/badge/Version-3.1.3-ff55bb.svg)
 
 > Simplicity and power in a beautiful Git GUI
 
@@ -20,18 +13,22 @@ Git Extensions [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.c
 
 一款免费的跨平台图形化GIT客户端。
 
-### Git [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://git-scm.com/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/git/git) ![CMD](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg)
+## Git
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://git-scm.com/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/git/git) ![CMD](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 一款免费的跨平台[`Windows` 、`macOS`、 `Linux`]GIT客户端。
 
-### GitKraken [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.gitkraken.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+## GitKraken
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.gitkraken.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 优美的跨平台的 Git 客户端
 
 ![](../../.gitbook/assets/z-dev-git-gitkraken.png)
 
-### TortoiseGit [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://tortoisegit.org/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
+## TortoiseGit
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://tortoisegit.org/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
 
 Windows Shell 下开源的海龟Git，也有SVN的兄弟TortoiseSVN [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://tortoisesvn.net/)
 
+## MGit

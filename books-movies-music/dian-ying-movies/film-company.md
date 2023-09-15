@@ -1,6 +1,6 @@
 # 电影公司
 
-### 皮克斯Pixar
+## 皮克斯Pixar
 
 https://www.pixar.com
 
@@ -8,7 +8,7 @@ https://www.pixar.com
 
 ![](<../../.gitbook/assets/image (5).png>)
 
-### Mondomedia
+## Mondomedia
 
 {% embed url="https://mondomedia.com/" %}
 

@@ -14,7 +14,7 @@ https://www.overleaf.com/
 
 ## LaTeX 工具
 
-### Mathpix 
+## Mathpix 
 
 通过截取复杂数学方程式的截图将其转换为 LaTeX 代码
 
@@ -30,25 +30,25 @@ Mathpix ：https://mathpix.com/
 
 插件版：https://mathpix.com/extension-downloads
 
-### myscript
+## myscript
 
 将手写公式转为 LaTeX 代码
 
 https://webdemo.myscript.com/
 
-### Detexify
+## Detexify
 
 LaTeX符号
 
 http://detexify.kirelabs.org/classify.html
 
-### Office LaTeX小工具
+## Office LaTeX小工具
 
 Excel转Latex：https://ctan.org/tex-archive/support/excel2latex
 
 PPT插入Latex：http://www.jonathanleroux.org/software/iguanatex/
 
-### 画图工具
+## 画图工具
 
 Drawing Bayesian networks, graphical models, tensors, and technical frameworks and illustrations in LaTeX.  https://github.com/xinychen/awesome-latex-drawing
 

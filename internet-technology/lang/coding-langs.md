@@ -62,14 +62,7 @@ npm: https://www.npmjs.com/package/npm
 
 ## Java
 
-Android Studio: https://developer.android.com/studio/index.html
-> Android 的官方 IDE, 基于 IntelliJ 的 IDEA。
-
-Eclipse:https://eclipse.org , Java的经典IDE。
-
-> ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://eclipse.org/downloads/
-
-NetBeans IDE: https://netbeans.org/,  Apache的一个免费开源的java IDE
+https://www.java.com/
 
 ## .NET
 

@@ -7,37 +7,39 @@ coverY: 0
 
 # 项目简介
 
-### ☙ Software&Apps&Website Garden ☙
+## ☙ SAW(Software&Apps&Website) Garden ☙
 
-[![](https://img.shields.io/github/last-commit/joaxin/PinsfloraURLs.svg?style=flat-square\&color=FF9900)](./) [![](https://img.shields.io/github/repo-size/joaxin/PinsfloraURLs.svg?style=flat-square)](./) [![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](./) [![](https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E6%80%BB%E6%95%B0-%E7%BA%A61000-00ccbb.svg?style=flat-square)](./) [![](https://img.shields.io/badge/%E2%98%8E%EF%B8%8Fcontact-Telegram-ff55bb.svg?style=flat-square)](https://t.me/pinsflora)
+[![](https://img.shields.io/github/last-commit/joaxin/PinsfloraURLs.svg?style=flat-square\&color=FF9900)](./) [![](https://img.shields.io/github/repo-size/joaxin/PinsfloraURLs.svg?style=flat-square)](./) [![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](./) [![](https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E6%80%BB%E6%95%B0-%E7%BA%A62000-00ccbb.svg?style=flat-square)](./) [![](https://img.shields.io/badge/%E2%98%8E%EF%B8%8Fcontact-Telegram-ff55bb.svg?style=flat-square)](https://t.me/pinsflora)
 
-A curated collection of software(WINDOWS), website, apps garden.
+A curated collection of software(MAINLY WINDOWS), website, apps garden.
 
 > Discover, transform, create the new world from the powerful Internet!
+>
+> I SAW U (Software&Apps&Website)
 
 
 ![今日诗词](https://v2.jinrishici.com/one.svg)
 
-### 软件收录事项
+## 💡 收录事项
 
 ***
 
-1. 不收录简单的软件封装，如：网页封装，`Electron`简单移植等
+1. 不收录简单的软件或应用封装，如：网页封装，`Electron`简单移植等
 2. 不直接收录商业化软件的破解版与修改版(含破解/激活工具)
 3. 不收录长期不更新且有更好替代品的软件
 4. 不直接收录网络工具与攻击渗透为主要目的的软件
 5. Windows软件至少需支持`Win7 64位`
 6. 你可以自己制作便携版本，所以此处不作标注
-7. 游戏相关的东西，另作收录
+7. 游戏相关的THINGS，另作收录
 8. 软件分类以其主要开发及设计目的为主
 9. 支持多端同步的 会尽量注明 比如\[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`、`Web`、 [`UMP`](https://www.microsoft.com/en-us/store/apps/windows) ]
-10. 网站若要登录才能正常使用的会尽量标出(国内网站无特殊说明全需登录)
+10. 网站若要登录才能正常使用的会尽量标出(国内网站无特殊说明全需扫码/登录)
 
-### 软件图标说明
+## 📃 图标说明
 
 ***
 
-1 [![stop_sign_continue](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/stop_sign_continue_Q.svg)](https://www.easyicon.net/language.en/1236272-stop_icon.html) 已经停更的，在花园里收录的，意味着暂时没有更好的替代品，如果你有好的，可引荐
+1 [![stop_sign_continue](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/stop_sign_continue_Q.svg)](https://www.easyicon.net/language.en/1236272-stop_icon.html) 已经停更的，在SAW花园里收录的，意味着暂时没有更好的替代品，如果你有好的，可引荐
 
 2 [![time_whathappened](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/time_whathappened.svg)](https://www.easyicon.net/language.en/1215615-time_icon.html) 疑似停止维护，长期不更
 
@@ -83,14 +85,15 @@ A curated collection of software(WINDOWS), website, apps garden.
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
-### Contributors
+## 🔔 Contributors
 
 ***
 
-如果你有软件或网站文档方面更好的建议，欢迎提交`PR`或者通过`Issues`来讨论优化，以及[![](https://img.shields.io/badge/%E2%98%8E%EF%B8%8Fcontact-Telegram-ff55bb.svg?style=flat-square)](https://t.me/pinsflora)群组, 欢迎Star本项目 ♪(^∇^\*)。
+如果你有软件或网站或应用文档方面更好的建议，欢迎提交`PR`或者通过`Issues`来讨论优化，以及[![](https://img.shields.io/badge/%E2%98%8E%EF%B8%8Fcontact-Telegram-ff55bb.svg?style=flat-square)](https://t.me/pinsflora)群组, 欢迎Star本项目 ♪(^∇^\*)。
 
 > 另：长期征集截图 👻
 
 If you have any suggestions for improvement, questions, or concerns, please do not hesitate to mention them in issues or raise a pull request, or contact me on Telegram Group.
 
 Made with ❤ by Joaxin, Pinsflora©2023
+

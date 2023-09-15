@@ -10,7 +10,7 @@ Codebeautify: https://codebeautify.org/
 
 Babel：[https://babeljs.io/repl/](https://babeljs.io/repl/)
 
-### JS
+## JS
 
 JS压缩：https://www.cleancss.com/javascript-minify/
 

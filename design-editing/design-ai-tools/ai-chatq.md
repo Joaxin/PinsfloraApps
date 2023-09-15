@@ -70,7 +70,9 @@ StableVicuna: 通过RLHF训练的大规模开源聊天机器人, https://chat.lm
 
 Colossal-AI: https://chat.colossalai.org/
 
-## 中文聊天类ChatGPT
+ChatRwkv: 基于循环神经网络（RNN）的聊天机器人模型, Github: https://github.com/BlinkDL/ChatRWKV
+
+## 中文类ChatGPT
 
 天工AI助手：https://tiangong.kunlun.com/
 
@@ -101,3 +103,140 @@ Luca面壁露卡： https://luca-beta.modelbest.cn/
 百川大模型：https://www.baichuan-ai.com/
 
 字节跳动：豆包，https://www.doubao.com/
+
+ChatGPT套壳网站/ChatGPT镜像,方便没有代理或者没有账号/不想折腾只想简单体验的人使用。
+辛苦整理，转载请带来源,谢谢
+
+
+
+[telegram科学上网与机场观察频道](https://t.me/jichangtj)
+
+[twitter科学上网与机场观察频道](https://twitter.com/jichangtj)
+
+[20家自用便宜稳定高速国外ssr-v2ray-trojan专线机场推荐](https://jichangtuijian.com/ssr-v2ray专线机场推荐.html)
+
+[机场推荐链接2](https://sites.google.com/view/honven/首页/机场推荐?authuser=1)
+
+### GPT
+
+列表导航列表收集：
+
+不需要专门的地区代理，可直接 Bing Ai 聊天：[https://bing.vcanbb.top](https://bing.vcanbb.top/)
+
+https://ailink.icu/
+
+最新共享 ChatGpt 账号：https://chatgpt-site.zhaoyeqing.cn/#/home
+
+[Title](https://openkey.cloud/)
+
+https://www.ooopn.com/tool/chatgpt/
+
+https://chatgpt-site.zhaoyeqing.cn/#/chatgpt-site
+
+https://chatgpts.ninvfeng.xyz/
+
+https://cc.ai55.cc/
+
+https://chatgpt.quickso.cn/
+
+https://www.mydyjs.com/gpt.html
+
+https://www.mydgpt.com/
+
+https://lzw.me/x/chatgpt-sites/
+
+https://www.yelue.com/
+
+https://github.com/xx025/carrot
+
+https://github.com/weekend-project-space/chatgpt-sites
+
+有GPT-4 ：
+
+[https://play.vercel.ai](https://play.vercel.ai/)
+
+[https://chat.forefront.ai](https://chat.forefront.ai/)
+
+[https://chatmindai.cn](https://chatmindai.cn/)
+
+https://poe.com/GPT-4
+
+https://ora.sh/openai/gpt4
+
+部分其他收集的：
+可能久了不能用了：
+
+https://freegpt.top/
+
+https://dev.yqcloud.top/
+
+http://ai.usesless.com/
+
+https://freegpt.one/
+
+https://chatforai.com/
+
+https://chat.theb.ai/
+
+http://chat.apigpt.cn/
+
+https://trychatgp.com/
+
+https://www.perplexity.ai/
+
+https://chat20.yqcloud.top/
+
+[https://www.phind.com](https://www.phind.com/)
+
+https://poe.com/
+
+https://you.com/
+
+ShellGPT：
+免费多功能免费ChatGPT客户端，已支持联网搜索，无需密钥，无需登录
+
+GitHub地址：https://github.com/akl7777777/free-chatgpt-client-pub
+
+### OpenAi Key免费分享
+
+https://freeopenai.xyz/
+
+https://chat-shared.zhile.io/shared.html
+
+### 特定场景
+
+编程 ：https://www.aicodehelper.com/
+
+AI帮个忙，综合： https://ai-toolbox.codefuture.top/
+
+文字游戏： [https://harry-potter.openai-lab.com](https://harry-potter.openai-lab.com/)
+
+写故事： https://wordstory.streamlit.app/
+
+AI 如来(佛)： https://hotoke.ai/
+
+蜻蜓问答：ChatGPT中文版，需要微信登录：[https://chat.qingting.work](https://chat.qingting.work/)
+
+GeekChat Beta：https://chat.geekr.dev/
+
+附注册方法：https://sms-activate.org/cn/info/ChatGPT
+
+### 原版ChatGPT打开注意事项
+
+显示国家不支持的 = 清理cookie+清理缓存+全局美国节点登录
+显示IP被BAN的 = 换IP+清理本地localstorage+清理cookie+清理缓存 然后用上一条方案登录。
+或者粗暴简单 = 全局美国IP + 无痕模式登录
+清理ls请F12 -> 应用 -> 本地存储空间
+
+### 辅助工具
+
+KeepChatGPT：使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页
+https://github.com/xcanwin/KeepChatGPT
+
+https://greasyfork.org/zh-CN/scripts/462804-keepchatgpt
+
+https://github.com/anaclumos/bing-chat-for-all-browsers
+
+https://github.com/chatanywhere/GPT_API_free
+
+[潘多拉，一个让你呼吸顺畅的ChatGPT](https://github.com/pengzhile/pandora) ：潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人

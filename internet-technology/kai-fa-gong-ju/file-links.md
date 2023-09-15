@@ -60,7 +60,7 @@ https://imgtu.com/
 
 ### PicGo
 
-###  {#PicGo} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://molunerfinn.com/PicGo/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Molunerfinn/PicGo) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://molunerfinn.com/PicGo/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Molunerfinn/PicGo) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 > 🚀A simple & beautiful tool for pictures uploading built by electron-vue 
 
@@ -70,7 +70,7 @@ https://imgtu.com/
 
 https://github.com/PicGo/Awesome-PicGo
 
-### lsky
+### 兰空图床lsky
 
 Github: https://github.com/wisp-x/lsky-pro
 

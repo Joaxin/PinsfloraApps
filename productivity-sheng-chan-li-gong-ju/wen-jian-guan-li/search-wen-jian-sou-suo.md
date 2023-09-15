@@ -1,5 +1,5 @@
-### Everything
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.voidtools.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) {#Everything}
+## Everything
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.voidtools.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) 
 
 windows搜索神器，极速建立文件索引\(ps:第一次使用，请稍作等待\)，实时监测文件变化，支持正则表达式搜索，文件预览，书签收藏，还能建立ETP/HTTP服务器。
 
@@ -30,23 +30,23 @@ case:wholeword:Trees !flowers "D:\cocofiles\"
 </ul>
 </details>
 
-### FileLocatorPro
+## FileLocatorPro
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.mythicsoft.com/filelocatorpro/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 > Search software for professionals
 
+一款极为强大的支持文件目录搜索，压缩包搜索、PDF、Excel等文件内容搜索等的高级文件搜索软件利器，支持排除排除特定文件夹(比如：排除SVN/HG/GT/CVS元数据的文件夹)。
+
 ![](../../.gitbook/assets/z-pruductivity-file-filelocatorpro.jpg)
 
-一款极为强大的支持文件目录搜索，压缩包搜索、PDF、Excel等文件内容搜索等的高级文件搜索软件利器。
-
-### Duplicate Cleaner
+## Duplicate Cleaner
 ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.digitalvolcano.co.uk/duplicatecleaner.html) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 由英国著名的 DigitalVolcano 软件公司开发的专业重复文件清理工具，支持子目录搜索以及MD5搜索的重复文件排查工具。
 
 PRO版本：https://www.digitalvolcano.co.uk/dcpro.html
 
-
+## FindDupFile
 
 
 

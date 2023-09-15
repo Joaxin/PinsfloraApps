@@ -54,6 +54,8 @@ https://www.photosir.com/
 
 ---
 
+## AI图片处理工具
+
 AI改图神器: https://img.logosc.cn/
 
 图查查:  360推出的AI作图平台, https://chacha.so.com/home
@@ -63,3 +65,9 @@ Booltool: AI图像工具箱, https://booltool.boolv.tech/home
 ARC: 腾讯旗下ARC实验室推出的AI图片处理工具, https://arc.tencent.com/zh/ai-demos/
 
 Ribbet.ai: https://ribbet.ai/
+
+----
+
+光影魔术手
+
+电脑图像工具箱: https://www.appinn.com/diannao-images-tools/, 最后更新时间为 2016 年初，较古老

@@ -1,6 +1,6 @@
 # 环境数据
 
-### 空气质量AQI
+## 空气质量AQI
 
 空气质量预报（Real-time Air Quality Index (AQI)）：http://aqicn.org/
 
@@ -8,7 +8,7 @@
 
 世界实时空气质量指数：http://waqi.info/
 
-### 全年气候和平均天气
+## 全年气候和平均天气
 
 weatherspark：https://zh.weatherspark.com/
 

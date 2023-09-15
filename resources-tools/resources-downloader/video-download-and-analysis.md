@@ -73,6 +73,10 @@ OR 使用YouTube-dl下载
 
 https://x2download.app/ 此站支持Youtube Music
 
+## M3U8下载
+
+N_m3u8DL-CLI-SimpleG
+
 ## 失效的
 
 ~~https://www.y2mate.com/en13/download-youtube~~
