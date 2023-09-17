@@ -93,6 +93,7 @@ DropPoint
 > For 异地远程文件传输
 
 - Xender：http://web.xender.com/ 支持Android、 iOS、 Windows Phone app 、网页开启，无需网络。
+- 轻松传：https://easychuan.cn/，手机、电脑、平板... 轻松互传， 适合单文件传输，推荐
 - Cowtransfer: https://cowtransfer.com/ (国内的临时文件中转站服务)
 - Mirrored: https://www.mirrored.to/
 - AirMore(爱莫助手)：https://airmore.com/ 可以把 Android or IOS 手机屏幕操作画面即时投影到 Windows、 Mac、 Linux 等任何电脑，需网络连接。
@@ -104,6 +105,7 @@ DropPoint
 - Up-4ever: https://www.up-4ever.org/ 下载有广告
 - Wetranfer: https://wetransfer.com/ （国外的专注邮箱文件的传输工具 ）
 - Transfer.sh: https://transfer.sh/ (![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg) )
+- 文叔叔：https://www.wenshushu.cn/
 - ~~fileai~~(fileai.com has been discontinued)
 
 ## 文件快速拷贝

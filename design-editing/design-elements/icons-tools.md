@@ -1,5 +1,17 @@
 # 🎊 图标
 
+## AI 图标/LOGO
+
+IconifyAI: App图标生成器, https://www.iconifyai.com/
+
+Appicons AI:AI生成精美App图标, https://appicons.ai/
+
+Logomaster.ai: https://logomaster.ai/
+
+LogoliveryAI：https://logolivery.ai/， AI Logo生成器，提供SVG矢量格式
+
+Looka: AI在线设计和生成logo, https://looka.com/
+
 ## 图标生成
 
 ### Shields.io
@@ -16,7 +28,7 @@ loading.io - Your SVG + GIF + PNG Ajax Loading Icons
 
 [https://loading.io/](https://loading.io)
 
-## 标小智
+### 标小智
 
 智能LOGO设计生成器
 

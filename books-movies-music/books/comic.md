@@ -6,7 +6,7 @@ https://mangadex.tv/
 
 https://mangadex.org/
 
-## 动漫画: 
+## 动漫画
 
 https://www.dmhuah.com
 

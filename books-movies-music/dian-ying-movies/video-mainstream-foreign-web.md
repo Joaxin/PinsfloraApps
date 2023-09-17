@@ -6,7 +6,7 @@ Youtube
 
 ## Vimeo
 
-{% embed url="https://vimeo.com/" %}
+https://vimeo.com/
 
 ## Netflix
 

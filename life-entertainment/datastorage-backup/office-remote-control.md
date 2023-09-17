@@ -44,6 +44,32 @@ Synology NAS 使用哪种架构的CPU？:https://www.synology.cn/zh-cn/knowledge
 https://www.bilibili.com/video/BV1vF411j7bc (可能是世界上最好的远程控制软件——parsec) 
 注意： 没公网ip寄一半
 
+## todesk
 
+一款功能强大的远程桌面软件。它支持多种平台，包括Windows、Mac、Linux和Android。Todesk提供了安全、无广告的远程访问功能，可以帮助用户远程控制其他设备。
 
-todesk  / Rust desk / UU远程 / mstsc / QuicDesk / 
+https://www.todesk.com/
+
+## Rust desk
+
+一款开源的远程桌面软件。它安全、无广告、体积小，支持分享文件、自己架设服务器、自定义画面质量和同步剪贴板等功能。Rust Desk目前支持Windows、MacOS、Linux和Android等平台。
+
+https://rustdesk.com/
+
+https://github.com/rustdesk/rustdesk。
+
+## UU远程
+
+一款专业的远程控制软件。它支持Windows、Mac、Linux和Android等多个平台，提供了稳定的远程访问和控制功能。UU远程还具有高效的传输速度和安全的数据加密，可以帮助用户实现远程办公和技术支持。
+
+https://www.uu.me/
+
+## mstsc
+
+Windows操作系统自带的远程桌面连接工具，无需下载
+
+## QuicDesk
+
+一款快速且易于使用的远程桌面软件。它支持Windows和MacOS平台，并提供了稳定的远程访问和控制功能。QuicDesk还具有高效的传输速度和安全的数据加密，可以帮助用户实现远程办公和技术支持。
+
+https://quicdesk.com/

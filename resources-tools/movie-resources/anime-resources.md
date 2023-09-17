@@ -1,7 +1,5 @@
 # 动漫资源
 
-
-
 AGE动漫: [https://www.agefans.net/](https://www.agefans.net)
 
 > 强烈推荐，在线播放加资源网盘下载

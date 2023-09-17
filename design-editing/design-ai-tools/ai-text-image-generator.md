@@ -1,44 +1,11 @@
-> AI图像生成
+> AI图像生成, TEXT TO IMAGE
 >
-> TEXT TO IMAGE
 
 ## Stable Diffusion
 
-Stable Diffusion是一个文转图的模型，其使用了CLIP ViT-L/14文本编码器，基于Latent Diffusion Model（LDM）, 能够通过文本提示调整模型。它在运行时将成像过程分离成“扩散 （diffusion）”的过程——从有噪声的情况开始，逐渐改善图像，直到完全没有噪声，逐步接近所提供的文本描述。  已权重开源。
-
-Github：https://github.com/CompVis/stable-diffusion
-
-Github UI： https://github.com/AUTOMATIC1111/stable-diffusion-webui
+https://stability.ai/ (测试地址：https://beta.dreamstudio.ai/home, 大图只支持1024; 展示地址：https://clipdrop.co/tools)
 
 Stable Diffusion Prompt Book: https://openart.ai/promptbook
-
-操作步骤：
-
-1. Github搜索table diffusion Colab，找到大佬的地址， 比如： https://github.com/woctezuma/stable-diffusion-colab， 点击 Open In Colab,
-   
-2. 运行项目
-   第一段代码安装依赖。
-   第二段代码，显示输入tokens
-   
-   可下载ipynb在自己电脑上运行，https://colab.research.google.com/github/woctezuma/stable-diffusion-colab/blob/main/stable_diffusion.ipynb
-   
-3. 在这个网站注册https://huggingface.co/， 并新建tokens
-    在这个地址取得许可 https://huggingface.co/CompVis/stable-diffusion-v1-4
-    然后复制tokens到Colab 
-
-4. 运行代码第三段下载权重。
-
-5. 运行代码第四段输入相关文字得到图像。
-
-6. 使用Stable Diffusion秋叶整合包
-
-**参考视频：**
-
-AI 文字生成图片（Stable Diffusion）22.8
-
-https://www.bilibili.com/video/BV1Hd4y197hF/
-
-**参考网站：**
 
 在线作画(Google账号登录， 每天免费一次)：https://chilloutai.com/ 、 https://chilloutai.xyz/
 
@@ -48,15 +15,7 @@ civitai : https://civitai.com/
 
 https://models.paomiantv.cn / http://www.liandange.com
 
-**模型：**
-
-LORA：https://chilloutai.com/guofeng
-
-- 墨心 MoXin：https://models.paomiantv.cn/models/Detail?id=12597&modelVersionId=14856 
-
-  https://civitai.com/models/12597/moxin?modelVersionId=14856（需要构图Lora，推荐基础模型为ChilloutMix、国风3.2）
-
-## Stable Diffusion Online
+### Stable Diffusion Online
 
 Disco Diffusion：可在Google的corlab上直接部署
 
@@ -68,9 +27,7 @@ https://replicate.com/stability-ai/stable-diffusion
 
 Graviti Diffus: https://www.diffus.graviti.com/
 
-## Stable Diffusion Like
-
-https://stability.ai/ (测试地址：https://beta.dreamstudio.ai/home, 大图只支持1024; 展示地址：https://clipdrop.co/tools)
+### Stable Diffusion Like
 
 Lexica: 基于Stable Diffusion的在线插画生成, https://lexica.art/
 
@@ -104,35 +61,7 @@ MJ Prompt Tool: https://promptfolder.com/midjourney-prompt-helper/
 
 Midjourney 图片示例：https://chilloutai.com/midjourney
 
-## DALL·E 2
-
-OpenAI旗下的一个图片生成软件， 基于CLIP神经网络，注册需海外手机号。
-
-> DALL·E 2 is an AI system that can create realistic images and art from a description in natural language.
-
-官网：https://openai.com/dall-e-2/
-
-扩展知识：How does DALL-E 2 actually work? （https://www.youtube.com/watch?v=F1X4fHzF4mQ）
-
-> 输入的文本被转化为使用神经网络的CLIP文本嵌入。
->
-> 使用主成分分析（Principal Component Analysis）或PCA降低文本嵌入的维度。
->
-> 使用文本嵌入创建图像嵌入。
->
-> 进入Decoder步骤后，扩散模型被用来将图像嵌入转化为图像。
->
-> 图像被从64×64放大到256×256，最后使用卷积神经网络放大到1024×1024。
-
-Generrated:  基于DALL·E 2的图片生成指令语句
-
-https://generrated.com/
-
-## Deepai
-
-官网：https://deepai.org/machine-learning-model/text2img
-
-## AI绘画工具
+## AI绘画网站
 
 AI绘画搜索：https://www.enterpix.app/
 
@@ -163,38 +92,20 @@ AI绘画搜索：https://www.enterpix.app/
 
 7. Astria：可定制的人工智能图像生成，https://www.astria.ai/
 
-8. Runaway： https://runwayml.com/
-
-   支持Gen-2 Gen-1 Text to Image Image to Image
-   Infinite Image Inpainting Frame Interpolation Custom AI Training
-
 9. Pisco：官网：https://picso.ai/， 偏黑暗、赛博朋克、末世废土风格更强烈一些
 
-10. NUWA: 微软出品的AI绘画工具，暂不开放使用
+9. Nijijourney: 绘制任何二次元风格的绘画！这是一个由 Spellbrush 与 Midjourney 所共同设计开发的魔法般工具。无论您是在寻找可爱的Q版角色还是充满动感的动作场景，niji・journey 都能将您的想象变为现实
 
-   https://nuwa-infinity.microsoft.com/#/NUWAInfinity
+   https://nijijourney.com/zh/
 
-   Bing Image Creator:  https://cn.bing.com/create
-
-11. Nijijourney: 绘制任何二次元风格的绘画！这是一个由 Spellbrush 与 Midjourney 所共同设计开发的魔法般工具。无论您是在寻找可爱的Q版角色还是充满动感的动作场景，niji・journey 都能将您的想象变为现实
-
-    https://nijijourney.com/zh/
-
-12. 文心一格: 百度推出的AI艺术和创意辅助平台
-
-    https://yige.baidu.com/
-
-13. 6pen art: 国内团队出品，输出各种绘画风格
+10. 6pen art: 国内团队出品，输出各种绘画风格
 
     API: https://fromston.6pen.art/
 
-14. 即时设计AI作画，https://js.design/AI-gallery
+11. 即时设计AI作画，https://js.design/AI-gallery
 
-15. 目前Fotor, Canva等也支持AI生成， 详情写相关页面
 
 Craiyon: 在线文本到图像生成, https://www.craiyon.com/
-
-万兴爱画: 万兴科技推出的AI生成高品质艺术画工具, https://aigc.wondershare.cn/
 
 Tiamat：国内团队推出的AI艺术画生成工具，https://www.tiamat.world/
 
@@ -204,16 +115,9 @@ Vega AI：在线免费AI插画创作平台，支持文生图，图生图，条�
 
 PixCap 3D 工具: https://pixcap.com/
 
-AI Tagging: https://www.pixyle.ai/
-
-> Automatic Tagging of Product Data
-> With Rich Fashion Attributes
-
 Artbreeder：创建令人惊叹的插画和艺术，https://www.artbreeder.com/
 
 dreamlike.art：免费在线插画生成工具，https://dreamlike.art/
-
-言之画: AI图像内容创作平台，由出门问问推出, https://paint.mobvoi.com/?ref=ai-bot.cn
 
 无限画千库网: https://588ku.com/ai/wuxianhua/Home
 
@@ -227,21 +131,11 @@ Skybox AI: AI生成和合成360°全景图像插画, https://skybox.blockadelabs
 
 行者AI美术:AI图片生成和美术创作工具箱, https://xingzheai.cn/#create
 
-天工巧绘SkyPaint:  免费的AI插画绘制工具，由昆仑万维与奇点智源合作推出,https://sky-paint.singularity-ai.com/index.html#/
-
 Stockimg AI: https://stockimg.ai/
 
 画宇宙: 人工智能AI作画网站, https://creator.nolibox.com/?utm_source=ai-bot.cn
 
 Adobe Firefly:  https://www.adobe.com/sensei/generative-ai/firefly.html
-
-通义万相:  阿里, https://wanxiang.aliyun.com/
-
-网易AI创意工坊: 网易云课堂推出的AI作画平台, https://ke.study.163.com/artWorks/painting
-
-堆友AI反应堆:  阿里旗下堆友推出的多风格AI绘画生成器, https://d.design/ai
-
-秘塔捉捉猫: 秘塔写作猫推出的AI文字到图像生成工具, https://drawdraw.com/?s=aigj
 
 WHEE:  https://www.whee.com/
 
@@ -265,6 +159,6 @@ https://convert.leiapix.com/
 
 https://pixia.ai/
 
-https://replicate.com/pixray/text2image
+炼丹家：https://www.liandanjia.com/
 
-Segement Anything Gui
+> 目前Fotor, Canva等也支持AI生成， 详情写相关页面

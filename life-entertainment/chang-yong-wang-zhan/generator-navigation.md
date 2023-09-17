@@ -2,37 +2,33 @@
 description: 有趣的生成器网站
 ---
 
-# 生成器导航
-
 ## 娱乐向
 
-## 彩虹屁生成器
+### 彩虹屁生成器
 
 > 粉丝们花式吹捧自己的偶像，浑身是宝，全是优点，字面意思为就连偶像放屁都能把它出口成章面不改色的吹成是彩虹。
 
 [https://chp.shadiao.app/](https://chp.shadiao.app)
 
-## CP短打生成器
+### CP短打生成器
 
 > CP甜甜小故事
 
 [https://mxh-mini-apps.github.io/mxh-cp-stories/](https://mxh-mini-apps.github.io/mxh-cp-stories/)
 
-[https://desolate-escarpment-96939.herokuapp.com/](https://desolate-escarpment-96939.herokuapp.com)
-
-## 骂人宝典
+### 骂人宝典
 
 [https://nmsl.shadiao.app/](https://nmsl.shadiao.app)
 
 祖安：[https://zuanbot.com/](https://zuanbot.com)
 
-## 朋友圈文案生成器/毒鸡汤文案生成器
+### 朋友圈文案生成器/毒鸡汤文案生成器
 
 朋友圈文案:[https://pyq.shadiao.app/](https://pyq.shadiao.app)
 
 毒鸡汤文案: [https://du.shadiao.app/](https://du.shadiao.app)
 
-## 能不能好好说话
+### 能不能好好说话
 
 > 「能不能好好说话？」 拼音首字母缩写翻译工具
 
@@ -44,11 +40,11 @@ description: 有趣的生成器网站
 
 Github: [https://github.com/itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)
 
-## 抽象话
+### 抽象话
 
 抽象话生成器：[https://chouxiang.ml/](https://chouxiang.ml)
 
-## 成语
+### 成语
 
 为所欲为 成语接龙
 
@@ -58,11 +54,55 @@ Github: [https://github.com/itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)
 
 [https://lab.bangbang93.com/ygdl](https://lab.bangbang93.com/ygdl)
 
-## 舔狗日记
+### 舔狗日记
 
 舔狗日记生成器
 
 [https://we.dog/](https://we.dog)
+
+## 文章
+
+### 狗屁不通文章生成器
+
+> 生成的文章真的狗屁不通, 只能拿来搞笑, 请不要用于正规用途!
+
+[https://suulnnka.github.io/BullshitGenerator/index.html](https://suulnnka.github.io/BullshitGenerator/index.html)
+
+Github: [https://github.com/menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator)
+
+### 小说辅助生成器
+
+玄派网是网络小说创作辅助平台，致力于让网络小说创作更加顺畅、快捷，节省时间，让小说创作者将更多的精力和时间放在情节构思当中。 玄派网的很多工具，都是对小说创作理论的具体实践，我们参考和搜集了中外小说理论家们所总结出来的创作技巧和方法，尽最大努力将其工具化，从而让创作者能够更好地应用这些理论，创作出理想的作品。
+
+[https://www.xuanpai.com/](https://www.xuanpai.com)
+
+### 今日诗词
+
+![img](https://www.jinrishici.com/img/logo.png)
+
+https://www.jinrishici.com/
+
+文档：https://www.jinrishici.com/doc/
+
+每次返回一句诗词
+根据时间、地点、天气、事件智能推荐
+支持图片和 JSON 格式调用
+
+- 古诗词·一言API
+
+  https://gushi.ci/
+
+### 防疫大课堂观后感生成器
+
+[http://wolfchen.top/fydkt/old.php](http://wolfchen.top/fydkt/old.php)
+
+https://github.com/imcaspar/gpt2-ml)
+
+## 生活
+
+需要我帮你Baidu么: [https://lmbtfy.cn/](https://lmbtfy.cn)
+
+请假条在线生成器: [https://www.woyaoqingjia.com/zxsc/](https://www.woyaoqingjia.com/zxsc/)
 
 ## 已关闭
 
@@ -95,53 +135,3 @@ Github: [https://github.com/itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)
 [http://wb.newbfun.com/xsscq.html](http://wb.newbfun.com/xsscq.html)
 
 {% endhideToggle %}
-
-## 文章
-
-## 狗屁不通文章生成器
-
-> 生成的文章真的狗屁不通, 只能拿来搞笑, 请不要用于正规用途!
-
-[https://suulnnka.github.io/BullshitGenerator/index.html](https://suulnnka.github.io/BullshitGenerator/index.html)
-
-Github: [https://github.com/menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator)
-
-## 小说辅助生成器
-
-玄派网是网络小说创作辅助平台，致力于让网络小说创作更加顺畅、快捷，节省时间，让小说创作者将更多的精力和时间放在情节构思当中。 玄派网的很多工具，都是对小说创作理论的具体实践，我们参考和搜集了中外小说理论家们所总结出来的创作技巧和方法，尽最大努力将其工具化，从而让创作者能够更好地应用这些理论，创作出理想的作品。
-
-[https://www.xuanpai.com/](https://www.xuanpai.com)
-
-## 今日诗词
-
-![img](https://www.jinrishici.com/img/logo.png)
-
-https://www.jinrishici.com/
-
-文档：https://www.jinrishici.com/doc/
-
-每次返回一句诗词
-根据时间、地点、天气、事件智能推荐
-支持图片和 JSON 格式调用
-
-- 古诗词·一言API
-
-  https://gushi.ci/
-
-## 防疫大课堂观后感生成器
-
-[http://wolfchen.top/fydkt/old.php](http://wolfchen.top/fydkt/old.php)
-
-## GPT-2文章生成器
-
-项目地址
-
-[https://colab.research.google.com/github/imcaspar/gpt2-ml/blob/master/pretrained\_model\_demo.ipynb](https://colab.research.google.com/github/imcaspar/gpt2-ml/blob/master/pretrained\_model\_demo.ipynb)
-
-[https://github.com/imcaspar/gpt2-ml](https://github.com/imcaspar/gpt2-ml)
-
-## 生活
-
-需要我帮你Baidu么: [https://lmbtfy.cn/](https://lmbtfy.cn)
-
-请假条在线生成器: [https://www.woyaoqingjia.com/zxsc/](https://www.woyaoqingjia.com/zxsc/)

@@ -60,13 +60,9 @@ Freeplane is a free and open source software application that supports thinking,
 
 ## 白板工具
 
-Excalidraw
-
 博思AI白板：https://boardmix.cn/ai-whiteboard/
 
 妙办画板： https://imiaoban.com/ai/mind
-
-Jambot：Figma团队推出的Figma AI白板插件，可快速进行头脑风暴、思维导图生成等， https://www.figma.com/community/widget/1274481464484630971
 
 ## 思维导图在线版
 

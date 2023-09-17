@@ -1,15 +1,38 @@
-# 欧美剧
+## Lookmovie
+
+一个免费的在线电影和电视节目流媒体网站。
+
+https://ww2.lookmovie.la/。
+
+https://lookmovie.io/
+
+> Watch latest movies and episodes free in high definition 1080p.
+
+## 欧美剧
 
 美剧鸟: [http://www.meijuniao.com/](http://www.meijuniao.com)
 
-## 人人影视
+**91美剧网**：https://www.meijui.cc/
 
-人人影视字幕分享微博: [https://weibo.com/u/1660646684](https://weibo.com/u/1660646684?sudaref=www.yyets.com)
+**美剧天堂**：https://wap.meijutt.tv/
 
-{% embed url="https://www.yyets.com" %}
-因人人影视事件，现不提供任何资源下载
-{% endembed %}
+**美剧迷**：https://www.meijumi.net/
 
-第三方🎬 人人影视bot，完全对接人人影视全部无删减资源：
+**爱美剧**
+https://www.520meiju.com/
 
-[https://yyets.dmesg.app/home](https://yyets.dmesg.app/home) （Github： [https://github.com/tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)）\
+https://www.agemys.vip/
+
+https://www.nivod4.tv/
+
+https://czzyhd.com/
+
+## 日剧
+
+
+
+
+
+## 韩剧
+
+韩剧网：http://hcsxcyz.com/

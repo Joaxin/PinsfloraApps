@@ -11,11 +11,12 @@ coverY: 0
 
 [![](https://img.shields.io/github/last-commit/joaxin/PinsfloraURLs.svg?style=flat-square\&color=FF9900)](./) [![](https://img.shields.io/github/repo-size/joaxin/PinsfloraURLs.svg?style=flat-square)](./) [![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](./) [![](https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E6%80%BB%E6%95%B0-%E7%BA%A62000-00ccbb.svg?style=flat-square)](./) [![](https://img.shields.io/badge/%E2%98%8E%EF%B8%8Fcontact-Telegram-ff55bb.svg?style=flat-square)](https://t.me/pinsflora)
 
+一个专注于收录和推荐各种有用有趣的软件，应用，网站的平台。SAW取自Software，APPS，Website的英文缩写，也是see的过去式，寓意着你可以在这里看到过去和现在的互联网回眸。
+
 A curated collection of software(MAINLY WINDOWS), website, apps garden.
 
 > Discover, transform, create the new world from the powerful Internet!
 >
-> I SAW U (Software&Apps&Website)
 
 
 ![今日诗词](https://v2.jinrishici.com/one.svg)

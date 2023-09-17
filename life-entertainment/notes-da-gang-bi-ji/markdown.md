@@ -19,12 +19,22 @@ Obsidian is a powerful knowledge base that works on top of a local folder of pla
 
 免费的本地双向链笔记软件, 跨平台支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`、`WEBDAV`], 支持插件。
 
-插件推荐:
+**插件推荐:**
 
-- Remotely Save
-- Obsidian Git
+- Remotely Save(同步插件)
+- Obsidian Git(GIT插件)
+- Excalidraw(白板插件)
 
 Sync your notes across devices：https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices， 自带云同步(https://obsidian.md/sync) 需付费
+
+## Logseq
+
+隶属于Logseq公司的开源笔记软件， Logseq的白板功能允许您使用空间画布、形状、绘图、网站嵌入和连接器来组织您的知识和想法。您可以将笔记和外部媒体（如视频和图像）进行视觉分组和链接，从而使视觉思考者能够以新的方式组合、混合、注释和连接其知识库中的内容和新思想。除了其核心功能外，Logseq还拥有一个不断增长的插件和主题生态系统，可以实现各种工作流程和自定义选项。
+
+Logseq: A privacy-first, open-source knowledge base
+官网: https://logseq.com
+
+Github: https://github.com/logseq/logseq
 
 ## Markdown Plus
 
@@ -39,8 +49,6 @@ Sync your notes across devices：https://help.obsidian.md/Getting+started/Sync+y
 Jot down your daily hacking endeavors and increase your productivity.
 
 Markdown爱好者的笔记应用程序，60天试用，支持丰富的扩展插件。
-
-
 
 ## Yu Writer
  [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://ivarptr.github.io/yu-writer.site/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg)
@@ -63,16 +71,11 @@ A pleasant note-taking platform.
 
 Github：https://github.com/vnotex/vnote
 
-## Logseq
-
-Logseq: A privacy-first, open-source knowledge base
-官网: https://logseq.com
-
-Github: https://github.com/logseq/logseq
-
 ## Joplin
 
 Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+
+跨平台支持Joplin Cloud、Dropbox和OneDrive，从你的电脑、手机或平板电脑访问你的笔记。该应用程序可在Windows、macOS、Linux、Android和iOS上使用。终端应用也可使用!
 
 官网: https://joplinapp.org/
 

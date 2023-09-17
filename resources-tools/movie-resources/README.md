@@ -1,16 +1,8 @@
 # 影视资源
 
-## 老牌BT下载站
 
-阳光电影: [http://www.ygdy8.com/](http://www.ygdy8.com)
 
-电影天堂: [https://www.dytt8.net/](https://www.dytt8.net)
 
-6V电影: [https://www.ai66.cc/](https://www.ai66.cc) / [http://www.6vhao.tv/](http://www.6vhao.tv)
-
-爱笑聚：[https://www.aixiaoju.com/](https://www.aixiaoju.com)
-
-RARBG: [http://rarbg.to/](http://rarbg.to)
 
 ## 影视在线
 
@@ -34,17 +26,7 @@ RARBG: [http://rarbg.to/](http://rarbg.to)
 
 雷姆拉姆: [https://www.leimulamu.com/](https://www.leimulamu.com) （付费）
 
-## Lookmovie
-
-https://lookmovie.io/
-
-> Watch latest movies and episodes free in high definition 1080p.&#x20;
-
-我主要用第一个：
-
-茶杯狐：https://www.cupfox.app/
-
-555 电影：[https://www.o8tv.com](https://www.o8tv.com/)
+555 电影：[https://ww.o8tv.com](https://www.o8tv.com/)
 
 holefly: https://www.holeflix.xyz/
 
@@ -182,7 +164,7 @@ https://www.dmxq.fun/
 
 Gimy TV 剧迷影視： https://gmtv1.lol/
 
-人人影视：https://kuaizi.cc/
+
 
 hdzyk：https://1080zyk3.com/
 
@@ -210,12 +192,6 @@ hdzyk：https://1080zyk3.com/
 
 KKDY live：https://www.kkdy.live/
 
-影视森林(聚合)： https://www.549.tv/
-
-影猫的仓库(聚合)：https://ymck.me/
-
-安逸影视导航(聚合)：https://anee.cc/
-
 KM影视：https://www.mkvdo.com/
 
 在线之家：https://zxzj.vip/
@@ -233,51 +209,4 @@ https://nl.yuque.tk/
 
 https://www.renren.pro/
 
-91美剧网
-https://www.meijui.cc/
 
-美剧天堂
-https://wap.meijutt.tv/
-
-美剧迷
-https://www.meijumi.net/
-
-爱美剧
-https://www.520meiju.com/
-
-https://www.agemys.vip/
-
-https://www.nivod4.tv/
-
-https://czzyhd.com/
-
-直播
-[http://miaokantv.cn](http://miaokantv.cn/)
-
-### 影视App
-
-乐看视频：[https://lekan.app](https://lekan.app/)
-
-盘子影视 ：[https://panzi.app](https://panzi.app/)
-
-小 目 标：https://xmb.app/
-
-555影视：https://app.jlghjy.com/
-
-小黄人影视：[https://xhrys.com](https://xhrys.com/)
-
-奈飞影视： [https://hdo.app](https://hdo.app/)
-
-好猫影视：[https://haomao.app](https://haomao.app/)
-
-天空影视： [https://tkznp8.com](https://tkznp8.com/)
-
-佩琪影视： [http://www.peiqi.tv](http://www.peiqi.tv/)
-
-柠檬影视∶ [http://xnmzj.com](http://xnmzj.com/)
-
-泡泡影视： [http://www.ppsp.pro](http://www.ppsp.pro/)
-
-番茄影视： [https://fq88.app](https://fq88.app/)
-
-小柿子影视 : xszys.com

@@ -1,5 +1,5 @@
 ## CrystalDiskInfo
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://crystalmark.info/software/CrystalDiskInfo/index-e.html) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![Version](https://img.shields.io/badge/Version-8.2.4-ff55bb.svg)
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://crystalmark.info/software/CrystalDiskInfo/index-e.html) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) 
 
 > A HDD/SSD utility software which supports a part of USB, Intel RAID and NVMe.
 
@@ -53,3 +53,7 @@ https://www.cr173.com/soft/53396.html
 ## MyDiskTest
 
 U盘扩容检测工具, 提供了快速扩容测试、数据完整性校验、读写速度测试三种测试方式，能够检测U盘的完整性。
+
+----
+
+硬盘整数GB分区在线计算器: [https://gb.icoa.cn/](https://gb.icoa.cn)

@@ -2,30 +2,11 @@
 
 ## i2
 
-## iTex2Img
+i2Symbol: 图片工具网站, https://www.i2symbol.com/
 
-Latex在线工具
+i2OCR: https://www.i2ocr.com, Ocr识别. 支持多国语言
 
-[http://www.sciweavers.org/free-online-latex-equation-editor](http://www.sciweavers.org/free-online-latex-equation-editor)
-
-![](<../../.gitbook/assets/image (6).png>)
-
-## i2Symbol
-
-图片工具网站
-
-{% embed url="https://www.i2symbol.com/" %}
-
-## i2OCR
-
-[https://www.i2ocr.com/](https://www.i2ocr.com)\
-Ocr识别. 支持多国语言
-
-## i2PDF
-
-PDF工具箱
-[https://www.i2pdf.com/](https://www.i2pdf.com)
-
+i2PDF:PDF工具箱 ,[https://www.i2pdf.com/](https://www.i2pdf.com)
 ![](<../../.gitbook/assets/image (7).png>)
 
 ## Sciweavers
@@ -35,22 +16,6 @@ PDF工具箱
 [http://www.sciweavers.org/free-online-pdf-merge](http://www.sciweavers.org/free-online-pdf-merge)
 
 ![](<../../.gitbook/assets/image (8).png>)
-
-## i2style
-
-CSS文字样式生成器
-
-[http://www.i2style.org/](http://www.i2style.org)
-
-[http://www.i2arabic.com/](http://www.i2arabic.com)
-
-i2Clipart: [https://www.i2clipart.com/](https://www.i2clipart.com) 剪切画网站\
-i2Type: [http://www.i2type.com/](http://www.i2type.com)\
-iWeb2Print: [http://www.sciweavers.org/free-online-html-to-pdf](http://www.sciweavers.org/free-online-html-to-pdf)\
-iWeb2Shot: [http://www.sciweavers.org/free-online-web-to-image](http://www.sciweavers.org/free-online-web-to-image)\
-[注音输入法http://www.i2bopomo.com/](http://www.i2bopomo.com)\
-i2Speak is a smart online international phonetic alphabet (IPA) keyboard: [ http://www.i2speak.com/](http://www.i2speak.com)\
-[h](http://www.i2arabic.com)拉[p://www.i2arabic.com/](http://www.i2arabic.com)i
 
 ## Alltoall
 

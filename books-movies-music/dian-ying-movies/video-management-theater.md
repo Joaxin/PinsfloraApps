@@ -1,14 +1,36 @@
-## Kodi [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://kodi.tv/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/xbmc/xbmc)
+## EMDB
+
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.emdb.eu/)
+
+一款跟踪电影和电视连续剧以及进行收藏管理的应用。
+
+## TinyMediaManager
+
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.tinymediamanager.org/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://gitlab.com/tinyMediaManager)  
+
+开源的本地电影、电视剧管理工具，可自动下载影片信息、字幕、标记已观看等。
+
+## Seriesgui
+
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://seriesgui.de/)
+
+可记录追剧进度，数据源来自 [TheTVDB](https://www.thetvdb.com/?ref=appinn)
+
+## Kodi
+
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://kodi.tv/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/xbmc/xbmc)
 
 Open Source Home Theater Software
 
 免费开源家庭影院软件
 
-## Plex [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.plex.tv/)
+## Plex
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.plex.tv/)
 
 一站式家庭影院解决方案
 
-## 极影派 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.jeenpi.com/)
+## 极影派
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.jeenpi.com/)
 
 ![2-min-min](http://www.jeenpi.com/wp-content/uploads/2016/08/2-min-min.jpg)
 

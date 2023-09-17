@@ -1,4 +1,4 @@
-## PotPlayer {#PotPlayer}
+## PotPlayer 
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://potplayer.daum.net/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 
 出自韩国[KMPlayer](https://www.kmplayer.com/home)[跨平台，基于MPC]作者姜勇囍的强大播放器，支持几乎所有视频格式、支持硬件加速、支持0.1~12倍速播放、支持添加直播源、支持自定义配置美化，但需花大量时间研究符合自己需求的配置 。
@@ -9,7 +9,7 @@
 
 一款极为强大的高清播放视频插件,配合譬如PotPlayer等软件,可以实现PC上播放高清视频的最强画质。
 
-## VLC{#VLC}
+## VLC
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.videolan.org/vlc/)  ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/videolan/vlc)
 
 > VLC 是一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议。
@@ -57,6 +57,28 @@
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.stellarplayer.com/)
 
 来自国产，支持超高清4K，蓝光HDR，ISO。支持多显卡AI协同解码、一键投屏甚至madVR的免费、无广告、无弹窗播放器。
+
+## ZY-Player
+
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://zyplayer.fun)  ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)  [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Hunlongyu/ZY-Player)
+
+Github二次开发：https://github.com/Hiram-Wong/ZyPlayer
+
+ ZY-Player简洁无广告高颜值全网影视资源播放器，聚合大量影视网站搜索接口， 跨平台支持[`Windows` 、`macOS`、 `Linux`]的桌面端资源播放器，, 支持视频分类以及 收藏夹同步更新追剧等， 支持第三方播放器播放。
+
+![ZY-Player](../../.gitbook/assets/z-study-video-zhui-ju-zy-player.png)
+
+常用订阅地址：
+
+```
+ https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json
+ https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@main/zy_yuan.json
+ http://xiaoguozitv.cn/catys/zyplay.json
+ https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json
+ https://fastly.jsdelivr.net/gh/ls125781003/dmtg@main/zy_yuan.json
+```
+
+> ZYPlayer 支持 tvbox 接口，但导入 tvbox 接口存在一些 bug，兼容性有点问题，期待后续版本解决该问题。目前导入上面链接可以正常的使用。
 
 
 ## 5KPlayer

@@ -1,8 +1,10 @@
+## 文档AI
+
 Coda AI：在线协作平台Coda推出的AI写作和文档助手，类似于Notion AI，https://coda.io/product/ai
 
 ChatDOC：文档阅读、提取、总结、摘要的工具，http://chatdoc.com/
 
-Super AI：I复杂文档自动识别处理转换，https://super.ai/
+Super AI：复杂文档自动识别处理转换，https://super.ai/
 
 Rossum.ai：现代化的AI文档处理工具，https://rossum.ai/
 
@@ -16,3 +18,6 @@ Craft AI Assistant：在线文档工具Craft推出的AI文档和创作助手，h
 
 Humata： AI文档分析、阅读和问答工具，https://www.humata.ai/
 
+## 文档模板
+
+职徒简历：https://www.52cv.com/

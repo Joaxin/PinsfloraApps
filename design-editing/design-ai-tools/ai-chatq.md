@@ -1,34 +1,20 @@
-## ChatGPT
-
-Open AI：https://openai.com/chatgpt
-
-Hello-AI:  https://hello-ai.anzz.top/
-
-> AI AGI AIGC ChatGPT Stable-Diffusion Midjourney OpenAI Hello-AI
-
-chatGPT 学习导航：https://learningprompt.wiki/docs/chatgpt-learning-path
+## ChatGPT 网址列表
 
 免费ChatGPT网站列表: https://hello-ai.anzz.top/home/FreeChatGPTSiteList.html
 
-让生产力加倍的 ChatGPT 快捷指令：http://8.218.154.120:3002/
+ChatGPT 可用网址:  https://c.aalib.net/tool/chatgpt/ / https://www.ooopn.com/tool/chatgpt/
 
-----
+全网可免费使用 GPT 站点：https://chatgpt-site.zhaoyeqing.cn/
 
-GPT3网站：Hello-AI：https://gpt.anzz.top/#/chat/1002 （公益ChatGPT，且用且珍惜，服务器小，请轻点使用，限制字数）
+Free ChatGPT Site List:  https://cc.ai55.cc/， Github: https://github.com/xx025/carrot
 
-https://chat.forefront.ai (基于GPT模型套壳的AI聊天机器人，可用Google账户登录， 目前支持表格数据，图片和文档， 支持生成图片， 但使用GPT4需付费， GPT3.5每三小时可使用100次)
+ChatGPT Web合集:  https://chatgpts.ninvfeng.xyz/
 
-https://ora.sh/openai/gpt4 （可用Google账户登录,限制免费次数，GPT4需付费）
+国内可用的 ChatGPT :https://chatgpt.quickso.cn/  / https://lzw.me/x/chatgpt-sites/
 
-Monica：ChatGPT驱动的Chrome浏览器AI助手插件，http://monica.im/
-
-**免费GPT4网站**
-
-> 区分3.5和4.0版本：鲁迅和周树人是什么关系
+## 免费GPT4网站
 
 1. 使用NEW BING或者Perplexity AI
-
-   https://chat.chatbot.sex/chat
 
 2. poe： 国外问答平台Quora推出的一个AI聊天机器人 ，https://poe.com/， GPT-4，Poe可为用户免费提供每天1次的提问次数
 
@@ -38,13 +24,13 @@ Monica：ChatGPT驱动的Chrome浏览器AI助手插件，http://monica.im/
 
    FAQ：https://merlin.foyer.work/zh-CN/#faqs
 
-## Claude
+4. https://chat.chatbot.sex/chat
 
-https://claude.ai/
+   [https://play.vercel.ai](https://play.vercel.ai/)
 
-https://www.anthropic.com/index/claude-2
+   [https://chatmindai.cn](https://chatmindai.cn/)
 
-## 在线AI聊天
+## 在线AI角色聊天
 
 > AI角色对话聊天
 
@@ -60,183 +46,70 @@ AI Chatbot Pi：https://pi.ai/talk， DeepMind下的AI聊天机器人
 
 Replika：https://replika.ai/
 
-Stable Chat: https://chat.stability.ai/， Stability AI 出品
+机械佛：https://hotoke.ai/
 
-## AI对话机器人
+## ChatGPT套壳网站
 
-Open Assistant：https://open-assistant.io/， github：https://github.com/LAION-AI/Open-Assistant
-
-StableVicuna: 通过RLHF训练的大规模开源聊天机器人, https://chat.lmsys.org/
-
-Colossal-AI: https://chat.colossalai.org/
-
-ChatRwkv: 基于循环神经网络（RNN）的聊天机器人模型, Github: https://github.com/BlinkDL/ChatRWKV
-
-## 中文类ChatGPT
-
-天工AI助手：https://tiangong.kunlun.com/
-
-商量SenseChat：https://chat.sensetime.com/wb/
-
-MOSS: 复旦大学团队开发的对话式大型语言模型
-
-OpenBMB：https://www.openbmb.org/home，清华开发的大规模预训练语言模型库与相关工具
-
-阿里：超大规模中文预训练模型(M6)：https://m6.aliyun.com/, 通义千问: https://tongyi.aliyun.com/， 钉钉内置AI智能助手
-
-百度：文心大模型， https://chat.baidu.com/
-
-腾讯: 混元大模型, 文心一言，https://yiyan.baidu.com/， https://hunyuan.tencent.com/
-
-讯飞:  星火认知大模型
-
-悟道:  https://www.baai.ac.cn/portal/article/index/cid/49/id/518.html
-
-360智脑: https://ai.360.cn/
-
-TigerBot：TigerBot开源大模型， https://tigerbot.com/
-
-Luca面壁露卡： https://luca-beta.modelbest.cn/
-
-智谱AI：https://chatglm.cn/
-
-百川大模型：https://www.baichuan-ai.com/
-
-字节跳动：豆包，https://www.doubao.com/
-
-ChatGPT套壳网站/ChatGPT镜像,方便没有代理或者没有账号/不想折腾只想简单体验的人使用。
-辛苦整理，转载请带来源,谢谢
-
-
-
-[telegram科学上网与机场观察频道](https://t.me/jichangtj)
-
-[twitter科学上网与机场观察频道](https://twitter.com/jichangtj)
-
-[20家自用便宜稳定高速国外ssr-v2ray-trojan专线机场推荐](https://jichangtuijian.com/ssr-v2ray专线机场推荐.html)
-
-[机场推荐链接2](https://sites.google.com/view/honven/首页/机场推荐?authuser=1)
-
-### GPT
-
-列表导航列表收集：
-
-不需要专门的地区代理，可直接 Bing Ai 聊天：[https://bing.vcanbb.top](https://bing.vcanbb.top/)
-
-https://ailink.icu/
-
-最新共享 ChatGpt 账号：https://chatgpt-site.zhaoyeqing.cn/#/home
-
-[Title](https://openkey.cloud/)
-
-https://www.ooopn.com/tool/chatgpt/
-
-https://chatgpt-site.zhaoyeqing.cn/#/chatgpt-site
-
-https://chatgpts.ninvfeng.xyz/
-
-https://cc.ai55.cc/
-
-https://chatgpt.quickso.cn/
-
-https://www.mydyjs.com/gpt.html
-
-https://www.mydgpt.com/
-
-https://lzw.me/x/chatgpt-sites/
-
-https://www.yelue.com/
-
-https://github.com/xx025/carrot
-
-https://github.com/weekend-project-space/chatgpt-sites
-
-有GPT-4 ：
-
-[https://play.vercel.ai](https://play.vercel.ai/)
-
-[https://chat.forefront.ai](https://chat.forefront.ai/)
-
-[https://chatmindai.cn](https://chatmindai.cn/)
-
-https://poe.com/GPT-4
-
-https://ora.sh/openai/gpt4
-
-部分其他收集的：
-可能久了不能用了：
-
-https://freegpt.top/
-
-https://dev.yqcloud.top/
-
-http://ai.usesless.com/
-
-https://freegpt.one/
+Forefront：https://chat.forefront.ai (基于GPT模型套壳的AI聊天机器人，可用Google账户登录， 目前支持表格数据，图片和文档， 支持生成图片， 但使用GPT4需付费， GPT3.5每三小时可使用100次)
 
 https://chatforai.com/
 
-https://chat.theb.ai/
-
-http://chat.apigpt.cn/
-
-https://trychatgp.com/
-
-https://www.perplexity.ai/
-
-https://chat20.yqcloud.top/
+https://ora.sh/openai/gpt4 （可用Google账户登录,限制免费次数，GPT4需付费）
 
 [https://www.phind.com](https://www.phind.com/)
 
-https://poe.com/
+Monica：ChatGPT驱动的Chrome浏览器AI助手插件，http://monica.im/
 
-https://you.com/
+Hello-AI：https://gpt.anzz.top/#/chat/1002 （公益ChatGPT，且用且珍惜，服务器小，请轻点使用，限制字数）
 
-ShellGPT：
-免费多功能免费ChatGPT客户端，已支持联网搜索，无需密钥，无需登录
+https://trychatgp.com/chat
 
-GitHub地址：https://github.com/akl7777777/free-chatgpt-client-pub
+蜻蜓问答: [https://chat.qingting.work](https://chat.qingting.work/) (需微信登录)
 
-### OpenAi Key免费分享
+GPT: https://www.mydyjs.com/
 
-https://freeopenai.xyz/
+AI Ask：https://e.aiask.me/
 
-https://chat-shared.zhile.io/shared.html
+https://dev.yqcloud.top/ / https://chat20.yqcloud.top/
 
-### 特定场景
+https://link3.cc/usesless
 
-编程 ：https://www.aicodehelper.com/
+http://free-gpt.fun/
 
-AI帮个忙，综合： https://ai-toolbox.codefuture.top/
+https://love-english.streamlit.app/
 
-文字游戏： [https://harry-potter.openai-lab.com](https://harry-potter.openai-lab.com/)
+## ChatGPT检测
 
-写故事： https://wordstory.streamlit.app/
+GPTZero：https://gptzero.me/
 
-AI 如来(佛)： https://hotoke.ai/
+> We bring transparency to humans navigating a world filled with AI content. GPTZero is the gold standard in AI detection, trained to detect ChatGPT, GPT4, Bard, LLaMa, and other AI models.
 
-蜻蜓问答：ChatGPT中文版，需要微信登录：[https://chat.qingting.work](https://chat.qingting.work/)
+Winston AI：https://gowinston.ai/
 
-GeekChat Beta：https://chat.geekr.dev/
+CheckforAI：https://checkforai.com/
 
-附注册方法：https://sms-activate.org/cn/info/ChatGPT
+CopyLeaks：https://copyleaks.com/
 
-### 原版ChatGPT打开注意事项
+Originality.AI：https://originality.ai/
 
-显示国家不支持的 = 清理cookie+清理缓存+全局美国节点登录
-显示IP被BAN的 = 换IP+清理本地localstorage+清理cookie+清理缓存 然后用上一条方案登录。
-或者粗暴简单 = 全局美国IP + 无痕模式登录
-清理ls请F12 -> 应用 -> 本地存储空间
+AI Content Detector：https://writer.com/ai-content-detector/
 
-### 辅助工具
+GPT Detector：https://x.writefull.com/gpt-detector
 
-KeepChatGPT：使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页
-https://github.com/xcanwin/KeepChatGPT
+StudyCorgi ChatGPT Detector：https://studycorgi.com/free-writing-tools/chat-gpt-detector/
 
-https://greasyfork.org/zh-CN/scripts/462804-keepchatgpt
+AISEO AI Content Detector：https://aiseo.ai/AI-tools/ai-content-detection.html
 
-https://github.com/anaclumos/bing-chat-for-all-browsers
+Writecream AI Content Detector：https://www.writecream.com/ai-content-detector/
 
-https://github.com/chatanywhere/GPT_API_free
+Smodin AI Content Detector：https://smodin.io/ai-content-detector
 
-[潘多拉，一个让你呼吸顺畅的ChatGPT](https://github.com/pengzhile/pandora) ：潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人
+Sapling AI Content Detector：https://sapling.ai/ai-content-detector
+
+## Chatgpt客户端
+
+ShellGPT , GitHub地址：https://github.com/akl7777777/free-chatgpt-client-pub
+
+> ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图
+
+https://chat.shellgpt.top/

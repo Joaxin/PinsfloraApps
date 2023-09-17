@@ -1,11 +1,3 @@
-# OCR
-
-## ONLINE OCR SERVICE
-
-> Use Optical Character Recognition software online. Service supports 46 languages including Chinese, Japanese and Korean
-
-https://www.onlineocr.net/
-
 # 词云图片
 
 ## Tagxedo

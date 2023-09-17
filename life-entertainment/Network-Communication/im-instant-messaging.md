@@ -51,7 +51,7 @@ Linux下可用: https://github.com/trazyn/weweChat (已停更)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://line.me/en/download
 
-##Telegram
+## Telegram
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://telegram.org/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 毛子开发的速度、安全、开源的即时通信软件，支持所有平台\[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]。
@@ -60,8 +60,8 @@ Linux下可用: https://github.com/trazyn/weweChat (已停更)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://desktop.telegram.org/
 
-##
-TamTam [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://tamtam.chat/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
+## TamTam
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://tamtam.chat/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 一个类似telegram的跨平台\[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]即时通信软件。
 
@@ -120,7 +120,7 @@ Facebook messenger 的第三方桌面程序，支持\[`Windows` 、`macOS`]。
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.meetfranz.com/#download
 
 ## Retroshare
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://retroshare.cc/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/RetroShare) ![](https://img.shields.io/badge/Version-0.6.5-ff55bb.svg)
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://retroshare.cc/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/RetroShare) 
 
 开源的去中心化匿名文件分享工具，可提供类似于Telegram的高强度加密安全通讯，可用于聊天、语音视频、分享文件、论坛等。
 

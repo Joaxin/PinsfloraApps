@@ -16,6 +16,12 @@ Featuretools：自动化特征工程库， https://github.com/alteryx/featuretoo
 
 A hyperparameter optimization framework：https://github.com/optuna/optuna
 
+Lobe: 简单免费的机器学习模型训练工具, https://www.lobe.ai/
+
+Evidently AI：https://www.evidentlyai.com/
+
+> Evaluate, test, and monitor ML models from validation to production.
+
 ## TensorFlow
 官网: https://www.tensorflow.org/
 

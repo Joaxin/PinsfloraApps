@@ -14,7 +14,7 @@ https://alipansou.com/
 
 ## 找资源
 
-找资源 - 阿里云盘资源搜索引擎
+找资源 - 阿里云盘资源搜索引擎, 需登录
 
 > TG交流群：@aliyunpanba
 

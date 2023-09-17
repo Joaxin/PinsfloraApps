@@ -17,10 +17,30 @@
 
 ## SASS/SPSS
 
+一种统计分析软件，用于数据管理、数据分析和报告编写。SASS由Hampton Catlin和Nathan Weizenbaum于2006年创建，SPSS由IBM公司开发。
+
+https://www.ibm.com/products/spss-statistics
+
 ## Octave
+
+一种开源数值计算软件，类似于MATLAB。Octave由John W. Eaton于1988年创建
+
+https://www.gnu.org/software/octave/
 
 ## Scilab
 
+Scilab是一种开源数值计算软件，类似于MATLAB。Scilab由Inria（法国国家计算机与自动化研究所）开发
+
+https://www.scilab.org/
+
 ## Qalculate
 
+一款免费的、开源的、跨平台的计算器应用程序，支持多种数学运算、单位转换、货币转换等功能5。Qalculate由 Niklas Knutsson 和 Jonas Bofjall 于2003 年创建。
+
+https://qalculate.github.io/
+
 ## SpeedCrunch
+
+一款免费、快速、高精度的开源代数计算器，具有直观的界面和许多功能，如变量、语法高亮、函数、持久输入历史记录等。SpeedCrunch由Held 来自加拿大于2008年创建。
+
+http://speedcrunch.org/

@@ -78,8 +78,6 @@ Doc: https://hui-zz.gitee.io/runany/#/
 
 为Windows键盘党贴省打造的快速启动器。
 
-
-
 ## Lucy launcher
 
 http://lucylauncher.epizy.com

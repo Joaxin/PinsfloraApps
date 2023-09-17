@@ -14,20 +14,20 @@
 
 ## AudioNodes
 
-![](blob:https://legacy.gitbook.com/e99a84f3-796c-41bd-bd2c-6861cf1a1561)[https://audionodes.com/](https://audionodes.com/)
+官网: https://audionodes.com/
 
 Edit & mix audio, compose original music\(such as midi\), and more
 
 
-## Goldwave![](../../.gitbook/assets/money_24.632411067194px_1218498_easyicon.net.svg)
+## Goldwave
 
-![](../../.gitbook/assets/website.svg)[http://www.goldwave.com/](http://www.goldwave.com/)
+官网:http://www.goldwave.com/
 
-## Qtractor![](../../.gitbook/assets/github_16px_1157868_easyicon.net.svg)
+## Qtractor
 
 多轨音序编辑器。
 
 -音频/MIDI多轨音序器。
 
-![](../../.gitbook/assets/website.svg)[https://qtractor.sourceforge.io](https://qtractor.sourceforge.io/qtractor-screenshots.html)
+官网: [https://qtractor.sourceforge.io](https://qtractor.sourceforge.io/qtractor-screenshots.html)
 

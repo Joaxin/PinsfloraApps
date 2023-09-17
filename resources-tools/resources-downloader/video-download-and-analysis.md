@@ -77,16 +77,14 @@ https://x2download.app/ 此站支持Youtube Music
 
 N_m3u8DL-CLI-SimpleG
 
-## 失效的
+## 失效的视频下载
 
-~~https://www.y2mate.com/en13/download-youtube~~
+- ~~Savefrom: https://en.savefrom.net~~
 
-> Our service has been discontinued as of August 1, 2019.
+  > As you may have heard, our industry has been under strenuous attacks by certain US copyright holders. Because of these attacks, it has become financially impractical for Savefrom to continue to provide services in the United States.
+  >
+  > Accordingly, Savefrom will be terminating its services in the United States as of April 28, 2020.
 
-~~Savefrom: https://en.savefrom.net~~
+- y2mate
 
-> As you may have heard, our industry has been under strenuous attacks by certain US copyright holders. Because of these attacks, it has become financially impractical for Savefrom to continue to provide services in the United States.
->
-> Accordingly, Savefrom will be terminating its services in the United States as of April 28, 2020.
-
-硕鼠下载器
+- 硕鼠下载器

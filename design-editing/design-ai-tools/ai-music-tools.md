@@ -1,8 +1,10 @@
+> 微软文字转语音: TTS
+>
+> 本地语音转文字：Buzz
+
 ## 语音转换成文字
 
 Notta：https://www.notta.ai/en，语音转换成文字
-
-通义听悟：https://tingwu.aliyun.com/， 阿里AI会议转录工具
 
 AssemblyAI：https://www.assemblyai.com/
 

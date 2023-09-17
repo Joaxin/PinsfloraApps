@@ -140,6 +140,17 @@ https://html-color-codes.info/
 https://www.0to255.com/
 {% endembed %}
 
-### 配色教程
+### AI调色板
+
+ColorMagic:  AI调色板生成工具, https://www.obviously.ai/
+
+Huemint: AI调色生成工具, https://huemint.com/
+
+Color Wheel: AI灰度logo或插画上色工具, https://brandmark.io/color-wheel/
+
+Eva Design System: 基于深度学习的色彩生成工具, https://colors.eva.design/
+
+---
 
 [https://www.uisdc.com/tag/配色技巧](https://www.uisdc.com/tag/%E9%85%8D%E8%89%B2%E6%8A%80%E5%B7%A7)
+

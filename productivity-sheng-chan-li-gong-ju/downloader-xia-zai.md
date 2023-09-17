@@ -160,11 +160,7 @@ Windows GUI版本：https://mrs0m30n3.github.io/youtube-dl-gui/
 > 👾 Fast, simple and clean video downloader
 >
 
-## O其他下载工具
-
-冰点下载器: ~~http://www.bingdian001.com/~~ （支持百度文库vvv、豆丁文库、丁香文库、MBA智库等，下载完为PDF文件）
-
-> 注：由于日积月累的免费下载行为，触犯了以百度文库为首的文库网站的利益，冰点官网已与2021年2月发布声明由于各种压力需要停止冰点软件的维护和下载，但你还可以在网上找到下载器的最后一个版本。
+## 其他下载工具
 
 <https://github.com/aria2/aria2> (多线程下载工具)
 

@@ -2,6 +2,11 @@
 description: Image Stitching and Composition
 ---
 
+## ImageMagick
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.imagemagick.org/script/index.php) ![CMD](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg)
+
+一个免费的创建、编辑、合成图片的软件, 支持命令行
+
 ## 图片工具网站
 
 PicWish: https://picwish.com/
@@ -77,6 +82,22 @@ ClipDrop Remove Background：  https://clipdrop.co/remove-background
 
 ## 图片尺寸编辑
 
+**图片压缩工具**
+
+Riot：[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://luci.criosweb.ro/riot/)  ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
+
+图像优化与压缩工具。
+
+![Riot](../../.gitbook/assets/z-dev-img-riot.png)
+
+Image Optimizer：[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.imageoptimizer.net/download.aspx)
+
+高质量图片大小压缩处理软件。
+
+pngquant：[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://pngquant.org/)
+
+近乎无损的png压缩工具。
+
 **图片无损放大软件**
 
 PhotoZoom Pro [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.benvista.com/photozoompro/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
@@ -85,11 +106,9 @@ PhotoZoom Pro [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.co
 
 pinga：图片无损压缩
 
-**图片无损放大**
+**图片无损放大/修复**
 
 BigJPG：https://bigjpg.com/
-
-Upscayl: https://www.upscayl.org/
 
 Pixelhunter：https://pixelhunter.io/
 
@@ -125,6 +144,17 @@ https://www.gaitubao.com/
 
 jpgHD：人工智能老照片上色和修复，https://jpghd.com/zh
 
+Upscayl: https://www.upscayl.org/
+
+> Github: https://github.com/upscayl
+>
+> From Science Fiction to Reality
+> Supercharging your images with AI
+
+CodeFormer：https://www.codeformer.cn/
+
+人脸清晰化神器
+
 transpic：图像转绘插画创作平台，https://transpic.cn/
 
 美图云修：美图秀秀推出的一站式AI智能修图软件，https://yunxiu.meitu.com/
@@ -141,7 +171,15 @@ restorePhotos.io：老照片修复，https://www.restorephotos.io/
 
 Cutout.Pro老照片上色：https://www.cutout.pro/zh-CN/photo-colorizer-black-and-white
 
- Ashampoo Photo Optimizer: 图像自动优化
+Ashampoo Photo Optimizer: 图像自动优化
+
+Real-ersgan Gui：实用、美观的 Real-ESRGAN 图形界面，同时支持 Windows、Ubuntu 和 macOS 平台。(Cross-platform GUI for image upscaler Real-ESRGAN with additional features.)
+
+Github: https://github.com/TransparentLC/realesrgan-gui
+
+waifu2x-caffe： [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://waifu2x.udp.jp/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/lltcggie/waifu2x-caffe) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)开源的图片放大与降噪工具，使用卷积神经网络对动漫风格的图片进行放大操作（支持照片）。
+
+![waifu2x-caffe](../../.gitbook/assets/z-dev-img-m-waifu2x.png)
 
 ## 图片物体抹除
 

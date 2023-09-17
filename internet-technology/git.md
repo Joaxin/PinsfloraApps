@@ -24,7 +24,7 @@
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.gitkraken.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 优美的跨平台的 Git 客户端
 
-![](../../.gitbook/assets/z-dev-git-gitkraken.png)
+![](../.gitbook/assets/z-dev-git-gitkraken.png)
 
 ## TortoiseGit
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://tortoisegit.org/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)

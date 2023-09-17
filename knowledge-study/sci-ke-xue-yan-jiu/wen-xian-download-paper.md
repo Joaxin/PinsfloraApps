@@ -1,8 +1,10 @@
-## 文献导航
+## 文献下载导航
 
 文献部落：http://459.org/
 
 虫部落: [http://chongbuluo.99lb.net/](http://chongbuluo.99lb.net)
+
+自动检测并更新SCI-Hub的可用网址链接：https://tool.yovisun.com/scihub/
 
 ## Google Scholar
 
@@ -40,10 +42,6 @@
 ----
 
 中国知网海外服务：https://chn.oversea.cnki.net/index/ 注意需国外IP
-
-## SCI-Hub论文下载
-
-自动检测并更新SCI-Hub的可用网址链接：https://tool.yovisun.com/scihub/
 
 ## arXiv
 

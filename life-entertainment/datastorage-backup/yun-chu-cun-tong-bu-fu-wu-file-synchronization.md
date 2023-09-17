@@ -17,7 +17,7 @@
 ## 微力同步
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.verysync.com/)   ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
-一款简单易用的类似于Resilio sync的国产多平台文件同步软件，智能 P2P 技术加速同步，同时支持 AES 加密处理，支持所有平台。
+一款颠覆性的免费跨平台类似于Resilio sync的国产多平台文件同步软件，不需要第三方服务器即可让多台电脑之间直接互相同步和共享文件，而且全程 AES 加密，支持内网穿透 P2P 传输，同时支持 AES 加密处理。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [http://www.verysync.com/download.html](http://www.verysync.com/download.html)
 

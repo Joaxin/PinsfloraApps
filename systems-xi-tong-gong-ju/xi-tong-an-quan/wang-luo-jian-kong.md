@@ -8,7 +8,15 @@ Protect your PC from viruses, malware, and hackers.
 
 ## TinyWall
 
+TinyWall is a lightweight, user-friendly, and secure firewall for Windows. It is also completely free.
+
+https://tinywall.pados.hu/
+
 ## SimpleWall
+
+Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer. 
+
+https://www.henrypp.org/product/simplewall
 
 ## GlassWire
 

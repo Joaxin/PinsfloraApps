@@ -1,4 +1,21 @@
+##  图吧工具箱
+
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.tbtool.cn/)  ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
+
+DIY爱好者的必备工具合集，可以获取计算机硬件信息，例如处理器信息、内存信息、主板信息、显卡信息等。
+
+![图吧工具箱](../../../../../../../../OneDrive - assedu/collection/Pinsflora/IT/.gitbook/assets/z-system-hardware-toolbox-tuba.gif)
+
+
+## 卡硬工具箱
+
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.kbtool.cn/)  ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
+
+
+全面实用的硬件检测、管理、性能测试工具，原为卡吧工具箱。
+
 ## AIDA64
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.aida64.com/) ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 一款功能强大的实用工具，用于识别和测试计算机上的几乎所有的组件，可提供有关硬件和软件的详细信息。

@@ -64,7 +64,13 @@ Mailspring是`Nylas N1`的分支版本，有付费版本，界面简洁美观，
 > 心无旁骛，专注办公
 > 网易邮箱大师 专业的全平台邮箱客户端
 
-网易出品的跨平台邮件 ，支持[`Windows` 、`macOS`、 `Android`、`iOS`]，以前叫网易闪电邮
+网易出品的跨平台邮件 ，支持[`Windows` 、`macOS`、 `Android`、`iOS`]，以前叫网易闪电邮。
+
+---
+
+![hole](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/keng.svg) 如果用第三方邮箱客户端绑定流氓的网易邮箱，会提醒这个，"网易邮箱提醒：一次被阻止的收信行为"，如果这样的话，记得更改这个：
+>
+>[http://config.mail.163.com/settings/imap/login.jsp?uid=yourusername@126.com](http://config.mail.163.com/settings/imap/login.jsp?uid=sunnysky123@126.com)
 
 ## DreamMail
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.cy-email.com/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
@@ -73,16 +79,14 @@ Mailspring是`Nylas N1`的分支版本，有付费版本，界面简洁美观，
 
 ![documents](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/documents.svg) http://help.cy-email.com/
 
-## Yomail
+## 已关闭邮件客户端
+
+### Yomail
 ![time_whathappened](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/time_whathappened.svg) [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.nextechat.com/)
 
 优雅简洁高效的邮箱客户端，疑似公司跑路，停止维护
 
 ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)[http://www.nextechat.com/](http://www.nextechat.com/)
 
----
 
-![hole](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/keng.svg) 如果用第三方邮箱客户端绑定流氓的网易邮箱，会提醒这个，"网易邮箱提醒：一次被阻止的收信行为"，如果这样的话，记得更改这个：
->
->[http://config.mail.163.com/settings/imap/login.jsp?uid=yourusername@126.com](http://config.mail.163.com/settings/imap/login.jsp?uid=sunnysky123@126.com)
 

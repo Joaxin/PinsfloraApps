@@ -2,8 +2,6 @@
 description: Sound effect
 ---
 
-# 音效
-
 ## 自然声
 
 下雨声：https://rainyscope.com/
@@ -12,7 +10,7 @@ description: Sound effect
 
 ## Soundsnap
 
-{% embed url="https://www.soundsnap.com/" %}
+https://www.soundsnap.com/
 
 ## TTSModels
 

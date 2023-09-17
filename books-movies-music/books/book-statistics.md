@@ -1,8 +1,6 @@
 ## Google图书
 
-{% embed url="https://books.google.com" %}
-[https://books.google.com/](https://books.google.com)
-{% endembed %}
+https://books.google.com
 
 ## Books Ngram Viewer
 

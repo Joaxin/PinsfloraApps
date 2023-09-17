@@ -41,14 +41,18 @@ IP Address Fraud Check: https://scamalytics.com/
 ## Ping
 
 1. https://ping.chinaz.com/:  站长之家ping测试工具，比较权威
-2. just-ping.com 国外比较出名的ping测试站点
+2. 国外比较出名的ping测试站点
 3. 17ce.com 测试节点较多，测试结果还比较不错
 4. ping.aizhan.com 爱站的测试工具，但测试点比较少
 5. www.webluker.com 做CDN的公司，网站上提供ping测试
 
-[~~https://torch.njs.app/~~](https://torch.njs.app) ~~（已失效）~~
+~~[https://torch.njs.app/~~](https://torch.njs.app) ~~（已失效）~~
 
 ping工具:  gping / pingu
+
+multiple_ping_tool：https://www.nirsoft.net/utils/multiple_ping_tool.html
+
+
 
 ## Host
 

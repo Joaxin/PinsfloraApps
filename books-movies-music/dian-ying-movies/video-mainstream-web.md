@@ -28,6 +28,8 @@
 </li>
 <li><p>Bilibili视频播放加速功能可用其他插件或脚本代替， 比如：Global Speed</p>
 </li>
+<li><p>哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能： https://github.com/yujincheng08/BiliRoaming</p>
+</li>
 </ul>
 </p>
 </details>
@@ -50,9 +52,11 @@ Bilibili视频下载神器，支持批量下载， 下载高清视频需登陆�
 
 ## 爱奇艺视频
 
-
+https://www.iqiyi.com/
 
 ## 优酷土豆
+
+https://youku.com/
 
 ## 腾讯视频
 
@@ -60,11 +64,9 @@ https://v.qq.com/
 
 腾讯视频客户端下载， 支持[`Windows` 、`macOS`、 `TV`、 `Android`、`iOS`、`WEB`]
 
-## 芒果
+## 芒果TV
 
-{% embed url="https://w.mgtv.com/" %}
-芒果TV
-{% endembed %}
+https://w.mgtv.com/
 
 ## 字节跳动系列
 

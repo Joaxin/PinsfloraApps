@@ -1,11 +1,3 @@
-## Heroku [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.heroku.com) ![CMD](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg)
-
-> Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
-
-云服务器搭建平台。
-
-![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://devcenter.heroku.com/articles/heroku-cli#download-and-install
-
 ## Caddy [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://caddyserver.com/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/caddyserver/caddy/)
 
 > Caddy is a general-purpose HTTP/2 web server that serves HTTPS by default.

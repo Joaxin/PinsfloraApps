@@ -10,7 +10,7 @@ https://www.pixar.com
 
 ## Mondomedia
 
-{% embed url="https://mondomedia.com/" %}
+https://mondomedia.com/
 
 happy tree friends等
 

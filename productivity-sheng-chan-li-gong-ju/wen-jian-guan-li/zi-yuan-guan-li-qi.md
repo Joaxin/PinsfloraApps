@@ -14,7 +14,7 @@
 家喻户晓，无所不能的经典文件管理器，除了GUI古老了点。
 
 ## Q-Dir
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.softwareok.com/?seite=Freeware/Q-Dir) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![](https://img.shields.io/badge/Version-7.9.7-ff55bb.svg)
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.softwareok.com/?seite=Freeware/Q-Dir) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![](https://img.shields.io/badge/Version-11.35-ff55bb.svg)
 
 轻量级的文件管理器，窗口布局十分灵活。
 
@@ -38,8 +38,6 @@
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.farmanager.com/index.php?l=en) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
 
 一款文件管理工具，黑客风，供极客使用
-
-
 
 ## Link Shell Extension
 

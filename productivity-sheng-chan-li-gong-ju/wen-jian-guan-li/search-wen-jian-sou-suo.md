@@ -48,5 +48,7 @@ PRO版本：https://www.digitalvolcano.co.uk/dcpro.html
 
 ## FindDupFile
 
+一款免费的重复文件扫描与删除工具，支持扫描多个目录内同样的文件，删除指定的目录内重复文件。它可以快速查找重复文件，快速扫描等。
 
+第三方下载：https://soft.3dmgame.com/down/210919.html
 

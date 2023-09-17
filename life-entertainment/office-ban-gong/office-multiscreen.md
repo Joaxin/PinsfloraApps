@@ -7,15 +7,13 @@
 
 ## Xdisplay
 
-有线
+一款由Splashtop公司开发的软件，它可以将您的iPad、Android平板电脑、Kindle或智能手机变成高性能的第二显示器。支持多种设备和操作系统，包括Windows、macOS、iOS和Android。
 
-## Duet
+Xdisplay可以通过USB连接将您的设备或平板电脑连接到计算机，以实现第二显示器的功能。它支持多种分辨率，包括1080p和60fps。Xdisplay还支持多个显示器，可以扩展或镜像您的显示器。
 
-有线
+https://www.splashtop.com/wiredxdisplay
 
-## MoonLight（SunLight）
-
-串流
+Github: https://github.com/topics/display
 
 ## AirDroid
 
@@ -59,13 +57,25 @@ QtScrcpy: https://github.com/barry-ran/QtScrcpy
 
 ## ReDroid
 
-用现成的服务器的直接搭建云手机，参考：[基于ReDroid搭建云手机 - 简书 (jianshu.com)](https://www.jianshu.com/p/a6b5bedcc205) 23.1
+用现成的服务器的直接搭建云手机，参考：[基于ReDroid搭建云手机](https://www.jianshu.com/p/a6b5bedcc205) 23.1
 
 ## PiP-Tool
 
 PiP tool is a software to use the Picture in Picture mode on Windows. This feature allows you to watch content (video for example) in thumbnail format on the screen while continuing to use any other software on Windows.
 
 Github: https://github.com/LionelJouin/PiP-Tool (画中画，最近更新2019，疑似作者已弃坑)
+
+## 串流软件
+
+**MoonLight（SunLight）**: 一款开源的游戏串流软件，支持将PC上的游戏串流到其他设备上。它支持多种平台，包括安卓、iOS、Windows、Mac和Linux。
+
+https://moonlight-stream.org/
+
+https://github.com/moonlight-stream
+
+**Steamlink**: 由Steam出品的串流软件，可以将PC上的游戏串流到其他设备上。
+
+**AMD Link**是AMD官方出品的串流软件，支持使用AMD显卡进行串流。
 
 ## 国内手机电脑生态
 

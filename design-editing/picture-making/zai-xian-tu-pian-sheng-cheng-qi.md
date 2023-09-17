@@ -74,6 +74,14 @@ ACG Waifu生成器
 
 *：https://make.girls.moe/
 
+## 图片特效生成
+
+[https://photofunia.com](https://photofunia.com)
+
+![图片特效制作](https://i.imgur.com/PmUJJQw.png)
+
+工地海报生成器：[https://m.photofunia.com/categories/all\_effects/reconstruction](https://m.photofunia.com/categories/all_effects/reconstruction)
+
 ## 特色图片生成
 
 苏格兰格子纹生成器:

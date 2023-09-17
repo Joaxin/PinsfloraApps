@@ -1,7 +1,5 @@
 # 🎬 影视
 
-[acg人物网](http://www.acgrenwu.cn/)：http://www.acgrenwu.cn/
-
 ## 影猫MVCAT
 
 富有设计感，非常强大和精准的电影推荐网站，挽救你的片荒，提供手机APP下载，也提供视频观看链接。
@@ -10,9 +8,7 @@
 
 ![](../../.gitbook/assets/image.png)
 
-## 杂铺
 
-https://tmioe.com/
 
 ## 已关闭网站
 

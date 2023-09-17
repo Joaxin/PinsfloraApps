@@ -1,5 +1,5 @@
 ## KeePass
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.keepass.info/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-2.5.4-ff55bb.svg)
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.keepass.info/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) 
 
 免费、开源、易用的老牌密码管理软件，界面比较简陋，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`].
 
@@ -55,7 +55,7 @@ The easiest and safest way for individuals, teams, and business organizations to
 支持多端同步[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，开源以及docker部署的强大密码管理器。
 
 ## Buttercup
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://buttercup.pw/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/buttercup) ![](https://img.shields.io/badge/Version-1.17.3-ff55bb.svg)
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://buttercup.pw/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/buttercup) 
 
 > **Buttercup**
 The Password Manager You Deserve.

@@ -60,6 +60,12 @@ Cold Rurley，本意是一种强制戒除上瘾物的方法，快速但是很不
 
 ## 日程管理
 
+## Timely
+
+一款由Timely公司开发的AI驱动的时间跟踪软件。它可以帮助您自动记录您在各种网络和桌面应用程序中花费的时间。
+
+https://timelyapp.com/
+
 ### Ao
 
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://klaussinani.github.io/ao) [ ![github](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/klaussinani/ao)

@@ -64,6 +64,10 @@ Github: https://github.com/jrbastien/ocrhelper
 
 ## 在线OCR
 
+ONLINE OCR SERVICE: https://www.onlineocr.net/
+
+> Use Optical Character Recognition software online. Service supports 46 languages including Chinese, Japanese and Korean
+
 白描OCR: 白描APP网页版识别工具, https://web.baimiaoapp.com/
 
 > 图片文字提取 数学公式识别 电子表格识别 扫描PDF转文字
@@ -94,6 +98,4 @@ Onlineocr: https://www.onlineocr.net/
 
 PaddleOCR：https://github.com/PaddlePaddle/PaddleOCR
 
->  Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
->
-> PaddleOCR是基于飞桨的OCR工具库，包含总模型仅8.6M的超轻量级中文OCR，单模型支持中英文数字组合识别、竖排文本识别、长文本识别。同时支持多种文本检测、文本识别的训练算法。
+>  PaddleOCR是基于飞桨的OCR工具库，包含总模型仅8.6M的超轻量级中文OCR，单模型支持中英文数字组合识别、竖排文本识别、长文本识别。同时支持多种文本检测、文本识别的训练算法。

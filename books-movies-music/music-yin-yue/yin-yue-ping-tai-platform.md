@@ -1,4 +1,4 @@
-## Netease - 网易云音乐
+## 网易云音乐(Netease)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://music.163.com/\#/download](https://music.163.com/#/download)
 
@@ -8,7 +8,7 @@
 
 https://d1.music.126.net/dmusic/cloudmusicsetup 版本号.Build.exe
 
-## Kugou - 酷狗音乐
+## 酷狗音乐(Kugou)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [http://download.kugou.com/](http://download.kugou.com/)
 
@@ -16,7 +16,7 @@ Kugou 5sing: http://5sing.kugou.com/index.html
 
 ## 酷我kuwo
 
-
+http://www.kuwo.cn/
 
 ## QQ音乐
 
@@ -86,7 +86,7 @@ Xiami - 虾米音乐：https://www.xiami.com 虾米音乐是专业音乐内容�
 
 备份：https://www.lovexiamiforever.com/
 
-落网: [http://www.luoo.net/](http://www.luoo.net/)
+落网: [http://www.luoo.net/](http://www.luoo.net/), 落网音乐精选：https://ifish.fun/
 
 山阴路: [http://ww1.shanyinlu.com/](http://ww1.shanyinlu.com/)
 

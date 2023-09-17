@@ -20,4 +20,14 @@
 
 ## oCam
 
+一款免费的屏幕录制软件，由oh!soft公司开发。它支持Windows、Android、iOS和MacOS平台， 用于捕捉计算机屏幕上的视频和音频，以及创建截图。
+
+https://www.chip.de/downloads/oCam_61209152.html
+
 ## Gif123
+
+一款免费的屏幕录制软件，由oh!soft公司开发。极简 GIF 录屏工具，可快速复制 GIF 图像并粘贴到其他程序。
+
+https://gif123.aardio.com/
+
+Github: https://github.com/aardio/Gif123
