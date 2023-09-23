@@ -13,9 +13,11 @@
 ## SAI
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.systemax.jp/en/sai/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) 
 
-由日本SYSTEMAX公司出品的绘图软件。
+Sai（日语：サイ）是由日本SYSTEMAX公司销售、SYSTEMAX Software Development开发的一款绘图软件。
 
 ![third_party](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)(@Xelloss0618)： https://sai.yufan.me/
+
+> 入门教程: https://uiiiuiii.com/draw/121212663.html
 
 ## Sketchbook
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.autodesk.com/products/sketchbook) 

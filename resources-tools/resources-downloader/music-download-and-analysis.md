@@ -1,5 +1,3 @@
-# 音乐下载与解析
-
 > 因版权原因， 部分网站不予收录
 >
 > Due to music copyright reasons, some websites are not included.
@@ -18,13 +16,35 @@ http://www.gequdaquan.net/gqss/
 
 备份链接2：http://47.112.23.238/
 
+备份链接1: https://music.liuzhijin.cn/
+
 ![&#x591A;&#x7AD9;&#x5408;&#x4E00;&#x97F3;&#x4E50;&#x641C;&#x7D22;&#x89E3;&#x51B3;&#x65B9;&#x6848;,](../../.gitbook/assets/image%20%281%29.png)
 
 支持qmc,tkm,mflac,mgg,kgm,kwm等格式解析：https://www.wulibaichuan.com/
 
+下歌吧: https://xiageba.com/
+
 ## 音乐下载
 
+### 软件类
+
+鱼声音乐搜索, 停更2019
+
+https://ifish.fun/
+
+项目地址: https://github.com/AnyListen/YaVipCore/releases
+
+Lacey：偏国外音乐及其MV的搜索及下载，软件绿色只有一个主程序，适合装U盘
+
+http://lacey-downloader.com/
+
+### 网站类
+
 **国内音乐下载**
+
+刘明野的工具箱(My Free MP3) |:https://tools.liumingye.cn/music
+
+DTshot 无损音乐：https://www.dtshot.com/
 
 无损音乐下载: [http://www.51ape.com/](http://www.51ape.com/)
 
@@ -32,11 +52,23 @@ http://www.gequdaquan.net/gqss/
 
 91听歌网：http://www.91tingge.com/
 
+ACG漫音社：http://www.acgjc.com/
+
 CD包音乐网：https://www.cdbao.net/
 
 一听音乐网：http://www.1ting.com/
 
+铜钟: https://tonzhon.com/，
+
+> 铜钟 (Tonzhon.com): 免费听歌; 没有直播, 社交, 广告, 干扰; 简洁纯粹, 资源丰富, 体验独特 
+>
+> Github： https://github.com/enzeberg/tonzhon-music
+
 **国外音乐下载**
+
+jamendo:  https://www.jamendo.com/
+
+Soundstripe:  https://app.soundstripe.com/, 支持APP， 免费网址: https://app.soundstripe.com/royalty-free-music
 
 Soundcloud下载: [https://soundcloudmp3.org/](https://soundcloudmp3.org/)
 
@@ -48,6 +80,8 @@ MusicJuice: [https://mp3juices.net/](https://mp3juices.net/)
 
 Tunefind：https://www.tunefind.com/
 
-> 已关闭：51ape，
+cctrax: https://cctrax.com/ (疑似服务停止)
+
+> 已关闭：51ape，巨鲸
 
 

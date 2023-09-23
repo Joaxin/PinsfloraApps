@@ -44,5 +44,5 @@ Excel比较：https://www.diffchecker.com/excel-compare/
 
 文本比较（Text Compare）：[https://www.textcompare.org/](https://www.textcompare.org/) / https://text-compare.com/
 
-> An online diff tool that can find the difference between two text documents. Just paste and compare.
+> An online diff tool that can find the difference between two text documents. Just paste and compare. 也支持Excel比较，PDF比较，图像比较
 

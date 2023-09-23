@@ -12,7 +12,7 @@ https://d1.music.126.net/dmusic/cloudmusicsetup 版本号.Build.exe
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [http://download.kugou.com/](http://download.kugou.com/)
 
-Kugou 5sing: http://5sing.kugou.com/index.html
+Kugou 5sing: http://5sing.kugou.com/index.html （国内原创音乐基地网站，聚集了大量的原创音乐作家创作的音频作品）
 
 ## 酷我kuwo
 

@@ -62,17 +62,16 @@ https://localsend.org/
 
 不用iTunes,传电影、音电子书等文件到iPhone，支持[`Windows` 、`macOS`]，类似于`airdrop`、`Copied`、[`ScanTransfer`](https://scantransfer.net/)。
 
-## HFS
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.rejetto.com/hfs/) ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg)
+## FTP/Http server
+
+HFS:[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.rejetto.com/hfs/) ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg)
 
 Http File Server， 用于快速搭建http文件下载服务器系统。
 
-## CHFS
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://iscute.cn/chfs) ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg)
+
+CHFS:[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://iscute.cn/chfs) ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg)
 
 类似于HFS，功能不多但小巧的http文件下载管理分享工具。
-
-## FTP server
 
 Wing FTP server
 
@@ -97,13 +96,14 @@ DropPoint
 - Cowtransfer: https://cowtransfer.com/ (国内的临时文件中转站服务)
 - Mirrored: https://www.mirrored.to/
 - AirMore(爱莫助手)：https://airmore.com/ 可以把 Android or IOS 手机屏幕操作画面即时投影到 Windows、 Mac、 Linux 等任何电脑，需网络连接。
+- Airportal：https://airportal.cn/
 - ba.net: https://ba.net/screen/ 网页画面实时传输
 - Dewdrop:  http://dewdrop.io/ 
 -  Snapdrop: https://snapdrop.net/  让 Windows 与 Android 用户也可以使用类似 Apple AirDrop 快速跨设备传输功能。无需安装、注册、登入、设定，需保持设备在同一个无线网络环境下。
 - Wikifortio：http://www.wikifortio.com/
-- Anonfile: https://anonfile.com/
 - Up-4ever: https://www.up-4ever.org/ 下载有广告
 - Wetranfer: https://wetransfer.com/ （国外的专注邮箱文件的传输工具 ）
+- File.io: https://www.file.io/
 - Transfer.sh: https://transfer.sh/ (![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg) )
 - 文叔叔：https://www.wenshushu.cn/
 - ~~fileai~~(fileai.com has been discontinued)

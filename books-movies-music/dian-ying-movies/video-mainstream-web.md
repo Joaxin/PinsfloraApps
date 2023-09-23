@@ -30,9 +30,13 @@
 </li>
 <li><p>哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能： https://github.com/yujincheng08/BiliRoaming</p>
 </li>
+    <li><p>Bilibili CC字幕工具： 可下载B站的CC字幕，旧版B站播放器可启用CC字幕  <a href="https://greasyfork.org/zh-CN/scripts/378513">https://greasyfork.org/zh-CN/scripts/378513</a>
+        </p>
+</li>
 </ul>
 </p>
 </details>
+
 
 <details>
   <summary><b><img alt="Windows Apps Garde" src="https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_use.svg"> Bilibili视频下载</b></summary>

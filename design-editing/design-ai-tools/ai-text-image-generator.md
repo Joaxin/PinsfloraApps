@@ -29,7 +29,7 @@ Graviti Diffus: https://www.diffus.graviti.com/
 
 ### Stable Diffusion Like
 
-Lexica: 基于Stable Diffusion的在线插画生成, https://lexica.art/
+**Lexica:** 基于Stable Diffusion的在线插画生成(需付费), https://lexica.art/， 支持生成关键词查找
 
 Scribble Diffusion：https://scribblediffusion.com/, 手绘草图转换
 
@@ -49,7 +49,7 @@ Midjourney能够根据用户的提示生成图像。善于适应实际的艺术�
 
 网站状态：https://status.midjourney.com/
 
-最新版本：Midjourney5，每个新账号免费次数为25,3.31更新， 均要付费
+最新版本：Midjourney5，目前均要付费
 
 常用指令：
 
@@ -103,6 +103,8 @@ AI绘画搜索：https://www.enterpix.app/
     API: https://fromston.6pen.art/
 
 11. 即时设计AI作画，https://js.design/AI-gallery
+
+12. AI绘画集(Midjourney, Stable Diffusion)：https://lib.kalos.art/
 
 
 Craiyon: 在线文本到图像生成, https://www.craiyon.com/

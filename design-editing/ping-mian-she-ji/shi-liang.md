@@ -7,7 +7,14 @@ Adobe出品的矢量图形和插图软件。
 
 > WIKI：[Illustrator](https://en.wikipedia.org/wiki/Adobe_Illustrator)
 
+## CorelDRAW
+
+加拿大 Corel 公司旗下矢量图形平面设计软件，简称CDR；提供矢量动画、页面设计、网站制作、位图编辑和网页动画等多种功能。
+
+CorelDRAW 中国官网：http://www.coreldrawchina.com/
+
 ## Affinity Designer
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://affinity.serif.com/en-gb/designer/)   ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 由英国Serif公司研发的可以叫板AI的专业矢量图像编辑软件PS软件。
 

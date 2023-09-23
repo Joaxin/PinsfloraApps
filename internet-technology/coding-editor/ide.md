@@ -110,3 +110,14 @@ NetBeans IDE: https://netbeans.org/,  Apache的一个免费开源的java IDE
 Adobe出品的强大易用的Web设计软件，在排版与可视化布局方面无与伦比。
 
 > 如果注重实际运用，请慎用，参照 https://en.wikipedia.org/wiki/Tag_soup
+
+
+## 国内IDE
+
+**Hyper：**https://hyper.is/  https://github.com/zeit/hyper
+
+基于electron的`HTML/CSS/JS`终端工具,支持[`Windows` 、`macOS`、 `Linux`]
+
+**HBuilder：** http://dcloud.io/
+
+国人开发的，由DCloud（数字天堂）推出的跨平台Web开发IDE。

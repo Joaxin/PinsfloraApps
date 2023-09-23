@@ -1,0 +1,1 @@
+硬盘整数GB分区在线计算器: [https://gb.icoa.cn/](https://gb.icoa.cn)

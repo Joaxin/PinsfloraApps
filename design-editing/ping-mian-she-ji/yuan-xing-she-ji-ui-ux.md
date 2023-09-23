@@ -16,7 +16,20 @@
 
 ![Adobe XD](../../.gitbook/assets/z-design-graphic-adobexd.png)
 
+## Sketch
+
+MAC上的一款矢量绘图应用，只能在Mac中工作
+
+Sketch：http://www.sketch.com/
+
+## Principle
+
+MAC上的一款交互原型设计软件。
+
+https://principleformac.com/
+
 ## Figma
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.figma.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 跨平台UI设计原型工具

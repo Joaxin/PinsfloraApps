@@ -31,7 +31,12 @@ Adobe出品的符合行业标准的专业视频和电影编辑软件。
 
 一款专业的影像视频剪辑软件，可以对视频素材进行剪辑合成、添加特效、调整颜色、编辑字幕等操作，还包括强大的音频处理工具，可以为视频素材添加音效、录制声音、处理噪声，以及环绕立体声。
 
+## Final Cut Pro
+
+Mac上最好用的剪辑软件
+
 ## VideoStudio (会声会影)
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.videostudiopro.com/en/)  ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 由加拿大corel公司开发的一款强大的专业经典视频剪辑、制作软件。

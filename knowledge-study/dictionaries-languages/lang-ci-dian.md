@@ -25,6 +25,8 @@
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) http://cidian.youdao.com/multi.html
 
+http://dict.youdao.com/
+
 ### Bing必应词典
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://bingdict.chinacloudsites.cn/)
 
@@ -42,13 +44,21 @@
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) http://cp.iciba.com/
 
-## 在线词典
+https://www.iciba.com/
+
+### 词典开源下载
+
+FreeMdict：https://freemdict.com/
+
+PDAWIKI论坛：https://www.pdawiki.com/ (需注册)
+
+## 词汇工具
 
 ### 万词王
 
 由清华大学自然语言处理实验室THUNLP开发的开源在线反向词典，使用深度学习算法，可以让用户通过描述意思来查询词语。
 
-{% embed url="https://wantwords.thunlp.org" %}
+https://wantwords.thunlp.org
 
 ### Thesaurus
 
@@ -66,17 +76,23 @@ Words and phrases: frequency, genres, collocates, concordances, synonyms, and Wo
 
 Academic Phrasebank：https://www.phrasebank.manchester.ac.uk/ 学术用语库，告诉你各个章节适合用哪些句式搭配和推荐
 
-### 在线词典
+## 在线词典
+
+词林：https://www.cilin.org/
+
+单词乎: https://www.dancihu.com/
+
+优词词典：http://www.ohdict.com/
+
+海词：http://dict.cn/， 支持APP，http://abbr.dict.cn/
 
 剑桥词典: [https://dictionary.cambridge.org/](https://dictionary.cambridge.org)
 
-## 小语种词典
+thefreedictionary：https://www.thefreedictionary.com/
 
-中韩词典：[https://zh.dict.naver.com/](https://zh.dict.naver.com)
 
-法语助手：[http://www.frdic.com/](http://www.frdic.com)
+## 俚语词典
 
-西班牙语助手：[http://www.esdict.cn/](http://www.esdict.cn)
+- YIYM俚语网: http://www.yiym.com/
 
-德语助手：[http://www.godic.net/](http://www.godic.net)
-
+- 小鸡词典 - 查网络流行语，就上小鸡词典, 已倒闭

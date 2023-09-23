@@ -11,11 +11,17 @@
 一款干净，漂亮的本地音乐播放器。
 
 ## Foobar2000
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.foobar2000.org/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)  ![](https://img.shields.io/badge/Version-2.0-ff55bb.svg)
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.foobar2000.org/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)  ![](https://img.shields.io/badge/Version-2.1-ff55bb.svg)
 
-由原Winamp开发公司Nullsoft成员Peter Pawlowski开发的高度可自定义，高保真度的播放器，同时含有支持生成媒体库、转换媒体文件编码、提取CD等功能。
+由原Winamp开发公司Nullsoft成员Peter Pawlowski开发的，高保真度的播放器，同时含有支持生成媒体库、转换媒体文件编码、提取CD等功能的免费高度可自定义播放器。
 
 下载地址：https://www.foobar2000.org/download
+
+---
+
+推荐插件foobox：foobox is a DUI (Default User Interface) layout for foobar2000, providing friendly & modern UI and extensive capability for library management, artwork support etc.
+
+https://github.com/dream7180/foobox-en
 
 ## Musicbee
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://getmusicbee.com/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)  [![store](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/store.svg)](https://www.microsoft.com/en-us/p/musicbee/9p4clt2rj1rs)

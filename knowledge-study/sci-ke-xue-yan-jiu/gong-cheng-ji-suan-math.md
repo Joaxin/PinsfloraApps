@@ -1,4 +1,7 @@
+> 除了以下提到的软件或应用，你也可以自己使用编程语言编写数据分析工具，比如：Julia，Python and R等 或者 使用一些在线服务比如和鲸社区进行科学计算等。
+
 ## Mathematica
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.wolfram.com/mathematica/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) 
 
 由美国物理学家Stephen Wolfram领导的Wolfram Research开发的数学系统软件，结合了数值和符号计算引擎、图形系统、编程语言、文本系统、和与其他应用程序的高级连接，符号计算无与伦比，界面相当优雅。

@@ -99,27 +99,27 @@ https://www.coodesker.com/
 
 ## 资源管理器
 
-### Clover
-
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://en.ejie.me/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![](https://img.shields.io/badge/Version-3.5.2-ff55bb.svg) 
-
-> 为您的 Windows Explorer 插上翅膀！
-
-Windows下类似Chrome浏览器的多标签页管理工具，推荐便携去广告版
-
-![hole](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/keng.svg) win10下可能不稳定，容易崩溃，已修复
-
 ### QTTabBar
 
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://qttabbar.wikidot.com/)
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://qttabbar.wikidot.com/)  ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
-一款Windows资源管理器插件，可以添加多标签和额外文件夹视图。
+一款可以让你在Windows资源管理器中使用多标签功能扩展工具，可以添加多标签和额外文件夹视图。
 
 QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.
 
 Github: https://github.com/indiff/qttabbar
 
 QTTabBar国内优化版: https://gitee.com/qwop/qttabbar
+
+### Clover
+
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://en.ejie.me/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-3.5.2-ff55bb.svg) 
+
+> 为您的 Windows Explorer 插上翅膀！
+
+Windows下类似Chrome浏览器的多标签页管理工具，推荐便携去广告版
+
+![hole](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/keng.svg) win10下可能不稳定，容易崩溃，已修复
 
 ### WindowsTabs
 

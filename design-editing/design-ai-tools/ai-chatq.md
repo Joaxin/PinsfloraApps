@@ -16,27 +16,25 @@ ChatGPT Web合集:  https://chatgpts.ninvfeng.xyz/
 
 1. 使用NEW BING或者Perplexity AI
 
-2. poe： 国外问答平台Quora推出的一个AI聊天机器人 ，https://poe.com/， GPT-4，Poe可为用户免费提供每天1次的提问次数
+2. Poe： 国外问答平台Quora推出的一个AI聊天机器人 ，https://poe.com/， GPT-4，Poe可为用户免费提供每天1次的提问次数
 
-3. merlin AI：由 ChatGPT 驱动的终极浏览器扩展
+3. Merlin AI：由 ChatGPT 驱动的终极浏览器扩展
 
    https://merlin.foyer.work/zh-CN/
 
    FAQ：https://merlin.foyer.work/zh-CN/#faqs
 
-4. https://chat.chatbot.sex/chat
+4. ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg)https://chat.chatbot.sex/chat
 
-   [https://play.vercel.ai](https://play.vercel.ai/)
-
-   [https://chatmindai.cn](https://chatmindai.cn/)
+   [https://play.vercel.ai](https://play.vercel.ai/)， 提供模板prompts: https://vercel.com/templates/ai
 
 ## 在线AI角色聊天
 
 > AI角色对话聊天
 
-Character.AI: https://beta.character.ai/
+![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg)Character.AI: https://beta.character.ai/
 
-Inworld:  https://www.inworld.ai/
+Inworld:  https://www.inworld.ai/, Bring games to life with AI NPCs
 
 DeepAI：https://deepai.org/
 

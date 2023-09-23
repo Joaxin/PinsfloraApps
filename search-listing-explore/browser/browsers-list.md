@@ -125,7 +125,8 @@ Why use a browser that treats you like one? Enjoy private, secure and fast brows
 
 ## 手机浏览器
 
-
+- 狐猴浏览器: https://www.lemurbrowser.com/, 免费ChatGPT、谷歌微软插件
+  的AI手机浏览器
 
 
 

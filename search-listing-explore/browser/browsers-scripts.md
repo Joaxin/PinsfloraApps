@@ -45,6 +45,10 @@ AC-baidu-重定向优化百度搜狗谷歌必应搜索_favicon_双列： [https:
 
 ## 网站增强
 
+【屏蔽广告】屏蔽谷歌广告、百度广告、知乎广告、隐藏谷歌和百度搜索增强百度搜索结果的各种广告等等（过滤所有采用谷歌联盟和百度联盟等广告联盟的广告）：https://greasyfork.org/zh-CN/scripts/460743
+
+知乎增强： https://greasyfork.org/zh-CN/scripts/419081
+
 拒绝二维码登录（淘宝、京东等网站默认出现账号密码登录界面）: https://greasyfork.org/zh-CN/scripts/27183
 
 > 淘宝、京东等网站默认使用账号密码登录，不出现二维码
@@ -104,6 +108,11 @@ AC-baidu-重定向优化百度搜狗谷歌必应搜索_favicon_双列： [https:
 ［含有购物党的返利］浏览商品页面时，自动比较同款商品在淘宝/京东/亚马逊/当当/苏宁/等百家商城的最低价，提供价格历史、口碑评分等查询。支持商品促销活动，商城优惠信息查询，商品可全网收藏，降价提醒。支持链家、我爱我家、中原地产等主流房产网站房源价格走势查询，为买房人士提供决策参考。
 [网页限制解除（精简优化版）](https://greasyfork.org/zh-CN/scripts/41075-%E7%BD%91%E9%A1%B5%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4-%E7%B2%BE%E7%AE%80%E4%BC%98%E5%8C%96%E7%89%88)
 解除大部分网站禁止复制、剪切、选择文本、右键菜单的限制。
+
+**Instant Data Scraper:** https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah
+
+Instant Data Scraper extracts data from web pages and exports it as Excel or CSV files
+Instant Data Scraper is an automated data extraction tool for any website. It uses AI to predict which data is most relevant on a HTML page and allows saving it to Excel or CSV file (XLS, XLSX, CSV).
 
 ## 学习助手
 

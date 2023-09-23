@@ -23,6 +23,8 @@ Notion AI：https://www.notion.so/product/ai
 Notion Web Clipper：Notion剪藏工具
 https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk
 
+Notion笔记效果可参考: https://spacekid.me/
+
 ## EverNote印象笔记
 
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://evernote.com) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)

@@ -1,6 +1,6 @@
 # 购物网站
 
-## 淘宝天猫
+## 淘宝系
 
 淘宝：https://www.taobao.com/
 
@@ -14,7 +14,7 @@
 
 悉语(智能文案工具)：https://chuangyi.taobao.com/pages/aiCopy
 
-## 京东
+## 京东系
 
 https://www.jd.com/
 

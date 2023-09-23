@@ -20,7 +20,7 @@ Shields.io: Quality metadata badges for open source projects
 
 Github: [https://github.com/badges/shields](https://github.com/badges/shields)
 
-{% embed url="https://shields.io" %}
+https://shields.io
 
 ### loading.io
 
@@ -81,7 +81,9 @@ Seeklogo\
 \
 [https://seeklogo.com/](https://seeklogo.com)
 
-### Icofx [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://icofx.ro/)
+### Icofx 
+
+https://icofx.ro/
 
 > The only tool you will need to edit icons and cursors.
 
@@ -97,7 +99,7 @@ Seeklogo\
 
 [https://icomoon.io/icons.html](https://icomoon.io/icons.html)
 
-{% embed url="https://icomoon.io/app" %}
+https://icomoon.io/app
 
 ## 图标工具
 

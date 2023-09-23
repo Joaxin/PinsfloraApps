@@ -77,6 +77,8 @@ ProWritingAid: 英文写作检测工具, 浏览器插件, 高级功能需付费
 
 https://prowritingaid.com/
 
+Sentence Checker：https://sentencechecker.com/
+
 ----
 
 Hemingway Editor:   在线英文写作校对网站。会对文章的可读性进行打分，它能给出更适合语境和情感色彩的替换方式，并通过高亮不同颜色来提醒用户注意修改的程度。

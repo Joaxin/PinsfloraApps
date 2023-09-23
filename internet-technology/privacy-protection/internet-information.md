@@ -52,13 +52,18 @@ ping工具:  gping / pingu
 
 multiple_ping_tool：https://www.nirsoft.net/utils/multiple_ping_tool.html
 
-
-
-## Host
-
 CheckHost 支持TCP/UDP端口测试： [https://check-host.net](https://check-host.net)
 
 [https://www.scamadviser.com/check-website](https://www.scamadviser.com/check-website)
+
+
+## 代理
+
+国家地区免费代理 Free Proxy List - Country/area interface
+
+http://proxy.ipcn.org/country/
+
+站大爷：https://www.zdaye.com/
 
 ## 网速测试
 

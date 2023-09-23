@@ -122,6 +122,38 @@ Bearly: https://bearly.ai/
 
 Raycast AI：Raycast推出的Mac AI助手，智能写作、编程、回答问题等，https://www.raycast.com/ai
 
+Textero AI: https://textero.ai/
+
+https://www.duplichecker.com/ 查重工具
+
+## 段落改写
+
+[https://smodin.io/zh-cn/自动重新编写简体中文文本免费](https://smodin.io/zh-cn/%E8%87%AA%E5%8A%A8%E9%87%8D%E6%96%B0%E7%BC%96%E5%86%99%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E6%96%87%E6%9C%AC%E5%85%8D%E8%B4%B9)
+
+rewritertools： https://www.rewritertools.com/
+
+paraphrase-online：https://www.paraphrase-online.com/
+
+https://ahrefs.com/writing-tools/paraphrasing-tool
+
+https://quillbot.com/
+
+https://www.scribbr.com/paraphrasing-tool/
+
+---
+
+Complex Sentence Generator：https://www.csgenerator.com/
+
+phraseup* Sentence Writer：http://itools.com/tool/phraseup-sentence-writer
+
+rewordify： https://rewordify.com/
+
+### 论文写作
+
+SCI GEN：https://pdos.csail.mit.edu/archive/scigen/
+
+评测： https://www.jasper.ai/blog/apps-that-write-essays-for-you
+
 ## AI会议助手
 
 Airgram：自动会议笔记和总结的AI助手， https://www.airgram.io/

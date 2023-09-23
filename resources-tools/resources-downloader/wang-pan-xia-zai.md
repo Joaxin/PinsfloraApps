@@ -6,6 +6,10 @@ https://www.upyunso.com/
 
 含有大量电子书及其他资源, 可以通过阿里云盘下载，完全免费、不需要关注某某号,
 
+## 兄弟盘
+
+https://xiongdipan.com/
+
 ## 猫狸盘搜
 
 https://alipansou.com/

@@ -110,6 +110,7 @@ https://transmart.qq.com/zh-CN/index
 - 腾讯翻译君：https://fanyi.qq.com/
 - 搜狗翻译：https://fanyi.sogou.com/text
 - 金山快译：https://kuaiyi.wps.cn/txt-translate
+- https://www.1sj.tv/ 人人译视界
 
 其他翻译工具：
 

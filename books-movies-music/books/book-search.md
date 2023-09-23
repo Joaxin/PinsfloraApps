@@ -92,6 +92,10 @@ Github：[https://github.com/howie6879/owllook](https://github.com/howie6879/owl
 
 Github：[https://github.com/yuenov](https://github.com/yuenov)
 
+### 小说网站
+
+天涯在线书库: https://www.tianyabook.com/
+
 ## 英文书籍
 
 **古登堡计划:** 一家免费电子书提供商，提供版权过期（Public domain）的电子书，免费、合法、无需注册: Project Gutenberg is a library of over 60,000 free eBooks

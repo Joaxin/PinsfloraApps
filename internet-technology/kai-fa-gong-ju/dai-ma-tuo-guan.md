@@ -17,11 +17,48 @@ Github支持Windows、macOS、Linux等操作系统。
 
 Git Extensions [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://gitextensions.github.io/)： Git的官方图像增强工具。
 
-Github 增强 - 高速下载：https://greasyfork.org/zh-CN/scripts/412245
+GitHub 镜像: 
 
-GitHub Proxy: https://ghproxy.com/
+Github高速下载：
+
+- https://greasyfork.org/zh-CN/scripts/412245
+
+- GitHub Proxy: https://ghproxy.com/
+
+- https://gh.api.99988866.xyz/
+- https://github.ur1.fun/
+- https://github.zhlh6.cn/
 
 dev-sidecar：开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速， https://github.com/docmirror/dev-sidecar
 
-FastGithub：github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题, https://github.com/dotnetcore/FastGithub
+FastGithub：github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题, https://github.com/dotnetcore/FastGithub, DOC: https://fhefh2015.github.io/Fast-GitHub/
 
+## GitLab
+
+https://about.gitlab.com/
+
+## BitBucket
+
+https://bitbucket.org/
+
+## 码云Gitee
+
+OSCHINA.NET推出的代码托管平台，支持Git和SVN，提供免费的私有仓库托管。
+
+https://gitee.com/
+
+## Coding.net
+
+面向开发者的云端开发平台，提供 git/svn 代码托管，代码质量分析，在线 WebIDE，项目管理，开发协作，冒泡社区，提供个人和企业公有云及企业私有云的服务。
+
+https://coding.net/
+
+## Sourceforge
+
+## 4EVERLAND
+
+https://www.4everland.org/
+
+
+
+[Public Git Hosting (or.cz)](https://repo.or.cz/)

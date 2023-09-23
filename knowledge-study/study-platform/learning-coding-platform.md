@@ -4,6 +4,28 @@ Geeksforgeeks：https://www.geeksforgeeks.org/
 
 Tutorialspoint：https://www.tutorialspoint.com/
 
+Programiz: https://www.programiz.com/
+
+DataCamp: https://www.datacamp.com/, 数据分析学习
+
+programmersought: https://www.programmersought.com/
+
+IOWIKI: https://iowiki.com/
+
+
+---------
+
+AI & CS & SE，做一个眼中有梁木的人，记录一路走来学习的计算机专业知识 ，力求完美构建 AI & CS & SE 知识体系： https://notebook.js.org/
+
+https://ilovefishc.com/
+
+## 计算机算法
+
+https://the-algorithms.com/  
+
+- All Algorithms implemented in Python, https://github.com/TheAlgorithms/Python
+
+
 ## 计算机书籍
 
 ### CS-Books-Store
@@ -24,7 +46,7 @@ https://gitee.com/sharetech_lee/CS-Books-Store
 >
 > https://www.zhihu.com/question/38836382/answer/2354296696
 
-### 编程中文书籍索引
+### 编程书籍索引
 
 📚 免费的计算机编程类中文书籍，欢迎投稿
 

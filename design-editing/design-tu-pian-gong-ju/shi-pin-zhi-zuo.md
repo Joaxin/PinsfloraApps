@@ -34,7 +34,6 @@ https://www.shakr.com/
 
 ## Renderforest
 
-链接https://www.renderforest.com/
+官网: https://www.renderforest.com/
 
-线上免费视频编辑器，可制作PPT、视频，Logo 动画制作等。
-
+线上免费视频编辑器(免费版有时长和清晰度限制)，可制作PPT、视频，Logo 动画制作等，支持Videos，Websites，Logos，Mockups，Designs，Domains。

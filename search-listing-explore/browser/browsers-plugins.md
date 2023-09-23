@@ -13,8 +13,11 @@
 ---
 
 浏览器插件搜索：https://www.crxsoso.com/
+浏览器插件导航：收藏猫，https://pictureknow.com/
 
 # ![plugins](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/plugins.svg) 插件推荐
+
+> 书签工具见[[website-collection-tools]]
 
 ### 基本功能增强
 
@@ -205,20 +208,6 @@ chrome商店：https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkk
 - Google Chrome™的完整页面截图
 
   https://chrome.google.com/webstore/detail/full-page-screenshot-for/mieibeigpaehbjcbibakjcmkocngijjl
-
-### 书签工具
-
-  - bookmark organiser: 书签排序工具
-
-  ​       https://chrome.google.com/webstore/detail/bookmark-organiser/nkboakpdleaeljleohmndcmfofjlnpbd
-
-  - 书签管理器快速拨号| Papaly
-    https://chrome.google.com/webstore/detail/bookmark-manager-speed-di/pdcohkhhjbifkmpakaiopnllnddofbbn
-
-  - 书签侧边栏
-    https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh
-
-  - 收藏猫: https://pictureknow.com/
 
 ## 学习助手
 

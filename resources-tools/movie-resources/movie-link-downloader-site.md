@@ -9,3 +9,5 @@
 爱笑聚：[https://www.aixiaoju.com/](https://www.aixiaoju.com)
 
 RARBG: [http://rarbg.to/](http://rarbg.to)
+
+好片网：https://www.cnwml.com/

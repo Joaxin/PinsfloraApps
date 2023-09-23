@@ -8,11 +8,19 @@
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://devcenter.heroku.com/articles/heroku-cli#download-and-install
 
-### streamlit
+### Streamlit
 
 https://streamlit.io/
 
 > A faster way to build and share data apps
+
+### Vercel
+
+Github: https://github.com/apps/vercel
+
+### Netlify
+
+https://www.netlify.com/
 
 ## 云服务器
 

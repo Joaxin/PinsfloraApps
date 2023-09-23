@@ -2,3 +2,6 @@
 >
 > 工欲善其事，必先利其器。
 
+快捷键列表：
+
+- http://mykeys.sinaapp.com/index.php

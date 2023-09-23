@@ -12,9 +12,9 @@ CodeWhisperer: https://aws.amazon.com/cn/codewhisperer/, 亚马逊最新发布�
 
 Cody: https://about.sourcegraph.com/cody, Sourcegraph推出的免费AI编程工具
 
-CodeGeex: https://codegeex.cn/zh-CN, 免费AI编程助手
+AskCodi: https://www.askcodi.com/, AI编程助手, 需注册
 
-AskCodi: https://www.askcodi.com/, AI编程助手
+CodeGeex: https://codegeex.cn/zh-CN, CodeGeeX 智能编程助手， 插件类
 
 ## AI代码生成/生成
 

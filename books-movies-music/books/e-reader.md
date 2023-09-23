@@ -49,6 +49,14 @@ Icecream出品的强大电子书阅读器，支持epub、mobi等，打开大文�
 
 旗下PDF编辑器：https://icecreamapps.com/PDF-Editor/
 
+## 阅读3
+
+阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。
+
+Github: https://github.com/hectorqin/reader
+
+https://reader.htmake.com/
+
 ## 京东阅读
 
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://cread.jd.com/custom/custom_pcDownload.action)
