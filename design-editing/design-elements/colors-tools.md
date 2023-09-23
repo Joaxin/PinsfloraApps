@@ -36,7 +36,7 @@ description: Colors Tools
 
 ### AI 配色工具
 
-![brandmark\_colorwheel](../../.gitbook/assets/brandmark\_colorwheel.jpg)
+![brandmark\_colorwheel](../../.gitbook/assets/brandmark_colorwheel.jpg)
 
 [https://brandmark.io/color-wheel/](https://brandmark.io/color-wheel/)
 
@@ -48,21 +48,15 @@ Discover Art & Design Inspiration 从图片中获取颜色灵感
 
 colorhunter 只要上传一张照片就能提取配色方案,此外网站额外包含了一系列漂亮的色彩组合可供现成使用。
 
-{% embed url="http://www.colorhunter.com/" %}
 http://www.colorhunter.com/
-{% endembed %}
 
 ### colrd
 
-{% embed url="http://colrd.com/" %}
 http://colrd.com/
-{% endembed %}
 
 ### colourlovers
 
-{% embed url="https://www.colourlovers.com/" %}
 https://www.colourlovers.com/
-{% endembed %}
 
 ## 设计配色
 
@@ -86,13 +80,13 @@ MD设计配色
 
 渐变色搭配，可以直接引用CSS代码
 
-{% embed url="https://uigradients.com" %}
+https://uigradients.com
 
 ### Flat UI
 
 Flat UI Colors 2 features 13 more color palettes for COPY / PASTE for your next project, design, presentation.
 
-{% embed url="https://flatuicolors.com/" %}
+https://flatuicolors.com/
 
 ## 颜色工具
 
@@ -114,13 +108,9 @@ Flat UI Colors 2 features 13 more color palettes for COPY / PASTE for your next 
 
 颜色转换工具RGB，CMYK ， HSV等 colorhexa：https://www.colorhexa.com/
 
-{% embed url="https://www.colorhexa.com/" %}
-
 spycolor：https://www.spycolor.com/
 
 > Color conversion tools RGB, CMYK, HSV & more
-
-{% embed url="https://www.spycolor.com/" %}
 
 CMYK工具：https://eng.fontke.com/tool/cmyk/
 
@@ -128,17 +118,9 @@ CMYK工具：https://eng.fontke.com/tool/cmyk/
 
 简单的HTML颜色教程
 
-html-color-codes：
+html-color-codes：https://html-color-codes.info/
 
-{% embed url="https://html-color-codes.info/" %}
-https://html-color-codes.info/
-{% endembed %}
-
-0to255：
-
-{% embed url="https://www.0to255.com/" %}
-https://www.0to255.com/
-{% endembed %}
+0to255：https://www.0to255.com/
 
 ### AI调色板
 

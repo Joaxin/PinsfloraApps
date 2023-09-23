@@ -114,6 +114,10 @@ https://transmart.qq.com/zh-CN/index
 
 其他翻译工具：
 
+- https://nicetranslator.com/， 推荐，支持多语种同时翻译
+- https://www.collinsdictionary.com/translator
+- https://dictionary.cambridge.org/translate/
+- https://nicetranslator.com/
 - [Babylon](http://translation.babylon-software.com/)
 - [Naver](http://translate.naver.com/)，另有一款papago，是由韩国naver公司研究开发的手机中韩语言翻译软件
 - [Promt](http://www.online-translator.com/)

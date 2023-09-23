@@ -6,7 +6,7 @@
 
 汉辞网: http://www.hydcd.com/
 
-
+萌典: https://www.moedict.tw/, 支持桌面版，APP版
 
 
 

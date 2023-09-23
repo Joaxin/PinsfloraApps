@@ -25,7 +25,7 @@
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) http://cidian.youdao.com/multi.html
 
-http://dict.youdao.com/
+在线：http://dict.youdao.com/
 
 ### Bing必应词典
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://bingdict.chinacloudsites.cn/)
@@ -44,7 +44,7 @@ http://dict.youdao.com/
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) http://cp.iciba.com/
 
-https://www.iciba.com/
+在线：https://www.iciba.com/
 
 ### 词典开源下载
 
@@ -58,11 +58,7 @@ PDAWIKI论坛：https://www.pdawiki.com/ (需注册)
 
 由清华大学自然语言处理实验室THUNLP开发的开源在线反向词典，使用深度学习算法，可以让用户通过描述意思来查询词语。
 
-https://wantwords.thunlp.org
-
-### Thesaurus
-
-词汇宝藏： https://www.thesaurus.com/
+在线：https://wantwords.thunlp.org
 
 ### 词汇搭配
 
@@ -76,9 +72,17 @@ Words and phrases: frequency, genres, collocates, concordances, synonyms, and Wo
 
 Academic Phrasebank：https://www.phrasebank.manchester.ac.uk/ 学术用语库，告诉你各个章节适合用哪些句式搭配和推荐
 
+## Thesaurus
+
+词汇宝藏： https://www.thesaurus.com/
+
+wordhippo: https://www.wordhippo.com/
+
 ## 在线词典
 
 词林：https://www.cilin.org/
+
+千亿词霸： https://w.qianyix.com/
 
 单词乎: https://www.dancihu.com/
 
@@ -86,13 +90,35 @@ Academic Phrasebank：https://www.phrasebank.manchester.ac.uk/ 学术用语库�
 
 海词：http://dict.cn/， 支持APP，http://abbr.dict.cn/
 
+Pleco： https://www.pleco.com/
+
+----
+
 剑桥词典: [https://dictionary.cambridge.org/](https://dictionary.cambridge.org)
 
+wordreference：https://www.wordreference.com/， 多语言词典，也有语法教程
+
+bab.la: https://bab.la/, 多语言词典，什么工具都有
+
+dictionary：https://www.dictionary.com/
+
+yourdictionary：https://www.yourdictionary.com/
+
 thefreedictionary：https://www.thefreedictionary.com/
+
+merriam-webster：https://www.merriam-webster.com/
+
+collinsdictionary：https://www.collinsdictionary.com/， 同时支持其他语言和中日韩语
+
+## 分类词典
+
+popular abbreviations and acronyms: https://formfull.in/
 
 
 ## 俚语词典
 
+- https://www.slang.org/
+- https://www.urbandictionary.com/
 - YIYM俚语网: http://www.yiym.com/
-
+- 
 - 小鸡词典 - 查网络流行语，就上小鸡词典, 已倒闭

@@ -2,11 +2,13 @@
 
 文献部落：http://459.org/
 
-虫部落: [http://chongbuluo.99lb.net/](http://chongbuluo.99lb.net)
+虫部落: [http://chongbuluo.99lb.net/](http://chongbuluo.99lb.net)， http://scholar.chongbuluo.com/
 
 自动检测并更新SCI-Hub的可用网址链接：https://tool.yovisun.com/scihub/
 
 ## Google Scholar
+
+官方：https://scholar.google.com/schhp?hl=zh-CN
 
 谷粉搜搜： [https://gfsoso.99lb.net/](https://gfsoso.99lb.net)
 ![](https://i.loli.net/2021/08/13/mEA5CqbDikcLX7y.png)
@@ -14,6 +16,8 @@
 谷歌学术镜像：http://scholar.hedasudi.com/
 
 谷歌学术镜像2：http://so.hiqq.com.cn/
+
+https://gg.xueshu5.com/
 
 ![](https://i.loli.net/2021/08/13/5PsoetjdhVBklmR.png)
 
@@ -33,6 +37,8 @@
 
 贵州数字图书馆：http://www.gzlib.org/
 
+
+
 以浙江图书馆为例：
 
 1. 支付宝搜索「浙江图书馆」注册获得读者证
@@ -41,7 +47,11 @@
 
 ----
 
-中国知网海外服务：https://chn.oversea.cnki.net/index/ 注意需国外IP
+读秀: http://www.duxiu.com/
+
+爱学术: https://www.ixueshu.com/
+
+中国知网海外服务：https://chn.oversea.cnki.net/index/ OR http://dict.cnki.net/index/ 注意需国外IP
 
 ## arXiv
 
@@ -61,6 +71,12 @@ Papers With Code：https://paperswithcode.com/,  把论文连接到 GitHub 资�
 
 ## 文献工具
 
+Researchgate：https://www.researchgate.net/
+
+Aminer: https://cn.aminer.org/
+
+> data mining*,* machine learning*,* social network*,* deep learning*,* healthcare
+
 https://www.semanticscholar.org/
 
 论文语义分析，A free, AI-powered research tool for scientific literature
@@ -68,3 +84,9 @@ https://www.semanticscholar.org/
 Paper Digest：https://www.paperdigest.org/
 
 AI for tracking and summarizing papers，邮件订阅前一天出的论文的列表并总结
+
+## 抄袭检测
+
+文章论文反抄袭工具：http://www.zhongguosou.com/zonghe/fanchaoxi.html
+
+专利搜索: http://www.soopat.com/Home/Index
