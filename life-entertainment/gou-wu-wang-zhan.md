@@ -34,6 +34,7 @@ https://www.jd.com/
 
 什么值得买：http://www.smzdm.com/
 
+手机抢购网：http://m.qianggou5.com/
 
 ---
 

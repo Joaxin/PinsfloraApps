@@ -2,6 +2,10 @@
 description: Placeholder
 ---
 
+https://www.lipsum.com/
+
+https://www.bestrandoms.com/random-emotion
+
 ## 图片
 
 ### P站API

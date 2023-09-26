@@ -66,6 +66,10 @@ ARC: 腾讯旗下ARC实验室推出的AI图片处理工具, https://arc.tencent.
 
 Ribbet.ai: https://ribbet.ai/
 
+度度网：https://www.topdodo.com/
+
+压缩图： https://www.yasuotu.com/， 需微信登录
+
 ----
 
 光影魔术手

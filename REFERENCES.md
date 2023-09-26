@@ -36,4 +36,17 @@
 
 [如何优雅地使用 Windows 10 ？](https://www.zhihu.com/question/32129337)
 
+[让你用得最爽的 Windows 软件是什么？](https://www.zhihu.com/question/22052999)
+[Windows 系统中有哪些软件可以被你评为「必装」？](https://www.zhihu.com/question/21287237)
+
 [Windows 平台有哪些值得推荐的常用软件？](https://www.zhihu.com/question/22109444)
+
+[有哪些有格调的免费素材网站？](https://www.zhihu.com/question/314166850)
+
+[哪些网站帮你打开了新世界的大门？](https://www.zhihu.com/question/33889180/answer/858332775)
+
+[最让你震惊的网站有哪些？](https://www.zhihu.com/question/20030360/answer/1010670699)
+
+
+
+[https://www.quora.com/What-are-some-very-useful-websites-that-impart-knowledge-and-skills-that-are-useful-in-real-life-like-Quora-Lifehacker-Khan-Academy-etc-that-one-should-visit-every-day](https://www.quora.com/What-are-some-very-useful-websites-that-impart-knowledge-and-skills-that-are-useful-in-real-life-like-Quora-Lifehacker-Khan-Academy-etc-that-one-should-visit-every-day)

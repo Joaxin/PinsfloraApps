@@ -7,3 +7,12 @@
 npm: https://www.npmjs.com/package/npm
 
 ![plugins](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/plugins.svg) rimraf: https://www.npmjs.com/package/rimraf node 使用的深度删除模块。删除深目录文件（夹）
+
+
+## Electron
+
+https://www.electronjs.org/
+
+
+The definitive source of the best
+JavaScript libraries, frameworks, and plugins. https://www.javascripting.com/

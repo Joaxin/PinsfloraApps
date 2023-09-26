@@ -20,6 +20,14 @@ Fake Name Generator： [https://www.fakenamegenerator.com/](https://www.fakename
 
 欧美姓名生成: [https://homepage.net/name\_generator/](https://homepage.net/name_generator/)
 
+NAME：
+Username Availability Check:https://www.spinxo.com/username-check
+
+Popular Baby Names:https://www.popular-babynames.com/
+babynamespedia：https://www.babynamespedia.com/
+Japanese Name Generator:https://blog.reedsy.com/character-name-generator/language/japanese/
+https://www.fantasynamegenerators.com
+
 ## 身份ID
 
 身份证号码生成器: [https://www.dute.org/fake-id-card-number](https://www.dute.org/fake-id-card-number)
@@ -110,3 +118,4 @@ https://temp-mail.org/
 
 > Free Texting & Calling App \| Wireless Cell Phone Plans \| TextNow
 
+Burner APP： https://www.burnerapp.com/

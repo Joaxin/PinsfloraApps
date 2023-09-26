@@ -52,6 +52,10 @@ FreeMdict：https://freemdict.com/
 
 PDAWIKI论坛：https://www.pdawiki.com/ (需注册)
 
+## 词典APP
+
+http://www.wordflex.com/，仅支持IOS
+
 ## 词汇工具
 
 ### 万词王
@@ -77,6 +81,16 @@ Academic Phrasebank：https://www.phrasebank.manchester.ac.uk/ 学术用语库�
 词汇宝藏： https://www.thesaurus.com/
 
 wordhippo: https://www.wordhippo.com/
+
+vocabulary：https://www.vocabulary.com/
+
+ Wordsmith.org: the magic of words, https://wordsmith.org/
+
+Visuwords：https://visuwords.com/
+
+https://www.omniglot.com/index.htm
+
+https://www.loquax.co.uk/
 
 ## 在线词典
 
@@ -113,6 +127,8 @@ collinsdictionary：https://www.collinsdictionary.com/， 同时支持其他语�
 ## 分类词典
 
 popular abbreviations and acronyms: https://formfull.in/
+
+Animals：https://a-z-animals.com/
 
 
 ## 俚语词典

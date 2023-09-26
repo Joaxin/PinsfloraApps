@@ -12,8 +12,8 @@ The PortableApps.com Platform™ is a full-featured portable software system tha
 
 https://portableapps.com/download
 
+开发和下载开源软件 - OSDN: https://osdn.net/
 
-
-
+少数派: https://sspai.com/
 
 前线乐园：https://www.yijingying.com/

@@ -23,3 +23,5 @@ https://alipansou.com/
 > TG交流群：@aliyunpanba
 
 https://zhaoziyuan.pw/
+https://www.xiaobaipan.com/
+https://www.pansoso.com/

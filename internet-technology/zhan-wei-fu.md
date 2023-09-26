@@ -58,6 +58,7 @@ https://picsum.photos/200/300/?blur // blur
 随机可爱狗狗图片: [https://placedog.net/](https://placedog.net/)
 
 随机可爱猫猫图片（需要[API](https://thecatapi.com/)）:[https://docs.thecatapi.com/](https://docs.thecatapi.com/)
+http://catfun.org/
 
 Bing: [http://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1](http://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1) / [https://api.dujin.org/bing/1366.php](https://api.dujin.org/bing/1366.php) / [https://api.dujin.org/bing/1920.php](https://api.dujin.org/bing/1920.php) / [https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture](https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture)
 

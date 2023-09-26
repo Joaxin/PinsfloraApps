@@ -7,7 +7,12 @@
 官网：https://www.instagram.com/
 
 > Instagram stories viewer and downloader：https://gramho.com/
->
+
+> https://www.picuki.com/
+
+## behance
+
+https://www.behance.net/
 
 ## Pinterest
 
@@ -21,13 +26,17 @@
 
 官网：https://www.flickr.com/
 
-## **花瓣网**
+## 花瓣网
 
 国内的图片素材领导者,帮你采集、发现网络上你喜欢的事物。你可以用它收集灵感,保存有用的素材等等。
 
 官网：[https://huaban.com](https://huaban.com)
 
 花瓣 AIGC: https://huaban.com/ai
+
+## Lofter
+
+https://www.lofter.com/
 
 ## Pixiv
 

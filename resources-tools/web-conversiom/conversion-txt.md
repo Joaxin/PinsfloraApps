@@ -35,3 +35,5 @@ https://www.ascii-art-generator.org/
 https://www.text-image.com/convert/ascii.html
 
 http://www.makepic.net/Tool/Image2ascii.html
+
+https://www.motobit.com/util/base64-decoder-encoder.asp

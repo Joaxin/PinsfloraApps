@@ -32,3 +32,21 @@ https://tmioe.com/
 ## 缙哥哥 
 
 https://www.dujin.org/
+
+### 大手拉小手
+
+http://www.handme.net/
+
+https://www.cccitu.com/
+
+微当下载: https://www.weidown.com/
+
+国光 - 分享与收获：https://www.sqlsec.com/
+
+系统迷：https://www.xitmi.com/
+
+大眼仔旭: http://www.dayanzai.me/
+
+## 已关闭
+
+胡萝卜周网站：因苏州思杰马克丁公司要求，https://www.carrotchou.blog/

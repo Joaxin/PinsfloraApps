@@ -8,9 +8,11 @@
 
 萌典: https://www.moedict.tw/, 支持桌面版，APP版
 
+Chinese Dictionary: Practice Writing：https://dictionary.writtenchinese.com/
 
+搜韵：http://sou-yun.com/
 
-
+古诗网： https://www.gushiwen.cn/gushi/
 
 ## 汉语WIKI
 

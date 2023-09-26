@@ -60,6 +60,14 @@ Linux下可用: https://github.com/trazyn/weweChat (已停更)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://desktop.telegram.org/
 
+- 名刀电报搜索: https://xtea.io/ts.html
+- https://www.telghub.com/
+- https://en.tgchannels.org/
+- https://combot.org/telegram/stickers
+- https://telegramchannels.me/stickers
+- 
+
+
 ## TamTam
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://tamtam.chat/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 

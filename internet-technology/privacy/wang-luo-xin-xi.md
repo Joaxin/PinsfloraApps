@@ -38,6 +38,7 @@ Xmyip（定位可精确到县市）： [https://www.xmyip.com](https://www.xmyip
 3. 17ce.com 测试节点较多，测试结果还比较不错
 4. ping.aizhan.com 爱站的测试工具，但测试点比较少
 5. www.webluker.com 做CDN的公司，网站上提供ping测试
+6. https://ping.pe/
 
 [~~https://torch.njs.app/~~](https://torch.njs.app/) ~~（已失效）~~
 

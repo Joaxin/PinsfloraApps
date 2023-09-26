@@ -77,6 +77,8 @@ https://github.com/moonlight-stream
 
 **AMD Link**是AMD官方出品的串流软件，支持使用AMD显卡进行串流。
 
+https://www.kast.gg/： Watch parties made easy.
+
 ## 国内手机电脑生态
 
 华为电脑管家（huawei/honor）

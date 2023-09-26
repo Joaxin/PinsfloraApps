@@ -18,6 +18,10 @@ ShowMeAI知识社区： https://www.showmeai.tech/
 
 ## 国外AI学习
 
+Stanford Machine Learning:https://doc.plob.org/machine_learning/
+
+UC Irvine Machine Learning Repository: http://archive.ics.uci.edu/
+
 fast.ai：https://www.fast.ai/， 免费开源的深度学习和AI学习网站
 
 DeepLearning.AI：https://www.deeplearning.ai/

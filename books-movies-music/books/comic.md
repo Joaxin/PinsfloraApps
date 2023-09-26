@@ -18,3 +18,10 @@ https://vol.moe/
 
 Mox-moe是一个漫画类的电子书资源网站， 内容和质量都不错。
 
+XKCD: https://xkcd.com/
+
+https://loffyllama.com/
+
+日本漫画网站：https://komiflo.com/
+
+https://www.smbc-comics.com/

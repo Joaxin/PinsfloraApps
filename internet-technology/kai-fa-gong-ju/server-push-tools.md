@@ -4,3 +4,4 @@
 
 官网: https://sct.ftqq.com/
 
+https://ftqq.com/

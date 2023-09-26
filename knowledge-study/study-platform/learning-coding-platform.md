@@ -12,12 +12,30 @@ programmersought: https://www.programmersought.com/
 
 IOWIKI: https://iowiki.com/
 
+GURU99: https://www.guru99.com/
+
+https://talkerscode.com/index.php
+
+LeetCode - The World's Leading Online Programming Learning Platform
+
+https://leetcode.com/
+
+https://developer.mozilla.org/
+
+https://web.dev/read-files/
+
+W3C:
+- https://www.w3.org/
+- https://www.w3schools.com/
+- https://www.w3cplus.com/
 
 ---------
 
 AI & CS & SE，做一个眼中有梁木的人，记录一路走来学习的计算机专业知识 ，力求完美构建 AI & CS & SE 知识体系： https://notebook.js.org/
 
 https://ilovefishc.com/
+
+https://www.itread01.com/
 
 ## 计算机算法
 
@@ -66,4 +84,4 @@ https://www.bookstack.cn/
 
 **电子书格式：主要是在线阅读**
 
-书栈网整合了各类框架、软件、工具的官方说明文档，还有很多教程。
+程序员IT互联网开源编程书籍免费阅读， 书栈网整合了各类框架、软件、工具的官方说明文档，还有很多教程。

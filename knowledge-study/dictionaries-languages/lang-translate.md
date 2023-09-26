@@ -102,6 +102,8 @@ https://transmart.qq.com/zh-CN/index
 
 百度AI同传助手：https://fanyi.baidu.com/appdownload/download.html
 
+Weblate: https://docs.weblate.org/en/latest/index.html
+
 ## 在线翻译工具
 
 中文翻译工具：
@@ -111,6 +113,7 @@ https://transmart.qq.com/zh-CN/index
 - 搜狗翻译：https://fanyi.sogou.com/text
 - 金山快译：https://kuaiyi.wps.cn/txt-translate
 - https://www.1sj.tv/ 人人译视界
+- 抓鸟： https://dict.zhuaniao.com/
 
 其他翻译工具：
 

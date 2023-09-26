@@ -4,3 +4,9 @@
 https://zh.moegirl.org.cn/
 
 acg人物网：http://www.acgrenwu.cn/
+
+## 泼辣百科
+
+https://www.polaxiong.com/wiki/hou-qi-shu-yu/hsl.html
+
+https://www.polaxiong.com/

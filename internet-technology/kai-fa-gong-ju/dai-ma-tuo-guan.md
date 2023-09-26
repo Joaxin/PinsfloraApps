@@ -62,3 +62,6 @@ https://www.4everland.org/
 
 
 [Public Git Hosting (or.cz)](https://repo.or.cz/)
+
+
+许可协议说明：https://creativecommons.net.cn/licenses/licenses_exp/

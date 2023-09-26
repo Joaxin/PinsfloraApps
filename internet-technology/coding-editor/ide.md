@@ -20,6 +20,8 @@ JetBrain出品，必属精品的跨平台[`Windows` 、`macOS`、 `Linux`]Java I
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://www.jetbrains.com/idea/download/#section=windows
 
+> IntelliJ IDEA : http://idea.lanyus.com/
+
 ## WebStorm
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.jetbrains.com/webstorm/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 

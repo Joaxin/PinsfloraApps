@@ -23,3 +23,4 @@ Trakt 还支持 [[Kodi]], [[Plex]], [[Emby]], [[Netflix]], [[Infuse]], [[Jellyfi
 ## TVDB
 
 [TBDB](https://thetvdb.com/) 是专注在剧集的网站。
+

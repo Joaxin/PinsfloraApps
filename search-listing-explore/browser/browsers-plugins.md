@@ -17,7 +17,7 @@
 
 # ![plugins](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/plugins.svg) 插件推荐
 
-> 书签工具见[[website-collection-tools]]
+> 书签工具见[website-collection-tools](../internet-tools/website-collection-tools.md)
 
 ### 基本功能增强
 
@@ -318,9 +318,6 @@ chrome商店：https://chrome.google.com/webstore/detail/grammarly-for-chrome/kb
   官网：https://www.joinhoney.com/
 
   chrome商店：https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj
-
-- Fast Emoji Search：emoji搜索
-  https://chrome.google.com/webstore/detail/fast-emoji-search/kndccmeghdbaoobnmbbeamggokchejln
 
 ### 文件传输工具
 

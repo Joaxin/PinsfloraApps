@@ -25,6 +25,8 @@ https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacb
 
 Notion笔记效果可参考: https://spacekid.me/
 
+Create Websites with Notion: https://super.so/
+
 ## EverNote印象笔记
 
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://evernote.com) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
@@ -112,6 +114,10 @@ Github: https://github.com/LinwoodDev/Butterfly
 https://flomoapp.com/, 跨平台支持 iOS、Android、iPad、Mac、Windows、PWA 版、网页版.
 
 下载地址: https://help.flomoapp.com/basic/app.html
+
+### 石墨文档
+
+https://shimo.im/
 
 ### 我来wolai
 

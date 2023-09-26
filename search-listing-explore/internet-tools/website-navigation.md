@@ -18,6 +18,8 @@ yunyouni: https://yunyouni.com/
 
 iTools: http://itools.com/
 
+Nonace：https://www.nonace.com/
+
 ## 综合导航
 
 爱达杂货铺：https://adzhp.xyz/ (防止失联：https://adzhp.vip/)
@@ -33,6 +35,8 @@ Fulck：https://fulck.com/
 hao123.com网址之家: https://www.hao123.com/， 类似于hao360，2345
 
 QQ导航：https://hao.qq.com/
+
+0XU新闻：推荐引擎科技自媒体平台， 资讯导航，https://www.0xu.cn/， https://www.0xu.cn/list
 
 ## 分类导航
 
@@ -50,6 +54,8 @@ QQ导航：https://hao.qq.com/
 
 电子书搜索导航: https://www.giffox.com/
 
+ACG导航：http://www.cilicili.cc/
+
 ----
 
 ### 设计导航
@@ -59,8 +65,6 @@ Seeseed-无穷尽设计可能：https://www.seeseed.com/
 设计导航：http://hao.shejidaren.com/
 
 优设设计导航：https://hao.uisdc.com/
-
-----
 
 ### 数据运营
 
@@ -96,7 +100,19 @@ Linux: https://linux.ubuntu.org.cn/
 
 国外网站大全: http://www.kguowai.com/ 、https://www.kanguowai.com/index.html
 
+国外网站大全：http://www.qkankan.com/index.html
+
+国外网站推荐：http://www.egouz.com/
+
 互联网趣站 ：https://www.9866.cn/
+
+倾城之链：https://nicelinks.site/theme/picture
+
+FUUN.FUN：https://fuun.fun
+
+晚晴幽草轩：https://jeffjade.com
+
+Best of the Web Directory：https://botw.org/
 
 ### 作者博客
 
@@ -112,7 +128,7 @@ van-nav：https://demo-tools.mereith.com/， github：https://github.com/Mereith
 
 🔍 发现导航 , 打造最强静态导航网站(支持SEO)：纯静态、支持SEO、支持在线编辑的强大导航网站，提供了四种主题风格。
 
-> https://www.nav3.cn/， Github: https://github.com/xjh22222228/nav
+> https://www.nav3.cn/， Github: https://github.com/xjh22222228/nav, Doc: https://navdoc.super.site/
 
 导航站：https://yw738.github.io/home/, Github： https://github.com/yw738/home
 

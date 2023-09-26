@@ -5,3 +5,17 @@
 https://www.guokr.com/
 
 > 改版后不推荐使用
+
+## 丁香园
+
+https://www.dxy.cn/
+
+用药助手：https://drugs.dxy.cn/pc
+
+
+## Howstuffworks
+
+https://play.howstuffworks.com/
+
+
+https://nationalzoo.si.edu/

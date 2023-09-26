@@ -8,11 +8,13 @@ https://www.oschina.net/
 
 [https://www.ithome.com/](https://www.ithome.com/)
 
+锋巢网 | 次世代生活科技：https://www.cyfengchao.com/
 
+SocialBeta: https://socialbeta.com/
 
+虎嗅：https://www.huxiu.com/
 
-
-
+脚本之家： https://www.jb51.net/
 
 
 

@@ -2,6 +2,14 @@
 
 ## 二维码
 
+https://www.qrcode-monkey.com/
+
+https://qr-creator.com/
+
+https://www.the-qrcode-generator.com/
+
+https://www.qrcode-tiger.com/
+
 二维码生成器：[https://mh.cli.im/](https://mh.cli.im/)
 
 > 二维码生成、美化、制作、统计等

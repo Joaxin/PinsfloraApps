@@ -6,6 +6,8 @@
 
 由美国物理学家Stephen Wolfram领导的Wolfram Research开发的数学系统软件，结合了数值和符号计算引擎、图形系统、编程语言、文本系统、和与其他应用程序的高级连接，符号计算无与伦比，界面相当优雅。
 
+http://www.wolframalpha.com/
+
 ## Matlab
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.mathworks.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
@@ -47,3 +49,21 @@ https://qalculate.github.io/
 一款免费、快速、高精度的开源代数计算器，具有直观的界面和许多功能，如变量、语法高亮、函数、持久输入历史记录等。SpeedCrunch由Held 来自加拿大于2008年创建。
 
 http://speedcrunch.org/
+
+
+
+Symbolab Math Solver：https://www.symbolab.com/
+
+Mathway：https://www.mathway.com/
+
+Math Magic Archive：https://www2.stetson.edu/~efriedma/mathmagic/archive.html
+
+
+flowingdata：https://flowingdata.com/
+
+Statista：https://www.statista.com/
+
+数字帝国：http://zh.numberempire.com/
+
+懒人在线计算器：http://www.ab126.com/
+

@@ -2,7 +2,12 @@
 description: 有趣的生成器网站
 ---
 
+
 ## 娱乐向
+
+接頭霸王：http://kyaru-connect.ayaya.tw/
+
+https://tool.bog.ac/6/
 
 ### 彩虹屁生成器
 
@@ -106,8 +111,6 @@ https://github.com/imcaspar/gpt2-ml)
 
 ## 已关闭
 
-{% hideToggle 已关闭 %}
-
 爱豆翻牌体生成器
 
 > 只需输入明星爱豆的微博名头像，选择他属于小奶狗还是小狼狗，他将会给你发很微博私信，打开后还可以跟他进行对话哦
@@ -133,5 +136,3 @@ https://github.com/imcaspar/gpt2-ml)
 同人小说生成器（沙雕版）
 
 [http://wb.newbfun.com/xsscq.html](http://wb.newbfun.com/xsscq.html)
-
-{% endhideToggle %}

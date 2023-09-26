@@ -26,6 +26,8 @@ https://www.jiumodiary.com/
 
 一个电子书**整合搜索引擎**(含鸠摩搜书)，不过需要关注他们的公众号获取验证码，界面简洁，无广告。
 
+https://xmsoushu.com/
+
 ### Booksee/Libcats
 
 来自俄罗斯的在线免费图书搜索, 提供英文、俄文和乌克兰文三种版本
@@ -48,23 +50,23 @@ https://zhiso.top/
 
 https://freembook.com/
 
+### Book Searcher
+
+https://book-searcher.eu.org/,  https://github.com/book-searcher-org/book-searcher
+
 ## 文档知识库
 
 https://www.zhishikoo.com/
 
 > 这个网站的内容包括了经营励志、人文社科、科学新知、生活休闲、休闲娱乐、居家生活、家教育儿等等电子书，目前网站上面的电子书都是百度网盘链接下载的PDF，而且都是免费的。
 
-### 阅读链
+sobooks: https://sobooks.net/
 
-https://www.yuedu.pro/
+阅读链: https://www.yuedu.pro/
 
-电子书格式：MOBI／EPUB／AZW3／PDF / TXT 等等
-
-阅读链是一个阅读交流社区，提供图书推荐、书单推荐、阅读交流等服务，可以直接下载，包括pdf/mobi/epub/azw3等多种格式。
-
-----
-
-备用:
+> 电子书格式：MOBI／EPUB／AZW3／PDF / TXT 等等
+>
+> 阅读链是一个阅读交流社区，提供图书推荐、书单推荐、阅读交流等服务，可以直接下载，包括pdf/mobi/epub/azw3等多种格式。
 
 PDF之家: https://pdfzj.com/
 
@@ -73,6 +75,16 @@ PDF之家: https://pdfzj.com/
 传硕公版书(公共版权书): https://www.7sbook.com/
 
 好书: https://haodoo.net/
+
+馆藏：http://www.360doc.com/userhome.aspx?userid=332078&cid=29
+
+苦瓜书盘: https://kgbook.com/
+
+三秋书屋：https://www.shuxiangjia.cn/
+
+颐源书屋的图书馆：http://www.360doc.com/userhome/27794381
+
+马列书籍： https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19251201.htm
 
 ## 小说搜索
 
@@ -95,6 +107,8 @@ Github：[https://github.com/yuenov](https://github.com/yuenov)
 ### 小说网站
 
 天涯在线书库: https://www.tianyabook.com/
+
+http://www.kuitao8.com/
 
 ## 英文书籍
 
@@ -130,6 +144,8 @@ https://www.pdfdrive.com/: 提供大量英文原版PDF资源
 
 http://www.freebookcentre.net/: 免费下载计算机科学,编程,移动技术,物理学,医学等类别等技术类图书
 
+Makes it easy to find manuals online!：https://www.manualslib.com/
+
 **美国国家学术出版社**：https://nap.nationalacademies.org/
 
 ## 文档书籍下载
@@ -137,3 +153,5 @@ http://www.freebookcentre.net/: 免费下载计算机科学,编程,移动技术,
 冰点下载器: ~~http://www.bingdian001.com/~~ （支持百度文库vvv、豆丁文库、丁香文库、MBA智库等，下载完为PDF文件）
 
 > 注：由于日积月累的免费下载行为，触犯了以百度文库为首的文库网站的利益，冰点官网已与2021年2月发布声明由于各种压力需要停止冰点软件的维护和下载，但你还可以在网上找到下载器的最后一个版本。
+
+https://gaoxx.com/ 文库下载，需关注公众号

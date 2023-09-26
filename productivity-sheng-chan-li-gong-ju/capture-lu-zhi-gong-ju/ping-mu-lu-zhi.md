@@ -47,3 +47,7 @@ Open Broadcaster Software，简称OBS，一款开源的，功能十分强大的�
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.ieway.cn/evcapture.html)
 
 由国人开发的免费无水印，集视频录制与直播推流于一身的桌面录屏软件, 轻便小巧，无水印，支持[`Windows` 、`macOS`、 `Android`]，不过可能在部分电脑不支持高分屏。
+
+## 浏览器录制
+
+cam-recorder：https://www.cam-recorder.com/

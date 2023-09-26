@@ -2,6 +2,8 @@
 
 ### 微博工具
 
+微博搜索：https://s.weibo.com/
+
 正确时间线微博：[https://m.weibo.cn/ ](https://m.weibo.cn)
 
 微博服务：[https://kefu.weibo.com/selfservice](https://kefu.weibo.com/selfservice)
@@ -43,3 +45,7 @@ Octo微博相册批量下载：[https://chrome.google.com/webstore/detail/octo%E
 ## Twitter
 
 https://twitter.com/
+
+## 去中心化微博
+
+Mastodon.ART：https://mastodon.art

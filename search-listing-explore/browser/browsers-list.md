@@ -53,6 +53,8 @@ Opera， 13年放弃自家Presto内核转投WebKit，目前支持[`Windows` 、`
 
 ![plugins](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/plugins.svg) Opera插件： [Opera Addons](https://addons.opera.com)
 
+https://oupeng.com/
+
 家族：
 
 Opera GX, 世界第一款游戏浏览器

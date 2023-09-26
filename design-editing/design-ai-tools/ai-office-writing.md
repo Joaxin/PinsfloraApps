@@ -82,6 +82,12 @@ HeyFriday: https://www.heyfriday.cn/home
 
 AI帮个忙： https://aibang.run/
 
+https://www.hongkiat.com/blog/digital-story-telling-tools/
+https://blog.reedsy.com/book-title-generator/fantasy/
+https://storylearning.com/
+https://www.plot-generator.org.uk/
+https://www.writerswrite.com/fiction/plot-generators/
+
 5118 SEO优化精灵: https://www.5118.com/ai/articlegenius
 
 > 一键式生成高质量SEO文章，提高搜索引擎排名获得更多流量
@@ -97,6 +103,8 @@ AI帮个忙： https://aibang.run/
 > Jasper Chat, 含类chatgpt的对话
 
 Copy.ai：https://www.copy.ai/
+
+https://thejohnfox.com/
 
 Writesonic：https://writesonic.com/
 
@@ -124,7 +132,12 @@ Raycast AI：Raycast推出的Mac AI助手，智能写作、编程、回答问题
 
 Textero AI: https://textero.ai/
 
+ludwig.guru: https://ludwig.guru/
+
 https://www.duplichecker.com/ 查重工具
+
+https://essay-homework-help.com/
+
 
 ## 段落改写
 

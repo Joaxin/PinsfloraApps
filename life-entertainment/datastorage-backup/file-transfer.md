@@ -104,6 +104,7 @@ DropPoint
 - Up-4ever: https://www.up-4ever.org/ 下载有广告
 - Wetranfer: https://wetransfer.com/ （国外的专注邮箱文件的传输工具 ）
 - File.io: https://www.file.io/
+- docdroid：https://www.docdroid.net/
 - Transfer.sh: https://transfer.sh/ (![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/CMD.svg) )
 - 文叔叔：https://www.wenshushu.cn/
 - ~~fileai~~(fileai.com has been discontinued)

@@ -14,9 +14,28 @@
 
 ## Excel必备工具箱
 
+> https://www.zhihu.com/question/21526212?sort=created
+
+## PPT模板
+
+51PPT：https://www.51pptmoban.com/
+
+https://www.1ppt.com/
+
+http://www.tretars.com/ppt-templates
+
+https://www.pptstore.net/
+
+优品PPT：https://www.ypppt.com/
+
+https://www.slideshare.net/
+
+https://slides.com/explore
+
+http://www.mobanwang.com/
 
 
-
+## PPT模板
 
 SlidesAI: AI快速创建演示幻灯片, https://www.slidesai.io/
 
@@ -47,3 +66,5 @@ beautiful.ai: AI创建展示幻灯片, https://www.beautiful.ai/
 MindShow: 国内独立开发者开发的输入内容自动生成演示工具, https://www.mindshow.fun/
 
 爱设计PPT： https://ppt.isheji.com/
+
+https://kroma.ai/

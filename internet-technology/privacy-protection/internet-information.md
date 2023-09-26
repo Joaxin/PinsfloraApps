@@ -6,6 +6,10 @@ description: Internet Information
 
 狗狗综合查询结果: https://www.ggcx.com/main/integrated
 
+https://htmlexaminer.com/
+
+http://urlm.co/
+
 ## IP地址
 
 > IP地址（Internet Protocol Address）是指互联网协议地址，又译为网际协议地址。IP地址是IP协议提供的一种统一的地址格式，它为互联网上的每一个网络和每一台主机分配一个逻辑地址，以此来屏蔽物理地址的差异。

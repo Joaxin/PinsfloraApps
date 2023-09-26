@@ -49,6 +49,8 @@ https://www.wandou.pro/
 
 holefly: https://www.holeflix.xyz/
 
+拇指影院：https://www.muzhiwan.com/
+
 https://www.5ying.fun/
 
 https://chnnetflix.com/

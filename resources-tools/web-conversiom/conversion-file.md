@@ -40,3 +40,21 @@ https://pdfresizer.com/
 
 iWeb2Print: [http://www.sciweavers.org/free-online-html-to-pdf](http://www.sciweavers.org/free-online-html-to-pdf)
 iWeb2Shot: [http://www.sciweavers.org/free-online-web-to-image](http://www.sciweavers.org/free-online-web-to-image)
+
+Convert Excel to Markdown Table: https://tableconvert.com/
+
+https://www.tablesgenerator.com/latex_tables
+
+pdfcrowd：https://pdfcrowd.com/
+https://www.coolutils.com/online/DXF-to-PDF
+http://ffmpeg.org/
+https://www.gif-2-mp4.com/
+https://cn.office-converter.com/
+https://www.media.io/
+https://cloudconvert.com/pages-to-doc
+http://www.pdfdo.com/
+https://www.fileformat.info/convert/image/svg2raster.htm
+https://app.xunjiepdf.com/
+https://www.freemake.com/cn/free_video_converter/
+http://www.docpe.com/
+https://www.zamzar.com/

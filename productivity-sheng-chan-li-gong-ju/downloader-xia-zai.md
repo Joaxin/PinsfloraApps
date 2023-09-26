@@ -8,6 +8,8 @@
 
 Mac版：http://mac.xunlei.com/
 
+迅雷下载地址在线转换,快车下载地址在线转换，旋风下载地址在线转换工具 - 爱Q生活网 https://www.iqshw.com/url/
+
 ### μTorrent
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.utorrent.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
 

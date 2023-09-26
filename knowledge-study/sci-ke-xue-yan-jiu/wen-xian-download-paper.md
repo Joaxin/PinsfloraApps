@@ -53,6 +53,8 @@ https://gg.xueshu5.com/
 
 中国知网海外服务：https://chn.oversea.cnki.net/index/ OR http://dict.cnki.net/index/ 注意需国外IP
 
+SinoMed: http://www.sinomed.ac.cn/index.jsp
+
 ## arXiv
 
 ArXiv（全称为The arXiv）是一个免费的在线科学**预印本**存储库，收录了物理学、计算机科学、数学、量子生命科学、定量金融等多个学科领域的论文。

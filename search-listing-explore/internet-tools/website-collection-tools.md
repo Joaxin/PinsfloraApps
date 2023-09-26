@@ -39,3 +39,5 @@ Diigo：https://www.diigo.com/，Save and tag your online resources for easy acc
     https://chrome.google.com/webstore/detail/bookmark-manager-speed-di/pdcohkhhjbifkmpakaiopnllnddofbbn
   - 书签侧边栏
     https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh
+    
+  - Sync bookmarks privately: https://floccus.org/

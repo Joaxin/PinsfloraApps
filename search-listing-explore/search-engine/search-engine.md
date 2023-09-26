@@ -24,6 +24,8 @@ Google bard 智能聊天: https://bard.google.com/
 
 > [Don't be evil](https://zh.wikipedia.org/zh/%E4%B8%8D%E4%BD%9C%E6%81%B6)
 
+https://www.google.com/doodles/
+
 ## 必应(BING)
 
 由微软公司推出的网络搜索引擎BING， 现已集成GPT AI(新必应 NEW Bing，结合GPT-4的对话式AI搜索引擎及内置了DALL·E 2的文本生成图像功能)搜索。

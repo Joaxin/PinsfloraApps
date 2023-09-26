@@ -170,6 +170,8 @@ KeyTweak 通过设置系统的注册表来将按键A映射到按键B，键盘按
 
 NOTE: It seems that registry mapping is not possible with windows 10
 
+http://winrus.com/keyboard.htm
+
 ## 鼠标工具
 
 

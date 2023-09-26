@@ -55,3 +55,6 @@ https://www.netlify.com/
 ### 百度云
 
 控制台：[http://console.bce.baidu.com](http://console.bce.baidu.com)
+
+
+LeanCloud: https://leancloud.cn

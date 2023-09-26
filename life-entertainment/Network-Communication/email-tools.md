@@ -48,6 +48,8 @@ GlockApps: https://glockapps.com/
 
 SpamCheck: https://spamcheck.postmarkapp.com/
 
+https://spa.mnesty.com/
+
 ## Ruputation Lookup | 名誉度检测
 
 https://talosintelligence.com/

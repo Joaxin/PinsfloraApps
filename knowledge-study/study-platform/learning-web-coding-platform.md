@@ -16,6 +16,8 @@ https://developers.google.com/web
 
 Web插件开发: https://developer.chrome.com/docs/extensions/reference/
 
+art-of-web: https://www.the-art-of-web.com/
+
 ## JS
 
 javascript.info: [https://javascript.info/](https://javascript.info)
@@ -40,9 +42,15 @@ State of JS（JS技术统计网站）：[https://stateofjs.com/](https://stateof
 
 ## CSS
 
+CSS ZEN GARDEN: http://csszengarden.com/
+
 css-tricks：[https://css-tricks.com/](https://css-tricks.com)
 
 [http://tympanus.net/codrops/](http://tympanus.net/codrops/)
+
+CSS DECK: https://cssdeck.com/
+
+Free CSS: https://www.free-css.com/
 
 ## Github
 

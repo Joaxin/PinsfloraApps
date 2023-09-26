@@ -161,6 +161,8 @@ https://convert.leiapix.com/
 
 https://pixia.ai/
 
+https://avatarify.ai/, Bring your photos to life
+
 炼丹家：https://www.liandanjia.com/
 
 > 目前Fotor, Canva等也支持AI生成， 详情写相关页面

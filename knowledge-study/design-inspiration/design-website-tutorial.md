@@ -6,6 +6,8 @@
 >
 > 微博：https://weibo.com/p/1005052438286757
 
+站酷：https://www.zcool.com.cn/
+
 ## 设计教程
 
 Envato Tuts+：
@@ -14,3 +16,35 @@ Envato Tuts+：
 - https://webdesign.tutsplus.com/
 
 优优教程网：https://uiiiuiii.com/
+
+https://www.sheui.net/
+
+oeasy，会玩才会学：http://oeasy.org/
+
+Douyoudo：https://www.doyoudo.com/
+
+## Adobe系列
+
+PS笔刷吧：https://brushes8.com/
+
+ps教程自学网：http://www.16xx8.com/
+
+ Sketch-A-Day：https://www.sketch-a-day.com/
+
+Draw with Easy Lessons：https://www.drawinghowtodraw.com/stepbystepdrawinglessons/
+
+龋齿一号：http://www.gfxcamp.com/
+
+新CG：http://www.newcger.com/， AE插件下载网：http://www.newcger.com/aechajian/
+
+LookAE：http://www.lookae.com/
+
+Envato Market：http://market.envato.com/
+
+CG资源网：https://www.cgown.com/
+
+## UI/UX
+
+https://ui8.net/
+
+https://abduzeedo.com/

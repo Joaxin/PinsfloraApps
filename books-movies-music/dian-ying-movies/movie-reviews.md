@@ -40,3 +40,6 @@ Metacritic https://www.metacritic.com/
 ## 电视猫
 
 {% embed url="https://www.tvmao.com/" %}
+
+
+中英剧本站:https://www.jubenz.com/

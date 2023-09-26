@@ -2,6 +2,8 @@
 
 [http://www.dooland.com/](http://www.dooland.com)
 
+新语丝： http://www.xys.org/
+
 ## 国外杂志
 
 ### 英国卫报

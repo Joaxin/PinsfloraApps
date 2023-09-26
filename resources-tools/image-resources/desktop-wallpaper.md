@@ -63,6 +63,14 @@ bing wallpaper: 一款由Microsoft公司开发的桌面壁纸应用程序。包�
 
 wallpaperscraft：https://wallpaperscraft.com/
 
+https://10wallpaper.com/
+
+https://getwallpapers.com/collection/love-anime-wallpaper
+
+https://wallpaperaccess.com/
+
+https://wallpapertag.com/
+
 wallhaven: 在图片详情页面可以使用 "Crop & Scale" 工具将图片裁剪为指定尺寸后再下载, 很方便.
 
 [https://wallhaven.cc/](https://wallhaven.cc)
@@ -90,6 +98,8 @@ https://wall.alphacoders.com)
 * E次元网站: [https://www.elisa.la/](https://www.elisa.la)
 
   [E次元](https://acg.中国), 支持手机APP
+  
+* https://yande.re/post
 
 * 美桌网: [http://www.win4000.com/zt/dongman.html](http://www.win4000.com/zt/dongman.html)
 
@@ -97,3 +107,4 @@ https://wall.alphacoders.com)
 
 * [https://konachan.net/post](https://konachan.net/post)
 
+* https://www.artstation.com/?sort_by=community&dimension=all

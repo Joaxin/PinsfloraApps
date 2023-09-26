@@ -6,15 +6,13 @@
 
 https://www.musixmatch.com/
 
-## Genius&#x20;
+## Genius
 
-&#x20;_Genius_ is the world's biggest collection of song _lyrics_ and musical knowledge.
+Genius_ is the world's biggest collection of song _lyrics_ and musical knowledge.
 
 挖掘歌词以及背后的故事，很多都有歌手本人或者作词者亲手撰写的解析，相当权威。
 
-{% embed url="https://genius.com/" %}
-Genius
-{% endembed %}
+https://genius.com/
 
 ## Lyrics
 

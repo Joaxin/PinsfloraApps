@@ -36,9 +36,43 @@ https://www.czxiu.com/
 
 > Search All the GIFs & Make Your Own Animated GIF
 
+### 9GAG
+
+https://9gag.com/
+
+### MEME
+
+TENOR：https://tenor.com/
+
+斗图网站 https://www.doutula.com/
+
+https://en.dopl3r.com/
+
+https://usagif.com/
+
+https://www.memedroid.com/
+
+https://29a.ch/
+
+### Emoji Search
+
+Emojipedia: https://emojipedia.org/
+
+Get emoji: https://getemoji.com/
+
+ emoji表情大全：https://www.emojidaquan.com/
+
+emoji搜索，https://www.fastemoji.com/, https://www.fastemote.com/
+
+Emoji meanings: https://www.emojimeanings.net/
+
+https://www.boredpanda.com/art-history-memes/
+
 ## 表情包生成
 
 GIF倒放生成器: [https://lab.bangbang93.com/gif-reverse](https://lab.bangbang93.com/gif-reverse)
+
+https://imgflip.com/memegenerator/Hamtaro
 
 imgflip：https://imgflip.com/memegenerator/99232680/Art-gallery
 

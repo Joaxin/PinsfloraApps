@@ -1,10 +1,11 @@
-# 设计博客
-
 ## Boredpanda
 
 [https://www.boredpanda.com/](https://www.boredpanda.com)
 
 > 艺术文化如果离不开生活，就是没有灵魂的东西，正所谓“好看的皮囊千篇一律，有趣的灵魂万里挑一”，在国外的小伙伴除了 Facebook、推特社交软件，没有一款适合艺术设计师的社交平台，今天 Boss 分享国外艺术博客网站，里面来自世界上艺术创作者分享创意艺术作品，还有一些让您觉得很另类的艺术创作。
+
+- https://www.boredpanda.com/winter-scarves/
+
 >
 > Boredpanda 又名无聊的熊猫，这是一只可爱艺术熊猫，国外有趣好玩的图片艺术社区，分享生活艺术、摄影、有趣奇葩、时尚等等好玩的故事。Boredpanda 是托马斯·巴尼萨斯卡斯于 2009 年创办的一家领先的艺术和流行文化杂志，由于网络传播速度极快，很快吸引来之世界各地顶级艺术家参与分享身边有趣的故事，可以说这是一只成功的熊猫
 >
@@ -46,8 +47,57 @@ http://www.imgii.com
 
 {% embed url="http://www.imgii.com" %}
 
-## evolo
+UECOOK设计社区 - 创意 - 插画： http://uecook.com/creativity/illustration
 
-国际建筑竞赛营作品
+https://www.mlito.com/#/
+
+## 设计达人
+
+叶梓的i影术|Photographs by Leon Yeh： http://byleon.com/
+laufgestalt-new media I 3D I motion graphics： http://www.laufgestalt.net/
+5
+Homepage The colours of my closet： https://www.thecoloursofmycloset.com/
+0
+Digital Watercolor-Jiaqi He lllustration： https://www.jiagihe.com/digital-watercolor
+Chaos Ego-Series of illustrations： https://chaosego.com/work
+5
+Bernard Bertrand Photographer： http://bernardbertrand.com/
+
+https://www.lanrentuku.com/
+
+Skinny Ships:https://www.skinnyships.com/
+
+## 建筑设计
+
+evolo：国际建筑竞赛营作品
 
 [http://www.evolo.us/](http://www.evolo.us)
+
+ArchDaily ：https://www.archdaily.com/
+
+The FWA - Awards：https://thefwa.com/
+
+谷德设计网：http://www.gooood.hk/
+
+designboom magazine：https://www.designboom.com/
+
+homify：https://www.homify.jp/
+
+Yanko Design：https://www.yankodesign.com/
+
+Pfeiffer Lab：http://www.pfeifferlab.com/
+
+Graphic Design Inspiration：https://www.howdesign.com/
+
+Trendir - Modern House Design, Furniture & Decor：https://www.trendir.com/
+
+https://matomeno.in/
+
+https://vanschneider.com/
+
+https://www.awwwards.com/
+
+https://identitydesigned.com/
+
+https://packageinspiration.com/
+

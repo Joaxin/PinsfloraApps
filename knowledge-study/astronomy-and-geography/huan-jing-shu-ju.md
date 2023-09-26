@@ -28,6 +28,8 @@
 
 国家减灾网http://www.ndrcc.org.cn/
 
+http://pm25.in/ 已关闭
+
 ### 农业数据
 
 国家农业科学数据中心 http://www.agridata.cn/
@@ -43,6 +45,9 @@
 世界人口时钟：https://countrymeters.info/cn/World
 
 ## 全球气候数据
+
+
+https://earth.nullschool.net/zh-cn/
 
 ### 全球光污染
 
