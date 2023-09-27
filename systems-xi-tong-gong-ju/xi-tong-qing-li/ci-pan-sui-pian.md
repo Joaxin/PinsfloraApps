@@ -6,7 +6,7 @@ http://www.advancedsystemcare.cn/pc/
 
 IObit出品的一系列系统优化小工具, 一款易于使用的Windows电脑优化工具，帮助用户清洁、优化、加速和保护系统,以及保护用户的在线隐私。
 
-![](../../../../../../../OneDrive - assedu/collection/Pinsflora/IT/PinsfloraApps/.gitbook/assets/z-system-customization-iobit-series.jpg)
+![](../../.gitbook/assets/z-system-customization-iobit-series.jpg)
 
 Advanced SystemCare: http://www.iobit.com/advancedsystemcareper.html, iobit出品的系统优化与清理套件。
 
@@ -36,7 +36,7 @@ Glary Utilities, 一款系统维护的瑞士军刀, 系统优化和维护软件�
 
 由WiseCleaner开发的一款用来管理、维护、配置以及解决电脑故障免费软件，标称注册表清洁度超过CCleaner。
 
-![z-system-custom-wisecleaner](../../../../../../../OneDrive - assedu/collection/Pinsflora/IT/PinsfloraApps/.gitbook/assets/z-system-custom-wisecleaner.jpg)
+![z-system-custom-wisecleaner](../../.gitbook/assets/z-system-custom-wisecleaner.jpg)
 
 Wise Disk Cleaner：https://www.wisecleaner.com/wise-disk-cleaner.html， Free Disk Cleanup and Defragment Tool
 
