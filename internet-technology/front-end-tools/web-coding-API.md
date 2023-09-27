@@ -28,3 +28,7 @@ https://bird.ioliu.cn/
 https://www.zyte.com/
 
 https://api.vvhan.com/
+
+Rapid:
+
+https://rapidapi.com/

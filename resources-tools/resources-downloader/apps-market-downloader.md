@@ -17,6 +17,8 @@ APKClean: https://apkclean.net/
 
 Android Police ：https://www.androidpolice.com/
 
+Softonic: https://en.softonic.com/
+
 Choilieng: https://choilieng.com/
 
 Uptodown: https://www.uptodown.com/android
@@ -37,8 +39,6 @@ Uptodown: https://www.uptodown.com/android
 
 The Open GApps Project: https://opengapps.org/
 
-
-
 分享迷：https://www.fenxm.com/ （推荐， 特别是有电视APP）
 
 优基地: https://www.youjidi.net/
@@ -51,7 +51,11 @@ The Open GApps Project: https://opengapps.org/
 
 https://www.92sucai.com/
 
-异星软件空间: https://www.bsh.me/, https://www.yxssp.com/, https://www.lan-sha.com/
+机锋论坛： http://bbs.gfan.com
+木蚂蚁：http://www.mumayi.com/
+智友论坛：http://bbs.zhiyoo.com/
+葫芦侠：http://www.huluxia.com/
+MT论坛：https://bbs.binmt.cc/forum.php
 
 ## 苹果应用工具
 

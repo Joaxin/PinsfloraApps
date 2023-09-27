@@ -42,3 +42,8 @@ Song video, artist biography, translations and more!
 
 {% embed url="https://hiraganalyrics.com/" %}
 
+## 歌词SHOW
+
+https://blog.1a23.com/
+
+https://1a23.com/works/lyrics/

@@ -1,3 +1,30 @@
+## 国内软件下载站
+
+-   [起点软件下载](http://www.cncrk.com/)
+
+-   [西西软件园](http://www.cr173.com/)
+
+-   [浏览迷](https://liulanmi.com/)
+
+-   [果核剥壳 - 还原软件的本质](https://www.ghpym.com/)
+
+-   [异次元软件世界](http://www.iplaysoft.com/)
+
+-   [反斗软件](http://www.apprcn.com/)
+
+-   [下载吧软件站](http://www.xiazaiba.com/)
+
+-   [zd423](http://www.zdfans.com/)
+
+-   [0DayDown](http://www.0daydown.com/)
+-   [pc6下载站](http://www.pc6.com/)
+
+-   [N软网](http://www.nruan.com/)
+
+-   [绿色先锋下载](http://www.greenxf.com)
+
+-   [Softpedia](http://www.softpedia.com/)
+-   [FOSSHUB](https://www.fosshub.com/)
 
 
 ## Pure SoftWare Downloader
@@ -12,8 +39,8 @@ The PortableApps.com Platform™ is a full-featured portable software system tha
 
 https://portableapps.com/download
 
+## OSDN
+
 开发和下载开源软件 - OSDN: https://osdn.net/
 
-少数派: https://sspai.com/
 
-前线乐园：https://www.yijingying.com/

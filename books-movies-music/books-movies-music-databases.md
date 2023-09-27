@@ -1,6 +1,8 @@
 ## NeoDB
 
-一个建立在 federated network （联邦网络）中的用来标记书籍、电影、音乐和游戏的网站。NeoDB 目前只能通过 Mastodon 或 Pleroma/Friendica/PixelFed 实例的账号来登录。
+一个建立在Federated network （联邦网络）中的用来标记书籍、电影、音乐和游戏的网站。NeoDB 目前只能通过 Mastodon 或 Pleroma/Friendica/PixelFed 实例的账号来登录， 目前可以支持邮箱登陆。
+
+https://neodb.social/
 
 ## themoviedb
 
@@ -24,3 +26,8 @@ Trakt 还支持 [[Kodi]], [[Plex]], [[Emby]], [[Netflix]], [[Infuse]], [[Jellyfi
 
 [TBDB](https://thetvdb.com/) 是专注在剧集的网站。
 
+## 豆瓣
+
+http://www.douban.com/
+
+豆伴： 豆伴是一款用于备份豆瓣账号数据的工具。下载地址：https://blog.doufen.org/download/

@@ -1,5 +1,10 @@
 ## 综合类
 
+
+蛙蛙工具：https://www.iamwawa.cn
+
+在线工具资料箱： https://www.toolzl.com/
+
 好工具网：http://www.nicetool.net
 
 爱站小工具：https://gj.aizhan.com
@@ -56,6 +61,7 @@ WQTOOL：https://www.wqtool.com
 
 昊霖设计：https://www.qtool.net  昊霖设计：https://www.qtool.net/
 
+box3：https://www.box3.cn/
 
 孟坤工具箱：http://tool.mkblog.cn
 
@@ -64,6 +70,8 @@ WQTOOL：https://www.wqtool.com
 Kalvin在线工具：https://tools.kalvinbg.cn
 
 优秀工具箱集合：https://awesome-toolbox-chinese.bestxtools.com
+
+ENDMEMO: http://www.endmemo.com/index.php
 
 ## 生活类
 
@@ -90,6 +98,8 @@ Kalvin在线工具：https://tools.kalvinbg.cn
 99参考计算网 https://www.99cankao.com/
 
 911查询 https://www.911cha.com/
+
+实用计算转换查询工具: http://www.aies.cn/， https://t.aies.cn/
 
 ## 技术类
 

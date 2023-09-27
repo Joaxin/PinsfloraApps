@@ -21,6 +21,8 @@ https://imgur.com/
 
 https://sm.ms/
 
+i.loli.net 是 SM.MS 免费图床的图片 CDN 域名
+
 ### postimages
 
 https://postimages.org/

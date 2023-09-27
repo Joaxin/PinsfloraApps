@@ -6,9 +6,9 @@ description: Search Engine
 
 全球领先的中文搜索引擎.
 
-PC版: [http://baidu.com/](https://www.baidu.com)
+PC版: [https://baidu.com/](https://www.baidu.com)
 
-网页版: [http://m.baidu.com/](http://m.baidu.com)
+网页版: [https://m.baidu.com/](http://m.baidu.com)
 
 ## 谷歌(GOOGLE)
 

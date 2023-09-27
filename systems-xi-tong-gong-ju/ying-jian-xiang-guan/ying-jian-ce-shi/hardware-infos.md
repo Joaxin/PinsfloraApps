@@ -1,5 +1,7 @@
 ## CPU/GPU工具
 
+> https://www.techpowerup.com/download/sysinfo/
+
 ### CPU-Z
 
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.cpuid.com/softwares/cpu-z.html)

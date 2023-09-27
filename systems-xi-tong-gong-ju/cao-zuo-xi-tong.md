@@ -1,8 +1,15 @@
-## Ubuntu
 
-[https://www.ubuntu.com/download/desktop](https://www.ubuntu.com/download/desktop)
+## Linux
 
-## 论坛
+> Linux 发行版跟踪: https://distrowatch.com/
+
+> Linux Shell: https://explainshell.com/
+
+UNBUTNU: [https://www.ubuntu.com/download/desktop](https://www.ubuntu.com/download/desktop)
+
+[https://wiki.ubuntu.org.cn/命令行指南](https://wiki.ubuntu.org.cn/%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%8C%87%E5%8D%97)
+
+## 系统论坛
 
 ### Windows
 

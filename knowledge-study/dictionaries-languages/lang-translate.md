@@ -133,3 +133,5 @@ Weblate: https://docs.weblate.org/en/latest/index.html
 沙拉查词-聚合词典划词翻译
 
 词典软件
+
+~~译言网倒闭~~

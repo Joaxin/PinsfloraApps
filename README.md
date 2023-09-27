@@ -27,8 +27,8 @@ A curated collection of software(MAINLY WINDOWS), website, apps garden.
 
 1. 不收录简单的软件或应用封装，如：网页封装，`Electron`简单移植等
 2. 不直接收录商业化软件的破解版与修改版(含破解/激活工具)
-3. 不收录长期不更新且有更好替代品的软件
-4. 不直接收录网络工具与攻击渗透为主要目的的软件
+3. 不收录长期不更新且有更好替代品的软件/网页/APP
+4. 不直接收录网络工具(network-tools)与攻击渗透(pentest-tools)为主要目的的软件
 5. Windows软件至少需支持`Win7 64位`
 6. 你可以自己制作便携版本，所以此处不作标注
 7. 游戏相关的THINGS，另作收录

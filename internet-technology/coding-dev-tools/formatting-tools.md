@@ -6,6 +6,8 @@ CleanCSS：https://www.cleancss.com/
 
 Codebeautify: https://codebeautify.org/
 
+HTML TO JSON: https://github.com/orf/hq/
+
 ## 格式与压缩
 
 Babel：[https://babeljs.io/repl/](https://babeljs.io/repl/)

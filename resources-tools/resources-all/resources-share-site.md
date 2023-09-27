@@ -1,52 +1,51 @@
-# 综合资源分享站
+
+## 资源推荐站
+
+小众软件: [www.appinn.com](https://www.appinn.com/)
 
 
-## 小众软件
+少数派: [sspai.com](https://sspai.com/)
 
-https://www.appinn.com/
+## 资源分享站
 
-## SJY
+异星软件空间: [www.bsh.me](https://www.bsh.me/), [www.yxssp.com](https://www.yxssp.com/), [www.lan-sha.com](https://www.lan-sha.com/)
 
-http://www.th-sjy.com/
+SJY: [www.th-sjy.com](http://www.th-sjy.com/)
 
-## 清新范\(QXFUN.COM\)
+果核剥壳：[www.ghpym.com](https://www.ghpym.com/)
 
- [http://www.qxfun.com/](http://www.qxfun.com/)
+系统迷：[www.xitmi.com](https://www.xitmi.com/)
+
+大眼仔旭: [www.dayanzai.me](http://www.dayanzai.me/)
+
+清新范QXFUN.COM:  [www.qxfun.com](http://www.qxfun.com/)
 
 > 一个致力于分享一切美好事物的地方。这里没有喧哗烦扰，只有简单的爱、恣意的自由与超脱的静谧。我们搜集分享小清新文字,唯美的图片,温暖的声音,精彩的影像和有趣的事物。
 
-## 刘明野的博客
+优米格: [www.4spaces.org](https://www.4spaces.org/)
 
-https://liumingye.cn/
+杂铺: [tmioe.com](https://tmioe.com/)
 
-工具箱: https://tool.liumingye.cn/
+缙哥哥 :[www.dujin.org](https://www.dujin.org/)
 
-## 优米格
+大手拉小手: [www.handme.net](http://www.handme.net/)
 
-https://www.4spaces.org/
+[www.cccitu.com](https://www.cccitu.com/)
 
-## 杂铺
+微当下载: [www.weidown.com](https://www.weidown.com/)
 
-https://tmioe.com/
+国光 - 分享与收获：[www.sqlsec.com](https://www.sqlsec.com/)
 
-## 缙哥哥 
+吾乐吧: [www.wuleba.com](http://www.wuleba.com/)
 
-https://www.dujin.org/
+风刑软件站：[www.wsf1234.com](http://www.wsf1234.com/)
 
-### 大手拉小手
+小笨分享站：[zhouxiaoben.info](https://zhouxiaoben.info/)
 
-http://www.handme.net/
+QiuQuan's Blog | 精品软件分享博客，专注于软件的绿化、精简与优化 : [www.qiuquan.cc](http://www.qiuquan.cc/)
 
-https://www.cccitu.com/
-
-微当下载: https://www.weidown.com/
-
-国光 - 分享与收获：https://www.sqlsec.com/
-
-系统迷：https://www.xitmi.com/
-
-大眼仔旭: http://www.dayanzai.me/
+云梦 | 一个分享 Android/Linux/Windows 经验的网站: [www.htcp.net](https://www.htcp.net/)
 
 ## 已关闭
 
-胡萝卜周网站：因苏州思杰马克丁公司要求，https://www.carrotchou.blog/
+胡萝卜周网站：因苏州思杰马克丁公司要求，[www.carrotchou.blog](https://www.carrotchou.blog/)

@@ -27,7 +27,7 @@ is Open.
 
 - Packages: https://pypi.python.org/pypi
 - tesseract-ocr: [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
-- jupyter/JupyterLab : https://jupyter.org/
+- jupyter/JupyterLab : https://jupyter.org/， https://nbviewer.org/(A simple way to share Jupyter Notebooks)
 - Anaconda: [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
 
 ## 网站推荐

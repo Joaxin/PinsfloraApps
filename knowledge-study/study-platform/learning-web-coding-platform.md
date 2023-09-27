@@ -1,6 +1,7 @@
+
 ## WEB编程学习
 
-以下网站强烈推荐：
+**以下网站强烈推荐：**
 
 > MDN: The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.
 
@@ -11,14 +12,37 @@
 https://alligator.io/
 
 > Google Web Developer
-
-https://developers.google.com/web
-
-Web插件开发: https://developer.chrome.com/docs/extensions/reference/
+>
+> https://developers.google.com/web
+>
+> Web插件开发: https://developer.chrome.com/docs/extensions/reference/
 
 art-of-web: https://www.the-art-of-web.com/
 
-## JS
+WEB DEV: https://web.dev/read-files/
+
+Scrimba: https://scrimba.com/allcourses
+
+Sololearn: https://www.sololearn.com/
+
+易百教程: http://www.yiibai.com/
+
+Top Shelf Web Development Training ― Scotch.io: https://scotch.io/
+
+
+## W3C 标准
+
+- https://www.w3.org/
+- https://www.w3schools.com/
+- https://www.w3cplus.com/
+
+WEB GL: https://webgl2fundamentals.org/
+
+The Web Platform: Browser technologies：https://html-now.github.io/
+
+https://whatwg.org/
+
+## JS Javascript
 
 javascript.info: [https://javascript.info/](https://javascript.info)
 
@@ -58,7 +82,7 @@ Github javascript-tutorial 组织: [https://github.com/javascript-tutorial](http
 
 You Don't Need系列
 
-你不需要jQuery: [http://youmightnotneedjquery.com/](http://youmightnotneedjquery.com)
+你不需要jQuery（You Might Not Need jQuery）: [http://youmightnotneedjquery.com/](http://youmightnotneedjquery.com)
 
 [https://github.com/you-dont-need](https://github.com/you-dont-need)
 
@@ -84,7 +108,11 @@ You-Dont-Need-jQuery(你或许并不需要JQuery): [https://github.com/nefe/You-
 
 Free hand-picked HTML, CSS and JavaScript (jQuery, React, Vue) code examples, tutorials and articles：https://freefrontend.com/
 
+Hello Girl: https://www.jqhtml.com
+
 ## WEB书籍
+
+ECMAScript 6 入门： https://es6.ruanyifeng.com/
 
 Jon Duckett - HTML and CSS: Design and Build Websites
 

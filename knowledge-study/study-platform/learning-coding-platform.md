@@ -12,22 +12,11 @@ programmersought: https://www.programmersought.com/
 
 IOWIKI: https://iowiki.com/
 
-GURU99: https://www.guru99.com/
+GURU99: https://www.guru99.com/， Guru99 is totally new kind of learning experience.
 
 https://talkerscode.com/index.php
 
-LeetCode - The World's Leading Online Programming Learning Platform
-
-https://leetcode.com/
-
-https://developer.mozilla.org/
-
-https://web.dev/read-files/
-
-W3C:
-- https://www.w3.org/
-- https://www.w3schools.com/
-- https://www.w3cplus.com/
+codecademy：https://www.codecademy.com/catalog
 
 ---------
 
@@ -46,6 +35,11 @@ https://the-algorithms.com/
 
 ## 计算机书籍
 
+
+### Cheatsheets
+
+Devhints — TL;DR for developer documentation：https://devhints.io/
+
 ### CS-Books-Store
 
 https://gitee.com/sharetech_lee/CS-Books-Store
@@ -53,9 +47,6 @@ https://gitee.com/sharetech_lee/CS-Books-Store
 涵盖计算机领域覆盖Python、Java、C/C++、Go、JavaScript、数据分析、大数据处理、自然语言、操作系统、机器学习、深度学习、计算机网络等领域大部分书籍
 
 <img src="https://picx.zhimg.com/50/v2-5f7dc41762ab81a36cd336ecab430521_720w.jpg?source=1940ef5c" alt="img" style="zoom:50%;" />
-
-
-
 
 
 其他参考:
@@ -72,16 +63,23 @@ https://gitee.com/sharetech_lee/CS-Books-Store
 
 https://github.com/justjavac/free-programming-books-zh_CN
 
-### 搬书匠
 
-http://www.banshujiang.cn/
+搬书匠：http://www.banshujiang.cn/
 
 一个可以用来搜索IT技术类的搜索网站，界面简洁，可以直接下载，都是百度网盘的链接。
 
-### 书栈网
-
-https://www.bookstack.cn/
+书栈网：https://www.bookstack.cn/
 
 **电子书格式：主要是在线阅读**
 
 程序员IT互联网开源编程书籍免费阅读， 书栈网整合了各类框架、软件、工具的官方说明文档，还有很多教程。
+
+天赋好书 分享开源电子书: https://www.cntofu.com/
+
+## 计算机能力测评
+
+LeetCode - The World's Leading Online Programming Learning Platform
+
+https://leetcode.com/
+
+攀拓（PAT）：https://www.patest.cn/home

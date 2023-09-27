@@ -27,6 +27,8 @@ Evidently AI：https://www.evidentlyai.com/
 
 来自Google。它是早期框架经验丰富的“第二代”深度学习库。TensorFlow可以从Python获得，包括[TensorBoard](https://www.youtube.com/watch?v=eBbEDRsCmv4)工具，它在调试和检查网络方面具有很大的优势。XLA编译工具提供了模型的最佳执行，同时TensorFlow Mobile为低功耗移动设备提供了机器学习支持。
 
+Playground: https://playground.tensorflow.org/
+
 Keras: https://keras.io/
 
 Python版本的TensorFlow深度学习API
@@ -38,7 +40,7 @@ Python版本的TensorFlow深度学习API
 
 ## PyTorch
 
-官网:http://pytorch.org/ ：Torch的后代，“把Python放在第一位”，PyTorch将torch带入热门的Python数据科学生态系统中。
+官网: http://pytorch.org/ ：Torch的后代，“把Python放在第一位”，PyTorch将torch带入热门的Python数据科学生态系统中。
 
 [发布于2017年](https://medium.com/intuitionmachine/pytorch-dynamic-computational-graphs-and-modular-deep-learning-7e7f89f18d1)，PyTorch支持动态计算图，而TensorFlow [目前不可](https://www.forbes.com/sites/quora/2017/07/10/is-pytorch-better-than-tensorflow/#6487ca2473b7)用，并提供比非动态替代方案更流畅的开发流程。
 

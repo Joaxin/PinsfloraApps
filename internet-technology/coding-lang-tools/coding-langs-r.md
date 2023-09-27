@@ -21,6 +21,7 @@ Find an R package by name, find package documentation, find R documentation, fin
 - R语言爬虫：RSelenium
 - https://www.tidyverse.org/, https://ggplot2.tidyverse.org/i
 - 生物信息：BSgenome
+- 展示： https://bookdown.org/yihui/blogdown/
 
 
 

@@ -1,45 +1,26 @@
-
-
-全球深度报道网:https://cn.gijn.org/
-
-台湾流行：https://www.popdaily.com.tw/
+## 综合咨询
 
 ZAKER: http://app.myzaker.com/
 
-careerengine: https://posts.careerengine.us/
+龙腾网：https://www.ltaaa.cn/
 
-Oxu: https://www.0xu.cn/list
+奇客资讯网 solidot: https://www.solidot.org/
+
+技点网： https://www.jidianwang.com/
 
 China Daily Website：http://www.chinadaily.com.cn/
 
-网不易：http://www.netnoease.com/
+goody25:https://www.goody25.com/ 
 
-龙腾网：https://www.ltaaa.cn/
+Oxu: https://www.0xu.cn/list
 
-solidot：https://www.solidot.org/
+## 全球报道
 
- https://www.jidianwang.com/
+全球深度报道网:https://cn.gijn.org/
 
-https://zh.osdn.net/
 
-http://www.dayanzai.me/
 
-http://map.ps123.net/
+## 港澳台
 
-https://www.topdodo.com/fanse
+台湾流行：https://www.popdaily.com.tw/
 
-https://www.yasuotu.com/xuanzhuan
-
-https://www.docdroid.net/
-
-https://www.civil-engineering-calculators.com/
-
-https://tabstospaces.com/
-
-https://29a.ch/
-
-https://www.tesicn.com/
-
-https://www.cam-recorder.com/
-
-https://earth.nullschool.net/zh-cn/#2018/12/15/0300Z/chem/surface/level/anim=off/overlay=so2smass/orthographic=-241.72,7.61,246/loc=114.362,30.582

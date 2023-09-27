@@ -283,8 +283,8 @@ chrome商店：https://chrome.google.com/webstore/detail/grammarly-for-chrome/kb
 - Highlight or Hide Search Engine Results： 搜索结果相同域名颜色高亮
   https://chrome.google.com/webstore/detail/highlight-or-hide-search/ilopipickdimglkalhckioobifbiinbk
   
-- IP Whois & Flags Chrome & Websites Rating：网站信息分析工具
-  https://chrome.google.com/webstore/detail/ip-whois-flags-chrome-web/kmdfbacgombndnllogoijhnggalgmkon
+- IP Whois & Flags Chrome & Websites Rating：网站信息分析工具 BY http://myip.ms/
+  https://chrome.google.com/webstore/detail/ip-whois-flags-chrome-web/kmdfbacgombndnllogoijhnggalgmkon, 可用Country Flags & IP Whois代替(https://chrome.google.com/webstore/detail/country-flags-ip-whois/bffjckjhidlcnenenacdahhpbacpgapo)
   
 - SimilarWeb - 网站流量来源和排名: 通过SimilarWeb扩展程序查看真实的深入网站参与、流量来源和网站排名信息
 

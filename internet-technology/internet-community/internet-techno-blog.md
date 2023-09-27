@@ -2,9 +2,9 @@
 
 阮一峰的网络日志：http://www.ruanyifeng.com/blog/
 
- 廖雪峰的官方网站：https://www.liaoxuefeng.com/
+廖雪峰的官方网站：https://www.liaoxuefeng.com/
  
- 追梦人博客：https://dream.ren/
+追梦人博客：https://dream.ren/
 
 coderschool：https://coderschool.cn/
 
@@ -16,9 +16,15 @@ LEAFER x LAB：https://leaferx.online/
 
 Litten的博客：https://litten.ctftools.com/
 
+Rat's Blog：https://www.moerats.com/
+
 幸福の家: https://www.xwteam.cn/
 
 藤之青: https://i.a632079.me/
+
+涅槃博客: https://nie.su/
+
+大象笔记：https://www.sunzhongwei.com/
 
 Super Long: https://www.cnblogs.com/javaTank/
 
@@ -34,6 +40,9 @@ crazyegg：https://www.crazyegg.com/blog/
 
 wpamelia: https://wpamelia.com/loading-animation/
 
+positronx：https://www.positronx.io/
+
+Nayuki：https://www.nayuki.io/
 
 ## 历史博客
 

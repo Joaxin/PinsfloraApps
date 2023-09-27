@@ -79,7 +79,10 @@ Winscp
 
 Everything
 
-## 文件中转站
+## 文件中转/协作
+
+文本中转分享： https://rustpad.io/
+> Rustpad is an open-source collaborative text editor based on the operational transformation algorithm.
 
 华为电脑管家
 
