@@ -36,6 +36,11 @@
 
 集成Kaku播放内核, 来自百度爱奇艺的视频播放器，支持几乎所有主流视频格式，支持截取gif以及强大的截图功能。
 
+## Filmly
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://filmly.163.com/)
+
+网易出品播放器, 聚合影片资源，智能识别影片信息，自动刮削封面海报，无需下载视频，流畅在线播放，跨平台跨设备同步，优雅打造私人影视库， 支持IOS，Android，TV，MAcOS.
+
 ## 射手影音
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.splayer.org/)
 
@@ -57,6 +62,14 @@
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.stellarplayer.com/)
 
 来自国产，支持超高清4K，蓝光HDR，ISO。支持多显卡AI协同解码、一键投屏甚至madVR的免费、无广告、无弹窗播放器。
+
+##  完美解码
+
+完美解码是一款为高清影视爱好者精心打造的影音解码包，能软硬件解码播放流行的视频和音频格式。集成多媒体播放器PotPlayer、MPC-HC、MPC-BE，分离器解码器套件LAV Filters，高画质渲染器madVR，支持中英语言安装使用，画质远超主流播放器！
+
+Pure Codec，https://jm.wmzhe.com/
+
+下载地址：https://www.wmzhe.com/ （此站下载速度慢，不推荐）
 
 ## ZY-Player
 
@@ -120,3 +133,8 @@ MPV是著名开源播放器mplayer和mplayer2的一个分支。
 
 来自vegas团队的支持[`Windows10` 、 `Android`、`iOS`]的VR播放器。
 
+## 其他播放器
+
+国产播放器：暴风影音
+
+QuickTime 

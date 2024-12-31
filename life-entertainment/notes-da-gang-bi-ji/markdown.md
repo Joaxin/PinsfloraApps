@@ -21,7 +21,7 @@ Obsidian is a powerful knowledge base that works on top of a local folder of pla
 
 **插件推荐:**
 
-- Remotely Save(同步插件)
+- Remotely Save(同步插件): https://github.com/remotely-save/remotely-save
 - Obsidian Git(GIT插件)
 - Excalidraw(白板插件)
 
@@ -102,6 +102,8 @@ Github: https://github.com/marktext/marktext
 一款强大可扩展的 Markdown 编辑器
 
 github: https://github.com/purocean/yn/releases
+
+网站插件：https://stackedit.io/
 
 ## 已停更
 

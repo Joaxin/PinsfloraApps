@@ -26,6 +26,8 @@ https://ilovefishc.com/
 
 https://www.itread01.com/
 
+CS61A： https://cs61a.org/
+
 ## 计算机算法
 
 https://the-algorithms.com/  
@@ -75,6 +77,10 @@ https://github.com/justjavac/free-programming-books-zh_CN
 程序员IT互联网开源编程书籍免费阅读， 书栈网整合了各类框架、软件、工具的官方说明文档，还有很多教程。
 
 天赋好书 分享开源电子书: https://www.cntofu.com/
+
+Nostarch：https://nostarch.com/
+
+IT书籍: https://www.cntofu.com/
 
 ## 计算机能力测评
 

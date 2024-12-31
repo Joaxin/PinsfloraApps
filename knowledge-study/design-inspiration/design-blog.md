@@ -47,14 +47,12 @@ http://www.imgii.com
 
 {% embed url="http://www.imgii.com" %}
 
-UECOOK设计社区 - 创意 - 插画： http://uecook.com/creativity/illustration
-
 https://www.mlito.com/#/
 
 ## 设计达人
 
-叶梓的i影术|Photographs by Leon Yeh： http://byleon.com/
-laufgestalt-new media I 3D I motion graphics： http://www.laufgestalt.net/
+~~叶梓的i影术|Photographs by Leon Yeh： http://byleon.com/~~
+~~laufgestalt-new media I 3D I motion graphics： http://www.laufgestalt.net/~~
 5
 Homepage The colours of my closet： https://www.thecoloursofmycloset.com/
 0
@@ -95,9 +93,15 @@ https://matomeno.in/
 
 https://vanschneider.com/
 
+
+
 https://www.awwwards.com/
 
 https://identitydesigned.com/
 
 https://packageinspiration.com/
+
+---
+
+~~UECOOK设计社区 - 创意 - 插画： http://uecook.com~~
 

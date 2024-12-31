@@ -6,7 +6,7 @@
 由于版权原因，通常这类网站存活时间不长或者经常变换网址，以下网址仅作参考, 失效的会定期删除。
 {% endhint %}
 
-![](../../.gitbook/assets/ai-qi-yi-teng-xun-shi-pin-you-ku-ge-shi-.png)
+![](../../../../../.gitbook/assets/ai-qi-yi-teng-xun-shi-pin-you-ku-ge-shi-.png)
 
 ## IIILab
 
@@ -31,6 +31,8 @@
 {% embed url="https://keepvid.pro/en48/" %}
 
 ## YouTube下载
+
+4K Video Downloader+： https://www.4kdownload.com/
 
 [https://en.savefrom.net/1-youtube-video-downloader-9/](https://en.savefrom.net/1-youtube-video-downloader-9/)
 

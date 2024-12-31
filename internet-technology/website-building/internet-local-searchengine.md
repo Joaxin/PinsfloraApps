@@ -6,6 +6,8 @@ https://www.elastic.co/
 
 Simple Elasticsearch Hosting：http://www.searchly.com/
 
+Searchly： http://www.searchly.com/
+
 ## Algolia
 
 提供全文、数值和分面搜索。

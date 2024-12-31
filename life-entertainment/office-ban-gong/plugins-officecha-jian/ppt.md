@@ -30,18 +30,21 @@ https://www.pptstore.net/
 
 https://www.slideshare.net/
 
+https://slideshop.com/
+
 https://slides.com/explore
 
 http://www.mobanwang.com/
 
+## PPT AI
 
-## PPT模板
+beautiful.ai: AI创建展示幻灯片, https://www.beautiful.ai/
+
+Tome: Tome - The AI-powered storytelling format， AI创作叙事性幻灯片, https://tome.app/
 
 SlidesAI: AI快速创建演示幻灯片, https://www.slidesai.io/
 
 ChatPPT: 必优科技推出的国内首个中文AI生成PPT的办公产品, https://chat-ppt.com/
-
-Tome: AI创作叙事性幻灯片, https://tome.app/
 
 Gamma App: https://gamma.app/, AI幻灯片演示生成工具
 
@@ -56,8 +59,6 @@ Powerpresent AI: AI创建精美的演示稿, https://powerpresent.ai/
 auxi: PowerPoint AI插件, https://www.auxi.ai/
 
 Chronicle:AI高颜值演示文稿创建, https://chroniclehq.com/
-
-beautiful.ai: AI创建展示幻灯片, https://www.beautiful.ai/
 
 歌者AI: 彩漩PPT推出的AI PPT生成工具, https://gezhe.caixuan.cc/
 

@@ -97,21 +97,25 @@ Why use a browser that treats you like one? Enjoy private, secure and fast brows
 
 由 Brendan Eich 开发的一款对tracking, cookie,ads等高度可控并强制拦截的浏览器，基于chromium，有效保护你的隐私，支持[`Windows` 、`macOS`、 `Linux`]。
 
-## Lunascape 
+## 其他国外浏览器
 
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.lunascape.tv/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
+**puffin**:  https://www.puffin.com/
 
-来自日本的三引擎，也即是同时支持Trident(IE)、 Gecko(Firefox)和WebKit的三叉戟浏览器。
+**Whale**: https://whale.naver.com/
 
-![](../../.gitbook/assets/z-study-browser-lunascape.png)
-
-## Whale 
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://whale.naver.com/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)
-
-由韩国Naver开发的基于chrome内核的鲸鱼浏览器。
+> 由韩国Naver开发的基于chrome内核的鲸鱼浏览器。
 
 ![Whale](../../.gitbook/assets/z-study-browser-whale.png)
 
+**Lunascape**: http://www.lunascape.tv/
+
+> 来自日本的三引擎，也即是同时支持Trident(IE)、 Gecko(Firefox)和WebKit的三叉戟浏览器。
+
+![](../../.gitbook/assets/z-study-browser-lunascape.png)
+
+Zeronet: https://zeronet.io/
+
+TOR: https://www.torproject.org/
 
 ## 国内浏览器
 

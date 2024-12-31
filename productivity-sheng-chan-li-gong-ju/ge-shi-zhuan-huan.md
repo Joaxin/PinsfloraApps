@@ -6,7 +6,7 @@
 
 ![#](../../.gitbook/assets/z-pro-convert-xnconvert.png)
 
-也可以查看Xnsoft的 [Xnview](https://www.xnview.com/en/)
+也可以查看Xnsoft的 [Xnview](https://www.xnview.com/en/)，文件预览工具
 
 ## HandBrake
 
@@ -36,7 +36,7 @@
 > 高质量的H264+AAC视频压制
 > ASS/SRT字幕内嵌到视频
 > AAC/WAV/FLAC/ALAC音频转换
-> MP4/MKV/FLV的无损抽取和封装
+> MP4/MKV/FLV(FLVExtract.exe)的无损抽取和封装
 
 https://maruko.appinn.me/
 
@@ -60,6 +60,8 @@ HD Video Converter Factory Pro is a feature-rich video editing software app for 
 
 https://www.videoconverterfactory.com/hd-video-converter/
 
+## 其他格式转换小工具
 
+NCM格式转换工具
 
 

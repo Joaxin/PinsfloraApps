@@ -108,17 +108,8 @@ https://akelpad.sourceforge.net/en/index.php
 
 支持宏，Unicode，最好用的强大超大文件编辑器。
 
-## UltraEdit
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.ultraedit.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
-
-一套功能强大的文本编辑器，可以编辑文本、十六进制、ASCII 码等。
-
-## Winhex
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.x-ways.net/winhex/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
-
-一款与UltraEdit并驾齐驱的16进制文件编辑与磁盘编辑软件。
-
 ## NimbleText
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://nimbletext.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 > Manipulate text and data with light-weight patterns
@@ -128,6 +119,30 @@ https://akelpad.sourceforge.net/en/index.php
 桌面版: http://nimbletext.com/
 
 在线版: http://nimbletext.com/Live
+
+## 十六进制编辑器
+
+### UltraEdit
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.ultraedit.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
+
+一套功能强大的文本编辑器，可以编辑文本、十六进制、ASCII 码等。
+
+### Winhex
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.x-ways.net/winhex/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
+
+一款与UltraEdit并驾齐驱的16进制文件编辑与磁盘编辑软件。
+
+### Hex Editor
+
+一款功能全面的文件编辑器工具,支持界面的选择,文件管理选项等等,允许自定义成最快捷的观看方式,打开压缩包的位置等, 支持手机版。
+
+第三方下载链接: https://hexeditor.en.softonic.com/
+
+### HXD Hex Editor
+
+一款简单的十六进制编码处理软件。通过HxD最新版软件用户可以快速打开大容量的文件,还能够进行基本的十六进制编码处理操作。
+
+
 
 
 

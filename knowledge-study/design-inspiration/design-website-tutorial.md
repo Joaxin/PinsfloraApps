@@ -8,24 +8,21 @@
 
 站酷：https://www.zcool.com.cn/
 
-## 设计教程
-
 Envato Tuts+：
 
 - https://design.tutsplus.com/
 - https://webdesign.tutsplus.com/
+- https://themeforest.net/
+
+## 设计教程
 
 优优教程网：https://uiiiuiii.com/
-
-https://www.sheui.net/
 
 oeasy，会玩才会学：http://oeasy.org/
 
 Douyoudo：https://www.doyoudo.com/
 
 ## Adobe系列
-
-PS笔刷吧：https://brushes8.com/
 
 ps教程自学网：http://www.16xx8.com/
 

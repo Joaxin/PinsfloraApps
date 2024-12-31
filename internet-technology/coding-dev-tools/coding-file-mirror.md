@@ -2,19 +2,21 @@
 
 稳定、快速、免费的前端开源项目 CDN 加速服务：https://www.bootcdn.cn/
 
-75CDN：https://cdn.baomitu.com/
-
 ## 镜像服务
 
 网易镜像：http://mirrors.163.com/
 
 阿里镜像：https://opsx.alibaba.com/mirror
 
+> 淘宝NPM：https://npm.taobao.org/
+
+腾讯镜像: https://mirrors.cloud.tencent.com/
+
 搜狐镜像：http://mirrors.sohu.com/
 
 首都在线科技股份有限公司：http://mirrors.yun-idc.com/
 
-中国科技大学：https://mirrors.ustc.edu.cn/
+中国科技大学USTC：https://mirrors.ustc.edu.cn/
 
 清华大学：https://mirrors.tuna.tsinghua.edu.cn/
 
@@ -31,8 +33,6 @@
 ---
 
 豆瓣pypi：https://pypi.doubanio.com/
-
-淘宝NPM：https://npm.taobao.org/
 
 Fedora 中文社区软件源：https://zh.fedoracommunity.org/repo/
 

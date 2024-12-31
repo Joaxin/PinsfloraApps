@@ -24,8 +24,8 @@
 
 GUI工具:http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools 
 
-
 ### MySQL
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.mysql.com) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![MYsql](https://img.shields.io/badge/Version-8.0.22-ff55bb.svg)
 
 > 世界上功能最流行的开源数据库
@@ -36,7 +36,10 @@ GUI工具:http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tool
 
 一个开源的关系型数据库管理系统，任何人都可以在GPL的许可下下载并根据个性化的需要对其进行修改。由瑞典MySQL AB 公司开发，属于 Oracle 旗下产品。
 
+Navicat for MySQL：MySQL 数据库管理和开发工具，https://www.navicat.com.cn/products/navicat-for-mysql/， 付费
+
 ### DB2
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.ibm.com/analytics/db2) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) 
 
 IBM公司开发的、主要运行于Unix（包括IBM自家的[AIX](https://zh.wikipedia.org/wiki/AIX)）、Linux、以及Windows服务器版等系统的关系数据库产品。DB2历史悠久且被认为是最早使用SQL的数据库产品，它拥有较为强大的商业智能功能。

@@ -8,9 +8,13 @@ PromptHero: 发现Stable Diffusion、ChatGPT和Midjourney的提示用语
 
 提示工程指南: https://www.promptingguide.ai/zh
 
+https://prompthero.com/
+
 ## chatGPT 指令
 
 Hello-AI:  https://hello-ai.anzz.top/
+
+This repo includes ChatGPT prompt curation to use ChatGPT better：https://github.com/f/awesome-chatgpt-prompts
 
 chatGPT 学习导航：https://learningprompt.wiki/docs/chatgpt-learning-path
 

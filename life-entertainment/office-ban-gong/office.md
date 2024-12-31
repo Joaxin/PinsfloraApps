@@ -18,10 +18,12 @@ Access
 OneDrive (for Business)
 OneNote
 Outlook
-Project
 Publisher
 Skype (for Business)
-Visio
+
+Project: 一种专门用于项目管理和项目时间表的工具
+
+Visio：一种专门用于创建流程图、组织图、工作流程和其他各种图表的工具
 
 - [Microsoft Office Removal Tool](https://support.microsoft.com/zh-cn/office/%E4%BB%8E-pc-%E5%8D%B8%E8%BD%BD-office-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?ui=zh-cn&rs=zh-cn&ad=cn)
 - Office Tool Plus：基于Office Deployment Tool，轻松部署安装Office。![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) https://otp.landian.vip

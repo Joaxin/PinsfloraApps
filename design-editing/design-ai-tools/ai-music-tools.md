@@ -12,9 +12,17 @@ Adobe Podcast:https://podcast.adobe.com/
 
 > AI-powered audio tools that elevate your voice
 
+离线工具：https://github.com/Const-me/Whisper
+
+其他工具诸如讯飞听见、字幕酱、剪映等
+
 ## 文本转语音工具
 
+使用谷歌Cloud或者微软的云服务Azure
+
 NaturalReader：https://www.naturalreaders.com/
+
+VoiceWave-Voice Control ChatGPT语音浏览器插件
 
 WellSaid Labs：https://wellsaidlabs.com/，文本转语音工具
 
@@ -32,7 +40,7 @@ Veed AI Voice Generator：https://www.veed.io/tools/text-to-speech-video/ai-voic
 
 Typecast：https://typecast.ai/，文字转语音生成器
 
-ElevenLabs: https://elevenlabs.io/, 含中文
+ElevenLabs: https://elevenlabs.io/, Generative Voice AI，含中文
 
 悦音配音：https://yueyin.zhipianbang.com/
 
@@ -57,6 +65,10 @@ Voicemod：https://www.voicemod.net/ai-voices/， AI变声
 Voice.ai：https://voice.ai/，AI变声工具
 
 MetaVoice：https://themetavoice.xyz/，AI变声工具
+
+Overdub: https://www.descript.com/overdub, BY https://www.descript.com/
+
+语音克隆工具：https://github.com/babysor/MockingBird/blob/main/README-CN.md
 
 ## AI创作
 

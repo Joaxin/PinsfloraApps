@@ -45,11 +45,17 @@ AxMath是一款实用的数学公式编辑器软件，拥有强大的编辑、�
 
 https://www.axsoft.co/product/axmath/
 
-### myscript
+### MyScript
 
-将手写公式转为 LaTeX 代码
+官网： https://www.myscript.com/
 
-https://webdemo.myscript.com/
+DEMO： https://webdemo.myscript.com/
+
+将手写公式转为 LaTeX 代码， 其中MyScript Calculator支持iOS和Android(https://www.myscript.com/calculator)
+
+### InftyReader
+
+一款由日本人开发的功能强大的手写公式识别工具， 支持文档图片识别。
 
 ### Detexify
 
@@ -57,13 +63,13 @@ LaTeX符号
 
 http://detexify.kirelabs.org/classify.html
 
-**Latex在线工具**
+## LaTeX小工具
 
-[http://www.sciweavers.org/free-online-latex-equation-editor](http://www.sciweavers.org/free-online-latex-equation-editor)
+Latex转gif: ``http://latex.codecogs.com/gif.latex?O(n^2)`` ![http://latex.codecogs.com/gif.latex?O(n^2)](http://latex.codecogs.com/gif.latex?O(n^2))
+
+Latex 转换成图片：[http://www.sciweavers.org/free-online-latex-equation-editor](http://www.sciweavers.org/free-online-latex-equation-editor)
 
 ![](<../../.gitbook/assets/image (6).png>)
-
-## Office LaTeX小工具
 
 Excel转Latex：https://ctan.org/tex-archive/support/excel2latex
 

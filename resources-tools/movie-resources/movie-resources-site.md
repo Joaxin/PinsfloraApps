@@ -27,6 +27,8 @@ https://www.wandou.pro/
 
 ## 影视在线
 
+可爱TV: https://keai.cm/, 聚合搜索全网优质影视资源
+
 厂长资源：https://czspp.com/
 
 酷片网: [http://www.kupian.cc/](http://www.kupian.cc)
@@ -36,6 +38,8 @@ https://www.wandou.pro/
 冬瓜电影网: [http://www.dgyytv.com/](http://www.dgyytv.com)
 
 电影蜜蜂: [https://www.idybee.com/](https://www.idybee.com)
+
+不太灵影视: https://www.2bt0.com/
 
 蛋蛋赞影院: https://www.dandanzan.com/
 
@@ -52,8 +56,6 @@ holefly: https://www.holeflix.xyz/
 拇指影院：https://www.muzhiwan.com/
 
 https://www.5ying.fun/
-
-https://chnnetflix.com/
 
 电影先生：https://dianying.im/
 
@@ -77,7 +79,6 @@ Gimy TV：https://gimy.app/
 
 追剧达人：https://zhuijudr.com/
 
-鸭奈飞：https://yanetflix.com/
 
 美剧网：https://mjw21.com/
 
@@ -115,8 +116,6 @@ App影院：https://app.movie/
 
 555电影网：https://www.555dy.com/
 
-鸭奈菲影视：[https://netflixya.com](https://netflixya.com/)
-
 欧乐：https://www.olevod.com/
 
 多瑙：https://www.duonaovod.com/
@@ -151,7 +150,7 @@ COKEMV：https://cokemv.me/
 
 城市电影：https://www.citydy.com/
 
-爱壹帆影视：https://www.iyf1.tv/
+爱壹帆影视：https://www.iyf1.tv/  https://www.iyf.tv/ 
 
 泥视频：https://m1.nivod.tv/
 
@@ -181,13 +180,17 @@ https://www.dmxq.fun/
 
 蜥蜴影视： https://xi1.net/
 
+LIBVIO:  网址发布页, https://iioo.me/
+
+片库网: www.btnull.org (需登录才能使用)
+
 Gimy TV 剧迷影視： https://gmtv1.lol/
 
 hdzyk：https://1080zyk3.com/
 
 电影先生：[http://www.dianyingim.com](http://www.dianyingim.com/)
 
-8 K 影视：http://www.8kvod.com/
+8K 影视：http://www.8kvod.com/
 
 金鹰资源采集网：https://jinyingzy.net/
 
@@ -207,7 +210,7 @@ KKDY live：https://www.kkdy.live/
 
 KM影视：https://www.mkvdo.com/
 
-在线之家：https://zxzj.vip/
+在线之家：www.zxzja.com,  发布页:www.zxzj.site
 
 其它：
 
@@ -215,19 +218,15 @@ https://www.549.tv/
 
 [https://wandou.pro](https://wandou.pro/)
 
-[https://d1-dm.online](https://d1-dm.online/)
-
 [https://wandou.pro](https://wandou.pro/)
 
-https://nl.yuque.tk/
-
-https://www.renren.pro/
-
-乐猪TV(手机站）：[http://www.lezhutv.com](http://www.lezhutv.com/)
+https://www.renren.pro/ 
 
 ## 影视App
 
 小鹿影视：https://www.xiaoluys.me/， 电影，剧集，综艺，动漫，支持安卓APP， APP下载地址: https://1080.love/
+
+可可影视:  https://www.keke13.com/  www.kekys.com  支持IOS， 安卓，Win， TV，  https://dl.keke12.com:51111/index.html#app
 
 乐看视频：[https://lekan.app](https://lekan.app/)， 一款专注于蓝光画质的聚合影视搜索引擎APP，提供高质量的追剧体验, WEB网站可忽略
 
@@ -251,4 +250,4 @@ https://www.renren.pro/
 
 小柿子影视 : https://xszys.com/
 
-奈飞影视： [https://hdo.app](https://hdo.app/)
+特狗影视：https://www.tegouys.com/app/

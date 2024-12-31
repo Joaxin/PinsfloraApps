@@ -104,7 +104,7 @@ https://temp-mail.org/
 
 ## 虚拟号码
 
-虚拟手机号：https://sms-activate.org/cn/info/freeprice
+SMS-Activate虚拟手机号：https://sms-activate.org/cn/info/freeprice
 
 [https://www.spoofbox.com/](https://www.spoofbox.com/)
 
@@ -119,3 +119,11 @@ https://temp-mail.org/
 > Free Texting & Calling App \| Wireless Cell Phone Plans \| TextNow
 
 Burner APP： https://www.burnerapp.com/
+
+---
+
+https://sms-activate.org/， smspva、cheapSMS、5Sim
+
+## 虚拟支付
+
+DePay虚拟卡

@@ -82,6 +82,8 @@ https://www.zhiyunwenxian.cn/
 
 ## AI翻译工具
 
+Make bilingual epub books Using AI translate: https://github.com/yihong0618/bilingual_book_maker
+
 象寄翻译：https://www.xiangjifanyi.com/home/
 
 > 支持中英日韩欧美东南亚等多国语言，便捷的图片/短视频精修工具，支持API调用，轻松打造精品出海内容素材

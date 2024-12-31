@@ -2,13 +2,15 @@
 
 ## 二维码
 
-https://www.qrcode-monkey.com/
+QR MONKEY： https://www.qrcode-monkey.com/
 
-https://qr-creator.com/
+> 支持URL，文字，邮件地址，电话，短信，名片，位置， 社交信息等转二维码， 支持自定义二维码样式
 
-https://www.the-qrcode-generator.com/
+QR CREATOR: https://qr-creator.com/
 
-https://www.qrcode-tiger.com/
+https://www.the-qrcode-generator.com/, 创建商业化的二维码样式
+
+QR TIGER： https://www.qrcode-tiger.com/
 
 二维码生成器：[https://mh.cli.im/](https://mh.cli.im/)
 
@@ -16,17 +18,33 @@ https://www.qrcode-tiger.com/
 
 ![二维码生成器](https://i.imgur.com/NqIFL7t.png)
 
-二维工场：[www.2weima.com](https://github.com/Joaxin/PinsfloraURLs/tree/6a64b1e0e8d012b1b4a72263a382964b0f1f8184/design/www.2weima.com)
+二维工场：https://www.2weima.com/
 
 > 二维码生成、营销以及签到等。
 
-第九工场：[www.9thws.com](https://github.com/Joaxin/PinsfloraURLs/tree/6a64b1e0e8d012b1b4a72263a382964b0f1f8184/design/www.9thws.com)
-
-> 死磕艺术二维码
+第九工场：www.9thws.com
 
 微微二维码: [https://www.wwei.cn/](https://www.wwei.cn/)
 
+**AI艺术二维码** 
+
+主要用到模型，https://civitai.com/models/111006， Controlnet QR Pattern：https://civitai.com/models/90940， brightness： https://huggingface.co/ioclab/control_v1p_sd15_brightness/tree/main
+
+二维码生成：https://gchq.github.io/CyberChef/#recipe=Generate_QR_Code('PNG',16,0,'High')
+
+二维码常识解析: GIthub： https://www.nayuki.io/page/creating-a-qr-code-step-by-step
+
 ## 品牌标志
+
+品牌命名AI工具：
+
+- Namelix(A图像增强技术提高照片和视频质量提高图像分辩率和真实细节): https://namelix.com/   
+
+- Looka: https://looka.com/business-name-generator/   
+
+- NameSnack, Business Name Generator: https://www.namesnack.com/
+
+---
 
 某樱花的图片生成\(超科学的电磁炮\) : [http://to-a.ru/](http://to-a.ru/)
 
@@ -69,6 +87,8 @@ Logo, Brand & Identity Inspiration
 > avataaars generator is a free online avatar generator for anyone to make their beautiful personal avatar easily! If you have no idea what kind of style you want, you can hit the random button at the very top of page until you find something you want.
 
 [https://getavataaars.com](https://getavataaars.com)
+
+gravatar：http://gravatar.com/
 
 接头霸王:[https://lab.bangbang93.com/kyaru-head](https://lab.bangbang93.com/kyaru-head)
 

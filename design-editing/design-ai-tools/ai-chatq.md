@@ -12,6 +12,14 @@ ChatGPT Web合集:  https://chatgpts.ninvfeng.xyz/
 
 国内可用的 ChatGPT :https://chatgpt.quickso.cn/  / https://lzw.me/x/chatgpt-sites/
 
+Awesome-chatgpt：https://github.com/eon01/awesome-chatgpt
+
+ChatGPT, Generative AI and GPT-3 Apps and use cases: https://gpt3demo.com/
+
+GPT-4 Apps and Generative AI and use cases: https://gpt4demo.com/
+
+The Discovery Platform for AI Tools: https://allthingsai.com/
+
 ## 免费GPT4网站
 
 1. 使用NEW BING或者Perplexity AI

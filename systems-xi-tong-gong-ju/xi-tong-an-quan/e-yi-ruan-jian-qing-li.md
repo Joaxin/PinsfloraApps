@@ -1,19 +1,27 @@
 ## Sandboxie
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.sandboxie.com/)
 
-类似于[Windows Sandbox(Win10)](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/Windows-Sandbox/ba-p/301849)的知名沙盒的隔离软件,貌似要开源。
+类似于[Windows Sandbox(Win10)](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/Windows-Sandbox/ba-p/301849)的知名沙盒的隔离软件, 已开源。
 
 ## Bitdefender
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.bitdefender.com/)
 
-出自罗马尼亚Bitdefender(比特梵德)的防范恶意软件的安全防护程序，它家也可下载Ransomware勒索病毒解密程序。
+出自罗马尼亚Bitdefender(比特梵德)的防范恶意软件的安全防护程序，也可下载Ransomware勒索病毒解密程序。
 
 ## Malwarebytes
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.malwarebytes.org/)
 
 出自toolslib公司的一款反恶意反间谍软件。
 
+## SfabAntiBot
+
+由深信服安全产品研发团队开发的一款僵尸网络查杀工具。它是一款集本地查杀与云查杀功能于一体的恶意软件查杀工具，支持多引擎查杀，可以识别现有网络上大多数活跃的病毒威胁。
+
+https://edr.sangfor.com.cn/botnet_killing.html
+
 ## SpyBot
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.safer-networking.org/)
 
 一款高效清理间谍程序和恶意软件的工具。

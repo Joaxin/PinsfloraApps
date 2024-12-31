@@ -16,7 +16,7 @@
 
 ## LICEcap
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.cockos.com/licecap/) ![time_whathappened](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/time_whathappened.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/justinfrankel/licecap/tree/master/licecap)
-非常小巧的工具， 捕获屏幕动画并直接保存到.GIF。
+416KB非常小巧的工具， 捕获屏幕动画并直接保存到.GIF。
 
 ## oCam
 

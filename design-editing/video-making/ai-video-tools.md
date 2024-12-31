@@ -12,9 +12,11 @@ Github: https://infinite-nature.github.io/
 
 ----
 
-Rask：AI视频本地化解决方案，https://www.rask.ai/
-
 Runway: AI视频制作工具，绿幕抠像、视频合成等, https://runwayml.com/green-screen/
+
+D-ID: https://www.d-id.com/, Create AI Videos and interact with talking AI avatars using D-ID’s API or Creative Reality™ studio.
+
+Rask：AI视频本地化解决方案，https://www.rask.ai/
 
 Neurodub：端到端的AI视频语音本地化工具，https://neurodub.ai/
 

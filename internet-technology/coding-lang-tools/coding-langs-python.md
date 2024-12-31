@@ -16,6 +16,8 @@ is Open.
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) 最新版：https://www.python.org/ftp/python/
 
+Anaconda下载地址: https://www.anaconda.com/download/success
+
 ## Awesome Python
 
 - Awesome Python：https://github.com/vinta/awesome-python

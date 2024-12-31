@@ -15,17 +15,31 @@
 
 ![plugins](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/plugins.svg) AuftoCorrect for English
 
+Awesome AutoHotkey: https://github.com/ahkscript/awesome-AutoHotkey
+
 ## AutoIt v3
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.autoitscript.com/site/autoit/)
 
 类`BASIC`脚本语言，用于Windows GUI的自动化, AutoHotKey的替代品
 
 ## FastKeys
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.fastkeysautomation.com/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 功能强大的一体化Windows自动化软件，能够自动化包括文件扩展器、开始菜单、手势、和用户命令等, 从而自动执行计算机上任何操作。
 
+类似文本扩展还有工具(text expander)有:
+
+Text Blaze: https://blaze.today/ (Eliminate repetitive typing and mistakes)
+
+Beeftext: https://beeftext.org/, An open-source text substitution tool for Windows.
+
+## Power Automate For Desktop
+
+Power Automate for Desktop (以下简称PAD)是微软推出的一款针对Windows桌面端的免费RPA(机器人流程自动化)工具,它目前默认会随着Windows 11安装,但也可以通过单独下载安装。
+
 ## GestureSign
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://gesturesign.win) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/TransposonY/GestureSign)
 
 > GestureSign is a gesture recognition software for Windows. You can automate repetitive tasks by simply drawing a gesture with your fingers, pen or mouse.
@@ -49,6 +63,10 @@ Mouse Inc，国人开发的便携式小巧的全局鼠标手势软件, 支持鼠
 一款模拟鼠标键盘动作的免费、绿色软件。
 
 下载地址: https://meta.appinn.net/t/topic/44741
+
+万能按键模拟器：单文件绿色版
+
+鼠标点击器.exe：单文件绿色版
 
 ## 按键精灵
 

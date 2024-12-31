@@ -16,6 +16,8 @@ SJY: [www.th-sjy.com](http://www.th-sjy.com/)
 
 系统迷：[www.xitmi.com](https://www.xitmi.com/)
 
+> Windows 技术教程 软件分享
+
 大眼仔旭: [www.dayanzai.me](http://www.dayanzai.me/)
 
 清新范QXFUN.COM:  [www.qxfun.com](http://www.qxfun.com/)
@@ -26,13 +28,23 @@ SJY: [www.th-sjy.com](http://www.th-sjy.com/)
 
 杂铺: [tmioe.com](https://tmioe.com/)
 
+蜗牛资源: https://woniu18.club/
+
 缙哥哥 :[www.dujin.org](https://www.dujin.org/)
+
+阿龙工具箱: https://alonggjx.com/
 
 大手拉小手: [www.handme.net](http://www.handme.net/)
 
+蜗牛分享：https://woniu18.club/
+
 [www.cccitu.com](https://www.cccitu.com/)
 
+AHHHFS: https://www.ahhhhfs.com/
+
 微当下载: [www.weidown.com](https://www.weidown.com/)
+
+前线资源：https://www.yijingying.com/
 
 国光 - 分享与收获：[www.sqlsec.com](https://www.sqlsec.com/)
 
@@ -45,6 +57,8 @@ SJY: [www.th-sjy.com](http://www.th-sjy.com/)
 QiuQuan's Blog | 精品软件分享博客，专注于软件的绿化、精简与优化 : [www.qiuquan.cc](http://www.qiuquan.cc/)
 
 云梦 | 一个分享 Android/Linux/Windows 经验的网站: [www.htcp.net](https://www.htcp.net/)
+
+xclient: http://xclient.info/
 
 ## 已关闭
 

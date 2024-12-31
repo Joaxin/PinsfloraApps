@@ -24,19 +24,27 @@
 
 来自毛子的搜索引擎：https://yandex.com/
 
-### Naver
+### Wolfram_Alpha
 
-韩国国民级搜索引擎: [https://www.naver.com/](https://www.naver.com)
+[WIKI W|A](https://zh.wikipedia.org/wiki/Wolfram_Alpha)， 知识搜索引擎
 
 ### DuckDuckGo
 
-支持匿名同步到云端，不多说
+总部位于美国宾夕法尼亚州, 主张维护用户的隐私权，并承诺不进行[用户跟踪](https://en.wikipedia.org/wiki/Website_visitor_tracking)、不记录用户的搜索内容, 支持匿名同步到云端，不多说
 
 https://duckduckgo.com/
 
 DuckDuckGo Privacy Essentials 插件: [https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 
-## 已暂停服务
+## 其他搜索服务
+
+> 不推荐
+
+- Ask：https://www.ask.com/
+- Ecosia: 公益网页搜索引擎，搜索源是bing
+- Qwant: 法国搜索引起，类似于DDG, 网址: https://www.qwant.com/
+- Startpage: 类似于DDG,  https://www.startpage.com/
+- 韩国国民级搜索引擎Naver: [https://www.naver.com/](https://www.naver.com)
 
 > 已暂停服务:&#x20;
 

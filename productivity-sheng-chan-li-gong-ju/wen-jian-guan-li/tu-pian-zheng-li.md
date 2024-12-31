@@ -38,6 +38,8 @@ Zoner Photo Studio(数码照片管理工具)是一款非常实用的数码照片
 
 ## ImageGlass
 
+轻量级图片预览软件
+
 A lightweight, versatile image viewer
 
 https://imageglass.org/

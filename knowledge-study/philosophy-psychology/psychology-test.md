@@ -18,3 +18,5 @@ psycho-tests：https://psycho-tests.com/
 https://www.eclecticenergies.com/enneagram/test-2
 
 https://www.psychologyjunkie.com/introduction-shadow-functions/
+
+神话传说: https://shmythology.lofter.com/

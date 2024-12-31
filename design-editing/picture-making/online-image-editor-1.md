@@ -4,6 +4,20 @@ description: Online image editor
 
 # 在线图片制作
 
+### 迅排设计
+
+一款漂亮且功能强大的在线图片设计器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等，让设计更简单！A beautiful online image designer, suitable for various scenarios like generate posters, making design easier.
+
+> 划重点：免登录免费在线作图
+
+官网：https://design.palxp.cn/
+
+官网文档：https://xp.palxp.cn/
+
+PSD模板解析: https://design.palxp.cn/psd
+
+Github：https://github.com/palxiao/poster-design （前端部分开源）
+
 ## **Canva**
 
 [https://www.canva.com/](https://www.canva.com/)
@@ -69,6 +83,8 @@ https://qiye.gaoding.com/
 ## AI 设计工具
 
 Designs.ai： AI设计工具， https://designs.ai/
+
+AutoFraw: 
 
 Microsoft Designer: 微软推出的在线设计海报和宣传图工具, https://designer.microsoft.com/
 

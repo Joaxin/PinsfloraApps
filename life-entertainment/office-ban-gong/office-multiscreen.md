@@ -46,7 +46,8 @@ QtScrcpy: https://github.com/barry-ran/QtScrcpy
 
 > Android real-time display control software
 
-## AnLink
+**AnLink国产增强版**
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://cn.anlinksoft.com/ )
 
 官网：https://anl.ink/
@@ -54,6 +55,14 @@ QtScrcpy: https://github.com/barry-ran/QtScrcpy
 下载：https://cn.anlinksoft.com/download/
 
 支持所有品牌的Android手机,WiFi和USB连接,多点触控,共享剪贴板等， 仅用于Windows。
+
+**网页版**
+
+在浏览器中控制手机
+
+https://github.com/yume-chan/ya-webadb
+
+https://app.tangoapp.dev/
 
 ## ReDroid
 
@@ -67,17 +76,31 @@ Github: https://github.com/LionelJouin/PiP-Tool (画中画，最近更新2019，
 
 ## 串流软件
 
-**MoonLight（SunLight）**: 一款开源的游戏串流软件，支持将PC上的游戏串流到其他设备上。它支持多种平台，包括安卓、iOS、Windows、Mac和Linux。
+> Streaming (串流处理) 是指透过网际网路传输数位音讯或视讯。声音和影像资料会以资料流的方式传送给用户，因此使用「串流处理」这个名词。串流处理的主要优势是使用者不需等待下载完成就可以检视或收听所接收的媒体。
 
-https://moonlight-stream.org/
+----
 
-https://github.com/moonlight-stream
+**MoonLight（SunLight）**: Moonlight是NVIDIA开源项目之一，可以方便的将PC电脑画面传输到各主流操作系统的客户端甚至谷歌浏览器上，交互支持键鼠/手柄/触摸屏/触控板/触控笔，就像用自己的电脑一样方便。 支持多种平台，包括安卓、iOS、Windows、Mac和Linux。
 
-**Steamlink**: 由Steam出品的串流软件，可以将PC上的游戏串流到其他设备上。
+> 客户端CLIENT指观看画面的设备，主机指运行SUNSHINE的电脑, 三个端口打开命令如下：
+>
+> ```bash
+> netsh advfirewall firewall add rule name="GameStream UDP" dir=in protocol=udp localport=5353,47998-48010 action=allow
+> netsh advfirewall firewall add rule name="GameStream TCP" dir=in protocol=tcp localport=47984,47989,48010 action=allow
+> ```
+
+Moonlight官网地址：https://moonlight-stream.org/
+
+Github地址：https://github.com/moonlight-stream 
+
+**Steamlink**: 由V社 Steam出品的串流软件，可以将PC上的游戏串流到其他设备(ios，平板，电视等设备等)上。
 
 **AMD Link**是AMD官方出品的串流软件，支持使用AMD显卡进行串流。
 
 https://www.kast.gg/： Watch parties made easy.
+
+**Parsec：**https://www.bilibili.com/video/BV1vF411j7bc (可能是世界上最好的远程控制软件——parsec) 
+注意： Parsec属于商业软件，Parsec没公网ip寄一半
 
 ## 国内手机电脑生态
 

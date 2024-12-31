@@ -1,5 +1,13 @@
+## Pixpin
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://pixpin.cn/) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg)  ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
+
+一个简单、强大、轻便的免费多功能截图/贴图工具,   提供多种图像截图编辑工具，用户可以进行滤镜、剪裁、标注加文字、长截图、OCR、屏幕录制gif等操作
+
+帮助文档: https://pixpin.cn/docs/
+
 ## Snipaste
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.snipaste.com) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Snipaste)
+
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.snipaste.com) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/Snipaste)  ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
 一款由国人开发的，支持多功能截图(包括涂鸦、马赛克、画画)的跨平台(`WindowsU` 、`macOS`、`UWP`)开源截图软件。
 

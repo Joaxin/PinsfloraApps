@@ -1,3 +1,5 @@
+
+
 ## 信息安全网站
 
 - https://www.virusbulletin.com/
@@ -14,14 +16,22 @@ bleepingcomputer：https://www.bleepingcomputer.com/
 ## 加密算法
 
 https://www.martinstoeckli.ch/
+
 https://www.martinstoeckli.ch/hash/en/hash_plaintext.php
+
+NAYUKI：https://www.nayuki.io/
 
 ## 加密工具
 
 PASSWORD HASH IDENTIFICATION：https://www.onlinehashcrack.com/hash-identification.php
-https://pmd5.com/
-https://www.cmd5.com/
+
+MD5: https://www.cmd5.com/
 
 ## 加密网站
 
-2FA：https://authy.com/
+2FA(双因素认证工具)：https://authy.com/
+
+## 参考资料
+
+- Bruce Schneier《应用密码学》
+- https://en.wikipedia.org/wiki/Wojciech_Kossak

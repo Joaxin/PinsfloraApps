@@ -8,11 +8,12 @@ JetBrain出品的跨平台[`Windows` 、`macOS`、 `Linux`]的数据库管理工
 ##  DB Browser for SQLite
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://sqlitebrowser.org/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/sqlitebrowser/sqlitebrowser)
 
-一个小巧强大的`SQLite`的开源数据库工具。
+一个小巧强大的`SQLite`的开源数据库工具， 。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) http://www.sqlitebrowser.org/dl/ 
 
 ## HeidiSQL
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.heidisql.com/) ![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)
 
 一款支持MySQL, MariaDB, Mircosoft SQL Server 和 PostgreSQL 的开源数据库管理工具。

@@ -59,3 +59,11 @@ https://www.microsoft.com/en-us/swiftkey
 [RIME | 中州韻輸入法引擎](https://rime.im/)：基于中州韵输入法引擎的小巧简洁的跨平台(`Windows` 、`macOS`、 `Linux`、 `Android[同文]`)开源可扩展自定义的中文+繁体输入法。
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://rime.im/download/
+
+## 落格输入法
+
+落格输入法 是 macOS 和 iOS 平台进行中文输入的绝佳选择。不论你使用的是全拼、双拼还是五笔，是郑码、兮码还是快笔，你都可以在落格输入法中继续输入。
+
+官网https://im.logcg.com/ 
+
+落格智聊 CHAT-AI， 支持全平台下载：https://im.logcg.com/chat-ai  / https://www.chatai.lol/

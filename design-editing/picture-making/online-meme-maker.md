@@ -44,9 +44,8 @@ https://9gag.com/
 
 TENOR：https://tenor.com/
 
-斗图网站 https://www.doutula.com/
+斗图网站 https://www.doutupk.com/
 
-https://en.dopl3r.com/
 
 https://usagif.com/
 
@@ -60,13 +59,13 @@ Emojipedia: https://emojipedia.org/
 
 Get emoji: https://getemoji.com/
 
- emoji表情大全：https://www.emojidaquan.com/
-
 emoji搜索，https://www.fastemoji.com/, https://www.fastemote.com/
 
 Emoji meanings: https://www.emojimeanings.net/
 
 https://www.boredpanda.com/art-history-memes/
+
+Emoji Cheat Sheet: https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
 ## 表情包生成
 

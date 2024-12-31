@@ -5,7 +5,7 @@
 
 > MDN: The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.
 
-[https://developer.mozilla.org](https://developer.mozilla.org)
+MDN: [https://developer.mozilla.org](https://developer.mozilla.org)
 
 > alligator：Front-End Web Development,Chewed Up
 
@@ -25,7 +25,7 @@ Scrimba: https://scrimba.com/allcourses
 
 Sololearn: https://www.sololearn.com/
 
-易百教程: http://www.yiibai.com/
+易百教程: http://www.yiibai.com/ (疑似停止维护)
 
 Top Shelf Web Development Training ― Scotch.io: https://scotch.io/
 
@@ -54,33 +54,14 @@ Vanilla JS in 30 days (注册登录) ： [https://javascript30.com/](https://jav
 * [x] 材料：[https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
 * [x] 参考： [https://github.com/soyaine/JavaScript30](https://github.com/soyaine/JavaScript30)
 
-> ECMA
-
-ECMAscript： [https://tc39.es/ecma262/](https://tc39.es/ecma262/)
-
-```
- $ npm install -g es-checker $ es-checker
-```
 
 State of JS（JS技术统计网站）：[https://stateofjs.com/](https://stateofjs.com)
 
-## CSS
-
-CSS ZEN GARDEN: http://csszengarden.com/
-
-css-tricks：[https://css-tricks.com/](https://css-tricks.com)
-
-[http://tympanus.net/codrops/](http://tympanus.net/codrops/)
-
-CSS DECK: https://cssdeck.com/
-
-Free CSS: https://www.free-css.com/
-
-## Github
+**书籍:** 《JavaScript 权威指南》
 
 Github javascript-tutorial 组织: [https://github.com/javascript-tutorial](https://github.com/javascript-tutorial)
 
-You Don't Need系列
+**You Don't Need系列**
 
 你不需要jQuery（You Might Not Need jQuery）: [http://youmightnotneedjquery.com/](http://youmightnotneedjquery.com)
 
@@ -103,6 +84,33 @@ You-Dont-Need-Loops: [https://github.com/you-dont-need/You-Dont-Need-Loops](http
 You-Dont-Need-GUI: [https://github.com/you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
 
 You-Dont-Need-jQuery(你或许并不需要JQuery): [https://github.com/nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
+
+
+> ECMA
+
+ECMAscript： [https://tc39.es/ecma262/](https://tc39.es/ecma262/)
+
+```
+ $ npm install -g es-checker $ es-checker
+```
+
+## CSS
+
+CSS ZEN GARDEN: http://csszengarden.com/
+
+css-tricks：[https://css-tricks.com/](https://css-tricks.com)
+
+[http://tympanus.net/codrops/](http://tympanus.net/codrops/)
+
+CSS DECK: https://cssdeck.com/
+
+Free CSS: https://www.free-css.com/
+
+## Github
+
+计算机速成课：https://github.com/1c7/Crash-Course-Computer-Science-Chinese
+
+
 
 ## WEB资源
 

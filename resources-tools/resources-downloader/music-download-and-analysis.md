@@ -8,6 +8,8 @@ http://www.gequdaquan.net/gqss/
 
 > 提供免费试听和下载功能, 目前暂停网页端，只提供APP, 
 
+歌曲宝： https://www.gequbao.com/
+
 ## 音乐解析
 
 ---
@@ -23,6 +25,10 @@ http://www.gequdaquan.net/gqss/
 支持qmc,tkm,mflac,mgg,kgm,kwm等格式解析：https://www.wulibaichuan.com/
 
 下歌吧: https://xiageba.com/
+
+歌曲宝: https://www.xmwav.com/
+
+放屁音乐网: https://www.fangpi.net/
 
 ## 音乐下载
 
@@ -46,6 +52,8 @@ http://lacey-downloader.com/
 
 DTshot 无损音乐：https://www.dtshot.com/
 
+熊猫无损音乐: https://www.xmwav.com/
+
 无损音乐下载: [http://www.51ape.com/](http://www.51ape.com/)
 
 360欧美英文伴奏网：[http://www.360banzou.com/](http://www.360banzou.com/)
@@ -57,6 +65,8 @@ ACG漫音社：http://www.acgjc.com/
 CD包音乐网：https://www.cdbao.net/
 
 一听音乐网：http://www.1ting.com/
+
+仓库: https://www.cangkus.com/, 港澳台歌曲
 
 铜钟: https://tonzhon.com/，
 
@@ -70,15 +80,15 @@ jamendo:  https://www.jamendo.com/
 
 Soundstripe:  https://app.soundstripe.com/, 支持APP， 免费网址: https://app.soundstripe.com/royalty-free-music
 
-Soundcloud下载: [https://soundcloudmp3.org/](https://soundcloudmp3.org/)
-
 Soundcloud Downloader: [https://www.klickaud.co/](https://www.klickaud.co/)
 
-BEEMP3老牌音乐下载: [https://beemp3s.net/](https://beemp3s.net/)
+https://hayqbhgr.slider.kz/， 自哈萨克斯坦免费的音乐网站
 
 MusicJuice: [https://mp3juices.net/](https://mp3juices.net/)
 
 Tunefind：https://www.tunefind.com/
+
+BEEMP3老牌音乐下载: [https://beemp3s.net/](https://beemp3s.net/)  (疑似网站关闭)
 
 cctrax: https://cctrax.com/ (疑似服务停止)
 

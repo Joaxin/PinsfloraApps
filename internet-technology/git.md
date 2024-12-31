@@ -2,6 +2,8 @@
 
 Learning GIT: https://learngitbranching.js.org/
 
+Git：https://git-scm.com/book/zh/v2
+
   [GitHub](https://github.com/) code hosting service, based on [Git](http://git-scm.com/).
 
 - **An automation system,** like [Grunt](http://gruntjs.com/) or [Gulp](http://gulpjs.com/) to automatically perform repetitive tasks, such as minifying code and running tests.
@@ -34,3 +36,23 @@ Learning GIT: https://learngitbranching.js.org/
 Windows Shell 下开源的海龟Git，也有SVN的兄弟TortoiseSVN [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://tortoisesvn.net/)
 
 ## MGit
+
+一款手机上用的git工具 支持Android系统 
+
+Github: https://github.com/maks/MGit
+
+## Git Tools
+
+| Title                                     | Link                                                    |
+| ----------------------------------------- | ------------------------------------------------------- |
+| Official Git Site                         | http://git-scm.com/                                     |
+| Official Git Video Tutorials              | http://git-scm.com/videos                               |
+| Code School Try Git                       | http://try.github.com/                                  |
+| Introductory Reference & Tutorial for Git | http://gitref.org/                                      |
+| Official Git Tutorial                     | http://git-scm.com/docs/gittutorial                     |
+| Everyday Git                              | http://git-scm.com/docs/everyday                        |
+| Git Immersion                             | http://gitimmersion.com/                                |
+| Git for Computer Scientists               | http://eagain.net/articles/git-for-computer-scientists/ |
+| Git Magic                                 | http://www-cs-students.stanford.edu/~blynn/gitmagic/    |
+| GitHub Training Kit                       | http://training.github.com/kit                          |
+| Git Visualization Playground              | http://onlywei.github.io/explain-git-with-d3/#freeplay  |

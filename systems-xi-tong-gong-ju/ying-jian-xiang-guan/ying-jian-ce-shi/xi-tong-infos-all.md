@@ -4,7 +4,7 @@
 
 DIY爱好者的必备工具合集，可以获取计算机硬件信息，例如处理器信息、内存信息、主板信息、显卡信息等。
 
-![图吧工具箱](../../../../../../../../OneDrive - assedu/collection/Pinsflora/IT/.gitbook/assets/z-system-hardware-toolbox-tuba.gif)
+![图吧工具箱](../../../.gitbook/assets/z-system-hardware-toolbox-tuba.gif)
 
 
 ## 卡硬工具箱
@@ -23,11 +23,13 @@ DIY爱好者的必备工具合集，可以获取计算机硬件信息，例如�
 -  [![third_party](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/third_party.svg)](https://www.easyicon.net/language.en/1192054-Download_icon.html) https://www.xitmi.com/2410.html
 
 ## Open Hardware Monitor
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://openhardwaremonitor.org/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/openhardwaremonitor/openhardwaremonitor)
 
 开源的硬件风扇转速、CPU/主板电压、温度、状态显示软件。
 
 ## Speccy
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.piriform.com/speccy)
 
 > Detailed statistics on every piece of hardware in your computer.

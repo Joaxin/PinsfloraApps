@@ -111,6 +111,8 @@ Github: https://github.com/indiff/qttabbar
 
 QTTabBar国内优化版: https://gitee.com/qwop/qttabbar
 
+> 若安装后没用， 记得启动Internet 选项- 加载项-QTTabBar
+
 ### Clover
 
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://en.ejie.me/) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![](https://img.shields.io/badge/Version-3.5.2-ff55bb.svg) 

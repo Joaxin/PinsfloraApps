@@ -7,7 +7,10 @@
 
 ## Context Menu Manager
 
-🖱️ 一个纯粹的Windows右键菜单管理程序
+Windows右键管理，🖱️ 一个纯粹的Windows右键菜单管理程序
 
 Github：https://github.com/BluePointLilac/ContextMenuManager
 
+===
+
+右键管家MenuMgr

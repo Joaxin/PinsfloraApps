@@ -50,6 +50,8 @@ SpamCheck: https://spamcheck.postmarkapp.com/
 
 https://spa.mnesty.com/
 
+恶心垃圾邮件：https://spa.mnesty.com/
+
 ## Ruputation Lookup | 名誉度检测
 
 https://talosintelligence.com/

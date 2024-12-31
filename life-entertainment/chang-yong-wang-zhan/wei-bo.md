@@ -44,8 +44,20 @@ Octo微博相册批量下载：[https://chrome.google.com/webstore/detail/octo%E
 
 ## Twitter
 
+Twitter，创始于2006年，让世界各地的用户在几秒钟内了解最新消息、政治动态和明星八卦。
+
 https://twitter.com/
 
 ## 去中心化微博
 
 Mastodon.ART：https://mastodon.art
+
+## 粉丝众筹类网站
+
+Patreon:  Patreon，就像是内容创作者的“饭票机”，为那些默默耕耘的艺术家、音乐人、播客主、甚至做Lo-fi音乐的小伙伴们开辟了一个“靠粉丝吃饭”的新时代。创始人杰克·康特本身就是一名音乐人，某天他对着自己爆火的视频叹了口气：“点阅量爆炸了，可为啥我连房租都交不起？”于是，他联合萨姆·亚莫托，创建了Patreon，一个让粉丝通过订阅直接支持创作者的平台。官网: https://www.patreon.com/
+
+Ko-fi:  这个名字乍一看像是“咖啡”，但它其实是创作者们的“小金库”。创始人Nigel Pickles的灵感很简单：“让粉丝能轻松‘请创作者喝一杯咖啡’，表达支持。”于是，一个“零门槛打赏”平台诞生了，让创作者可以通过虚拟的咖啡杯赚点“奶茶钱”。和Patreon不同，Ko-fi更随性——不用签订订阅合约，也不用复杂的分级制度，粉丝只需轻轻点击，就能直接送出支持。 官网: https://ko-fi.com/
+
+kickstarter：https://www.kickstarter.com/
+
+Indiegogo:  https://www.indiegogo.com/

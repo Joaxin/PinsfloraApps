@@ -4,6 +4,7 @@
 国人开发的远程屏幕控制分享工具，对个人用户免费。
 
 ## 向日葵远程控制
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://sunlogin.oray.com/personal/)
 
 > 一款免费的集远程控制电脑,远程桌面连接,远程开机,远程管理,支持内网穿透的一体化远程控制管理工具软件
@@ -39,11 +40,6 @@ Synology NAS 使用哪种架构的CPU？:https://www.synology.cn/zh-cn/knowledge
 > 软件开源免费, 和你的家人朋友一起在线看视频，无论相隔多远, 全设备支持
 > https://videotogether.github.io/
 
-## Parsec
-
-https://www.bilibili.com/video/BV1vF411j7bc (可能是世界上最好的远程控制软件——parsec) 
-注意： 没公网ip寄一半
-
 ## todesk
 
 一款功能强大的远程桌面软件。它支持多种平台，包括Windows、Mac、Linux和Android。Todesk提供了安全、无广告的远程访问功能，可以帮助用户远程控制其他设备。
@@ -71,5 +67,19 @@ Windows操作系统自带的远程桌面连接工具，无需下载
 ## QuicDesk
 
 一款快速且易于使用的远程桌面软件。它支持Windows和MacOS平台，并提供了稳定的远程访问和控制功能。QuicDesk还具有高效的传输速度和安全的数据加密，可以帮助用户实现远程办公和技术支持。
-
 https://quicdesk.com/
+
+---
+
+## 内网穿透
+
+**花生壳**
+
+一家国内知名的内网穿透服务提供商，通过其服务，用户能够轻松实现内网设备的远程访问。它的特点包括无需公网IP地址，自带端口映射功能，以及克服各种复杂路由器和防火墙限制的能力，让用户可以通过域名访问其内网应用。
+
+https://hsk.oray.com/
+
+**ngrok**
+
+官网: https://ngrok.com/
+一款强大的免费内网穿透工具,无需公网ip,无需端口映射工具。

@@ -17,7 +17,7 @@
 ### SpaceSniffer
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.uderzo.it/main_products/space_sniffer/index.html) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
 
-使用可视化树状图布局来分析你的磁盘占用情况。
+一款免费开源的绿色磁盘分析工具， 使用可视化树状图布局来分析你的磁盘占用情况， Windows 磁盘分析工具。
 
 ### Wiztree
 
@@ -47,6 +47,10 @@ https://lockhunter.com/
 
 http://www.dropitproject.com/
 
+NewFileTime：一款小巧且强大的Windows文件时间戳修改工具
 
+## TriDNET
 
+一款由Anand Khanse开发的免费软件，它可以帮助您识别没有扩展名的未知文件类型。该软件支持Windows平台，可以识别来自二进制签名的未知文件类型。
 
+https://www.thewindowsclub.com/identify-unknown-file-type-tridnet

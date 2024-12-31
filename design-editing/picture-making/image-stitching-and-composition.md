@@ -25,6 +25,12 @@ Cutout Pro: https://www.cutout.pro/
 >
 > 人脸提取：https://www.cutout.pro/face-cutout-bighead-cutout
 
+Assembo.ai: https://app.assembo.ai/，上传产品图，一键生成海量背景快速简单精准的图像合成生成速度快，界面简洁好用AI生成人物和宠物模型
+
+PhotoRoom: https://www.photoroom.com/，基于AI进行图像编辑智能抠图、去除物体或人物，增强细节修复图片中的缺陷
+
+Magic Studio: https://magicstudio.com/，使用A1自动编辑和创建图像擦除不需要的东西、切换背景或放大图片
+
 ## 图片背景去除
 
 Remove the background： https://www.remove.bg/ 
@@ -46,7 +52,9 @@ Booth.ai:  https://www.booth.ai/
 
 Mokker AI:  产品图添加背景, https://mokker.ai/
 
-Pebblely:  https://pebblely.com/, AI产品图精美背景添加
+Pebblely:  https://pebblely.com/, AI产品图精美背景添加， 电商产品生成工具为上传的产品图像创建背景，并相应地添加阴影和打光
+
+Pixian ai:在线去背景工具 一键去除图片背景
 
 Stylized:  产品图背景替换,  https://www.stylized.ai/
 
@@ -138,7 +146,7 @@ Let's Enhance：https://letsenhance.io/
 
 改图宝：可以在线修改图片像素及尺寸、裁剪、压缩文件大小及处理各类考试网上报名照片及证件照
 
-https://www.gaitubao.com/
+https://www.gaitubao.com/， 需付费，不推荐
 
 ## 图片优化修复
 
@@ -160,6 +168,8 @@ transpic：图像转绘插画创作平台，https://transpic.cn/
 美图云修：美图秀秀推出的一站式AI智能修图软件，https://yunxiu.meitu.com/
 
 Playground AI：https://playgroundai.com/
+
+Remini AI: https://remini.ai/
 
 Facet：https://facet.ai/
 
@@ -185,9 +195,13 @@ waifu2x-caffe： [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs
 
 Inpaint：[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.theinpaint.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) 一款专业强大的图片去水印软件工具， 选定区域，涂抹几下，水印自动擦除，类似于手机上的`Retouch`。
 
+Teorex Inpaint:
+
 Hama: 在线抹除图片中不想要的物体, https://www.hama.app/zh
 
 WatermarkRemover：https://www.watermarkremover.io/zh
+
+> 水印生产可用: BatchWaterMarkCreator
 
 Magic Eraser：移除图片中不想要的物体，https://magicstudio.com/zh/magiceraser
 

@@ -1,5 +1,5 @@
 ---
-description: Colors Tools
+description: #C7EDCC
 ---
 
 # 🌈 颜色工具
@@ -39,6 +39,8 @@ description: Colors Tools
 ![brandmark\_colorwheel](../../.gitbook/assets/brandmark_colorwheel.jpg)
 
 [https://brandmark.io/color-wheel/](https://brandmark.io/color-wheel/)
+
+Palette.fm
 
 ## 颜色灵感
 
@@ -103,6 +105,8 @@ https://flatuicolors.com/
 *  Pixie [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.nattyware.com/pixie.php) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg)
 
   nattyware开发的只有11KB大小的颜色选取器。
+  
+* ColorPicker: 一款免费工具,能让您从屏幕上选择并拾取任意颜色,并以不同格式复制其颜色代码。
 
 ### 颜色转换工具
 

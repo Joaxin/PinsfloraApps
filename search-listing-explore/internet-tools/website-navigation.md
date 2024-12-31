@@ -32,6 +32,8 @@ Nonace：[www.nonace.com/](https://www.nonace.com/)
 
 Fulck：[fulck.com/](https://fulck.com/)
 
+闪电导航: https://www.shandiandh.com/
+
 hao123.com网址之家: [www.hao123.com/](https://www.hao123.com/)， 类似于hao360，2345
 
 QQ导航：[hao.qq.com/](https://hao.qq.com/)
@@ -55,6 +57,8 @@ QQ导航：[hao.qq.com/](https://hao.qq.com/)
 电子书搜索导航: [www.giffox.com/](https://www.giffox.com/)
 
 ACG导航：[www.cilicili.cc/](http://www.cilicili.cc/)
+
+好狗导航: https://www.howgo.cc/
 
 ----
 
@@ -84,11 +88,13 @@ Seeseed-无穷尽设计可能：[www.seeseed.com/](https://www.seeseed.com/)
 
 ### AI工具导航
 
-- 照夜清的AI小宇宙: [chatgpt-site.zhaoyeqing.cn/](https://chatgpt-site.zhaoyeqing.cn/), 作者博客: [zhaoyeqing.cn/](https://zhaoyeqing.cn/)
-- [ai-bot.cn/](https://ai-bot.cn/)
+- SERP: https://serp.ai/
+- 飞猪AI导航： https://feizhuke.com/
 - AI工具集：The World's Best & Largest AI Tools Directory，[www.toolspedia.io/](https://www.toolspedia.io/)
 - [ai.fosshub.com/](https://ai.fosshub.com/)
+- [ai-bot.cn/](https://ai-bot.cn/)
 - [tool.oschina.net/aitool](https://tool.oschina.net/aitool)
+- 照夜清的AI小宇宙: [chatgpt-site.zhaoyeqing.cn/](https://chatgpt-site.zhaoyeqing.cn/), 作者博客: [zhaoyeqing.cn/](https://zhaoyeqing.cn/)
 
 ### IT导航
 

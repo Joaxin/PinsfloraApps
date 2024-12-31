@@ -20,7 +20,7 @@ DJ混音软件
 
 > FL Studio is a complete software music production environment to compose, arrange, record, edit, mix and master professional quality music.
 
-Fruity Loops Studio 简称FL，国人习惯叫它"水果", 强大的电子音乐创作与混音平台。
+Fruity Loops Studio 简称FL，国人习惯叫它"水果", 强大的电子音乐创作与混音平台， 支持手机版。
 
 ## Melodyne
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.celemony.com/en/melodyne/what-is-melodyne) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)

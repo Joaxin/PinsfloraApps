@@ -64,6 +64,11 @@ Listen1：http://listen1.github.io/listen1/
 
 开源的跨平台[`Windows` 、`macOS`、 `Linux`、 `Android`、`Raspbian`]的音乐播放器
 
+## 方格音乐
+
+方格音乐(原魔音Morin) 是一款干净简洁的聚合音乐收听以及付费音乐下载播放器，作者为不知名非羽，支持安卓和PC。
+可以免费试听下载付费歌曲，能够导入其他音乐软件的歌单；其他软件的推荐，排行榜，电台等等也是有的，可识别第三方单曲链接。
+
 ## 洛雪音乐助手
 
 一个基于 electron 的音乐软件，支持电脑和手机版
@@ -74,3 +79,6 @@ https://lxmusic.toside.cn/
 
 手机版下载d地址：https://github.com/lyswhut/lx-music-mobile/releases
 
+---
+
+龙卷风收音机

@@ -1,3 +1,9 @@
+## 综合网址
+
+CleanCSS：https://www.cleancss.com/
+
+Codebeautify: https://codebeautify.org/
+
 ## 正则表达式
 
 https://regexper.com/：JS正则解释
@@ -10,23 +16,38 @@ https://regexper.com/：JS正则解释
 
 [tool.oschina.net/regex/](https://tool.oschina.net/regex/)
 
+http://tool.chinaz.com/regex/
+
 其他正则工具: RegexBuddy / word正则 / Excel正则
 
 教程：http://www.regexlab.com/
-
-## 综合网址
-
-CleanCSS：https://www.cleancss.com/
-
-Codebeautify: https://codebeautify.org/
-
-HTML TO JSON: https://github.com/orf/hq/
 
 ## 格式与压缩
 
 Babel：[https://babeljs.io/repl/](https://babeljs.io/repl/)
 
-## JS
+### JSON
+
+SO JSON在线：https://www.sojson.com
+
+Be JSON：https://www.bejson.com
+
+KJson：https://www.kjson.com
+
+JSON在线解析：https://www.json.cn
+
+https://tool.chinaz.com/Tools/jsonformat.aspx
+
+> JSON格式化/校验 JSON压缩转义
+> JSON生成实体类 JSON在线编辑
+> XML-JSON互转 JSON-GET互转
+> EXCEL转JSON
+
+HTML TO JSON: https://github.com/orf/hq/
+
+JSON调试: http://jsonlint.com/
+
+### JS
 
 HTML 格式化：[codebeautify.org/htmlviewer](https://codebeautify.org/htmlviewer)
 
@@ -42,7 +63,7 @@ JS混淆与解码：https://www.cleancss.com/javascript-obfuscate/
 
 > STATISTICAL RENAMING, TYPE INFERENCE AND DEOBFUSCATION
 
-## CSS
+### CSS
 
 CSS格式化:
 

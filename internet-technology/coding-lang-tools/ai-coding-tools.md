@@ -1,12 +1,12 @@
 ## AI编程助手
 
-GitHub Copilot: https://github.com/features/copilot, GitHub AI编程工具
+GitHub Copilot: https://github.com/features/copilot, GitHub官方的 AI编程工具
 
 Ghostwriter：https://replit.com/site/ghostwriter， 在线编程IDE Replit推出的AI编程助手
 
 Boxy：https://codesandbox.io/blog/meet-boxy-ai-coding-assistant，CodeSandbox推出的AI编程助手
 
-Cursor; https://www.cursor.so/, AI编程和软件开发
+Cursor; https://www.cursor.so/, 强大的AI编程和软件开发
 
 CodeWhisperer: https://aws.amazon.com/cn/codewhisperer/, 亚马逊最新发布的免费AI编程助手
 

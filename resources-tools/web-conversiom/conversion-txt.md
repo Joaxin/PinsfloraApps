@@ -30,6 +30,8 @@ http://cloud.niucodata.com/
 
 # Ascii图片生成
 
+Textaizer: Windows 上一款字符图像制作软件。可以选择所有创意形状中生成文本艺术。它还包括创造真正的 ASCII 艺术。
+
 https://www.ascii-art-generator.org/
 
 https://www.text-image.com/convert/ascii.html

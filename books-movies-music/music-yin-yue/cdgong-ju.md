@@ -18,23 +18,17 @@ https://lrc-maker.github.io/
 
 *Aegisub*(读音：/ˈiːdʒisʌb/)是一个免费、开源、跨平台的字幕编辑软件。它被广泛应用于字幕组，是用来制作翻译非官方非商业性质的字幕作品，提供给不同领域的爱好者。
 
-## 元数据标签
+### Mp3tag
+
+一款功能强大且易于使用的音频文件元数据编辑工具。它支持批量标签编辑，包括 ID3v1、ID3v2.3、ID3v2.4、iTunes MP4、WMA、Vorbis 评论和 APE 标签，可同时处理多个文件，覆盖各种音频格式。
+
+下载链接: [Mp3tag](https://www.mp3tag.de/en/download.html)
 
 ### MediaInfo [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://mediaarea.net/en/MediaInfo)
 
 方便地查看视频音频文件的技术数据与元数据标签
 
-## CD工具
-
-### CDex [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.cdex.fr/)
-
-CD 音轨抓取工具
-
-### Exact Audio Copy [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://exactaudiocopy.de/)
-
-CD文件转换
-
-> Transfer files from your CDs to your PC in almost every format.Comes with some pretty nifty features too.
+**mp3test** : 一个能同时检查大量 **MP3** 音乐格式文件正确性与否的程序，它能针对一整批 **MP3** 音乐文件作 CRC 冗长循环检查码确认动作，此种方式可以检查出不正确的 **MP3** 音乐
 
 ## 声卡工具
 

@@ -26,6 +26,10 @@ https://www.behance.net/
 
 官网：https://www.flickr.com/
 
+## Dribbble
+
+官网：https://dribbble.com/
+
 ## 花瓣网
 
 国内的图片素材领导者,帮你采集、发现网络上你喜欢的事物。你可以用它收集灵感,保存有用的素材等等。
@@ -46,6 +50,8 @@ pixiv is an illustration communication service where people can post, read, and 
 
 官网：https://www.pixiv.net/
 
+pixivic: https://pixivic.com/?VNK=71fcf8ee
+
 ## Deviantart
 
 官网：https://www.deviantart.com/
@@ -56,7 +62,7 @@ DreamUp：AI插画生成工具，https://www.dreamup.com/
 
 ## AI图片社区
 
-https://civitai.com/
+Civitai：https://civitai.com/ (访问需网络工具)， C站， 一个聚集AI绘图爱好者的社区，网站上有许多定制化的模型，包括SD模型、LoRA等，可以自由选择模型生成特定图片。
 
 https://openart.ai/
 

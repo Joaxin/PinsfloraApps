@@ -1,4 +1,5 @@
 ## Calibre
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://calibre-ebook.com/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)]( https://github.com/kovidgoyal/calibre)
 
 一款开源的电子书制作及阅读软件，功能十分强大，提供网页转书籍，格式转换等的一站式电子图书馆，可定制化程度相当高，适合折腾。
@@ -55,7 +56,7 @@ Icecream出品的强大电子书阅读器，支持epub、mobi等，打开大文�
 
 Github: https://github.com/hectorqin/reader
 
-https://reader.htmake.com/
+官网：https://reader.htmake.com/
 
 ## 京东阅读
 
@@ -74,4 +75,7 @@ iRead 爱读书, 挺好用的小说阅读器，类似实体书般的体验与丝
 
 ----
 
-电子书设备: 掌阅Smart 3 (大屏),  汉王 N10 mini, 文石leaf2, Kindle
+**电子书设备**: 掌阅Smart 3 (大屏),  汉王 N10 mini, 文石leaf2, Kindle
+
+- [Kindle伴侣](https://bookfere.com/)
+- Export your Kindle Highlights to the integrations you love: https://www.clippings.io/

@@ -4,13 +4,13 @@
 
 ### Z-library
 
-https://z-lib.org/ 或者 https://zh.art1lib.com/(需挂梯子, 但也有可能上不去, 需用TOR)
-
 ![img](https://zh.fr1lib.org/iprc_seized_banner.png)
 
-Zlibrary 最新入口: https://find.looks.wang/
+关键词---Zlibrary 最新入口: https://discuss.sci-hub.org.cn/d/2548(需挂梯子, 但也有可能上不去, 需用TOR)
 
-> 全球最大电子图书馆z-library被美国警方查封，目前已无法访问 2022.11,需用特殊方法
+客户端下载: https://singlelogin.re/z-access
+
+> 全球最大电子图书馆z-library， https://z-lib.org/ or art1lib.com被美国警方查封THIS WEBSITE HAS BEEN SEIZED，目前已无法访问 2022.11,需用特殊方法,目前官网为：https://singlelogin.rs， http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion
 
 ### 鸠摩搜书
 
@@ -108,7 +108,17 @@ Github：[https://github.com/yuenov](https://github.com/yuenov)
 
 天涯在线书库: https://www.tianyabook.com/
 
-http://www.kuitao8.com/
+葵涛8文学网-让文字绽放光芒： http://www.kuitao8.com/
+
+哔哩轻小说：https://www.linovelib.com/
+
+轻之国度：NACG社群，
+
+轻之文库：https://www.linovel.net/
+
+神凑轻小说：
+
+鲸云轻小说：https://book.jyacg.com/
 
 ## 英文书籍
 
@@ -134,7 +144,7 @@ http://libgen.rs/
 
 https://www.bookyards.com/en/welcome
 
- **DigiLibraries.com**: https://digilibraries.com/ 免费电子书图书馆
+**DigiLibraries.com**: https://digilibraries.com/ 免费电子书图书馆
 
 https://www.pdfdrive.com/: 提供大量英文原版PDF资源
 

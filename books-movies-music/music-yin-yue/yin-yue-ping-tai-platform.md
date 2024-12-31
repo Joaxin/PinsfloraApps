@@ -1,14 +1,20 @@
 ## 网易云音乐(Netease)
 
+官网:  https://music.163.com
+
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://music.163.com/\#/download](https://music.163.com/#/download)
 
 网易云小工具：https://github.com/nondanee/UnblockNeteaseMusic
 
-网易云音乐历史版本：https://orilight.top/archives/15 或者
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)网易云音乐历史版本：https://orilight.top/archives/15 或者
 
 https://d1.music.126.net/dmusic/cloudmusicsetup 版本号.Build.exe
 
+Netease API:  https://github.com/Binaryify/NeteaseCloudMusicApi
+
 ## 酷狗音乐(Kugou)
+
+官网:  http://www.kugou.com/
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [http://download.kugou.com/](http://download.kugou.com/)
 
@@ -16,9 +22,11 @@ Kugou 5sing: http://5sing.kugou.com/index.html （国内原创音乐基地网站
 
 ## 酷我kuwo
 
-http://www.kuwo.cn/
+官网:  http://www.kuwo.cn/
 
 ## QQ音乐
+
+官网:  https://y.qq.com/
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://y.qq.com/download/download.html](https://y.qq.com/download/download.html)
 
@@ -26,9 +34,11 @@ http://www.kuwo.cn/
 
 千千静听被百度收购后的目前演化版本
 
+官网: https://music.taihe.com/
+
 > 懂你现在 听你所爱
 
-![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) http://music.taihe.com/download/index.html
+![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg)https://music.taihe.com/download
 
 ## Spotify - 声田
 
@@ -51,6 +61,8 @@ http://www.kuwo.cn/
 > Hear the world's sounds
 
 被誉为音频分享中的YouTube，如果你喜欢听独立音乐人，你一定会很十分喜欢，支持[`Web` 、 `Android`、`iOS`]。
+
+Soundcloud下载: [https://soundcloudmp3.org/](https://soundcloudmp3.org/)
 
 ## Last.fm
 

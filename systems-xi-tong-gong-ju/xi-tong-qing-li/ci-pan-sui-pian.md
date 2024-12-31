@@ -30,7 +30,7 @@ Glary Utilities, 一款系统维护的瑞士军刀, 系统优化和维护软件�
 
 ## Wise Care Cleaner
 
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.wisecleaner.com/wisecare365.html) ![](https://img.shields.io/badge/Version-5.3.8-ff55bb.svg)
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.wisecleaner.com) ![](https://img.shields.io/badge/Version-5.3.8-ff55bb.svg)
 
 > Clean registry and junk files from your PCs. Protect your privacy and make your PCs more secure. Provide a better option of optimizing and accelerating your computer!
 

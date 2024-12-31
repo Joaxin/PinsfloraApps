@@ -5,6 +5,8 @@
 
 在线工具资料箱： https://www.toolzl.com/
 
+帮小忙，腾讯QQ浏览器在线工具箱平台： https://tool.browser.qq.com/
+
 好工具网：http://www.nicetool.net
 
 爱站小工具：https://gj.aizhan.com
@@ -13,11 +15,11 @@ Tool.lu：https://tool.lu
 
 ME2在线工具：http://www.metools.info
 
-即时工具：https://www.67tool.com
+即时工具：https://www.67tool.com， 需登录
 
 一个木函：https://ol.woobx.cn
 
-在线工具：https://zxgj.cn
+在线工具：https://zxgj.cn， 部分需付费
 
 在线小工具：https://zxxgj.net
 
@@ -37,9 +39,7 @@ ToolB：https://toolb.cn
 
 七七工具：https://www.tool77.com
 
-帮小忙：https://tool.browser.qq.com
-
-独特工具箱：免费的在线工具网站https://www.dute.org
+独特工具箱：免费的在线工具网站 https://www.dute.org
 
 爱资料工具：https://www.toolnb.com
 
@@ -73,6 +73,8 @@ Kalvin在线工具：https://tools.kalvinbg.cn
 
 ENDMEMO: http://www.endmemo.com/index.php
 
+Online Tools: https://emn178.github.io/online-tools/
+
 ## 生活类
 
 8684：http://www.8684.cn/
@@ -105,11 +107,17 @@ ENDMEMO: http://www.endmemo.com/index.php
 
 Free Online Tools For Developers：https://www.freeformatter.com/
 
+开发工具箱: https://www.box3.cn/
+
 在线工具 —— 开源中国社区：http://tool.oschina.net/
 
 站长之家工具：https://tool.chinaz.com
 
+工具猫：https://www.toolscat.com/
+
 IP138：https://ip138.com
+
+UU tool: https://uutool.cn/
 
 tools4noobs：https://www.tools4noobs.com/online_tools/
 
@@ -119,15 +127,9 @@ MaTools：https://www.matools.com
 
 aTool ：http://www.atool.org/
 
-SO JSON在线：https://www.sojson.com
-
-Be JSON：https://www.bejson.com
-
 idcd在线工具箱：https://www.idcd.com
 
-KJson：https://www.kjson.com
-
-JSON在线解析：https://www.json.cn
+Motobit: https://www.motobit.com/
 
 我的工具箱：https://toolgg.com
 

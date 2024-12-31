@@ -35,8 +35,12 @@
 
 ![](../../.gitbook/assets/z-system-sec-vir-360.png)
 
+推荐 360数据恢复 360软件管家 360宽带测速器， 新手可用鲁大师
+
 ## 在线文件分析
 
 - https://www.virustotal.com/gui/home/upload
 - https://www.virscan.org/
 - 腾讯哈勃分析系统：https://habo.qq.com/
+- 杀毒软件评测；https://www.av-test.org/en/
+

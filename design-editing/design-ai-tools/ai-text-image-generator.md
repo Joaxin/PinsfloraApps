@@ -11,13 +11,13 @@ Stable Diffusion Prompt Book: https://openart.ai/promptbook
 
 **模型网站：**
 
-civitai : https://civitai.com/
+civitai : https://civitai.com/ / https://civitai.work/
 
 https://models.paomiantv.cn / http://www.liandange.com
 
-### Stable Diffusion Online
 
-Disco Diffusion：可在Google的corlab上直接部署
+
+### Stable Diffusion Online
 
 https://stablediffusionweb.com/
 
@@ -26,6 +26,8 @@ https://huggingface.co/spaces/stabilityai/stable-diffusion
 https://replicate.com/stability-ai/stable-diffusion
 
 Graviti Diffus: https://www.diffus.graviti.com/
+
+Disco Diffusion：可在Google的corlab上直接部署的数字艺术创作工具， Disco Diffusion - [http://discodiffusion.com/](https://www.google.com/url?q=http%3A%2F%2Fdiscodiffusion.com%2F) , https://github.com/alembics/disco-diffusion,  https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb， 疑似停止更新
 
 ### Stable Diffusion Like
 
@@ -59,7 +61,7 @@ Midjourney 学习导航：https://learningprompt.wiki/docs/midjourney-learning-p
 
 MJ Prompt Tool: https://promptfolder.com/midjourney-prompt-helper/
 
-Midjourney 图片示例：https://chilloutai.com/midjourney
+Midjourney 图片示例：https://chilloutai.com
 
 ## AI绘画网站
 
@@ -106,12 +108,16 @@ AI绘画搜索：https://www.enterpix.app/
 
 12. AI绘画集(Midjourney, Stable Diffusion)：https://lib.kalos.art/
 
+13. https://perchance.org/ai-text-to-image-generator
+
 
 Craiyon: 在线文本到图像生成, https://www.craiyon.com/
 
 Tiamat：国内团队推出的AI艺术画生成工具，https://www.tiamat.world/
 
 Wepik AI: Freepik推出的AI文本到图像的在线生成工具, https://wepik.com/ai-presentations / https://www.freepik.com/ai/image-generator
+
+https://tensor.art/
 
 Vega AI：在线免费AI插画创作平台，支持文生图，图生图，条件生图等多种绘画模式， https://rightbrain.art/
 
@@ -162,6 +168,16 @@ https://convert.leiapix.com/
 https://pixia.ai/
 
 https://avatarify.ai/, Bring your photos to life
+
+### 国内网站
+
+Liblib AI: https://www.liblib.ai/
+
+Vega AI: https://vegaai.net/
+
+吐司ART: https://tusiart.com/
+
+MewXAI: https://www.mewxai.cn/
 
 炼丹家：https://www.liandanjia.com/
 

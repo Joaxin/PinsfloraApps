@@ -52,3 +52,9 @@ PRO版本：https://www.digitalvolcano.co.uk/dcpro.html
 
 第三方下载：https://soft.3dmgame.com/down/210919.html
 
+## Wise Duplicate Finder
+
+https://www.wisecleaner.com/wise-duplicate-finder.html
+
+Wise Duplicate Finder(重复文件查找王)是一款直观易用的重复文件管理软件,它扫描磁盘找出重复的文档,照片,视频等。
+

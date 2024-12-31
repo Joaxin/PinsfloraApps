@@ -10,7 +10,13 @@ Logomaster.ai: https://logomaster.ai/
 
 LogoliveryAI：https://logolivery.ai/， AI Logo生成器，提供SVG矢量格式
 
-Looka: AI在线设计和生成logo, https://looka.com/
+Looka: AI在线设计和生成logo, 为品牌创建专业徽标设计并快速生成品牌视觉物料，https://looka.com/
+
+Freelogodesign：  logo制作工具
+Namecheap：  logo制作工具
+Smashinglogo
+
+标小智
 
 ## 图标生成
 
@@ -103,8 +109,10 @@ https://icomoon.io/app
 
 ## 图标工具
 
-[https://www.zamzar.com/convert/png-to-ico/](https://www.zamzar.com/convert/png-to-ico/)\
-[https://favicon.io/](https://favicon.io) 推荐，提供png 文字 emoji到ico图标的转换\
+[https://www.zamzar.com/convert/png-to-ico/](https://www.zamzar.com/convert/png-to-ico/)
+
+[https://favicon.io/](https://favicon.io) 推荐，提供png 文字 emoji到ico图标的转换
+
 favicon.ico Generator：[https://www.favicon.cc/](https://www.favicon.cc)
 
 **ToYcon:**  图标转换工具

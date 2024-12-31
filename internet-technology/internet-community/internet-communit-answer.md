@@ -16,6 +16,8 @@ SegmentFault的主要功能是提供一个互动的平台，让开发者能够�
 
 官网：https://segmentfault.com/
 
+国内翻译: https://stackoom.com/
+
 ## stackoverflow
 
 中文版stackoverflow: https://stackoom.com/

@@ -13,8 +13,9 @@ unsplash 桌面壁纸应用，支持[`Windows` 、`macOS`]
 ### Wallpaper Engine
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://store.steampowered.com/app/431960) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg)
 
+Steam动态桌面壁纸，支持制作电脑动态壁纸， 支持在 Steam创意工坊中分享以及寻找其他用户的壁纸资源， 。
 
-Steam动态桌面壁纸，同时在 Steam创意工坊中分享以及寻找其他用户的壁纸资源。
+STEAM: https://store.steampowered.com/app/431960/Wallpaper_Engine/
 
 ### 火萤
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://huoying666.com/)
@@ -34,6 +35,12 @@ Upupoo 视频桌面, 主ACG风格，自带类似rainmeter的蜂窝插件，完�
 Flip Clock App and Screensaver， 支持手机APP
 
 https://fliqlo.com/
+
+### Sucrose
+
+Github:  https://github.com/Taiizor/Sucrose
+
+一款开源多功能动态壁纸引擎，壁纸类型丰富，包括 RGB、城市、电影、动画、动漫、动物等，支持多种互动主题，部分壁纸还提供自定义样式设置。
 
 ### 匍匐前进的布朗熊
 

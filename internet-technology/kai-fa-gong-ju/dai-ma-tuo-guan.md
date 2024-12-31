@@ -13,6 +13,8 @@ Github支持Windows、macOS、Linux等操作系统。
 
 官网: https://github.com/
 
+DOC: https://docs.github.com/zh/get-started
+
 -----
 
 Git Extensions [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://gitextensions.github.io/)： Git的官方图像增强工具。
@@ -32,6 +34,10 @@ Github高速下载：
 dev-sidecar：开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速， https://github.com/docmirror/dev-sidecar
 
 FastGithub：github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题, https://github.com/dotnetcore/FastGithub, DOC: https://fhefh2015.github.io/Fast-GitHub/
+
+Github 增强 - 高速下载: https://greasyfork.org/zh-CN/scripts/412245
+
+> 高速下载 Git Clone/SSH、Release、Raw、Code(ZIP) 等文件、项目列表单文件快捷下载 (☁)、添加 git clone 命令
 
 ## GitLab
 
@@ -64,4 +70,5 @@ https://www.4everland.org/
 [Public Git Hosting (or.cz)](https://repo.or.cz/)
 
 
-许可协议说明：https://creativecommons.net.cn/licenses/licenses_exp/
+许可协议说明：https://creativecommons.net.cn/licenses/licenses_exp/ / https://opensource.org/licenses
+

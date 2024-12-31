@@ -89,7 +89,7 @@ Vassistx：https://www.wholetomato.com/
 
 Coderush: https://www.devexpress.com/Products/CodeRush/
 
-VB&C#：http://converter.telerik.com/
+VB&C#：http://converter.telerik.com/, 旧时代Visual Basic 6.0的升级版
 
 ## Java IDE
 

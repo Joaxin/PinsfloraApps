@@ -1,4 +1,5 @@
-## Seer [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://1218.io/)  ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
+## Seer
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://1218.io/)  ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 > Seer
 A Windows quick look tool.
@@ -8,9 +9,14 @@ Acts just like the one in macOS, but Seer is more powerful, customizable and fas
 
 插件库：https://gitee.com/empyrealtear/Seer-plugins/tree/master/release
 
-## Quicklook {#Quicklook} [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://pooi.moe/QuickLook/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/QL-Win/QuickLook)
+## Quicklook {#Quicklook}
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://pooi.moe/QuickLook/) [![github_open](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/github_open.svg)](https://github.com/QL-Win/QuickLook)
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) [https://github.com/QL-Win/QuickLook/releases](https://github.com/QL-Win/QuickLook/releases)
 
-免费开源的Windows 空格预览工具，支持插件
+免费开源的Windows 空格预览工具，支持插件功能.
 
+## fileviewpro
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.fileviewpro.com/en/)
+
+万能文件打开器,它可以打开电脑上任何格式的文件,包括能识别的和无法识别的。

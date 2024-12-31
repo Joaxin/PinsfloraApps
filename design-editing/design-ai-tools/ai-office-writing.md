@@ -82,10 +82,16 @@ HeyFriday: https://www.heyfriday.cn/home
 
 AI帮个忙： https://aibang.run/
 
+ChatPaper： https://github.com/kaixindelele/ChatPaper
+
 https://www.hongkiat.com/blog/digital-story-telling-tools/
+
 https://blog.reedsy.com/book-title-generator/fantasy/
+
 https://storylearning.com/
+
 https://www.plot-generator.org.uk/
+
 https://www.writerswrite.com/fiction/plot-generators/
 
 5118 SEO优化精灵: https://www.5118.com/ai/articlegenius
@@ -100,13 +106,16 @@ https://www.writerswrite.com/fiction/plot-generators/
 
 **Jasper AI**：https://www.jasper.ai/ ， 免费试用7天，后需付费
 
-> Jasper Chat, 含类chatgpt的对话
+> Jasper Chat, 含类chatgpt的对话, 结合Copyscape查重工具
+
+Outplay: https://outplayhq.com/， 生成销售话术，提高销售团队效率， 生成创意故事、产品描述等内容
 
 Copy.ai：https://www.copy.ai/
 
 https://thejohnfox.com/
 
-Writesonic：https://writesonic.com/
+Writesonic：https://writesonic.com/, 人工智能写作和图像生成平台
+简化创建、编辑和发布文章、广告、电子商务产品描述、社交煤体帖子等
 
 > ChatSonic, 含类chatgpt的对话
 
@@ -173,7 +182,7 @@ Airgram：自动会议笔记和总结的AI助手， https://www.airgram.io/
 
 Noty.ai： ChatGPT驱动的AI会议转录工具，https://noty.ai/
 
-Otter.ai：https://otter.ai/
+Otter.ai：https://otter.ai/， 自动生成会议笔记，摘要，个人的话录音可以直接提取重要信息等， 跟ZOOM无缝链接
 
 Fireflies.ai：AI会议转录和会议纪要生成工具，https://fireflies.ai/
 

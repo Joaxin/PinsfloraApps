@@ -19,8 +19,8 @@ Adobe出品的专为社交媒体开发的多端设计软件，用于海报制作
 
 老牌的数字照片管理工具，允许用户按年代、目录结构或者自定义的收藏进行组织, 使用C++开发，开源，免费， 支持[`Windows` 、`macOS`、 `Linux`]，支持插件扩展。
 
-
 ## Eagle
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://cn.eagle.cool/) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
 > Eagle 可以轻松管理大量图片素材，满足素材「收藏、整理、查找」的各种场景。

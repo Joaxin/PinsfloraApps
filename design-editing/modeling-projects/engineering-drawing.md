@@ -15,7 +15,7 @@ cad converter：CAD格式转换
 
 CAD插件：贱人工具箱 / 常青藤 /源泉插件
 
-CAD批量打印: Msteel/SetePrint
+CAD批量打印: Msteel/SetePrint， CAD快速看图
 
 ## SolidWorks
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.solidworks.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) 

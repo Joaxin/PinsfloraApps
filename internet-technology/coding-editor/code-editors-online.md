@@ -1,7 +1,5 @@
 ## 在线编辑器
 
-http://codepad.org/
-
 https://playcode.io/ WEB在线编辑器
 
 https://snap.berkeley.edu/snap/snap.html
@@ -10,7 +8,7 @@ https://snap.berkeley.edu/snap/snap.html
 
 https://codepen.io/
 
-## jsfiddle
+## Jsfiddle
 
 https://jsfiddle.net/
 
@@ -30,6 +28,11 @@ http://jsbin.com/?css,js,output
 
 https://js.do/， Online JavaScript Editor
 
+Glitch: Glitch is the friendly place where everyone builds the web. Start a , play with , or build new worlds with .
+Glitch is the friendly place where everyone builds the web. Start a new blog, play with React, or build new worlds with WebXR.
+
+https://glitch.com/
+
 
 ## 国内网站
 
@@ -37,3 +40,5 @@ https://techbrood.com/
 
 > 领先的沉浸式互联网内容门户，一站式学习、创作和展示。
 > 5万+Web资源库，支持中英文双语检索、模糊查询、在线预览和编辑。
+
+https://jshare.com.cn/edit/new

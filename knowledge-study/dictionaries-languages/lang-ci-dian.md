@@ -48,7 +48,7 @@
 
 ### 词典开源下载
 
-FreeMdict：https://freemdict.com/
+FreeMdict：https://freemdict.com/, https://forum.freemdict.com/
 
 PDAWIKI论坛：https://www.pdawiki.com/ (需注册)
 

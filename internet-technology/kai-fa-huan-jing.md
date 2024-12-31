@@ -40,8 +40,11 @@
 
 夜神
 
+雷电模拟器：https://www.ldmnq.com/  低配电脑推荐
+
 WSL
 
-AutumnBox
+秋之盒(AutumnBox)： 一款开源、免费、易用的图形化ADB工具箱，简单快速,功能强大， https://atmb.top/
 
 Android SDK Platform-Tools
+

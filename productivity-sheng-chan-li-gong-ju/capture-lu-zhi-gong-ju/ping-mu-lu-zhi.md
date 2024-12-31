@@ -12,9 +12,9 @@
 类似显示键盘状态有keyviz，输入法状态可用ImTip / Mouse Inc，鼠标点击状态可用ClickShow
 
 ## FSCapture
-[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.faststone.org/FSCaptureDetail.htm) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![](https://img.shields.io/badge/Version-9.2-ff55bb.svg)
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.faststone.org/FSCaptureDetail.htm) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg) ![](https://img.shields.io/badge/Version-10.7-ff55bb.svg)
 
-FastStone Capture, 一款集屏幕截图、图像编辑、视频录制于一身的小工具
+FastStone Capture, 一款体积小巧、功能强大的屏幕捕捉工具，可以捕捉屏幕上的任何区域，提供多种捕获方式，包括活动窗口、指定窗口/对象、整个屏幕、矩形/手绘区域，甚至滚动窗口/网页。它还允许您将屏幕活动和声音录制到视频文件中。
 
 ![](../../.gitbook/assets/z-pro-capture-screen-fscapture.jpg)
 
@@ -46,7 +46,7 @@ Open Broadcaster Software，简称OBS，一款开源的，功能十分强大的�
 ## Ev录屏
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.ieway.cn/evcapture.html)
 
-由国人开发的免费无水印，集视频录制与直播推流于一身的桌面录屏软件, 轻便小巧，无水印，支持[`Windows` 、`macOS`、 `Android`]，不过可能在部分电脑不支持高分屏。
+EVCapture, 由国人开发的免费无水印，集视频录制与直播推流于一身的桌面录屏软件, 轻便小巧，无水印，支持[`Windows` 、`macOS`、 `Android`]，不过可能在部分电脑不支持高分屏。
 
 ## 浏览器录制
 

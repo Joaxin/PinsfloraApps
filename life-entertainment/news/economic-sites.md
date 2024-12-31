@@ -1,6 +1,6 @@
-## Investing
+## 财经咨询
 
-https://cn.investing.com
+英为才情https://cn.investing.com
 
 
 彩色宝石网：http://www.colored-stone.com.cn/index.html
@@ -19,4 +19,6 @@ https://blockchainlittlebook.com/
 
 ## 股票基金
 
-https://stock.us/
+TradingComps 可比公司：https://tradingcomps.com
+
+STOCK US：https://stock.us/

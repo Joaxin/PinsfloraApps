@@ -21,6 +21,12 @@
 
 baiduwp-php:  https://github.com/yuantuo666/baiduwp-php (A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具)
 
+### 夸克
+
+https://www.quark.cn/
+
+配合淘宝88vip，6T超大空间，超速下载，也可支持磁力链下载。
+
 ### 微云
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.weiyun.com/)
 
@@ -62,13 +68,19 @@ https://www.123pan.com/
 
 ![download](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/download.svg) https://cloud.189.cn/template/download-client/index.html
 
-国内类似的还有**和彩云**：https://yun.139.com/
+类似的还有移动的**和彩云**：https://yun.139.com/
 
 ### 蓝奏云
 
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.lanzou.com/)
 
 免费的云盘存储，主要用作软件，分享平台，用户体验极佳, 仅支持web, 暂不支持客户端。
+
+### 其他网盘
+
+飞猫盘: https://www.feimaoyun.com/ (上线10年老品牌 iOS、Android、Win、Mac全平台客户端)
+
+微盘（微博网盘），疑似停止跟新 : http://vdisk.weibo.com/
 
 ## 国外网盘服务
 
@@ -104,7 +116,7 @@ Download a large file from Google Drive (curl/wget fails because of the security
 ### Mega
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.mega.co.nz/) ![network](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/network.svg)
 
-国外安全、可靠、稳定的大容量存储服务商，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，以前可直接访问，拥有众多良心资源。
+国外安全、可靠、稳定的大容量存储服务商，支持[`Windows` 、`macOS`、 `Linux`、 `Android`、`iOS`]，以前可直接访问，拥有众多良心资源，可用MEGA Link Downloade工具下载资源。
 
 ### Mediafire
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.mediafire.com/)

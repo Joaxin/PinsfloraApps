@@ -32,7 +32,7 @@ Make-A-Video(Meta)：来自META(Facebook)的根据文本中创建视频工具，
 
 ## OpenAI
 
-> OpenAI和微软有合作关系
+> OpenAI和微软有合作关系，  OpenAI CEO 山姆·奥特曼（Sam Altman）
 
 Chat GPT：https://openai.com/chatgpt
 
@@ -73,6 +73,8 @@ Stable Diffusion: https://stablediffusionweb.com/
 > Github：https://github.com/CompVis/stable-diffusion
 >
 > Github UI： https://github.com/AUTOMATIC1111/stable-diffusion-webui
+>
+> Stable Diffusion Models: https://rentry.org/sdmodels
 
 StableLM：https://github.com/Stability-AI/StableLM，开发的类ChatGPT大语言模型
 

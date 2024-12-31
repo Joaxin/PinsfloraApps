@@ -19,6 +19,12 @@ http://www.vidown.cn/
 > 最强悍的视频下载功能，200多个网站想下就下
 > 贴心的追剧服务，海量视频资源，实时更新
 
+## 稞麦综合视频下载
+
+一个专门用于下载Bilibili, CNTV流媒体，乐视(Letv)，百度贴吧(tieba.baidu)，优酷(Youku)，土豆(Tudou)，酷6(Ku6)，56等重要视频网站到本机硬盘上的小软件。
+
+https://www.xmlbar.net/soft/
+
 ## CR-部落 下载器
 
 支持下载B站，Youtube视频
@@ -26,6 +32,10 @@ http://www.vidown.cn/
 http://www.cr-soft.net/v0923.html
 
 ## 在线视频下载网站
+
+## 贝贝
+
+https://xbeibeix.com/
 
 ### IIILab
 
@@ -72,6 +82,8 @@ https://onlinevideoconverter.com/
 OR 使用YouTube-dl下载
 
 https://x2download.app/ 此站支持Youtube Music
+
+Youtube缩略图下载：https://youtube-thumbnail-grabber.com/
 
 ## M3U8下载
 

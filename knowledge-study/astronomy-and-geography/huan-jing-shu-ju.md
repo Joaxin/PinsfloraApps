@@ -47,7 +47,7 @@ http://pm25.in/ 已关闭
 ## 全球气候数据
 
 
-https://earth.nullschool.net/zh-cn/
+ 风、气象、海洋状况的全球地图: https://earth.nullschool.net/zh-cn/
 
 ### 全球光污染
 
@@ -57,7 +57,7 @@ Climate-data
 
 [https://en.climate-data.org/](https://en.climate-data.org)
 
-Ventusky
+Ventusky: Wind, Rain and Temperature Maps
 
 全球气象平台
 

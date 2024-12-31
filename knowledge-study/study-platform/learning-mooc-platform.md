@@ -30,11 +30,11 @@ Machine Learning & AI：https://www.coursera.org/collections/best-machine-learni
 
 ## 其他在线资源
 
-中国科学院大学研一课程教材课件共享项目: https://github.com/lilujunai/UCAS-Course
-
 boundlesscourses：[https://courses.lumenlearning.com/catalog/boundlesscourses](https://courses.lumenlearning.com/catalog/boundlesscourses)
 
 AI大学堂： https://www.aidaxue.com/
+
+https://github.com/hoochanlon/hamulete： 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 
 已关闭：
 

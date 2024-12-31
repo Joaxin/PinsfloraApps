@@ -13,11 +13,9 @@ description: Internet Information
 >
 > Alexa排名查询 域名估值查询 域名成交历史 域名终端查询 域名行情查询
 
-17CE：https://www.17ce.com/ ， 国内一家专业的网站测速和网络监控服务提供商。提供实时的网站测速、PING、服务器监控、网络监控、IDC质量评测等功能。
-
 Free online network tools & utilities community project: https://urih.com/
 
-WHOER: https://whoer.net/zh
+WHOER(浏览器综合隐私查询): https://whoer.net
 
 ## 网站技术查询
 
@@ -29,7 +27,12 @@ http://urlm.co/
 
 Find out what websites are Built With: https://builtwith.com/
 
-## IP/Tracert/DNS
+网站宕机检测：
+
+- Is It Down Right Now? Website Down or Not?: https://www.isitdownrightnow.com/
+- Downdetector: https://downdetector.com/
+
+## IP/Tracert
 
 > IP地址（Internet Protocol Address）是指互联网协议地址，又译为网际协议地址。IP地址是IP协议提供的一种统一的地址格式，它为互联网上的每一个网络和每一台主机分配一个逻辑地址，以此来屏蔽物理地址的差异。
 
@@ -95,6 +98,14 @@ CheckHost 支持TCP/UDP端口测试： [https://check-host.net](https://check-ho
 
 [https://www.scamadviser.com/check-website](https://www.scamadviser.com/check-website)
 
+besttrace: 可视化路由跟踪工具
+
+creepy: https://github.com/ilektrojohn/creepy
+
+nmap: a network scanner, https://nmap.org/
+
+Proxifier: 代理工具， 让不支持通过代理服务器工作的网络程序能通过HTTPS或SOCKS代理或代理链。
+
 ## 网速测试
 
 * 卡卡网是专业测速网站，内容主要包括网速测试及网站速度测试：http://www.webkaka.com/
@@ -105,13 +116,45 @@ CheckHost 支持TCP/UDP端口测试： [https://check-host.net](https://check-ho
 
   DNS查询：http://www.webkaka.com/dns/
 
+* 17CE：https://www.17ce.com/ ， 国内一家专业的网站测速和网络监控服务提供商。提供实时的网站测速、PING、服务器监控、网络监控、IDC质量评测等功能。
+
 * [https://www.xmyip.com/speed-test](https://www.xmyip.com/speed-test)
 
 * [https://whatismyipaddress.com/speed-test](https://whatismyipaddress.com/speed-test)
 
 * Speedtest by Ookla - The Global Broadband Speed Test：https://www.speedtest.net/
 
-* 
+## DNS
+
+HiXNS
+
+- http://speed.chinacloudsites.cn/
+- [ibm dns: 9.9.9.9](https://quad9.net/)
+- <https://1.1.1.1/>
+- <http://www.freenom.world/zh/index.html>
+- <https://www.opendns.com/>
+- <https://dns.yandex.com/>
+- <https://www.publicdns.xyz/public/puntcat.html>
+- <https://pdomo.me/>
+- <https://tuna.moe/help/dns/>
+- http://www.alidns.com/setup/
+- <http://www.fundns.cn/>
+- <https://baidns.cn/>
+- DNS大全：https://dnsdaquan.com/
+
+| 名称        | DNS 服务器 IP 地址 |                 |
+| ----------- | ------------------ | --------------- |
+| OpenerDNS   | 42.120.21.30       |                 |
+| 阿里 AliDNS | 223.5.5.5          | 223.6.6.6       |
+| V2EX DNS    | 199.91.73.222      | 178.79.131.110  |
+| CNNIC SDNS  | 1.2.4.8            | 210.2.4.8       |
+| 114 DNS     | 114.114.114.114    | 114.114.115.115 |
+| Google DNS  | 8.8.8.8            | 8.8.4.4         |
+| OpenDNS     | 208.67.222.222     | 208.67.220.220  |
+
+SimpleDNSCrypt：https://simplednscrypt.org/
+
+DnsJumper: 通过替换你当前供应商提供的DNS,提升你的浏览速度和网络安全, https://www.sordum.org/7952/dns-jumper-v2-3/
 
 ## 其他测试
 

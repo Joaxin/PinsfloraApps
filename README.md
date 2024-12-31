@@ -96,5 +96,5 @@ A curated collection of software(MAINLY WINDOWS), website, apps garden.
 
 If you have any suggestions for improvement, questions, or concerns, please do not hesitate to mention them in issues or raise a pull request, or contact me on Telegram Group.
 
-Made with ❤ by Joaxin, Pinsflora©2023
+Made with ❤ by Joaxin, Pinsflora©2024
 

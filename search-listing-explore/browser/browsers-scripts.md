@@ -57,7 +57,7 @@ AC-baidu-重定向优化百度搜狗谷歌必应搜索_favicon_双列： [https:
 
 ## 网盘下载工具
 
-百度云网址解析：https://www.94speed.com/ (测试有效)
+百度云网址解析：https://www.94speed.com/ (停止服务， github: https://github.com/codehub666/94list)
 
 [TT快下](https://wiki.tttt.ee/): https://greasyfork.org/zh-CN/scripts/465078， 简单无限制的百度网盘解析脚本，无视黑号，免SVIP，免浏览器扩展，支持IDM、NDM、Aria、Motrix等多种工具下载。快来体验吧！！！👍👍👍  
 

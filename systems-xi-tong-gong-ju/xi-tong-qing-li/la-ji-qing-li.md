@@ -31,3 +31,6 @@ patchcleaner：清理windows更新后的残留
 
 EmptyFolderNuker：空文件夹清理工具
 
+Windows Installer 冗余文件清理工具
+
+Windows Update Clean Tool

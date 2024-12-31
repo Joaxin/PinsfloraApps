@@ -58,6 +58,8 @@ https://www.photosir.com/
 
 AI改图神器: https://img.logosc.cn/
 
+IloveIMG：https://www.iloveimg.com/
+
 图查查:  360推出的AI作图平台, https://chacha.so.com/home
 
 Booltool: AI图像工具箱, https://booltool.boolv.tech/home

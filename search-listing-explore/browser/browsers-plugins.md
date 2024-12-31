@@ -6,6 +6,7 @@
 - Chrome插件下载器: https://chrome-extension-downloader.com/
 - CRX4Chrome：https://www.crx4chrome.com/ (推荐)
 - 173应用：https://173app.com/chrome-ext
+- 插件小屋：https://www.chajianxw.com/
 - ChromeFor： https://www.chromefor.com/
 - 插件网： http://www.cnplugins.com/ (可能无法正常下载)
 - ChromeCJ：https://huajiakeji.com/list/
@@ -155,8 +156,7 @@
 
 - 谷歌上网助手 开发版: 科学上网，仅供学术研究使用
   ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)： http://googlehelper.net/ 
-  ~~https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B-%E5%BC%80%E5%8F%91%E7%89%88/cieikaeocafmceoapfogpffaalkncpkc~~
-
+  
 - WebRTC Leak Prevent：WebRTC开关，推荐！！！
   chrome商店：https://chrome.google.com/webstore/detail/webrtc-leak-prevent/eiadekoaikejlgdbkbdfeijglgfdalml
 
@@ -167,10 +167,18 @@
 
   ~~https://chrome.google.com/webstore/detail/reggy/pnneajlgffpejnabhionnhdfhibijihe~~
 
-- Autofill：自动填充表单
+  文章阅读: https://huajiakeji.com/productivity/2019-05/2681.html
+
+- Lightning Autofill：自动填充表单, 注意目前要收费
   https://chrome.google.com/webstore/detail/autofill/nlmmgnhgdeffjkdckmikfpnddkbbfkkk
 
 ### 图片工具
+
+- GoFullPage - Full Page Screen Capture: https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=zh-CN
+
+  Github：https://github.com/mrcoles/full-page-screen-capture-chrome-extension
+
+  完整可靠地捕获当前页面的屏幕截图
 
 - 高效网页截图编辑插件：截取任意网页，拥有强大的屏幕录像功能
 
@@ -208,8 +216,14 @@ chrome商店：https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkk
 - Google Chrome™的完整页面截图
 
   https://chrome.google.com/webstore/detail/full-page-screenshot-for/mieibeigpaehbjcbibakjcmkocngijjl
+  
+- 简单封面
 
-## 学习助手
+  https://chromewebstore.google.com/detail/%E7%AE%80%E5%8D%95%E5%B0%81%E9%9D%A2/fioaflpmjimjbjmhokcbnpfgglnehilc?hl=zh-CN&pli=1
+
+  用最简单的方式制作封面,简单封面，用最简单的方式制作封面图片
+
+  无登录 无付费 无广告 无打扰,做最好用最简单的封面图制作工具
 
 ### 语言学习
 
@@ -260,7 +274,7 @@ chrome商店：https://chrome.google.com/webstore/detail/grammarly-for-chrome/kb
 
 ### 网站增强
 
-> B站增强，见网站介绍页面
+> B站、知乎等网站增强，见各自的网站介绍页面
 
 - HTML5视频播放器增强脚本: https://greasyfork.org/zh-CN/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC(需Tampermonkey 插件)
   
@@ -270,12 +284,9 @@ chrome商店：https://chrome.google.com/webstore/detail/grammarly-for-chrome/kb
 
   https://chrome.google.com/webstore/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff
 
-- 知乎增强：https://greasyfork.org/zh-CN/scripts/420005-zhihu-optimizer (需Tampermonkey 插件)
+- Scroll To Top Button：https://chrome.google.com/webstore/detail/scroll-to-top-button/chinfkfmaefdlchhempbfgbdagheknoj/related?hl=zh-CN
 
-  Github: https://github.com/Kyouichirou/D7E1293/tree/main/Tmapermonkey
-
-- Enhanced Steam：steam增强工具
-  ~~https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg~~
+  电脑页面滑动到最底部， 给页面添加滑动功能/按钮，支持无限滑动，支持按键滑动( `alt + 方向键↑` 或 `alt + 方向键↓`)
 
 
 ### 网站信息
@@ -338,7 +349,7 @@ chrome商店：https://chrome.google.com/webstore/detail/grammarly-for-chrome/kb
   
 - ~~一叶：和浏览相同网页的人实时聊天，发弹幕！~~
 
-  ~~官网：http://yiyechat.com/~~ ， 服务已挂
+  ~~官网：http://yiyechat.com/~~ ， 服务已挂， github: https://github.com/Same-Page/client
 
   ~~https://chrome.google.com/webstore/detail/same-page-2/bldcellajihanglphncgjmceklbibjkk~~
 
@@ -361,9 +372,8 @@ chrome商店：https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkh
 
 - ~~广告净化器：挺好用的广告过滤器，也能屏蔽优酷、爱奇艺、腾讯视频等的广告~~
   ![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg) https://www.yiclear.com/download/
-  chrome商店：https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E5%87%80%E5%8C%96%E5%99%A8/ccjdmnikdhkffjkmbinbmbpaplkoihgp?hl=zh-CN
-
-  > 曾经原作者劫持推广链接, 被火绒投诉，已无法使用，不过貌似又复活了，经查证，又下架了。
+  
+> 曾经原作者劫持推广链接, 被火绒投诉，已无法使用，不过貌似又复活了，经查证，又下架了。
   >
   > 参考: https://zhuanlan.zhihu.com/p/111522990
 
@@ -479,8 +489,11 @@ https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiom
    >
    > `https://clients2.google.com/service/update2/crx?response=redirect&x=id%3d<id>%26uc`
 
-2. 如果直接在开发者模式安装会显示`程序包无效："CRX_HEADER_INVALID`，所以需要将crx文件扩展名改为zip，然后拖拽安装即可。
+2. 如果直接在开发者模式安装会显示`程序包无效："CRX_HEADER_INVALID/`，所以需要将crx文件扩展名改为zip，然后拖拽安装或者使用`加载已解压的扩展程序`即可。
 
 3. 该方法在chrome Ver.112下测试通过。
 
 ![Chrono](../../.gitbook/assets/z-study-browser-plugins-chrono.png)
+
+4. Chrome安装的插件位于：```C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions```, Administrator为你的用户名， 此处可通过点击Chrome的`打包扩展程序`打包本地扩展为CRX文件。
+

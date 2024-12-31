@@ -26,24 +26,26 @@ Song video, artist biography, translations and more!
 
 ## Metrolyrics
 
-{% embed url="https://www.metrolyrics.com/" %}
+https://www.metrolyrics.com/
 
 ## Lyricstranslate
 
 国外的英语翻译网站
 
-{% embed url="https://lyricstranslate.com/" %}
+https://lyricstranslate.com/
 
 ## AZlyrics
 
-{% embed url="https://www.azlyrics.com/" %}
+https://www.azlyrics.com/
 
-## 日语歌词
+## 日韩歌词
 
-{% embed url="https://hiraganalyrics.com/" %}
+日语歌词： https://hiraganalyrics.com/
 
 ## 歌词SHOW
 
 https://blog.1a23.com/
 
 https://1a23.com/works/lyrics/
+
+魔镜歌词：https://mojim.com/

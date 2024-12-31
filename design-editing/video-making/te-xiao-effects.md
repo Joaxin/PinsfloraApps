@@ -11,10 +11,11 @@ Red Giant Magic Bullet Suite(红巨星调色套装): ![website_official](https:/
 
 > http://www.gfxcamp.com/bullet-suite-13/
 
-## HitFilm
+## HitFilm Pro
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://fxhome.com/) ![leaves_recommend](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/leaves_rec.svg) ![money_pay](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/money_pay.svg)
 
-一款由英国FXhome公司开发的专业剪辑与后期特效合成软件，支持[`Windows` 、`macOS`]。
+一款由英国FXhome公司开发的专业剪辑与后期特效合成软件，支持[`Windows` 、`macOS`]，体积和配置要求相对较低。
 
 可用中文教程：http://www.videostar.com/brand/hitfilm/
 

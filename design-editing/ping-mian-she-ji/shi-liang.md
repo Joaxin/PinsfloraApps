@@ -9,7 +9,7 @@ Adobe出品的矢量图形和插图软件。
 
 ## CorelDRAW
 
-加拿大 Corel 公司旗下矢量图形平面设计软件，简称CDR；提供矢量动画、页面设计、网站制作、位图编辑和网页动画等多种功能。
+Coral Draw, 加拿大 Corel 公司旗下矢量图形平面设计软件，简称CDR；提供矢量动画、页面设计、网站制作、位图编辑和网页动画等多种功能。
 
 CorelDRAW 中国官网：http://www.coreldrawchina.com/
 

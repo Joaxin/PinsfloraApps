@@ -10,7 +10,9 @@
 
 ![CPU-Z](../../../.gitbook/assets/z-system-hardware-cpu-3990x.jpg)
 
-### GPU-Z [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.techpowerup.com/gpuz/)
+### GPU-Z
+
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.techpowerup.com/gpuz/)
 
 知名的GPU检测软件。
 
@@ -53,6 +55,10 @@ linX: 一款基于Intel Linpack数学核心库的稳定性测试软件
 
 ## 磁盘工具
 
+硬盘整数GB分区在线计算器: [https://gb.icoa.cn/](https://gb.icoa.cn)
+
+或者使用各品牌方的硬盘工具， 比如SeaTools等
+
 ### CrystalDiskInfo
 
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://crystalmark.info/software/CrystalDiskInfo/index-e.html) ![windows](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/windows.svg) ![translation](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/translation.svg) 
@@ -74,7 +80,8 @@ linX: 一款基于Intel Linpack数学核心库的稳定性测试软件
 
 出自Crystal Mark的开源硬盘读写速度测试工具，同样支持Shizuku版本
 
-### HD Tune
+### HD Tune Pro
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://www.hdtune.com/)
 
 简单易用的硬盘检测工具。
@@ -82,6 +89,7 @@ linX: 一款基于Intel Linpack数学核心库的稳定性测试软件
 ![HD Tune1](../../../.gitbook/assets/z-system-hardware-disk-hdtune01.png)
 
 ### AS SSD Benchmark
+
 [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://www.alex-is.de/PHP/fusion/downloads.php)
 
 来自德国的SSD专用测试软件, 通过测试连续读写速度、4KB随机读写等来评价SSD的综合性能。
@@ -104,11 +112,33 @@ https://www.cr173.com/soft/53396.html
 
 一款可以把物理内存虚拟成硬盘缓存的硬盘优化软件。
 
-### MyDiskTest
+### MHDD
 
-U盘扩容检测工具, 提供了快速扩容测试、数据完整性校验、读写速度测试三种测试方式，能够检测U盘的完整性。
+HDDScan
 
-----
+### HDD Low Level Format Tool(Lformat)
+
+LLFTOOL, 硬盘低格工具支持擦除和低级格式化SATA，IDE，SAS，SCSI或SSD硬盘驱动器，也适用于任何USB和FIREWIRE外置硬盘盒以及SD，MMC，MemoryStick和CompactFlash 介质。
+
+第三方下载链接：http://www.yx12345.com/pcpd/7022/1391.html
+
+### HDD Regenerator Shell
+
+一款硬盘修复工具。软件可以自动扫描硬盘中的损坏，并且实现磁盘物理损坏的修复再生。还拥有系统盘创建功能
+
+第三方下载链接：https://www.17uoo.com/game/3917/
+
+FBDisk(Fixed Bad Disk)：自动扫描硬盘表面，将好的磁道设为可用分区而将坏磁道所在的空间设为隐藏分区，整个过程全自动化，非常方便， 只支持500GB以下容量的硬盘
+
+## U盘工具
+
+MyDiskTest：U盘扩容检测工具, 提供了快速扩容测试、数据完整性校验、读写速度测试三种测试方式，能够检测U盘的完整性。
+
+ChipEasy/CheckFlash/FlashGenius/GetInfo： 检测U盘芯片
+
+SDFormatter: 
+
+USBCleaner
 
 ## 内存工具
 
@@ -140,11 +170,13 @@ Windows下内存检测工具。
 
 ![显示器色域检测工具 v2.2.1（图拉丁版）](https://pic.downk.cc/item/5ee78fa02cb53f50fea112ea.png)
 
-### f.lux [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://stereopsis.com/flux/)
+### f.lux
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](http://stereopsis.com/flux/)
 
 依当前城市经纬度日出日落时间的变化来调整显示器色温以适应当前环境亮度，保护你的眼睛。
 
-### LightBulb [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://github.com/Tyrrrz/LightBulb)
+### LightBulb
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://github.com/Tyrrrz/LightBulb)
 
 类似f.lux的，调节屏幕以减缓眼部疲劳。
 
@@ -180,6 +212,7 @@ http://winrus.com/keyboard.htm
 
 ## 电池工具
 
-### BatteryCare [![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://batterycare.net/en/index.html)
+### BatteryCare
+[![website_official](https://gitbook07.oss-cn-hangzhou.aliyuncs.com/website_official.svg)](https://batterycare.net/en/index.html)
 
 一个易于使用的笔记本电脑电池监控软件。

@@ -28,6 +28,9 @@ i2Symbol: 图片工具网站, https://www.i2symbol.com/
 i2OCR: https://www.i2ocr.com, Ocr识别. 支持多国语言
 
 i2PDF:PDF工具箱 ,[https://www.i2pdf.com/](https://www.i2pdf.com)
+
+i2pdf元数据编辑：https://www.i2pdf.com/cn/edit-pdf-metadata
+
 ![](<../../.gitbook/assets/image (7).png>)
 
 ## Sciweavers
@@ -59,3 +62,5 @@ i2PDF:PDF工具箱 ,[https://www.i2pdf.com/](https://www.i2pdf.com)
 调整图片大小: [https://www.media.io/zh/resize-image.html](https://www.media.io/zh/resize-image.html)
 
 > ! 注意超过5 MB的图像文件需登录
+
+万兴全能格式转换器(Wondershare UniConverter)：一款多功能音视频转换、DVD刻录软件、视频下载软件,功能齐全,可以支持158种常见视频格式无损转换。
